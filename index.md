@@ -1,10 +1,7 @@
-# August 7, 2022
-Currently running scoring for the Wakko/iHoc/Destro customs
+# Wakko/iHoc/Destro customs
 
 https://www.twitch.tv/fb_destro_ttv
-
 https://www.facebook.com/ihocnationfb
-
 https://www.twitch.tv/darthwakko_thf
 
 ![Kas](/images/kas.JPG)
