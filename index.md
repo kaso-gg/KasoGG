@@ -6,9 +6,11 @@ SkiddlySkip customs, trios no fill, NA East. Matches run 3pm-6pm EST. Custom cod
 As of 16:10:38 EST, with 3 of 6 matches complete, we have 42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
-The scoring algorithm is as follows:
-- Placement Points
-- Noc/Elim: 1pt for noc, 3 for elim
+The points algorithm is as follows:
+- Placement: 1st=10pts, 2nd=8, 3rd=6, 4th=4, 5th=2
+- Noc/Elim: 3 per elim, 1 per noc
+- Bonus: 5pts most elims each match
+- Bonus: 15pts most elims overall
 <br/>
 <br/>
 
@@ -19,8 +21,9 @@ The scoring algorithm is as follows:
 
 | TeamAlias | Kills | StreamerLink |
 | :--- | :----: | ---: |
+|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
 |SkipCrew|7|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_kaso)|
+|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
