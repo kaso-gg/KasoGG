@@ -19,10 +19,10 @@ The points algorithm is as follows:
     Insert scoring results here (script ABC.sql)-->
 3 of 6 matches completed as of 15:18:58 EST  
 
-|#|Prize| TeamAlias | Kills | StreamerLink |
+|#|Prize| TeamAlias | Points | StreamerLink |
 | :--- | :--- | :--- | :----: | ---: |
 |1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|7|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
