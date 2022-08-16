@@ -1,13 +1,18 @@
 # Current Scoring 3 of 6 matches
 
-| TeamAlias      | Kills | StreamerLink     |
-| :---        |    :----:   |          ---: |
+| TeamAlias | Kills | StreamerLink |
+| :--- | :----: | ---: |
 |SkipCrew|7|[SkiddlySkip](hhttps://www.twitch.tv/skiddlyskip/)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_kaso)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
-# Summary and match highlights
 42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
+
+# Match Highlights
+SkiddlySkip> Most lethal (14 kills +25pts)  
+Urban_xoxo> Most peaceful (0 kills +25pts)  
+MidlifDorito> Most wins (2 dubs! +10pts)  
+
 
 # Participants who are streaming:
 - [CPK_kaso](https://www.twitch.tv/cpk_kaso)
@@ -22,4 +27,11 @@ October 2022 Cash Tournament. Probably solos, invites get the custom code first,
 # About
 I'm working on a tournament scoring tool that uses Unreal Engine .replay files.
 
-![Kas](/images/kas.JPG)
+<a href="/images/kas.JPG" width='250' height='100' alt='steam-fish-1'>
+
+![Kas](/images/kas.JPG){:height="50%" width="50%"}
+
+
+<!---
+use double space at end of a line to make a carriage return on the resulting page
+-->
