@@ -61,7 +61,8 @@ I'm working on a tournament scoring tool that uses Unreal Engine .replay files. 
 ![Kas](/images/kas.JPG){:height="20%" width="20%"}
 
 Gaming Dogs  
-![Kas](/images/gamingDog1.png){:height="200px"} ![Kas](/images/gamingDog2.png){:height="200px"}
+![Kas](/images/gamingDog1.png){:height="200px"}
+![Kas](/images/gamingDog2.png){:height="200px"}
 
 
 
