@@ -6,7 +6,7 @@
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_kaso)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
-# Tournament summary and match highlights
+# Summary and match highlights
 42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
 
 # Participants who are streaming:
