@@ -28,7 +28,7 @@ The points algorithm is as follows:
 
 <details>
 <summary><b><i>
-EXPAND RESULTS...
+EXPAND RESULTS!
 </b></i></summary>
 
 |#|Prize|Team|Pts|Stream|
