@@ -60,10 +60,12 @@ I'm working on a tournament scoring tool that uses Unreal Engine .replay files. 
 
 ![Kas](/images/kas.JPG){:height="20%" width="20%"}
 
-![Kas](/images/gamingDog1.JPG){:height="200px"}
+![Kas](/images/gamingDog1.png){:height="200px"}
 
 
 
 <!---
 use double space at end of a line to make a carriage return on the resulting page
+![Kas](/images/kas.JPG){:height="20%" width="20%"}
+![Kas](/images/gamingDog1.JPG){:height="200px"}
 -->
