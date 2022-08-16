@@ -1,20 +1,26 @@
-# Current Scoring 3 of 6 matches
+# Tournament scoring in progress
+SkiddlySkip customs, trios no fill, NA East. Matches run 3pm-6pm EST.  
 
+42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).  
+
+Scoring across 6 matches is as follows:
+- Placement Points
+- Kill Points
+
+## Current Scoring
+3 of 6 matches completed as of 15:18:58 EST
 | TeamAlias | Kills | StreamerLink |
 | :--- | :----: | ---: |
 |SkipCrew|7|[SkiddlySkip](hhttps://www.twitch.tv/skiddlyskip/)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_kaso)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
-42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
-
-# Match Highlights
+## Match Highlights
 SkiddlySkip> Most lethal (14 kills +25pts)  
 Urban_xoxo> Most peaceful (0 kills +25pts)  
 MidlifDorito> Most wins (2 dubs! +10pts)  
 
-
-# Participants who are streaming:
+## Participants who are streaming:
 - [CPK_kaso](https://www.twitch.tv/cpk_kaso)
 - [CPK_jamieo](https://www.twitch.tv/cpk_jamieo)
 - https://www.twitch.tv/fb_destro_ttv
@@ -29,7 +35,7 @@ I'm working on a tournament scoring tool that uses Unreal Engine .replay files.
 
 <a href="/images/kas.JPG" width='250' height='100' alt='steam-fish-1'>
 
-![Kas](/images/kas.JPG){:height="50%" width="50%"}
+![Kas](/images/kas.JPG){:height="20%" width="20%"}
 
 
 <!---
