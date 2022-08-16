@@ -12,6 +12,7 @@ Participants who are streaming:
 ![Kas](/images/kas.JPG)
 
 #Current Scoring 3 of 6 matches
+
 | TeamAlias      | Kills | StreamerLink     |
 | :---        |    :----:   |          ---: |
 
