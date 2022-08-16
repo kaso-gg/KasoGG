@@ -1,4 +1,4 @@
 name: KasoGG Fortnite Tools
 description: FN Tournament scoring LIVE!
 url: "http://www.kaso.gg"
-markdown: commonmark
+markdown: kramdown
