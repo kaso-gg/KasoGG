@@ -19,12 +19,12 @@ The points algorithm is as follows:
     Insert scoring results here (script ABC.sql)-->
 3 of 6 matches completed as of 15:18:58 EST  
 
-| TeamAlias | Kills | StreamerLink |
-| :--- | :----: | ---: |
-|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|SkipCrew|7|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|#|Prize| TeamAlias | Kills | StreamerLink |
+| :--- | :--- | :--- | :----: | ---: |
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|7|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
@@ -48,8 +48,10 @@ MidlifDorito> Most wins (2 dubs! +10pts)
 <br/>
 <br/>
 
-# Upcoming cash tournament
-October 2022 Cash Tournament. Probably solos, invites get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
+# Upcoming tournament(s)
+August 2022 - Skip's Trios. More to come on this soon.  
+
+October 2022 - Probably solos, invites get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
 
