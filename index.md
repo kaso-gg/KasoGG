@@ -27,7 +27,9 @@ The points algorithm is as follows:
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
 <details>
-<summary>EXPAND RESULTS</summary>
+<summary><b><i>
+EXPAND RESULTS...
+</b></i></summary>
 
 |#|Prize|Team|Pts|Stream|
 |:---|:---|:---|:----:|:--- |
@@ -73,6 +75,7 @@ The points algorithm is as follows:
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
 </details>
+
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 <br/>
