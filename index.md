@@ -1,7 +1,7 @@
 # Fortnite Tournament Tools
 
 Participants who are streaming:
-- https://www.twitch.tv/cpk_kaso
+- [CPK_kaso] (https://www.twitch.tv/cpk_kaso)
 - https://www.twitch.tv/cpk_jamieo
 - https://www.twitch.tv/fb_destro_ttv
 - https://www.facebook.com/ihocnationfb
