@@ -1,5 +1,5 @@
-# Tournament scoring in progress
-SkiddlySkip customs, trios no fill, NA East. Matches run 3pm-6pm EST. Custom codes available on [Skip's livestream.](hhttps://www.twitch.tv/skiddlyskip/)
+# Tournament scoring in progress...
+SkiddlySkip customs, trios no fill, NA East. Matches run 3pm-6pm EST. Custom codes available on [Skip's livestream.](https://www.twitch.tv/skiddlyskip/)
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
@@ -19,9 +19,10 @@ The scoring algorithm is as follows:
 
 | TeamAlias | Kills | StreamerLink |
 | :--- | :----: | ---: |
-|SkipCrew|7|[SkiddlySkip](hhttps://www.twitch.tv/skiddlyskip/)|
+|SkipCrew|7|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_kaso)|
 |CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 <br/>
