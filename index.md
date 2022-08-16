@@ -11,6 +11,11 @@ Participants who are streaming:
 
 ![Kas](/images/kas.JPG)
 
-#Coming soon!
+#Current Scoring 3 of 6 matches
+| TeamAlias      | Kills | StreamerLink     |
+| :---        |    :----:   |          ---: |
+|SkipCrew|7|[SkiddlySkip](hhttps://www.twitch.tv/skiddlyskip/)|
+|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_kaso)|
+|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
 
