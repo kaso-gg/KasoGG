@@ -1,9 +1,9 @@
 # Fortnite Tournament Tools
 
 Participants who are streaming:
-https://www.twitch.tv/fb_destro_ttv
-https://www.facebook.com/ihocnationfb
-https://www.twitch.tv/darthwakko_thf
+- https://www.twitch.tv/fb_destro_ttv
+- https://www.facebook.com/ihocnationfb
+- https://www.twitch.tv/darthwakko_thf
 
 ![Kas](/images/kas.JPG)
 
