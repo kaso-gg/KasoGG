@@ -8,7 +8,8 @@ Scoring across 6 matches is as follows:
 - Kill Points
 
 ## Current Scoring
-3 of 6 matches completed as of 15:18:58 EST
+3 of 6 matches completed as of 15:18:58 EST  
+
 | TeamAlias | Kills | StreamerLink |
 | :--- | :----: | ---: |
 |SkipCrew|7|[SkiddlySkip](hhttps://www.twitch.tv/skiddlyskip/)|
