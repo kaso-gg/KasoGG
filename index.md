@@ -26,6 +26,52 @@ The points algorithm is as follows:
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
+<details>
+<summary>Click here to see the rest</summary>
+
+|#|Prize| TeamAlias | Points | StreamerLink |
+| :--- | :--- | :--- | :----: | ---: |
+|5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/12amcupid)|
+|6|500 Vbucks|SkipCrew|27|[StreamER253](https://www.twitch.tv/skiddlyskip/)|
+|7|any skin|CPK|4|[Anonymouse251](https://www.twitch.tv/cpk_jamnieo)|
+|8|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+</details>
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 <br/>
@@ -49,14 +95,18 @@ MidlifDorito> Most wins (2 dubs! +10pts)
 <br/>
 
 # Upcoming tournament(s)
-August 2022 - Skip's Trios. More to come on this soon.  
+**August 2022** - Skip's Trios. More to come on this soon.  
 
-October 2022 - Probably solos, invites get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
+**October 2022** - Probably solos, invites get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
 
 # About
 I'm working on a tournament scoring tool that uses Unreal Engine .replay files. Someday you'll be able to manage your own tournaments, drop .replay files, validate players, setup custom scoring algorithms, and more.
+
+[My Twitch](https://www.twitch.tv/cpk_kaso)  
+[The CPK Discord](https://www.twitch.tv/cpk_jamieo)  
+[Epic Games](https://www.epicgames.com)  
 
 ![Kas](/images/kas.JPG){:height="20%" width="20%"}
 
