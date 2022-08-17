@@ -1,7 +1,9 @@
+---
 layout: page
-title: "PAGE TITLE"
+title: "full score results"
 url: "http://www.kaso.gg/fullresults.md"
 markdown: kramdown
+---
 
 ## Current Scoring
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
