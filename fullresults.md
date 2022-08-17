@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "full score results"
 markdown: kramdown
 ---
