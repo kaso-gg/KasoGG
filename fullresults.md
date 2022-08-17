@@ -1,4 +1,5 @@
 ---
+permalink: /fullresults/
 title: "full score results"
 ---
 
