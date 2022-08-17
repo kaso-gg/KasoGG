@@ -12,9 +12,9 @@ markdown: kramdown
 
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+|1|1200 Vbucks|12am|18|[Ćríp Wãłkíñ](https://www.twitch.tv/12amcupid)|
 |2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|3|any skin|CPK|4|[DeadlyMomEツ](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/12amcupid)|
 |6|500 Vbucks|SkipCrew|27|[StreamER253](https://www.twitch.tv/skiddlyskip/)|
