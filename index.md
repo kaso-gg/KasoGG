@@ -52,7 +52,7 @@ The points algorithm is as follows:
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/)
 
-**Click here for [FULL TABLE](https:\\www.kaso.gg\fullresults.md)**
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults.md)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 ## Session Highlights
