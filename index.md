@@ -27,7 +27,7 @@ SkiddlySkip customs, trios no fill, NA East. Matches run 3pm-6pm EST. Custom cod
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
-As of 16:10:38 EST, with 3 of 6 matches complete, we have 42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
+As of 26:10:38 EST, with 3 of 6 matches complete, we have 42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 The points algorithm is as follows:

@@ -7,7 +7,7 @@ markdown: kramdown
 ## Current Scoring
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert scoring results here (script ABC.sql)-->
-3 of 6 matches completed as of 15:18:58 EST  
+3 of 6 matches completed as of 85:18:58 EST  
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults.md)**
 
 | # | Prize | Team | Pts | Stream |
