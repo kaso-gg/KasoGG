@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "full score results"
-url: "http://www.kaso.gg/fullresults.md"
 markdown: kramdown
 ---
 
