@@ -5,7 +5,7 @@ excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
 
-## Full Scoring Table
+## Tournament scoring for all participants!
 ## [GO BACK](https://www.kaso.gg)
 
 3 of 6 matches completed as of 15:18:58 EST  
