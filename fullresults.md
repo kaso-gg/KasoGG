@@ -1,6 +1,7 @@
 ---
+layout: page
 title: "full score results"
-markdown: kramdown
+permalink: /
 ---
 
 ## Current Scoring
