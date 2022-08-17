@@ -46,11 +46,11 @@ The points algorithm is as follows:
 
 | # | Prize | Team | Pts | Skin | Stream |
 | :--- | :--- | :--- | :----: | :----: | :--- |
-|1|1200 Vbucks|12am|18|![dog](/images/dogs/gamingDog1.png){:height="200px"}|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27||[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4||[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4||[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|5|1200 Vbucks|12am|18||[BLAH](https://www.twitch.tv/)
+|1|1200 Vbucks|12am|18|![](https://media.fortniteapi.io/images/59eb4f6-e81c036-42fab23-375205c/transparent.png){:height="35px"}|[Cupid](https://www.twitch.tv/12amcupid)|
+|2|500 Vbucks|SkipCrew|27|![](https://media.fortniteapi.io/images/52ee71d-ce957dd-ff69e87-de7186d/transparent.png){:height="35px"}|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
+|3|any skin|CPK|4|![](https://media.fortniteapi.io/images/1146d8a5f689c3f4c5d7faa6e3fa5a3b/transparent.png){:height="35px"}|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|4|Skip mug|CPK|4|![](https://media.fortniteapi.io/images/d115cdd5a81706b869687402dd6dfc38/transparent.png){:height="35px"}|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|5|1200 Vbucks|12am|18|![](https://media.fortniteapi.io/images/1146d8a5f689c3f4c5d7faa6e3fa5a3b/transparent.png){:height="35px"}|[BLAH](https://www.twitch.tv/)
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
