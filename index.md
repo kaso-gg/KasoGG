@@ -19,8 +19,8 @@ The points algorithm is as follows:
     Insert scoring results here (script ABC.sql)-->
 3 of 6 matches completed as of 15:18:58 EST  
 
-|#|Prize|Team|Pts|Stream|
-|:---|:---|:---|:----:|:--- |
+| # | Prize | Team | Pts | Stream |
+| :--- | :--- | :--- | :----: | :--- |
 |1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
 |2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
@@ -29,8 +29,8 @@ The points algorithm is as follows:
 <details>
 <summary>EXPAND RESULTS HERE!</summary>
 
-|#|Prize|Team|Pts|Stream|
-|:---|:---|:---|:----:|:--- |
+| # | Prize | Team | Pts | Stream |
+| :--- | :--- | :--- | :----: | :--- |
 |5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/12amcupid)|
 |6|500 Vbucks|SkipCrew|27|[StreamER253](https://www.twitch.tv/skiddlyskip/)|
 |7|any skin|CPK|4|[Anonymouse251](https://www.twitch.tv/cpk_jamnieo)|
@@ -76,9 +76,8 @@ The points algorithm is as follows:
 
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
-<br/>
 
-## Match Highlights
+## Session Highlights
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert highlights here (script PQR.sql)-->
 SkiddlySkip> Most lethal (14 kills +25pts)  
