@@ -144,11 +144,10 @@ The points algorithm is as follows:
           </tr>
         </tbody>
       </table>
-</div>
+</div>  
 
-</br>
-</br>
-
+<br/>
+<br/>
 
 ## Session Highlights
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
