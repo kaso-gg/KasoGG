@@ -44,9 +44,9 @@ The points algorithm is as follows:
 3 of 6 matches completed as of 15:18:58 EST  
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| # | Prize | Team | Pts | Stream |
-| :--- | :--- | :--- | :----: | :--- |
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
+| # | Prize | Team | Pts | Skin | Stream |
+| :--- | :--- | :--- | :----: | :----: | :--- |
+|1|1200 Vbucks|12am|18|[name](/images/dogs/gamingDog1.png){:height="200px"}|[Cupid](https://www.twitch.tv/12amcupid)|
 |2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
