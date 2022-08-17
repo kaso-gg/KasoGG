@@ -1,9 +1,13 @@
+layout: page
+title: "PAGE TITLE"
+url: "http://www.kaso.gg/fullresults.md"
+markdown: kramdown
 
 ## Current Scoring
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert scoring results here (script ABC.sql)-->
 3 of 6 matches completed as of 15:18:58 EST  
-**Click here for [FULL TABLE](https:\\www.kaso.gg\fullresults.md)**
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults.md)**
 
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
@@ -15,13 +19,12 @@
 
 
 ## Full Scoring Table
-**## [GO BACK](https:\\www.kaso.gg)**
+**## [GO BACK](https://www.kaso.gg)**
 
 3 of 6 matches completed as of 15:18:58 EST  
 
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
-
 |1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
 |2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
@@ -67,4 +70,4 @@
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|  
 
-**## [GO BACK](https:\\www.kaso.gg)**
+**## [GO BACK](https://www.kaso.gg)**
