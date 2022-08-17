@@ -5,6 +5,7 @@
 
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
+
 |1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
 |2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
