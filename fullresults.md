@@ -1,8 +1,6 @@
 ## Full Scoring Table
 ## [GO BACK](http:\\www.kaso.gg)
 
-<!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-    Insert scoring results here (script ABC.sql)-->
 3 of 6 matches completed as of 15:18:58 EST  
 
 | # | Prize | Team | Pts | Stream |
@@ -52,5 +50,4 @@
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 
-<!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 ## [GO BACK](http:\\www.kaso.g)
