@@ -29,6 +29,8 @@ The points algorithm is as follows:
 <details>
 <summary>EXPAND!</summary>
 
+more! 
+
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
 |5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/12amcupid)|
