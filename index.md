@@ -42,6 +42,7 @@ The points algorithm is as follows:
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert scoring results here (script ABC.sql)-->
 3 of 6 matches completed as of 15:18:58 EST  
+Click here for [FULL TABLE](http:\\www.kaso.gg\fullresults.md)
 
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
@@ -49,105 +50,10 @@ The points algorithm is as follows:
 |2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
 |3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
 |4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/12amcupid)|
-|6|500 Vbucks|SkipCrew|27|[StreamER253](https://www.twitch.tv/skiddlyskip/)|
-|7|any skin|CPK|4|[Anonymouse251](https://www.twitch.tv/cpk_jamnieo)|
-|8|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|1|1200 Vbucks|12am|18|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
+|5|1200 Vbucks|12am|18|[BLAH](https://www.twitch.tv/)
 
+Click here for [FULL TABLE](http:\\www.kaso.gg\fullresults.md)
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-
-
-<div class="tableFixHead">
-      <table>
-        <thead>
-          <tr>
-            <th>ColumnA</th>
-            <th>ColumnB</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1.1</td>
-            <td>2.1</td>
-          </tr>
-          <tr>
-            <td>1.2</td>
-            <td>2.2</td>
-          </tr>
-          <tr>
-            <td>1.3</td>
-            <td>2.3</td>
-          </tr>
-          <tr>
-            <td>1.4</td>
-            <td>2.4</td>
-          </tr>
-          <tr>
-            <td>1.5</td>
-            <td>2.5</td>
-          </tr>
-                    <tr>
-            <td>1.5</td>
-            <td>2.5</td>
-          </tr>
-                    <tr>
-            <td>1.5</td>
-            <td>2.5</td>
-          </tr>
-                    <tr>
-            <td>1.5</td>
-            <td>2.5</td>
-          </tr>
-                    <tr>
-            <td>1.5</td>
-            <td>2.5</td>
-          </tr>
-                    <tr>
-            <td>1.5</td>
-            <td>2.5</td>
-          </tr>
-        </tbody>
-      </table>
-</div>  
-
-<br/>
-<br/>
 
 ## Session Highlights
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
