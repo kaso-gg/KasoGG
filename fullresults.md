@@ -12,6 +12,11 @@ markdown: kramdown
 
 | # | Prize | Team | Pts | Stream |
 | :--- | :--- | :--- | :----: | :--- |
+|1|$125 USD|IamDalight2709|96|![](https://media.fortniteapi.io/images/0a516b5a4fdf57074e8e0a63737ea4bf/transparent.png){:height="35px"}|[IamDalight2709](https://www.twitchtv.cpk_kaso)|
+|2|2800 V|NRG Trs|84|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|[NRG Trs](https://www.twitchtv.cpk_kaso)|
+|3|1200 V|Frosty_0900|81|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|[Frosty_0900](https://www.twitchtv.cpk_kaso)|
+|4|Mug|ARMYOFDARKNESS4|81|![](https://media.fortniteapi.io/images/2f05bfd-16352b5-5a68084-0eea22e/transparent.png){:height="35px"}|[ARMYOFDARKNESS4](https://www.twitchtv.cpk_kaso)|
+|5|T-Shirt|xFanaticalx5630|69|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|[xFanaticalx5630](https://www.twitchtv.cpk_kaso)|
 |6||CanadianFactorTV|57|![](https://media.fortniteapi.io/images/45caac9fc35100f267b552d338d3df4b/transparent.png){:height="35px"}|[CanadianFactorTV](https://www.twitchtv.cpk_kaso)|
 |7||Man You Suckツ|54|![](https://media.fortniteapi.io/images/6e72a89c1094b5f9afea6b95bed274dc/transparent.png){:height="35px"}|[Man You Suckツ](https://www.twitchtv.cpk_kaso)|
 |8||Ćríp Wãłkíñ|51|![](https://media.fortniteapi.io/images/0961782-0c80ab5-6fbbc33-69160f0/transparent.png){:height="35px"}|[Ćríp Wãłkíñ](https://www.twitchtv.cpk_kaso)|
