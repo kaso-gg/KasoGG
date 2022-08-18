@@ -44,13 +44,13 @@ The points algorithm is as follows:
 3 of 6 matches completed as of 15:18:58 EST  
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| # | Prize | Team | Pts | Skin | Stream |
+| # | Prize | Team | Pts | Skins | Stream |
 | :--- | :--- | :--- | :----: | :----: | :--- |
-|1|1200 Vbucks|12am|18|![](https://media.fortniteapi.io/images/59eb4f6-e81c036-42fab23-375205c/transparent.png){:height="35px"}|[Cupid](https://www.twitch.tv/12amcupid)|
-|2|500 Vbucks|SkipCrew|27|![](https://media.fortniteapi.io/images/52ee71d-ce957dd-ff69e87-de7186d/transparent.png){:height="35px"}|[SkiddlySkip](https://www.twitch.tv/skiddlyskip/)|
-|3|any skin|CPK|4|![](https://media.fortniteapi.io/images/1146d8a5f689c3f4c5d7faa6e3fa5a3b/transparent.png){:height="35px"}|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|4|Skip mug|CPK|4|![](https://media.fortniteapi.io/images/d115cdd5a81706b869687402dd6dfc38/transparent.png){:height="35px"}|[CPK_kaso](https://www.twitch.tv/cpk_jamnieo)|
-|5|1200 Vbucks|12am|18|![](https://media.fortniteapi.io/images/1146d8a5f689c3f4c5d7faa6e3fa5a3b/transparent.png){:height="35px"}|[BLAH](https://www.twitch.tv/)
+|1|$125 USD|IamDalight2709|96|![](https://media.fortniteapi.io/images/0a516b5a4fdf57074e8e0a63737ea4bf/transparent.png){:height="35px"}|[IamDalight2709](https://www.twitchtv.cpk_kaso)|
+|2|2800 V|NRG Trs|84|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|[NRG Trs](https://www.twitchtv.cpk_kaso)|
+|3|1200 V|Frosty_0900|81|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|[Frosty_0900](https://www.twitchtv.cpk_kaso)|
+|4|Mug|ARMYOFDARKNESS4|81|![](https://media.fortniteapi.io/images/2f05bfd-16352b5-5a68084-0eea22e/transparent.png){:height="35px"}|[ARMYOFDARKNESS4](https://www.twitchtv.cpk_kaso)|
+|5|T-Shirt|xFanaticalx5630|69|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|[xFanaticalx5630](https://www.twitchtv.cpk_kaso)|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
