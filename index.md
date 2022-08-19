@@ -24,7 +24,7 @@
 </style>
 
 
-# ![Kas](/images/dogs/scoringDog1.png){:height="150px"} Tournament scoring in progress...
+# ![Kas](/images/dogs/scoringDog1.png){:height="150px"} Doggo is cALcuLaTINg...
 SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at 7pm EDT / 6pm CDT. Custom codes available on [Skip's livestream.](https://www.twitch.tv/skiddlyskip/)
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
