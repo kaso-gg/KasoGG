@@ -44,7 +44,8 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 ## Current Scoring
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert scoring results here (script ABC.sql)-->
-3 of 6 matches completed as of 15:18:58 EST  
+3 matches played. 42 unique players and biggest lobby was 29. 14 players played every match tonight. The highest level player was SkiddlySkip at 272! The lowest level player is DDougall4 at 12. Common skin: The Brat, common axe: Abyssal Blade.
+
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | # | Prize | Team | Pts | Skin | Stream |
