@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="30">
+
 <style>
       .tableFixHead {
         overflow-y: auto;
