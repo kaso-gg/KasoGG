@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
 
-## Tournament scoring for all participants!
+## Doggo's got your back, how'd you do tonight?
 ## [GO BACK](https://www.kaso.gg)
 
 3 matches played. 42 unique players and biggest lobby was 29. 14 players played every match tonight. The highest level player was SkiddlySkip at 272! The lowest level player is DDougall4 at 12. Common skin: The Brat, common axe: Abyssal Blade.
