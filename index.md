@@ -62,9 +62,7 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 ## Session Highlights
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert highlights here (script PQR.sql)-->
-SkiddlySkip> Most lethal (14 kills +25pts)  
-Urban_xoxo> Most peaceful (0 kills +25pts)  
-MidlifDorito> Most wins (2 dubs! +10pts)  
+None!
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 
@@ -73,7 +71,10 @@ MidlifDorito> Most wins (2 dubs! +10pts)
 <br/>
 <br/>
 
-# Upcoming tournament(s)
+# Upcoming tournaments and Customs
+
+**August 19th TODAY!** - Skip's informal customs. We're doing some scoring just for fun and testing.  
+
 **August 2022** - Skip's Trios tournament. More to come on this soon.  
 
 **October 2022** - CPK's $CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
