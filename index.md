@@ -29,7 +29,6 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
-As of 26:10:38 EST, with 3 of 6 matches complete, we have 42 unique players and biggest lobby was 29. Exactly 18 players played every match tonight. Most kills was Skip with 14 and most dubs was MidlifDorito (2 wins).
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 ### POINTS ALGORITHM:
@@ -38,7 +37,7 @@ As of 26:10:38 EST, with 3 of 6 matches complete, we have 42 unique players and 
 - Survival: 1pt per minute (don't die early)
 - Elim Siphon: 0.5pt for each of your victim's kill count
 - Bonus: 5pts first elim of the game (NPC's dont' count)
-- Bonus: 1pt for thanking bus driver
+- Bonus: 2pt for thanking bus driver
 <br/>
 <br/>
 
@@ -50,11 +49,11 @@ As of 26:10:38 EST, with 3 of 6 matches complete, we have 42 unique players and 
 
 | # | Prize | Team | Pts | Skin | Stream |
 | :--- | :--- | :--- | :----: | :----: | :--- |
-|1|$125 USD|IamDalight2709|96|![](https://media.fortniteapi.io/images/0a516b5a4fdf57074e8e0a63737ea4bf/transparent.png){:height="35px"}|[IamDalight2709](https://www.twitchtv.cpk_kaso)|
-|2|2800 V|NRG Trs|84|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|[NRG Trs](https://www.twitchtv.cpk_kaso)|
-|3|1200 V|Frosty_0900|81|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|[Frosty_0900](https://www.twitchtv.cpk_kaso)|
-|4|Mug|ARMYOFDARKNESS4|81|![](https://media.fortniteapi.io/images/2f05bfd-16352b5-5a68084-0eea22e/transparent.png){:height="35px"}|[ARMYOFDARKNESS4](https://www.twitchtv.cpk_kaso)|
-|5|T-Shirt|xFanaticalx5630|69|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|[xFanaticalx5630](https://www.twitchtv.cpk_kaso)|
+|1|GGzz!|SkiddlySkip|98.1|![](https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png){:height="35px"}|[SkiddlySkip](https://www.twitchtv.cpk_kaso)|
+|2|GGz|Arnellius|88.5|![](https://media.fortniteapi.io/images/5d89d43829d59c68aa1abef962f170fc/transparent.png){:height="35px"}|[Arnellius](https://www.twitchtv.cpk_kaso)|
+|3|Gg|IGoBySlimJim|85.5|![](https://media.fortniteapi.io/images/c43720e-1839958-e653b0c-4e5f2aa/transparent.png){:height="35px"}|[IGoBySlimJim](https://www.twitchtv.cpk_kaso)|
+|4|gg|The_Joker_62470|85.0|![](https://media.fortniteapi.io/images/2dab1ea5f03c29e8b2cd7f8f5cac903e/transparent.png){:height="35px"}|[The_Joker_62470](https://www.twitchtv.cpk_kaso)|
+|5|:)|MidlifDorito|73.1|![](https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/transparent.png){:height="35px"}|[MidlifDorito](https://www.twitchtv.cpk_kaso)|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
