@@ -10,9 +10,9 @@ markdown: kramdown
 
 3 of 6 matches completed as of 15:18:58 EST  
 
-| # | Prize | Team | Pts | Stream |
+| # | Prize | Team | Pts | Skin | Stream |
 | :--- | :--- | :--- | :----: | :--- |
-|1|$125 USD|IamDalight2709|96|![](https://media.fortniteapi.io/images/0a516b5a4fdf57074e8e0a63737ea4bf/transparent.png){:height="35px"}|[IamDalight2709](https://www.twitchtv.cpk_kaso)|
+|1|$925 USD|IamDalight2709|96|![](https://media.fortniteapi.io/images/0a516b5a4fdf57074e8e0a63737ea4bf/transparent.png){:height="35px"}|[IamDalight2709](https://www.twitchtv.cpk_kaso)|
 |2|2800 V|NRG Trs|84|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|[NRG Trs](https://www.twitchtv.cpk_kaso)|
 |3|1200 V|Frosty_0900|81|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|[Frosty_0900](https://www.twitchtv.cpk_kaso)|
 |4|Mug|ARMYOFDARKNESS4|81|![](https://media.fortniteapi.io/images/2f05bfd-16352b5-5a68084-0eea22e/transparent.png){:height="35px"}|[ARMYOFDARKNESS4](https://www.twitchtv.cpk_kaso)|
