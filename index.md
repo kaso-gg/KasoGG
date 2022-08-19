@@ -25,7 +25,7 @@
 
 
 # ![Kas](/images/dogs/scoringDog1.png){:height="100px"} Tournament scoring in progress...
-SkiddlySkip customs, trios no fill, NA East. Matches run 3pm-6pm EST. Custom codes available on [Skip's livestream.](https://www.twitch.tv/skiddlyskip/)
+SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at 7pm EDT / 6pm CDT. Custom codes available on [Skip's livestream.](https://www.twitch.tv/skiddlyskip/)
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
@@ -67,18 +67,14 @@ MidlifDorito> Most wins (2 dubs! +10pts)
 
 
 ## Participants who are streaming:
-- [CPK_kaso](https://www.twitch.tv/cpk_kaso)
 - [CPK_jamieo](https://www.twitch.tv/cpk_jamieo)
-- https://www.twitch.tv/fb_destro_ttv
-- https://www.facebook.com/ihocnationfb
-- https://www.twitch.tv/darthwakko_thf
 <br/>
 <br/>
 
 # Upcoming tournament(s)
-**August 2022** - Skip's Trios. More to come on this soon.  
+**August 2022** - Skip's Trios tournament. More to come on this soon.  
 
-**October 2022** - Probably solos, invites get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
+**October 2022** - CPK's $CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
 
@@ -89,13 +85,12 @@ I'm working on a tournament scoring tool that uses Unreal Engine .replay files. 
 [The CPK Discord](https://www.twitch.tv/cpk_jamieo)  
 [Epic Games](https://www.epicgames.com)  
 
-![Kas](/images/kas.JPG){:height="20%" width="20%"}
-
 Gaming Dogs  
 ![Kas](/images/dogs/gamingDog1.png){:height="200px"}
 ![Kas](/images/dogs/gamingDog2.png){:height="200px"}
 
-
+Kaso
+![Kas](/images/kas.JPG){:height="30%" width="30%"}
 
 <!---
 use double space at end of a line to make a carriage return on the resulting page
