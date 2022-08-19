@@ -25,7 +25,7 @@
 
 
 # ![Kas](/images/dogs/scoringDog1.png){:height="150px"} Doggo is cALcuLaTINg...
-SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at 7pm EDT / 6pm CDT. Custom codes available on [Skip's livestream.](https://www.twitch.tv/skiddlyskip/)
+SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at 7pm EDT / 6pm CDT. Custom codes available on [Skip's livestream.](https://www.facebook.com/skiddlyskip/videos/572782887910227/)
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
@@ -36,7 +36,7 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 - Noc/Elim: 2pt per knock, 0.5pt per elim (let 'em revive...knock again!)
 - Survival: 1pt per minute (don't die early)
 - Elim Siphon: 0.5pt for each of your victim's kill count
-- Bonus: 5pts first elim of the game (NPC's dont' count)
+- Bonus: 5pts first elim of the game (NPC's don't count)
 - Bonus: 2pt for thanking bus driver
 <br/>
 <br/>
@@ -77,7 +77,7 @@ None!
 
 **August 2022** - Skip's Trios tournament. More to come on this soon.  
 
-**October 2022** - CPK's $CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring. $250 to win, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
+**October 2022** - CPK's CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
 
