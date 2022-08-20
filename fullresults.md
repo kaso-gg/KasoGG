@@ -9,7 +9,7 @@ markdown: kramdown
 ## Doggo's got your back, how'd you do tonight?
 ## [GO BACK](https://www.kaso.gg)
 
-3 matches played. 42 unique players and biggest lobby was 29. 14 players played every match tonight. The highest level player was SkiddlySkip at 272! The lowest level player is DDougall4 at 12. Common skin: The Brat, common axe: Abyssal Blade.
+4 matches played. 48 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Sabina, common axe: Power Pole (Nyoibo).
 
 | # | Prize | Team | Pts | Skin | Stream |
 | :--- | :--- | :--- | :----: | :--- |
