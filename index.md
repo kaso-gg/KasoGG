@@ -33,11 +33,11 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 
 ### POINTS ALGORITHM:
 - Placement: 1st = 10 down to 10th = 1 point
-- Noc/Elim: 2pt per knock, 0.5pt per elim (let 'em revive...knock again!)
-- Survival: 1pt per minute (don't die early)
-- Elim Siphon: 0.5pt for each of your victim's kill count
-- Bonus: 5pts first elim of the game (NPC's don't count)
-- Bonus: 2pt for thanking bus driver
+- Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
+- Survival: 0.15 pt per minute (don't die early)
+- Elim Siphon: 0.5 pt for each of your victim's kill count
+- Bonus: 5 pts first elim of the game (NPC's don't count)
+- Bonus: 2 pt for thanking bus driver
 <br/>
 <br/>
 
@@ -48,14 +48,14 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| # | Prize | Team | Pts | Skin | Stream |
-| :--- | :--- | :--- | :----: | :----: | :--- |
-|1|GGzz!|TTV SkiddlySkip|164.1|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitchtv.cpk_kaso)|
-|2|GGz|Lucy_8910|132.5|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|[Lucy_8910](https://www.twitchtv.cpk_kaso)|
-|3|Gg|Hello_Im_AB|114.6|![](https://media.fortniteapi.io/images/9c76ad26bd4885ca927e5cbd8f803237/transparent.png){:height="35px"}|[Hello_Im_AB](https://www.twitchtv.cpk_kaso)|
-|4|gg|TheOfficialSetis|103.8|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|[TheOfficialSetis](https://www.twitchtv.cpk_kaso)|
-|5|:)|rubicrush_jk|87.8|![](https://media.fortniteapi.io/images/072402071dcaac29ee547d1c40ac24b5/transparent.png){:height="35px"}|[rubicrush_jk](https://www.twitchtv.cpk_kaso)|
-|6||Sirenzo_Luv|86.9|![](https://media.fortniteapi.io/images/a9aef5458ece26f3e5ff0f1ebee276e9/transparent.png){:height="35px"}|[Sirenzo_Luv](https://www.twitchtv.cpk_kaso)|
+| # | Prize | Player | Pts | Placements | Elims | elim1 | Plc/Knock/Elim/Survival/Siphon/1st/Thanks | XPLvl | Skin | Axe | Stream |
+| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :--- | :----: | :----: | :----:| :--- |
+|1|GGzz!|TTV SkiddlySkip|96.4|Avg 1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|48%/00%/14%/12%/18%/00%/08%|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitch.tv/TTV SkiddlySkip)|
+|2|GGz|Lucy_8910|67.9|Avg 4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|38%/00%/12%/17%/14%/07%/12%|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|[Lucy_8910](https://www.twitch.tv/Lucy_8910)|
+|3|Gg|Hello_Im_AB|43.5|Avg 8.8 <4,7,3,13,17>|2 (1.0) <1,1>|0|44%/00%/02%/29%/07%/00%/18%|170|![](https://media.fortniteapi.io/images/9c76ad26bd4885ca927e5cbd8f803237/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95adc91a4b22ee71c16f5e854b71acec/transparent.png){:height="35px"}|[Hello_Im_AB](https://www.twitch.tv/Hello_Im_AB)|
+|4|gg|TheOfficialSetis|39.4|Avg 11.4 <7,15,21,5,9>|6 (2.0) <1,1,4>|0|30%/00%/08%/29%/08%/00%/25%|185|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/335dd8d569d71a5680887c39f8663130/transparent.png){:height="35px"}|[TheOfficialSetis](https://www.twitch.tv/TheOfficialSetis)|
+|5|:)|YiKES FL|35.2|Avg 15.0 <1,14,4,23,33>|9 (2.3) <3,1,4,1>|0|48%/00%/13%/20%/07%/00%/11%|210|![](https://media.fortniteapi.io/images/8a7d59675dd875bb4c618395bdebd7e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|[YiKES FL](https://www.twitch.tv/YiKES FL)|
+|6||CaitlinsGlasses|32.5|Avg 17.3 <22,30,3,14>|7 (1.8) <2,1,2,2>|1|25%/00%/11%/23%/02%/15%/25%|218|![](https://media.fortniteapi.io/images/29973af14bd85f0b3d2a7f61a091c3b2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8fdcb662208513beca0c8733c7ab79cf/transparent.png){:height="35px"}|[CaitlinsGlasses](https://www.twitch.tv/CaitlinsGlasses)|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
