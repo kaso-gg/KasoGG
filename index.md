@@ -44,18 +44,18 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 ## Current Scoring
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert scoring results here (script ABC.sql)-->
-1 matches played. 12 unique players and biggest lobby was 12. 12 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is JenniferAnne635 at 83. Common skin: Clash, common axe: Demonslayer Blade.
+2 matches played. 31 unique players and biggest lobby was 31. 12 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Phantasm, common axe: Driver.
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | # | Prize | Team | Pts | Skin | Stream |
 | :--- | :--- | :--- | :----: | :----: | :--- |
-|1|GGzz!|TTV SkiddlySkip|32.1|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitchtv.cpk_kaso)|
-|2|GGz|Sirenzo_Luv|30.8|![](https://media.fortniteapi.io/images/a9aef5458ece26f3e5ff0f1ebee276e9/transparent.png){:height="35px"}|[Sirenzo_Luv](https://www.twitchtv.cpk_kaso)|
-|3|Gg|Hello_Im_AB|29.7|![](https://media.fortniteapi.io/images/bb74dc772b36b4ae98273a334775b6f5/transparent.png){:height="35px"}|[Hello_Im_AB](https://www.twitchtv.cpk_kaso)|
-|4|gg|PacManPwnU|25.6|![](https://media.fortniteapi.io/images/6ee43a20a84f5fffebfe008e176575a1/transparent.png){:height="35px"}|[PacManPwnU](https://www.twitchtv.cpk_kaso)|
-|5|:)|CPK_jamieo|23.0|![](https://media.fortniteapi.io/images/413713e-126d9c6-95f47d8-54b647d/transparent.png){:height="35px"}|[CPK_jamieo](https://www.twitchtv.cpk_kaso)|
-|6||TheOfficialSetis|22.6|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|[TheOfficialSetis](https://www.twitchtv.cpk_kaso)|
+|1|GGzz!|TTV SkiddlySkip|65.4|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitchtv.cpk_kaso)|
+|2|GGz|Hello_Im_AB|53.7|![](https://media.fortniteapi.io/images/bb74dc772b36b4ae98273a334775b6f5/transparent.png){:height="35px"}|[Hello_Im_AB](https://www.twitchtv.cpk_kaso)|
+|3|Gg|Sirenzo_Luv|41.1|![](https://media.fortniteapi.io/images/a9aef5458ece26f3e5ff0f1ebee276e9/transparent.png){:height="35px"}|[Sirenzo_Luv](https://www.twitchtv.cpk_kaso)|
+|4|gg|TheOfficialSetis|40.5|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|[TheOfficialSetis](https://www.twitchtv.cpk_kaso)|
+|5|:)|PacManPwnU|38.6|![](https://media.fortniteapi.io/images/6ee43a20a84f5fffebfe008e176575a1/transparent.png){:height="35px"}|[PacManPwnU](https://www.twitchtv.cpk_kaso)|
+|6||CPK_kaso|35.8|![](https://media.fortniteapi.io/images/f320a80614e848de2b2f97edb63786dd/transparent.png){:height="35px"}|[CPK_kaso](https://www.twitchtv.cpk_kaso)|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
