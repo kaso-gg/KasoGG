@@ -35,10 +35,10 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 
 ### ACTIVE POINTS ALGORITHM:
-- Placement: 1st = 10 down to 10th = 1 point
+- Placement: 1st = 10 pts down to 10th = 1 point
 - Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
 - Survival: 0.15 pt per minute (about 3pts to end game)
-- Elim Siphon: 0.5 pt for each of your victim's kill count
+- Elim Siphon: 0.5 pt for each of your victim's elim count
 - Bonus: 5 pts first elim of the game (NPC's don't count)
 - Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
 - Bonus: 2 pt for thanking bus driver
@@ -79,6 +79,8 @@ Insert scoring results here (script ABC.sql)-->
 # Past Events
 
 **2022.08.19** - [RESULTS](https://www.kaso.gg/2022_08_19_SkipSolos) Skip's informal customs. Solos no build, just goofing around and having fun. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
+
+**2022.08.07** - [RESULTS](2022_08_07_iHoc-Wakko-Destro_Trios) This was the second iHoc/Destro/Wakko Trios customs night. It was 3 build and 3 no build Trio FILL. Livestreamed by [iHoc](https://www.facebook.com/ihocnationfb), [Wakko](https://www.twitch.tv/darthwakko_thf), and [Destro](https://www.facebook.com/DestroGamingFB). 6 matches, 70 unique players, biggest lobby 54. 28 gamers played every match tonight. Highest level player was XuntildeathX at 318! Lowest level player was Críp Wãlkíñ at 8. Most common skin was Aura, common axe was Star Wand.
 <br>
 
 # About
