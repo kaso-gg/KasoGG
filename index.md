@@ -68,7 +68,7 @@ Insert scoring results here (script ABC.sql)-->
 
 # Upcoming tournaments and Customs
 
-**August 21th TODAY!** - Skip's customs again, pending what he actually decides to do on stream.
+**August 21th TODAY!** - Skip's customs again, probably going to be trios fill, we will score individually and try to write up a team score algorithm in the next hour :)
 
 **August 2022** - Skip's Trios tournament. More to come on this soon.  
 
