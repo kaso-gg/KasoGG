@@ -12,6 +12,7 @@ markdown: kramdown
 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 
 Points accumulation summary for all players and matches. This data helps to understand for example that elims accounted for 7.2% of all points granted for the session.
+
 | Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | ThanksBus |
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |928|29.6%|0.0%|7.2%|28.4%|5.4%|2.7%|26.7%|

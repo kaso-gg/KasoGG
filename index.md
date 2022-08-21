@@ -50,6 +50,7 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 
 | # | Prize | Player | Pts | Placements | Elims | elim1 | XPLvl | Skin | Axe | Stream |
 | :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----:| :--- |
+
 |1|GGzz!|TTV SkiddlySkip|96.4|1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitch.tv/TTV SkiddlySkip)|
 |2|GGz|Lucy_8910|67.9|4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|[Lucy_8910](https://www.twitch.tv/Lucy_8910)|
 |3|Gg|Hello_Im_AB|43.5|8.8 <4,7,3,13,17>|2 (1.0) <1,1>|0|170|![](https://media.fortniteapi.io/images/9c76ad26bd4885ca927e5cbd8f803237/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95adc91a4b22ee71c16f5e854b71acec/transparent.png){:height="35px"}|[Hello_Im_AB](https://www.twitch.tv/Hello_Im_AB)|
