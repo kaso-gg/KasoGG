@@ -20,7 +20,7 @@ Points accumulation summary for all players and matches. This data helps to unde
 <br>
 <br>
 
-| # | Prize | Player | Pts | Placements | Elims | elim1 | XPLvl | Skin | Axe | Stream |
+| # | Prize | Player | Pts | Placements | Elims | elim1 | Lvl | Skin | Axe | Stream |
 | :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----:| :--- |
 |1|GGzz!|TTV SkiddlySkip|96.4|1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitch.tv/TTV SkiddlySkip)|
 |2|GGz|Lucy_8910|67.9|4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|[Lucy_8910](https://www.twitch.tv/Lucy_8910)|

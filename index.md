@@ -48,7 +48,7 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| # | Prize | Player | Pts | Placements | Elims | elim1 | XPLvl | Skin | Axe | Stream |
+| # | Prize | Player | Pts | Placements | Elims | elim1 | Lvl | Skin | Axe | Stream |
 | :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----:| :--- |
 |1|GGzz!|TTV SkiddlySkip|96.4|1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitch.tv/TTV SkiddlySkip)|
 |2|GGz|Lucy_8910|67.9|4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|[Lucy_8910](https://www.twitch.tv/Lucy_8910)|
@@ -81,6 +81,11 @@ None!
 **October 2022** - CPK's CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
+
+# Past Events
+
+**2022.08.19** - Skip's informal customs. We're doing some scoring just for fun and testing.  
+<br>
 
 # About
 I'm working on a tournament scoring tool that uses Unreal Engine .replay files. Someday you'll be able to manage your own tournaments, drop .replay files, validate players, setup custom scoring algorithms, and more.
