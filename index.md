@@ -32,7 +32,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-You'll see a session overview here a few minutes after we finish our first game. Check out older results at end of page for an example!
+1 matches, 19 unique players, biggest lobby 19. 19 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was IGoBySlimJim at 76. Most common skin was Chill Count, common axe was Catwoman's Grappling Claw.
 
 ### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
@@ -51,12 +51,12 @@ Insert scoring results here (script ABC.sql)-->
 
 | # | Prize | Player | Pts | Placements | Eliminations | E1 | D1 | TR | Lvl | Skin | Axe |
 | :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|GGzz!|TTV SkiddlySkip|96.4|1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|0|80%|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
-|2|GGz|Lucy_8910|67.9|4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|0|100%|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|
-|3|Gg|YiKES FL|50.2|15.0 <1,14,4,23,33>|9 (1.8) <3,1,4,1,0>|0|1|40%|210|![](https://media.fortniteapi.io/images/8a7d59675dd875bb4c618395bdebd7e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|
-|4|gg|JenniferAnne635|44.6|19.0 <12,13,36,15>|1 (0.3) <0,1,0,0>|0|2|100%|83|![](https://media.fortniteapi.io/images/c0b107b18754af4906abf2ca3a3c6661/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eae173d-282ab94-ffce067-5d60def/transparent.png){:height="35px"}|
-|5|:)|Hello_Im_AB|43.5|8.8 <4,7,3,13,17>|2 (0.4) <1,0,1,0,0>|0|0|80%|170|![](https://media.fortniteapi.io/images/9c76ad26bd4885ca927e5cbd8f803237/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95adc91a4b22ee71c16f5e854b71acec/transparent.png){:height="35px"}|
-|6||TentedNose37|43.1|16.8 <8,31,6,28,11>|4 (0.8) <1,0,2,0,1>|0|1|100%|109|![](https://media.fortniteapi.io/images/c56528f2fecd2ae1594af7a637e6e43c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
+|1|G^gg|TTV SkiddlySkip|25.1|1.0 <1>|4 (4.0) <4>|0|0|0%|308|![](https://media.fortniteapi.io/images/04d0044a926503aec44d178b7cbf227b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|2|bitz|F7_clipbot|21.0|2.0 <2>|6 (6.0) <6>|1|0|100%|253|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7e4d9d90ef6974521b3e210b19f1ade1/transparent.png){:height="35px"}|
+|3|stars|CPK_kaso|13.5|2.0 <2>|4 (4.0) <4>|0|0|100%|155|![](https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|4|nada!|DADA20A|12.6|7.0 <7>|0 (0.0) <0>|0|1|100%|194|![](https://media.fortniteapi.io/images/259bbb826124247449be37942a36e80c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/601615d56d031aa3836032a01a9cfb81/transparent.png){:height="35px"}|
+|5||LuckySenpai3230|12.6|1.0 <1>|0 (0.0) <0>|0|0|100%|158|![](https://media.fortniteapi.io/images/30c48e9-653d8e7-02bb621-1ad8e31/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d05d0ccff103c03578932034873e35a6/transparent.png){:height="35px"}|
+|6||PacManPwnU|11.6|4.0 <4>|0 (0.0) <0>|0|0|100%|98|![](https://media.fortniteapi.io/images/6ee43a20a84f5fffebfe008e176575a1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
