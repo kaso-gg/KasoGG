@@ -1,5 +1,5 @@
 ---
-permalink: /archive/2022_08_19_Skipsolos/
+permalink: /2022_08_19_Skipsolos/
 title: "Skip solo customs"
 excerpt: "Archived results"
 markdown: kramdown
