@@ -62,7 +62,6 @@ Insert scoring results here (script ABC.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
 ## Participants who are streaming:
-- [CPK_jamieo](https://www.twitch.tv/cpk_jamieo)
 <br/>
 <br/>
 
