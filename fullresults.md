@@ -16,6 +16,8 @@ Points accumulation summary for all players and matches. This data helps to unde
 | Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | ThanksBus |
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |928|29.6%|0.0%|7.2%|28.4%|5.4%|2.7%|26.7%|
+
+<br>
 <br>
 
 | # | Prize | Player | Pts | Placements | Elims | elim1 | XPLvl | Skin | Axe | Stream |

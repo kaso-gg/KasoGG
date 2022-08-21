@@ -34,7 +34,7 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 ### POINTS ALGORITHM:
 - Placement: 1st = 10 down to 10th = 1 point
 - Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
-- Survival: 0.15 pt per minute (don't die early)
+- Survival: 0.15 pt per minute (about 3pts to end game)
 - Elim Siphon: 0.5 pt for each of your victim's kill count
 - Bonus: 5 pts first elim of the game (NPC's don't count)
 - Bonus: 2 pt for thanking bus driver
