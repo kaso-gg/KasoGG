@@ -11,7 +11,8 @@ markdown: kramdown
 
 6 matches, 70 unique players, biggest lobby 54. 28 gamers played every match tonight. Highest level player was XuntildeathX at 318! Lowest level player was Críp Wãlkíñ at 8. Most common skin was Aura, common axe was Star Wand.
 
-Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 5.3% of all points granted for the session and 2.9% of the points were given out for just being the first one to be eliminated, LOL.E1 are points for getting first elimination and D1 is for being the first one to BE eliminated.
+Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 5.3% of all points granted for the session and 2.9% of the points were given out for just being the first one to be eliminated, LOL.E1 are points for getting first elimination and D1 is for being the first one to BE eliminated.  
+
 | Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |3,062|31.9%|16.7%|5.3%|18.2%|8.9%|1.0%|2.9%|15.1%|
