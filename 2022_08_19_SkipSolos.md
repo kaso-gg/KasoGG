@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
 
-## Doggo's got your back! How'd you do tonight?
+## Doggo gotz da results!
 ## [RETURN TO HOMEPAGE](https://www.kaso.gg)
 
 5 matches, 51 unique players, biggest lobby 36. 10 gamers played every match tonight. Highest level player was TTV SkiddlySkip at 303! Lowest level player was SHAT.0N.BY.DJC at 1. Most common skin was Son Goku, common axe was Power Pole (Nyoibo).
