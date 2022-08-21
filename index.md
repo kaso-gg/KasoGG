@@ -32,15 +32,15 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
+You'll see a session overview here a few minutes after we finish our first game. Check out older results at end of page for an example!
 
 ### ACTIVE POINTS ALGORITHM:
-- Placement: 1st = 10 pts down to 10th = 1 point
+- Placement: 1st = 5 pts down to 10th = 0.5 pt
 - Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
 - Survival: 0.15 pt per minute (about 3pts to end game)
-- Elim Siphon: 0.5 pt for each of your victim's elim count
-- Bonus: 5 pts first elim of the game (NPC's don't count)
-- Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
+- Elim Siphon: 0.5 pt for each of your victim's kill count
+- _**PENALTY**_: -5.0 pts first elim of the game (NPC's don't count)
+- Bonus: 8 pts if you're the first eliminated (self-elim doesn't count)
 - Bonus: 2 pt for thanking bus driver
 <br/>
 <br/>
