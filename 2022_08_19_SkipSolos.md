@@ -17,7 +17,13 @@ Points accumulation summary for all players and matches. This data helps to unde
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |928|29.6%|0.0%|7.2%|28.4%|5.4%|2.7%|26.7%|
 
-<br>
+### POINTS ALGORITHM:
+- Placement: 1st = 10 down to 10th = 1 point
+- Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
+- Survival: 0.15 pt per minute (about 3pts to end game)
+- Elim Siphon: 0.5 pt for each of your victim's kill count
+- Bonus: 5 pts first elim of the game (NPC's don't count)
+- Bonus: 2 pt for thanking bus driver
 <br>
 
 | # | Prize | Player | Pts | Placements | Eliminations | E1 | Lvl | Skin | Axe | Stream |
