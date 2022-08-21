@@ -12,10 +12,9 @@ markdown: kramdown
 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 
 Points accumulation summary for all players and matches. This data helps to understand for example that elims accounted for 7.2% of all points granted for the session.
-
-| Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | ThanksBus |
-| :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|928|29.6%|0.0%|7.2%|28.4%|5.4%|2.7%|26.7%|
+| Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | FirstDead| ThanksBus |
+| :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|928|29.6%|0.0%|7.2%|28.4%|5.4%|2.7%|8.1%|26.7%|
 
 ### POINTS ALGORITHM:
 - Placement: 1st = 10 down to 10th = 1 point
@@ -23,6 +22,7 @@ Points accumulation summary for all players and matches. This data helps to unde
 - Survival: 0.15 pt per minute (about 3pts to end game)
 - Elim Siphon: 0.5 pt for each of your victim's kill count
 - Bonus: 5 pts first elim of the game (NPC's don't count)
+- Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
 - Bonus: 2 pt for thanking bus driver
 <br>
 
