@@ -24,14 +24,17 @@
 </style>
 
 
-# ![Kas](/images/dogs/scoringDog1.png){:height="150px"} Doggo is cALcuLaTINg...
-SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at 7pm EDT / 6pm CDT. Custom codes available on [Skip's livestream.](https://www.facebook.com/skiddlyskip/videos/572782887910227/)
+# ![Doggo](/images/dogs/scoringDog1.png){:height="150px"} Doggo is cALcuLaTINg...
+Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually 3-4 minutes after the end of match.
 
+
+## Session Overview and Top Results
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
+5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 
-### POINTS ALGORITHM:
+### ACTIVE POINTS ALGORITHM:
 - Placement: 1st = 10 down to 10th = 1 point
 - Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
 - Survival: 0.15 pt per minute (about 3pts to end game)
@@ -40,11 +43,8 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 - Bonus: 2 pt for thanking bus driver
 <br/>
 <br/>
-
-## Current Scoring
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-    Insert scoring results here (script ABC.sql)-->
-5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
+Insert scoring results here (script ABC.sql)-->
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
@@ -60,13 +60,6 @@ SkiddlySkip customs Friday August 19th! Trios no fill, NA East. Matches start at
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 
-## Session Highlights
-<!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-    Insert highlights here (script PQR.sql)-->
-None!
-<!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-
-
 ## Participants who are streaming:
 - [CPK_jamieo](https://www.twitch.tv/cpk_jamieo)
 <br/>
@@ -74,7 +67,7 @@ None!
 
 # Upcoming tournaments and Customs
 
-**August 19th TODAY!** - Skip's informal customs. We're doing some scoring just for fun and testing.  
+**August 21th TODAY!** - Skip's customs again, pending what he actually decides to do on stream.
 
 **August 2022** - Skip's Trios tournament. More to come on this soon.  
 
@@ -88,17 +81,10 @@ None!
 <br>
 
 # About
-I'm working on a tournament scoring tool that uses Unreal Engine .replay files. Someday you'll be able to manage your own tournaments, drop .replay files, validate players, setup custom scoring algorithms, and more.
+I'm working on a tournament scoring tool that uses Unreal Engine .replay files. Someday you'll be able to manage your own tournaments, drop .replay files, validate players, setup custom scoring algorithms, and more. Check out my [Twitch](https://www.twitch.tv/cpk_kaso) and the CPK [Discord](https://www.twitch.tv/cpk_jamieo).
 
-[My Twitch](https://www.twitch.tv/cpk_kaso)  
-[The CPK Discord](https://www.twitch.tv/cpk_jamieo)  
-[Epic Games](https://www.epicgames.com)  
-
-Gaming Dogs  
 ![Kas](/images/dogs/gamingDog1.png){:height="200px"}
 ![Kas](/images/dogs/gamingDog2.png){:height="200px"}
-
-Kaso
 ![Kas](/images/kas.JPG){:height="30%" width="30%"}
 
 <!---
