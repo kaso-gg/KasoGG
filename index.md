@@ -40,6 +40,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 - Survival: 0.15 pt per minute (about 3pts to end game)
 - Elim Siphon: 0.5 pt for each of your victim's kill count
 - Bonus: 5 pts first elim of the game (NPC's don't count)
+- Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
 - Bonus: 2 pt for thanking bus driver
 <br/>
 <br/>
@@ -48,14 +49,14 @@ Insert scoring results here (script ABC.sql)-->
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| # | Prize | Player | Pts | Placements | Eliminations | E1 | Lvl | Skin | Axe | Stream |
-| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----:| :--- |
-|1|GGzz!|TTV SkiddlySkip|96.4|1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|[TTV SkiddlySkip](https://www.twitch.tv/TTV SkiddlySkip)|
-|2|GGz|Lucy_8910|67.9|4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|[Lucy_8910](https://www.twitch.tv/Lucy_8910)|
-|3|Gg|Hello_Im_AB|43.5|8.8 <4,7,3,13,17>|2 (0.4) <1,0,1,0,0>|0|170|![](https://media.fortniteapi.io/images/9c76ad26bd4885ca927e5cbd8f803237/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95adc91a4b22ee71c16f5e854b71acec/transparent.png){:height="35px"}|[Hello_Im_AB](https://www.twitch.tv/Hello_Im_AB)|
-|4|gg|TheOfficialSetis|39.4|11.4 <7,15,21,5,9>|6 (1.2) <1,1,0,0,4>|0|185|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/335dd8d569d71a5680887c39f8663130/transparent.png){:height="35px"}|[TheOfficialSetis](https://www.twitch.tv/TheOfficialSetis)|
-|5|:)|YiKES FL|35.2|15.0 <1,14,4,23,33>|9 (1.8) <3,1,4,1,0>|0|210|![](https://media.fortniteapi.io/images/8a7d59675dd875bb4c618395bdebd7e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|[YiKES FL](https://www.twitch.tv/YiKES FL)|
-|6||CaitlinsGlasses|32.5|17.3 <22,30,3,14>|7 (1.8) <2,1,2,2>|1|218|![](https://media.fortniteapi.io/images/29973af14bd85f0b3d2a7f61a091c3b2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8fdcb662208513beca0c8733c7ab79cf/transparent.png){:height="35px"}|[CaitlinsGlasses](https://www.twitch.tv/CaitlinsGlasses)|
+| # | Prize | Player | Pts | Placements | Eliminations | E1 | D1 | Lvl | Skin | Axe |
+| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: |
+|1|GGzz!|TTV SkiddlySkip|96.4|1.8 <3,3,1,1,1>|27 (5.4) <4,4,5,8,6>|0|0|303|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
+|2|GGz|Lucy_8910|67.9|4.5 <9,2,4,3>|16 (4.0) <4,3,6,3>|1|0|150|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|
+|3|Gg|YiKES FL|50.2|15.0 <1,14,4,23,33>|9 (1.8) <3,1,4,1,0>|0|1|210|![](https://media.fortniteapi.io/images/8a7d59675dd875bb4c618395bdebd7e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|
+|4|gg|JenniferAnne635|44.6|19.0 <12,13,36,15>|1 (0.3) <0,1,0,0>|0|2|83|![](https://media.fortniteapi.io/images/c0b107b18754af4906abf2ca3a3c6661/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eae173d-282ab94-ffce067-5d60def/transparent.png){:height="35px"}|
+|5|:)|Hello_Im_AB|43.5|8.8 <4,7,3,13,17>|2 (0.4) <1,0,1,0,0>|0|0|170|![](https://media.fortniteapi.io/images/9c76ad26bd4885ca927e5cbd8f803237/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95adc91a4b22ee71c16f5e854b71acec/transparent.png){:height="35px"}|
+|6||TentedNose37|43.1|16.8 <8,31,6,28,11>|4 (0.8) <1,0,2,0,1>|0|1|109|![](https://media.fortniteapi.io/images/c56528f2fecd2ae1594af7a637e6e43c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
