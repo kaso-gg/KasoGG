@@ -1,5 +1,5 @@
 ---
-permalink: /2022_08_19_SkipSolos/
+permalink: /2022_08_07_iHoc-Wakko-Destro_Trios/
 title: "Skip solo customs"
 excerpt: "Archived results"
 markdown: kramdown
