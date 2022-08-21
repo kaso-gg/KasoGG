@@ -28,7 +28,10 @@ Here' a breakdown of points allocation across all players and matches. This data
 <br>
 <br>
 
-|1|G^gg|TTV SkiddlySkip|56.1|2.3 <1,1,5>|9 (3.0) <4,2,3>|0|0|33%|308|![](https://media.fortniteapi.io/images/04d0044a926503aec44d178b7cbf227b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+| # | Prize | Player | Pts | Placements | Eliminations | E1 | D1 | TR | Lvl | Skin | Axe |
+| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: | :----: |
+ 
+ |1|G^gg|TTV SkiddlySkip|56.1|2.3 <1,1,5>|9 (3.0) <4,2,3>|0|0|33%|308|![](https://media.fortniteapi.io/images/04d0044a926503aec44d178b7cbf227b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
 |2|bitz|AMYLCx|43.8|3.7 <1,4,6>|13 (4.3) <3,4,6>|0|0|0%|311|![](https://media.fortniteapi.io/images/04d7bd3eed40ebe4794958c43e213398/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 |3|stars|F7_clipbot|41.4|4.0 <2,8,2>|10 (3.3) <6,0,4>|1|0|100%|253|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7e4d9d90ef6974521b3e210b19f1ade1/transparent.png){:height="35px"}|
 |4|nada!|CPK_kaso|33.6|2.7 <2,3,3>|4 (1.3) <4,0,0>|0|0|100%|155|![](https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
