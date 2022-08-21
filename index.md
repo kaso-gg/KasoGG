@@ -77,7 +77,7 @@ Insert scoring results here (script ABC.sql)-->
 
 # Past Events
 
-**2022.08.19** - [RESULTS](https://www.kaso.gg/2022_08_19_SkipSolos) Skip's informal customs. Solos no build, just goofing around and having fun. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip)
+**2022.08.19** - [RESULTS](https://www.kaso.gg/2022_08_19_SkipSolos) Skip's informal customs. Solos no build, just goofing around and having fun. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 <br>
 
 # About
