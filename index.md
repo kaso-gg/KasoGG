@@ -84,7 +84,7 @@ None!
 
 # Past Events
 
-**2022.08.19** - Skip's informal customs. We're doing some scoring just for fun and testing.  
+**2022.08.19** - [RESULTS](https://www.kaso.gg/archive/2022_08_19_SkipSolos) Skip's informal customs. Solos no build, just goofing around and having fun. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip)
 <br>
 
 # About
