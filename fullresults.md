@@ -11,11 +11,11 @@ markdown: kramdown
 
 6 matches, 70 unique players, biggest lobby 54. 28 gamers played every match tonight. Highest level player was XuntildeathX at 318! Lowest level player was Críp Wãlkíñ at 8. Most common skin was Aura, common axe was Star Wand.
 
-Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 6.6% of all points earned this session and 1.9% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 5.3% of all points earned this session and 4.4% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
  
 | Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|2,472|19.8%|20.7%|6.6%|22.5%|11.0%|-1.2%|1.9%|18.7%|
+|180|36.6%|17.7%|5.3%|17.4%|9.1%|-2.8%|4.4%|12.2%|
 
 ### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
