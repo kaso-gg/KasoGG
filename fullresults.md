@@ -16,7 +16,7 @@ Here' a breakdown of points allocation across all players and matches. This data
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |2,514|19.4%|20.4%|6.4%|22.1%|10.9%|-1.2%|3.6%|18.4%|
 
-### ACTIVE POINTS ALGORITHM:
+### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
 - Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
 - Survival: 0.15 pt per minute (about 3pts to end game)
