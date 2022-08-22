@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
 
-## Doggo's got your back! How'd you do tonight?
+## What da dog doin?
 ## [GO BACK](https://www.kaso.gg)
 
 4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
