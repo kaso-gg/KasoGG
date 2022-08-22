@@ -29,7 +29,7 @@ Here' a breakdown of points allocation across all players and matches. This data
 <br>
 
 | # | Prize | Player | Pts | Placements | Eliminations | E1 | D1 | TR | Lvl | Skin | Axe |
-| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: | :----: |
+| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: | :----: |  
 
 |1|G^gg|TTV SkiddlySkip|47.0|3.5 <1,1,5,7>|13 (3.3) <4,2,3,4>|0|0|25%|308|![](https://media.fortniteapi.io/images/04d0044a926503aec44d178b7cbf227b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
 |2|bitz|F7_clipbot|39.0|3.3 <2,8,2,1>|11 (2.8) <8,0,1,2>|1|0|100%|253|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7e4d9d90ef6974521b3e210b19f1ade1/transparent.png){:height="35px"}|
