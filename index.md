@@ -51,6 +51,7 @@ Insert scoring results here (script ABC.sql)-->
 
 | # | Prize | Player | Pts | Placements | Eliminations | E1 | D1 | TR | Lvl | Skin | Axe |
 | :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: | :----: |
+
 |1|G^gg|TTV SkiddlySkip|68.5|3.5 <1,1,5,7>|12 (3.0) <4,2,3,3>|0|0|25%|308|![](https://media.fortniteapi.io/images/04d0044a926503aec44d178b7cbf227b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
 |2|bitz|F7_clipbot|60.0|3.3 <2,8,2,1>|13 (3.3) <6,0,4,3>|1|0|100%|253|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7e4d9d90ef6974521b3e210b19f1ade1/transparent.png){:height="35px"}|
 |3|stars|AMYLCx|56.9|4.3 <1,4,6,6>|13 (3.3) <3,4,6,0>|0|0|25%|311|![](https://media.fortniteapi.io/images/04d7bd3eed40ebe4794958c43e213398/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
