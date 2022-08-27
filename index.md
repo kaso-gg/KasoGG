@@ -34,6 +34,8 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 I'll be scoring MOH customs today, results posted about 5 minutes after each match. For now, check out the archive below for [PRIOR SESSIONS](#past-events).
 
+3 matches, 135 unique players, biggest lobby 91. 33 gamers played every match tonight. Highest level player was MoH Andreaaa at 389! Lowest level player was SikeBiShh91 at 10. Most common skin was Sun Strider, common axe was Harley Hitter.
+
 ### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
 - Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
@@ -46,24 +48,22 @@ I'll be scoring MOH customs today, results posted about 5 minutes after each mat
 <br/>
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-2 matches, 101 unique players, biggest lobby 86. 52 gamers played every match tonight. Highest level player was MoH Andreaaa at 389! Lowest level player was DADLAD247 at 34. Most common skin was Sun Strider, common axe was Driver.
-
-Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 14.2% of all points earned this session and 2.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 37.1% of all points earned this session and 4.9% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
  
 | Points | Placement | Elims  | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
 | :---   | :----:    | :----: | :----:   | :----: | :----:    | :----:    | :----:    |
-|790|7.0%|14.2%|61.8%|6.9%|-1.3%|2.0%|28.1%|
+|486|22.2%|37.1%|50.9%|19.3%|-3.1%|4.9%|17.4%|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | #      | Prize | Player | Pts    | Placements | Eliminations | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---       | :---         | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|YourDoody|36.8|6.0 <10,3>|21 (10.0) <11,10>|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
-|2|bitz|Toxic_Phantom74|36.3|22.0 <43,2>|10 (5.0) <3,7>|0|1|50%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
-|3|stars|MoH Makeouthill|31.1|11.0 <1,21>|21 (10.0) <13,8>|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|4|nada!|Whitt-ley7|25.6|26.0 <2,50>|1 (0.0) <1,0>|0|1|100%|222|![](https://media.fortniteapi.io/images/5fa0c7e1dd44bca0d27a9970373b76aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ff57ea99bf4e4b4f4fff09a2026468df/transparent.png){:height="35px"}|
-|5||ᴍᴏʟꜱᴏɴ|22.8|1.0 <1>|5 (5.0) <5>|0|0|100%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
-|6||Volleyjuless|17.8|11.0 <18,4>|2 (1.0) <0,2>|0|0|100%|208|![](https://media.fortniteapi.io/images/5fa0c7e1dd44bca0d27a9970373b76aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
+|1|G^gg|MoH Makeouthill|53.2|7.0 <1,21,1>|35 (11.0) <13,8,14>|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|2|bitz|Toxic_Phantom74|37.7|18.0 <43,2,10>|16 (5.0) <3,7,6>|0|1|67%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
+|3|stars|YourDoody|30.5|6.0 <10,3>|21 (10.0) <11,10>|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
+|4|nada!|ᴍᴏʟꜱᴏɴ|25.3|3.0 <1,5>|8 (4.0) <5,3>|0|0|100%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
+|5||toxicCROW28|19.0|31.0 <32,61,1>|8 (2.0) <0,0,8>|0|0|67%|221|![](https://media.fortniteapi.io/images/f154ad1a24b0815edd5d4223c8c792a2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9366ae4dd409282c967f089e65a5d6fa/transparent.png){:height="35px"}|
+|6||Whitt-ley7|18.2|28.0 <2,50,33>|1 (0.0) <1,0,0>|0|1|100%|222|![](https://media.fortniteapi.io/images/5fa0c7e1dd44bca0d27a9970373b76aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ff57ea99bf4e4b4f4fff09a2026468df/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
