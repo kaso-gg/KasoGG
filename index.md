@@ -32,7 +32,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
+I'll be scoring MOH customs today, results posted about 5 minutes after each match. For now, check out the archive below for [PRIOR SESSIONS](#past-events).
 
 ### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
@@ -67,7 +67,7 @@ Insert scoring results here (script ABC.sql)-->
 
 # Upcoming tournaments and Customs
 
-**August 21th TODAY!** - Skip's customs again, probably going to be trios fill, we will score individually and try to write up a team score algorithm in the next hour :)
+**August 27th TODAY** - Makeouthill's customs today, I'm scoring for my own research and fun. Check out [MakeouthillFB](https://www.twitch.tv/makeouthillfb) for his livestream.
 
 **August 2022** - Skip's Trios tournament. More to come on this soon.  
 
@@ -76,6 +76,8 @@ Insert scoring results here (script ABC.sql)-->
 <br/>
 
 # Past Events
+
+**2022.08.21** - [RESULTS](https://www.kaso.gg/2022_08_21_SkipTrios) Skip's informal trios, no build. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
 
 **2022.08.19** - [RESULTS](https://www.kaso.gg/2022_08_19_SkipSolos) Skip's informal customs. Solos no build, just goofing around and having fun. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 
