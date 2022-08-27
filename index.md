@@ -56,14 +56,14 @@ Here' a breakdown of points allocation across all players and matches. This data
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| # | Prize | Player | Pts | Placements | Eliminations | E1 | D1 | TR | Lvl | Skin | Axe |
-| :----: | :--- | :--- | :----: | :--- | :--- | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|TTV SkiddlySkip|47.0|3.5 <1,1,5,7>|13 (3.3) <4,2,3,4>|0|0|25%|308|![](https://media.fortniteapi.io/images/04d0044a926503aec44d178b7cbf227b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
-|2|bitz|F7_clipbot|39.0|3.3 <2,8,2,1>|11 (2.8) <8,0,1,2>|1|0|100%|253|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7e4d9d90ef6974521b3e210b19f1ade1/transparent.png){:height="35px"}|
-|3|stars|AMYLCx|33.4|4.3 <1,4,6,6>|14 (3.5) <3,5,6,0>|0|0|25%|311|![](https://media.fortniteapi.io/images/04d7bd3eed40ebe4794958c43e213398/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|4|nada!|ᴍᴏʟꜱᴏɴ|33.3|3.0 <7,1,1>|5 (1.7) <3,0,2>|0|0|100%|175|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
-|5||CPK_kaso|32.4|5.0 <2,3,3,12>|3 (0.8) <2,0,1,0>|0|0|100%|155|![](https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|6||LuckySenpai3230|31.5|4.3 <1,4,6,6>|0 (0.0) <0,0,0,0>|0|0|100%|158|![](https://media.fortniteapi.io/images/30c48e9-653d8e7-02bb621-1ad8e31/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d05d0ccff103c03578932034873e35a6/transparent.png){:height="35px"}|
+| #      | Prize | Player | Pts    | Placements | Eliminations | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
+| :----: | :---  | :---   | :----: | :---       | :---         | :----: | :----: | :----: | :----: | :----: | :----: |
+|1|G^gg|TTV SkiddlySkip|45.7|3.0 <1,1,5,7>|13 (3.0) <4,2,3,4>|0|0|25%|308|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|10||CaitlinsGlasses|31.6|3.0 <6,1,2>|7 (2.0) <0,6,1>|0|0|67%|218|![](https://media.fortniteapi.io/images/f62eac592baed20007df92c81ac4b1f1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9e3cb25-7961435-ad8b71f-cdcc882/transparent.png){:height="35px"}|
+|11||ᴍᴏʟꜱᴏɴ|31.5|3.0 <7,1,1>|5 (1.0) <3,0,2>|0|0|100%|175|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
+|12||LuckySenpai3230|29.1|4.0 <1,4,6,6>|0 (0.0) <0,0,0,0>|0|0|100%|158|![](https://media.fortniteapi.io/images/30c48e9-653d8e7-02bb621-1ad8e31/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d05d0ccff103c03578932034873e35a6/transparent.png){:height="35px"}|
+|13|Black Cat|wee M F|28.3|3.0 <6,1,2>|4 (1.0) <0,4,0>|0|0|67%|88|![](https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/285f79e41b48fdacb3d3fb867972558a/transparent.png){:height="35px"}|
+|14||FBKrazyKeith|28.0|6.0 <7,3,5,11>|5 (1.0) <0,3,2,0>|0|0|75%|197|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
