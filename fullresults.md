@@ -9,9 +9,7 @@ markdown: kramdown
 ## What da dog doin?
 ## [GO BACK](https://www.kaso.gg)
 
-4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
-
-Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 5.6% of all points earned this session and 3.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+I'll be scoring MOH customs today, informally.
  
 | Points | Placement | Knock | Elims | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
 | :--- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
