@@ -28,6 +28,8 @@ Here' a breakdown of points allocation across all players and matches. This data
 <br>
 <br>
 
+| #      | Prize | Player | Pts    | Placements | Eliminations | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
+| :----: | :---  | :---   | :----: | :---       | :---         | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|MoH Makeouthill|49.7|7.0 <1,21,1>|35 (11.0) <13,8,14>|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
 |2|bitz|Toxic_Phantom74|34.4|18.0 <43,2,10>|16 (5.0) <3,7,6>|0|1|67%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
 |3|stars|YourDoody|27.9|6.0 <10,3>|21 (10.0) <11,10>|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
