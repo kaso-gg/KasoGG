@@ -34,7 +34,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 I'll be scoring MOH customs today, results posted about 5 minutes after each match. For now, check out the archive below for [PRIOR SESSIONS](#past-events).
 
-5 matches, 187 unique players, biggest lobby had 98 joined. We had 20 people who played every match. The highest XP level was MoH Andreaaa at 389! The lowest XP was SikeBiShh91 at 10. Most common skin was Spider-Man, common axe was Harley Hitter.
+We had 5 matches with 187 unique people and the biggest lobby had 98 playing. We had 20 people who played every match. The highest XP level was 'MoH Andreaaa' at 389! The lowest XP was 'SikeBiShh91' at 10, welcome to our lobby, friend. Most common skin was Spider-Man (14 peeps), common axe was Harley Hitter (9 peeps). Guess what, we eliminated 11 NPCs, RIP!
 
 ### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
@@ -48,12 +48,12 @@ I'll be scoring MOH customs today, results posted about 5 minutes after each mat
 <br/>
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 40.3% of all points earned this session and 5.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 12.0% of all points earned this session and 1.5% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
  
-| Points | Placement | Elims  | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
-| :---   | :----:    | :----: | :----:   | :----: | :----:    | :----:    | :----:    |
-|801|37.1%|40.3%|20.3%|21.8%|-3.1%|5.0%|35.3%|
-
+| Points | Penalties | Placement | Elims  | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
+| :---   | :----     | :----:    | :----: | :----:   | :----: | :----:    | :----:    | :----:    |
+|7,154|1,020|4.5%|12.0%|68.3%|2.4%|-0.7%|1.5%|4.0%|
+ 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | #      | Prize | Player | Pts    | Placements | Eliminations | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
