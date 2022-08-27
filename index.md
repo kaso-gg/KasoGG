@@ -34,7 +34,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 I'll be scoring MOH customs today, results posted about 5 minutes after each match. For now, check out the archive below for [PRIOR SESSIONS](#past-events).
 
-5 matches, 187 unique players, biggest lobby 98. 20 gamers played every match tonight. Highest level player was MoH Andreaaa at 389! Lowest level player was SikeBiShh91 at 10. Most common skin was Spider-Man, common axe was Harley Hitter.
+5 matches, 187 unique players, biggest lobby had 98 joined. We had 20 people who played every match. The highest XP level was MoH Andreaaa at 389! The lowest XP was SikeBiShh91 at 10. Most common skin was Spider-Man, common axe was Harley Hitter.
 
 ### ACTIVE POINTS ALGORITHM 2022.08.21:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
