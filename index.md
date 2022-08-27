@@ -46,6 +46,13 @@ I'll be scoring MOH customs today, results posted about 5 minutes after each mat
 <br/>
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
+4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
+
+Here' a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 11.2% of all points earned this session and 4.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+ 
+| Points | Placement | Elims  | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
+| :---   | :----:    | :----: | :----:   | :----: | :----:    | :----:    | :----:    |
+|800|38.4%|11.2%|26.0%|5.7%|-2.5%|4.0%|20.7%|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
