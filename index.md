@@ -48,11 +48,13 @@ We had 5 matches with 187 unique people and the biggest lobby had 98 playing. We
 <br/>
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 12.0% of all points earned this session and 1.5% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 20.4% of all points earned this session and 2.5% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
  
 | Points | Penalties | Placement | Elims  | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
 | :---   | :----     | :----:    | :----: | :----:   | :----: | :----:    | :----:    | :----:    |
-|7,154|1,020|4.5%|12.0%|68.3%|2.4%|-0.7%|1.5%|4.0%|
+|4,222|1,020|7.5%|20.4%|46.3%|4.1%|-1.2%|2.5%|6.7%|
+ 
+ 
  
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
