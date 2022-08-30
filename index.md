@@ -76,8 +76,6 @@ Here's a breakdown of points allocation across all players and matches. This dat
 
 # Upcoming tournaments and Customs
 
-**August 27th TODAY** - Makeouthill's customs today, I'm scoring for my own research and fun. Check out [MakeouthillFB](https://www.twitch.tv/makeouthillfb) for his livestream.
-
 **August 2022** - Skip's Trios tournament. More to come on this soon.  
 
 **October 2022** - CPK's CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
@@ -86,7 +84,7 @@ Here's a breakdown of points allocation across all players and matches. This dat
 
 # Past Events
 
-**2022.08.21** - [RESULTS](https://www.kaso.gg/2022_08_27_MOH) MOH did NOT ask me to do this, I just played customs and gathered data to learn more about my algorithms. 
+**2022.08.27** - [RESULTS](https://www.kaso.gg/2022_08_27_MOH) MOH did NOT ask me to do this, I just played customs and gathered data to learn more about my algorithms. Makeout is probably top 10 cracked players that I watch, his channel is [MakeouthillFB](https://www.twitch.tv/makeouthillfb).
 
 **2022.08.21** - [RESULTS](https://www.kaso.gg/2022_08_21_SkipTrios) Skip's informal trios, no build. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
 
