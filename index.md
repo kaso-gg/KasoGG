@@ -50,18 +50,21 @@ Welcome Steener, 7, gr8pe, etc.....
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 13.0% of all points earned this session and 4.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
+We had 1 matches with 6 unique people and the biggest lobby had 6 playing. We had 6 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Loveless (1 times), common axe was Proto-Adamantium Shield (1 times). Guess what, we eliminated 19 NPCs, RIP! 
 
-| Points | Penalties | Placement | Elims  | NPCKill | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
-| :----: | :----:    | :----:    | :----: | :----:  | :----:   | :----: | :----:    | :----:    | :----:    |
-|2,844|35.8%|11.2%|13.0%|0.3%|34.4%|9.3%|-1.7%|4.0%|10.0%|
+By the way, 0 people need to turn off ANONYMOUS MODE.
 
  
  **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|NPC!|CPK_kaso|6.0|1.0 <1>|0 (0.0) <0>|4|0|0|0%|172|![](https://media.fortniteapi.io/images/a743c6fa634f84ded8fadb10529677b3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|1|NPC!|CPK_kaso|9.5|4.0 <4>|0 (0.0) <0>|3|0|0|100%|176|![](https://media.fortniteapi.io/images/9d88670-4288dea-d7ee125-13f4556/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|2|Bruh?|CPK_jamieo|9.0|5.0 <5>|0 (0.0) <0>|0|0|1|100%|225|![](https://media.fortniteapi.io/images/4533d6a9afd0940c20ebfa0a8199d255/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|3|Boss|Jolee Knox|5.0|2.0 <2>|1 (1.0) <1>|5|0|0|100%|217|![](https://media.fortniteapi.io/images/075d22952011fa68151fe66f2ee3ee30/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|4|Potato|Seven SIy|5.0|4.0 <4>|0 (0.0) <0>|0|0|0|100%|185|![](https://media.fortniteapi.io/images/3465cb35e5189c394c21a1694e165fab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e982968d59f16afb3b5c5f146aa3439/transparent.png){:height="35px"}|
+|5||Swando Gaming|4.0|3.0 <3>|0 (0.0) <0>|0|0|0|100%|158|![](https://media.fortniteapi.io/images/1ea5d86-7343f02-3247dc9-9a3096d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bd735515375038c413af419f49d12527/transparent.png){:height="35px"}|
+|37||Jarnguard|-6.5|1.0 <1>|4 (4.0) <4>|4|1|0|100%|203|![](https://media.fortniteapi.io/images/9d5df8a52dc44ab577bb1038fe7da945/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e53d164a2dea81b5634a75401b0c475/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
