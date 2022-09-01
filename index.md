@@ -45,6 +45,8 @@ We're doing NPC Hunt today! DO NOT ELIMINATE OTHER HUMAN PLAYERS UNTIL FINAL CIR
 
 We had 5 matches with 187 unique people and the biggest lobby had 98 playing. We had 20 people who played every match. The highest XP level was 'MoH Andreaaa' at 389! The lowest XP was 'SikeBiShh91' at 10, welcome to our lobby, friend. Most common skin was Spider-Man (14 times), common axe was Harley Hitter (9 times). Guess what, we eliminated 11 NPCs, RIP! By the way, 20 people need to turn off ANONYMOUS MODE.
 
+Welcome Steener, 7, gr8pe, etc.....
+
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
@@ -57,14 +59,9 @@ Here's a breakdown of points allocation across all players and matches. This dat
  
  **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
-| #      | Prize | Player | Pts    | Placements | Eliminations | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
-| :----: | :---  | :---   | :----: | :---       | :---         | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|MoH Makeouthill|60.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|2|bitz|ᴍᴏʟꜱᴏɴ|58.3|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
-|3|stars|Cal_N_Harps|51.4|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|4|nada!|CPK_kaso|48.0|7.0 <17,5,8,5,4>|4 (0.0) <1,0,2,1,0>|0|0|80%|166|![](https://media.fortniteapi.io/images/e7de829-056f91d-4744fc8-5009f62/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|5|?|Toxic_Phantom74|45.7|19.0 <43,2,10,19,25>|17 (3.0) <3,7,6,0,1>|0|0|60%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
-|6||Queenkilla2010|40.3|7.0 <11,8,2>|13 (4.0) <3,2,8>|0|0|67%|201|![](https://media.fortniteapi.io/images/d022593465f638bdcb656c69a5b1d89c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+| #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
+| :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|1|NPC!|CPK_kaso|6.0|1.0 <1>|0 (0.0) <0>|4|0|0|0%|172|![](https://media.fortniteapi.io/images/a743c6fa634f84ded8fadb10529677b3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
