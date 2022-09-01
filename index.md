@@ -32,21 +32,20 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-I'll be scoring MOH customs today, results posted about 5 minutes after each match. For now, check out the archive below for [PRIOR SESSIONS](#past-events).
+We're doing NPC Hunt today! DO NOT ELIMINATE OTHER HUMAN PLAYERS UNTIL FINAL CIRCLE(s), follow instruction on stream!
+
+### ACTIVE POINTS ALGORITHM 2022.09.01:
+- NPC Elim: 1pt per NPC eliminated
+- NPC Multipliers: 1.5x for the first 5 NPCs of the game
+- NPC Multipliers: **2.5x** for Vader, **1.5x** for Troopers
+- Bonus: 1 pt for thanking bus driver
+- _**PENALTY**_: -5.0 pts for being a butthead
+<br/>
+<br/>
 
 We had 5 matches with 187 unique people and the biggest lobby had 98 playing. We had 20 people who played every match. The highest XP level was 'MoH Andreaaa' at 389! The lowest XP was 'SikeBiShh91' at 10, welcome to our lobby, friend. Most common skin was Spider-Man (14 times), common axe was Harley Hitter (9 times). Guess what, we eliminated 11 NPCs, RIP! By the way, 20 people need to turn off ANONYMOUS MODE.
 
-### ACTIVE POINTS ALGORITHM 2022.08.27:
-- Placement: 1st = 5 pts down to 10th = 0.5 pt
-- Elim: 2 pt per elim (max 5 elims per match)
-- Survival: 0.15 pt per minute (about 3pts to end game)
-- Elim Siphon: 0.5 pt for each of your victim's kill count
-- Bonus: 8 pts if you're the first eliminated (self-elim doesn't count)
-- Bonus: 2 pt for thanking bus driver
-- _**PENALTY**_: -5.0 pts first elim of the game (NPC's don't count)
-- _**PENALTY**_: -10.0 pts for anonymous mode (each match)
-<br/>
-<br/>
+
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
 Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 13.0% of all points earned this session and 4.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
