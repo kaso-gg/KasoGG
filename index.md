@@ -46,19 +46,22 @@ We're doing NPC Hunt today! DO NOT ELIMINATE OTHER HUMAN PLAYERS UNTIL FINAL CIR
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-We had 2 matches with 7 unique people and the biggest lobby had 6 playing. We had 5 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Castaway Jonesy (1 times), common axe was A.R.G.U.S. Sabre (1 times). Guess what, we eliminated 50 NPCs, RIP! 
+We had 2 matches with 7 unique people and the biggest lobby had 6 playing. We had 5 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Castaway Jonesy (1 times), common axe was A.R.G.U.S. Sabre (1 times). Guess what, we eliminated 50 NPCs, RIP!  
+
+Nobody was on ANONYMOUS[] mode!
 
  
  **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|NPC!|Jarnguard|13.0|1.0 <1,1>|7 (3.0) <4,3>|10|1|0|100%|203|![](https://media.fortniteapi.io/images/b07eaa329e2ec5ba11837a2456b27a47/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bab19bc95178a0bc5c3b67dfe0ef4c75/transparent.png){:height="35px"}|
-|2|Bruh?|Jolee Knox|10.0|3.0 <2,4>|2 (1.0) <1,1>|9|0|0|100%|217|![](https://media.fortniteapi.io/images/47c8766ede59282f495f126a6d947d79/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|3|Boss|ᴍᴏʟꜱᴏɴ|9.5|5.0 <5>|0 (0.0) <0>|7|0|1|0%|204|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
-|4|Potato|CPK_kaso|7.0|3.0 <4,2>|0 (0.0) <0,0>|5|0|0|100%|176|![](https://media.fortniteapi.io/images/9d88670-4288dea-d7ee125-13f4556/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|5||Seven SIy|4.5|3.0 <4,2>|1 (0.0) <0,1>|2|1|0|100%|185|![](https://media.fortniteapi.io/images/3465cb35e5189c394c21a1694e165fab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e982968d59f16afb3b5c5f146aa3439/transparent.png){:height="35px"}|
-|6||CPK_jamieo|3.0|4.0 <5,3>|0 (0.0) <0,0>|1|0|1|100%|225|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|1|NPC Killah!|Jarnguard|15.5|1.0 <1,1>|7 (3.0) <4,3>|12|1|0|100%|203|![](https://media.fortniteapi.io/images/b07eaa329e2ec5ba11837a2456b27a47/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bab19bc95178a0bc5c3b67dfe0ef4c75/transparent.png){:height="35px"}|
+|2|u a bot|Jolee Knox|14.0|3.0 <2,4>|2 (1.0) <1,1>|13|0|0|100%|217|![](https://media.fortniteapi.io/images/47c8766ede59282f495f126a6d947d79/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|3|ok bruh?|ᴍᴏʟꜱᴏɴ|11.0|5.0 <5>|0 (0.0) <0>|8|0|1|0%|204|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
+|4|Potato|CPK_kaso|7.5|3.0 <4,2>|0 (0.0) <0,0>|6|0|0|100%|176|![](https://media.fortniteapi.io/images/9d88670-4288dea-d7ee125-13f4556/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|5||Seven SIy|5.5|3.0 <4,2>|1 (0.0) <0,1>|3|1|0|100%|185|![](https://media.fortniteapi.io/images/3465cb35e5189c394c21a1694e165fab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e982968d59f16afb3b5c5f146aa3439/transparent.png){:height="35px"}|
+|6||CPK_jamieo|5.0|4.0 <5,3>|0 (0.0) <0,0>|3|0|1|100%|225|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|7||Swando Gaming|1.0|3.0 <3>|0 (0.0) <0>|0|0|0|100%|158|![](https://media.fortniteapi.io/images/1ea5d86-7343f02-3247dc9-9a3096d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bd735515375038c413af419f49d12527/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
