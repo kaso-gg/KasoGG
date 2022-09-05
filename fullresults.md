@@ -5,6 +5,8 @@ excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7150318280681240"
+     crossorigin="anonymous"></script>
 
 ## What da dog doin?
 ## [GO BACK](https://www.kaso.gg)
