@@ -82,6 +82,8 @@ Nobody was on ANONYMOUS[] mode!
 
 # Past Events
 
+**2022.09.01** - [RESULTS](https://www.kaso.gg/2022_09_01_NPChunt) We were just goofing around and killing NPCs for fun! We had 2 matches with 7 unique people and the biggest lobby had 6 playing. We had 5 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Castaway Jonesy (1 times), common axe was A.R.G.U.S. Sabre (1 times). Guess what, we eliminated 50 NPCs, RIP!
+
 **2022.08.27** - [RESULTS](https://www.kaso.gg/2022_08_27_MOH) MOH did NOT ask me to do this, I just played customs and gathered data to learn more about my algorithms. Makeout is probably top 10 cracked players that I watch, his channel is [MakeouthillFB](https://www.twitch.tv/makeouthillfb).
 
 **2022.08.21** - [RESULTS](https://www.kaso.gg/2022_08_21_SkipTrios) Skip's informal trios, no build. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 4 matches, 46 unique players, biggest lobby 39. 14 gamers played every match tonight. Highest level player was AMYLCx at 311! Lowest level player was MTM3530 at 57. Most common skin was Son Goku, common axe was Ice Breaker.
