@@ -10,7 +10,7 @@ markdown: kramdown
 
 
 ![Doggo](/images/dogs/physicsDog1.png){:height="300px"}
-## Doggo did the math! Can pet now?
+## Doggo did the math!
 ## [GO BACK](https://www.kaso.gg)
 
 We had 5 matches with 187 unique people and the biggest lobby had 98 playing. We had 20 people who played every match. The highest XP level was 'MoH Andreaaa' at 389! The lowest XP was 'SikeBiShh91' at 10, welcome to our lobby, friend. Most common skin was Spider-Man (14 times), common axe was Harley Hitter (9 times). Guess what, we eliminated 11 NPCs, RIP! By the way, 20 people need to turn off ANONYMOUS MODE.
