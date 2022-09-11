@@ -34,23 +34,26 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-We're doing NPC Hunt today! DO NOT ELIMINATE OTHER HUMAN PLAYERS UNTIL FINAL CIRCLE(s), follow instruction on stream!
+I'm playing in [Sick Plays'](https://www.facebook.com/therealsickplays) customs tonight. I haven't watched him for quite a while but I've been following him and he does customs quite often so this might be a fun addition to that!
 
 ### ACTIVE POINTS ALGORITHM 2022.09.01:
-- NPC Elim: 1pt per NPC eliminated
+- Placement: 1st = 5 pts down to 10th = 0.5 pt
+- Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
+- Survival: 0.15 pt per minute (about 3pts to end game)
+- Elim Siphon: 0.5 pt for each of your victim's kill count
+- PENALTY: -5 pts first elim of the game (NPC's don't count)
+- Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
+- Bonus: 2 pt for thanking bus driver
+
 - NPC Multipliers: 1.5x for the first 5 NPCs of the game
 - NPC Multipliers: **2.5x** for Vader, **1.5x** for Troopers
-- Bonus: 1 pt for thanking bus driver
-- _**PENALTY**_: -5.0 pts for being a butthead
 <br/>
 <br/>
 
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-We had 2 matches with 7 unique people and the biggest lobby had 6 playing. We had 5 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Castaway Jonesy (1 times), common axe was A.R.G.U.S. Sabre (1 times). Guess what, we eliminated 50 NPCs, RIP!  
-
-Nobody was on ANONYMOUS[] mode!
+Tune in about 5 minutes after each match tonight to see the standings! Until after the first game, the table below is a PLACEHOLDER table!
 
  
  **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
@@ -73,8 +76,6 @@ Nobody was on ANONYMOUS[] mode!
 <br/>
 
 # Upcoming tournaments and Customs
-
-**August 2022** - Skip's Trios tournament. More to come on this soon.  
 
 **October 2022** - CPK's CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
