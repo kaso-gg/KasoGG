@@ -36,15 +36,14 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
 I'm playing in [Sick Plays'](https://www.facebook.com/therealsickplays) customs tonight. I haven't watched him for quite a while but I've been following him and he does customs quite often so this might be a fun addition to that!
 
-### ACTIVE POINTS ALGORITHM 2022.09.01:
+### ACTIVE POINTS ALGORITHM 2022.09.11:
 - Placement: 1st = 5 pts down to 10th = 0.5 pt
-- Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
-- Survival: 0.15 pt per minute (about 3pts to end game)
+- Noc/Elim: 1 pt per elim
 - Elim Siphon: 0.5 pt for each of your victim's kill count
-- PENALTY: -5 pts first elim of the game (NPC's don't count)
+- Survival: 0.15 pt per minute (about 3pts to end game)
+- PENALTY: -5 pts fimrst elim of the game (NPC's don't count)
 - Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
 - Bonus: 2 pt for thanking bus driver
-
 - NPC Multipliers: 1.5x for the first 5 NPCs of the game
 - NPC Multipliers: **2.5x** for Vader, **1.5x** for Troopers
 <br/>
