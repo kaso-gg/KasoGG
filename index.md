@@ -53,20 +53,20 @@ I'm playing in [Sick Plays'](https://www.facebook.com/therealsickplays) customs 
 
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
-Tune in about 5 minutes after each match tonight to see the standings! Until after the first game, the table below is a PLACEHOLDER table!
+Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click the [link](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR tells you your thank rate (%) to the bus driver.
 
- 
- **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|NPC Killah!|Jarnguard|15.5|1.0 <1,1>|7 (3.0) <4,3>|12|1|0|100%|203|![](https://media.fortniteapi.io/images/b07eaa329e2ec5ba11837a2456b27a47/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bab19bc95178a0bc5c3b67dfe0ef4c75/transparent.png){:height="35px"}|
-|2|u a bot|Jolee Knox|14.0|3.0 <2,4>|2 (1.0) <1,1>|13|0|0|100%|217|![](https://media.fortniteapi.io/images/47c8766ede59282f495f126a6d947d79/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|3|ok bruh?|ᴍᴏʟꜱᴏɴ|11.0|5.0 <5>|0 (0.0) <0>|8|0|1|0%|204|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
-|4|Potato|CPK_kaso|7.5|3.0 <4,2>|0 (0.0) <0,0>|6|0|0|100%|176|![](https://media.fortniteapi.io/images/9d88670-4288dea-d7ee125-13f4556/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|5||Seven SIy|5.5|3.0 <4,2>|1 (0.0) <0,1>|3|1|0|100%|185|![](https://media.fortniteapi.io/images/3465cb35e5189c394c21a1694e165fab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e982968d59f16afb3b5c5f146aa3439/transparent.png){:height="35px"}|
-|6||CPK_jamieo|5.0|4.0 <5,3>|0 (0.0) <0,0>|3|0|1|100%|225|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
-|7||Swando Gaming|1.0|3.0 <3>|0 (0.0) <0>|0|0|0|100%|158|![](https://media.fortniteapi.io/images/1ea5d86-7343f02-3247dc9-9a3096d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bd735515375038c413af419f49d12527/transparent.png){:height="35px"}|
+
+|1|G^gg|MoH Makeouthill|59.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|2|bitties|ᴍᴏʟꜱᴏɴ|56.8|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
+|3|stars|Cal_N_Harps|48.9|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|4|nada!|CPK_kaso|46.1|7.0 <17,5,8,5,4>|4 (0.0) <1,0,2,1,0>|0|0|0|80%|166|![](https://media.fortniteapi.io/images/e7de829-056f91d-4744fc8-5009f62/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|5|bruh?|Toxic_Phantom74|43.2|19.0 <43,2,10,19,25>|17 (3.0) <3,7,6,0,1>|0|0|0|60%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
+|6||YourDoody|40.3|6.0 <10,3>|21 (10.0) <11,10>|0|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
+
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
