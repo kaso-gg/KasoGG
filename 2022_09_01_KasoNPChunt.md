@@ -47,8 +47,4 @@ Below are the full results for the tournament. Click [here](https://www.kaso.gg)
 |6||CPK_jamieo|5.0|4.0 <5,3>|0 (0.0) <0,0>|3|0|1|0|100%|225|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
 |7||Swando Gaming|1.0|3.0 <3>|0 (0.0) <0>|0|0|0|0|100%|158|![](https://media.fortniteapi.io/images/1ea5d86-7343f02-3247dc9-9a3096d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bd735515375038c413af419f49d12527/transparent.png){:height="35px"}|
 
-
-
-
-
 ## [GO BACK](https://www.kaso.gg)
