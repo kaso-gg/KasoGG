@@ -3,6 +3,20 @@
      crossorigin="anonymous"></script>
 
 <style>
+body {
+  background: url("/images/dogs/chalkboardDog1.png") repeat;
+}
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
+}
+</style>
+<style>
       .tableFixHead {
         overflow-y: auto;
         height: 195px;
@@ -24,6 +38,9 @@
         background: #eee;
       }
 </style>
+
+<img id="banner" src="mybannerimage.gif" alt="Banner Image"/>
+
 
 
 # ![Doggo](/images/dogs/chalkboardDog1.png){:height="150px"} Doggo is cALcuLaTINg...
