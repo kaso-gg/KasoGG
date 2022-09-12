@@ -19,6 +19,7 @@ Most common emotes: CrowningAchievement(4), LaughItUp(3), Drippin'Flavor(2)
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
 Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 17.7% of the points were given out for thanking the bus driver, LOL.
+
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
 |62|00|62|0.0%|0.0%|0.0%|17.7%|0.0%|0.0%|0.0%|82.3%|
@@ -38,7 +39,6 @@ Below are the full results for the tournament. Click [here](https://www.kaso.gg)
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-
 |1|NPC Killah!|Jolee Knox|17.0|3.0 <2,4>|2 (1.0) <1,1>|13|0|0|1|100%|217|![](https://media.fortniteapi.io/images/47c8766ede59282f495f126a6d947d79/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
 |2|u a bot|Jarnguard|15.5|1.0 <1,1>|7 (3.0) <4,3>|12|1|0|1|100%|203|![](https://media.fortniteapi.io/images/b07eaa329e2ec5ba11837a2456b27a47/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bab19bc95178a0bc5c3b67dfe0ef4c75/transparent.png){:height="35px"}|
 |3|ok bruh?|ᴍᴏʟꜱᴏɴ|9.5|5.0 <5>|0 (0.0) <0>|8|0|1|0|0%|204|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
