@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7150318280681240"
      crossorigin="anonymous"></script>
 
-<style>
+<!-- <style>
 body {
   background: url("/images/dogs/chalkboardDog1.png") repeat;
 }
@@ -16,7 +16,7 @@ body {
   z-index: -1;
 }
 </style>
-<img id="banner" src="/images/dogs/chalkboardDog1.png" alt="Banner Image"/>
+<img id="banner" src="/images/dogs/chalkboardDog1.png" alt="Banner Image"/> -->
 
 <style>
       .tableFixHead {
