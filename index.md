@@ -34,9 +34,9 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-I'm playing in [Sick Plays'](https://www.facebook.com/therealsickplays) customs tonight. I haven't watched him for quite a while but I've been following him and he does customs quite often so this might be a fun addition to that!
+Next time I play some customs, either mine or someone else's, I'll be updaing this about 5 minutes after every match we play. I have to be in the customs and either win (LOL) or at least spectate to the end so I have a full replay file. Then I load and process that data and present it here. We can create a LOT of different scoring algorithms.
 
-### ACTIVE POINTS ALGORITHM 2022.09.11:
+### ACTIVE POINTS ALGORITHM FOR NEXT EVENT:
 - Placement: 1st is 5 pts down to 10th = 0.5 pt
 - Noc/Elim: 1 pt per elim
 - Elim Siphon: 0.5 pt for each of your victim's kill count
@@ -51,7 +51,6 @@ I'm playing in [Sick Plays'](https://www.facebook.com/therealsickplays) customs 
 <br/>
 <br/>
 
-
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click the [link](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR tells you your thank rate (%) to the bus driver.
@@ -60,7 +59,6 @@ Tune in about 5 minutes after each match tonight to see the standings! Only the 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-
 |1|G^gg|MoH Makeouthill|59.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
 |2|bitties|ᴍᴏʟꜱᴏɴ|56.8|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
 |3|stars|Cal_N_Harps|48.9|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
