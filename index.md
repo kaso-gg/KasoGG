@@ -16,6 +16,8 @@ body {
   z-index: -1;
 }
 </style>
+<img id="banner" src="/images/dogs/chalkboardDog1.png" alt="Banner Image"/>
+
 <style>
       .tableFixHead {
         overflow-y: auto;
@@ -39,7 +41,6 @@ body {
       }
 </style>
 
-<img id="banner" src="mybannerimage.gif" alt="Banner Image"/>
 
 
 
@@ -51,7 +52,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->
 <!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-Next time I play some customs, either mine or someone else's, I'll be updaing this about 5 minutes after every match we play. I have to be in the customs and either win (LOL) or at least spectate to the end so I have a full replay file. Then I load and process that data and present it here. We can create a LOT of different scoring algorithms.
+Next time I play some customs, either mine or someone else's, I'll be updaing this about 5 minutes after every match we play. I have to be in the customs and either win (yeah, right!) or at least spectate to the end so I have a full replay file. Then I load and process that data and present it here. We can create a LOT of different scoring algorithms.
 
 ### ACTIVE POINTS ALGORITHM FOR NEXT EVENT:
 - Placement: 1st is 5 pts down to 10th = 0.5 pt
