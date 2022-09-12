@@ -25,12 +25,8 @@ Here's a breakdown of points allocation across all players and matches. This dat
 |62|00|62|0.0%|0.0%|0.0%|17.7%|0.0%|0.0%|0.0%|82.3%|
 
 ### ACTIVE POINTS ALGORITHM 2022.08.27:
-- Placement: 1st = 5 pts down to 10th = 0.5 pt
-- Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
-- Survival: 0.15 pt per minute (about 3pts to end game)
-- Elim Siphon: 0.5 pt for each of your victim's kill count
-- PENALTY: -5 pts first elim of the game (NPC's don't count)
-- Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
+- NPCs: 1.5 pt for the first 5 NPCs of the game, 1.0 pt for all others
+- NPC Multipliers: **2.5x** for Vader, **1.5x** for Troopers
 - Bonus: 2 pt for thanking bus driver
 <br>
 <br>
@@ -46,5 +42,6 @@ Below are the full results for the tournament. Click [here](https://www.kaso.gg)
 |5||Seven SIy|5.5|3.0 <4,2>|1 (0.0) <0,1>|3|1|0|0|100%|185|![](https://media.fortniteapi.io/images/3465cb35e5189c394c21a1694e165fab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e982968d59f16afb3b5c5f146aa3439/transparent.png){:height="35px"}|
 |6||CPK_jamieo|5.0|4.0 <5,3>|0 (0.0) <0,0>|3|0|1|0|100%|225|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
 |7||Swando Gaming|1.0|3.0 <3>|0 (0.0) <0>|0|0|0|0|100%|158|![](https://media.fortniteapi.io/images/1ea5d86-7343f02-3247dc9-9a3096d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bd735515375038c413af419f49d12527/transparent.png){:height="35px"}|
+
 
 ## [GO BACK](https://www.kaso.gg)
