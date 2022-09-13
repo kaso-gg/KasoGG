@@ -1,228 +1,724 @@
 ---
-permalink: /fullresults/
-title: "full score results"
+permalink: / killfeed /
+title: "full killfeed"
 excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7150318280681240"
-     crossorigin="anonymous"></script>
-
-
-![Doggo](/images/dogs/physicsDog1.png){height="300px"}
-## Doggo did the math!
-## [GO BACK](https://www.kaso.gg)
-
-We had 5 matches with 187 unique people and the biggest lobby had 98 playing. We had 20 people who played every match. The highest XP level was 'MoH Andreaaa' at 389! The lowest XP was 'SikeBiShh91' at 10, welcome to our lobby, friend. Most common skin was Spider-Man (14 times), common axe was Harley Hitter (9 times). Guess what, we eliminated 11 NPCs, RIP! By the way, 20 people need to turn off ANONYMOUS MODE.
-
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that elims accounted for 13.0% of all points earned this session and 4.0% of the points were given out for just being the first one to be eliminated, LOL. E1 are points for getting first elimination and D1 is for being the first one to BE eliminated. TR is the bus driver thanks percentage!
-
-| Points | Penalties | Placement | Elims  | NPCKill | Survival | Siphon | FirstElim | FirstDead | ThanksBus |
-| :----: | :----:    | :----:    | :----: | :----:  | :----:   | :----: | :----:    | :----:    | :----:    |
-|2,844|35.8%|11.2%|13.0%|0.3%|34.4%|9.3%|-1.7%|4.0%|10.0%|
-
-### ACTIVE POINTS ALGORITHM 2022.08.27:
-- Placement: 1st = 5 pts down to 10th = 0.5 pt
-- Noc/Elim: 2 pt per knock, 0.5 pt per elim (let 'em revive...knock again!)
-- Survival: 0.15 pt per minute (about 3pts to end game)
-- Elim Siphon: 0.5 pt for each of your victim's kill count
-- PENALTY: -5 pts first elim of the game (NPC's don't count)
-- Bonus: 15 pts if you're the first eliminated (self-elim doesn't count)
-- Bonus: 2 pt for thanking bus driver
-<br>
-<br>
-
-Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click the [link](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR tells you your thank rate (%) to the bus driver.
-
-| #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
-| :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|<span style="color:red">MoH MAkeoutHill</span>|59.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|2|bitties|ᴍᴏʟꜱᴏɴ|56.8|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
-|3|stars|Cal_N_Harps|48.9|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|4|nada!|CPK_kaso|46.1|7.0 <17,5,8,5,4>|4 (0.0) <1,0,2,1,0>|0|0|0|80%|166|![](https://media.fortniteapi.io/images/e7de829-056f91d-4744fc8-5009f62/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|5|bruh?|Toxic_Phantom74|43.2|19.0 <43,2,10,19,25>|17 (3.0) <3,7,6,0,1>|0|0|0|60%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
-|6||YourDoody|40.3|6.0 <10,3>|21 (10.0) <11,10>|0|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
-|7||Queenkilla2010|39.3|7.0 <11,8,2>|13 (4.0) <3,2,8>|1|0|0|67%|201|![](https://media.fortniteapi.io/images/d022593465f638bdcb656c69a5b1d89c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|8||MoH_Otter|38.5|6.0 <14,3,1>|9 (3.0) <4,2,3>|0|0|0|67%|201|![](https://media.fortniteapi.io/images/5b576af424b02fcdd6d426f1aedd91f1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d0ede8f-343a5e4-ca342cf-06f23a6/transparent.png){:height="35px"}|
-|9||Persicutor|37.0|27.0 <72,7,2>|17 (5.0) <0,4,13>|0|0|0|0%|161|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3eda364936b106774751de0e64c8cbde/transparent.png){:height="35px"}|
-|10|zen|Krasnog|36.8|20.0 <36,43,4,15,5>|8 (1.0) <1,0,3,2,2>|1|0|0|20%|245|![](https://media.fortniteapi.io/images/d7ea0328a1474646b5c438491c6847f8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1f18a85caee1471299cc4fb885846984/transparent.png){:height="35px"}|
-|11||FuriousLion3158|34.7|18.0 <20,36,16,1>|15 (3.0) <1,0,2,12>|1|0|0|0%|250|![](https://media.fortniteapi.io/images/5ca15d1e9ebabe7dee16301dd2e06985/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|12||toxicCROW28|32.3|25.0 <32,61,1,16,19>|8 (1.0) <0,0,8,0,0>|0|0|0|40%|221|![](https://media.fortniteapi.io/images/f154ad1a24b0815edd5d4223c8c792a2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a817c3a32ef8cd4e870302a04af7da99/transparent.png){:height="35px"}|
-|13||CPK_jamieo|28.8|19.0 <46,34,8,5,4>|2 (0.0) <0,1,0,1,0>|0|0|0|100%|217|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
-|14||Yungdabs710|28.5|20.0 <61,9,3,9>|6 (1.0) <1,2,3,0>|0|0|0|75%|127|![](https://media.fortniteapi.io/images/c54d8e5-04f8202-3496995-0826561/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d0ede8f-343a5e4-ca342cf-06f23a6/transparent.png){:height="35px"}|
-|15||taylar02|27.6|17.0 <18,6,14,32>|7 (1.0) <5,2,0,0>|1|0|0|100%|229|![](https://media.fortniteapi.io/images/d958ca67fcc248e83c3fc8972c67ca0b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dba7ba145f6ae129a4682345015426e6/transparent.png){:height="35px"}|
-|16|sweet|TAYVEA-|26.1|15.0 <8,30,9,14>|4 (1.0) <1,2,1,0>|0|0|0|75%|167|![](https://media.fortniteapi.io/images/bb70612d4b1546e71b76e9b0a9bbbc81/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|17||returned_to_zero|26.1|5.0 <8,2>|10 (5.0) <4,6>|0|0|0|100%|325|![](https://media.fortniteapi.io/images/f0583410ad54e80d9f3a3a93d6469689/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|18||Nicholas3206|25.9|4.0 <3,6>|7 (3.0) <4,3>|0|0|0|100%|315|![](https://media.fortniteapi.io/images/d6400d2b9f845912f10d954d324e373c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|19||JoshxEffect|25.4|4.0 <2,4,7>|3 (1.0) <1,2,0>|0|0|0|67%|189|![](https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9366ae4dd409282c967f089e65a5d6fa/transparent.png){:height="35px"}|
-|20||Dr_Tweak98|25.4|18.0 <13,48,2,22,5>|1 (0.0) <1,0,0,0,0>|0|0|0|100%|145|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3eb13f2ff6536ebb1986d2c443221d1b/transparent.png){:height="35px"}|
-|21|cheers!|MoH Andreaaa|23.3|17.0 <16,10,20,25>|7 (1.0) <3,3,0,1>|0|0|0|75%|389|![](https://media.fortniteapi.io/images/eb15c77-d0ac8ec-ca444b0-c61443d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bf781d1-baafaa7-40a5dc8-7bb3923/transparent.png){:height="35px"}|
-|22||mikepal75|23.0|21.0 <24,10,42,21,8>|4 (0.0) <0,3,1,0,0>|1|0|0|80%|171|![](https://media.fortniteapi.io/images/f6171437ddc6fc5d429b8176e2b8c17a/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|23||Whitt-ley7|22.8|21.0 <2,50,33,11,12>|2 (0.0) <1,0,0,0,1>|0|0|0|100%|222|![](https://media.fortniteapi.io/images/5fa0c7e1dd44bca0d27a9970373b76aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ff57ea99bf4e4b4f4fff09a2026468df/transparent.png){:height="35px"}|
-|24||TTV kyraluvsyu|22.4|1.0 <1>|9 (9.0) <9>|0|0|0|100%|185|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|25||W0ahcheyenne|22.3|19.0 <53,12,9,12,9>|5 (1.0) <0,2,0,0,3>|0|0|0|100%|133|![](https://media.fortniteapi.io/images/e6c8a85491ebb68487db2ce26f97d353/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b4e367781ba31cd934ce595f38e34804/transparent.png){:height="35px"}|
-|26||TwoTaps27|21.2|29.0 <47,39,27,5>|5 (1.0) <0,0,2,3>|0|0|0|25%|174|![](https://media.fortniteapi.io/images/67e8ee7547ed70dd032738ea318b5d83/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|27||BlakHart318|20.7|32.0 <22,57,45,4>|6 (1.0) <2,2,0,2>|0|0|0|100%|290|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a2cc22d2f7dc9b3133be728e06948897/transparent.png){:height="35px"}|
-|28||AutoRick4223|20.2|44.0 <85,38,21,33>|0 (0.0) <0,0,0,0>|0|0|1|75%|124|![](https://media.fortniteapi.io/images/50880d15eb86d414d6752e5c1664c4a3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3ed9f823b78df8f6abe48ce0b7068bfc/transparent.png){:height="35px"}|
-|29||FritoLay19|20.2|22.0 <14,42,35,7,15>|2 (0.0) <1,0,0,1,0>|0|0|0|100%|261|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
-|30||liaawoo-_-|19.8|23.0 <54,4,3,32>|0 (0.0) <0,0,0,0>|0|0|0|75%|149|![](https://media.fortniteapi.io/images/bc508798c1edd8aeb4d0c1a311ca6d4d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8fdcb662208513beca0c8733c7ab79cf/transparent.png){:height="35px"}|
-|31||Suckmyforkknife0|19.4|24.0 <64,8,22,13,15>|2 (0.0) <0,1,0,1,0>|0|0|0|100%|157|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7885def9e00dc1b837d6dee28e288a36/transparent.png){:height="35px"}|
-|32||CoalhouseJr92|18.8|16.0 <24,26,6,8>|0 (0.0) <0,0,0,0>|0|0|0|100%|197|![](https://media.fortniteapi.io/images/ef4cc2fe80330ddf949d0f1f5347baad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e975445af41d5ceaa58aeaa1bcc31c2c/transparent.png){:height="35px"}|
-|33||Silent sender|18.3|4.0 <2,7>|0 (0.0) <0,0>|0|0|0|0%|136|![](https://media.fortniteapi.io/images/59fac2759bcfa512a316f14c44bdb490/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a660570-f091b29-1decbf3-39fe9e6/transparent.png){:height="35px"}|
-|34||CheefTuckTTV|18.2|21.0 <35,23,16,11,22>|6 (1.0) <1,0,2,1,2>|0|0|0|60%|110|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb73b854b9bf688af5f6aeba775e3930/transparent.png){:height="35px"}|
-|35||PuppyisEvil|17.2|16.0 <19,6,23,18>|2 (0.0) <0,1,1,0>|0|0|0|25%|49|![](https://media.fortniteapi.io/images/8e5194a7a80141a1723ee25e8a4d00b3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
-|36||Rapid_DryFire|17.1|3.0 <3>|4 (4.0) <4>|0|0|0|0%|246|![](https://media.fortniteapi.io/images/67b4683d51b6d2d238816acaf04ff137/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/05c48936305179b91613cac98be12beb/transparent.png){:height="35px"}|
-|37||Volleyjuless|16.8|20.0 <18,4,40>|2 (0.0) <0,2,0>|0|0|0|100%|208|![](https://media.fortniteapi.io/images/ec72faa4d3b15d6b40726cd424122b1e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|38||Onelife84|16.3|30.0 <51,32,38,20,10>|2 (0.0) <0,0,0,0,2>|0|0|0|100%|267|![](https://media.fortniteapi.io/images/a7c4ac265dc8782c783abf34bb898810/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
-|39||MR KC SPAMZ|16.0|7.0 <2,12>|5 (2.0) <2,3>|0|0|0|100%|265|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1c432ada4a32eb8e52774014785040ab/transparent.png){:height="35px"}|
-|40||BlAcK DoMiNA X|15.6|21.0 <6,35,10,34>|0 (0.0) <0,0,0,0>|0|0|0|100%|191|![](https://media.fortniteapi.io/images/eb483de666fb636b486502808a081636/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d37da7642848be3f562806dd2247eeb5/transparent.png){:height="35px"}|
-|41||Kosmire1|15.3|28.0 <77,3,16,17>|0 (0.0) <0,0,0,0>|0|0|0|0%|125|![](https://media.fortniteapi.io/images/f7605c831db2916f1a2ba1572059ca8b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/aacdadc2d345966bfa9b943fbc3db355/transparent.png){:height="35px"}|
-|42||Sinatraa600|15.2|14.0 <22,21,7,7>|1 (0.0) <0,0,0,1>|0|0|0|0%|117|![](https://media.fortniteapi.io/images/c56528f2fecd2ae1594af7a637e6e43c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b4e4558238fbaf2a700434ef1220d730/transparent.png){:height="35px"}|
-|43||MattInTheHat97|15.2|33.0 <21,38,40>|3 (1.0) <2,1,0>|0|0|0|100%|217|![](https://media.fortniteapi.io/images/43351bc685621b3ed2a66fce93484d00/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/29bb311ca8def3abb5e485a31c68a32d/transparent.png){:height="35px"}|
-|44||RagingMattman|15.0|19.0 <19>|5 (5.0) <5>|0|0|0|0%|95|![](https://media.fortniteapi.io/images/4ce525d43c2ecf040445aaf5bece48b5/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/03088c7e387144bc5333f6e78e6809fa/transparent.png){:height="35px"}|
-|45||Justtrey49er|14.9|14.0 <5,12,26>|2 (0.0) <2,0,0>|0|0|0|100%|196|![](https://media.fortniteapi.io/images/f0f2cc5d85040c437d55217f7f18fd34/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/78fbd0cbbcbf7d843ca48d5af1062314/transparent.png){:height="35px"}|
-|46||jellycatkern514|14.8|30.0 <34,70,29,7,11>|0 (0.0) <0,0,0,0,0>|0|0|0|0%|267|![](https://media.fortniteapi.io/images/f647b07e70d199b906978f3302f6dc08/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/29bb311ca8def3abb5e485a31c68a32d/transparent.png){:height="35px"}|
-|47||WubaLubaDub9613|14.7|24.0 <25,30,15,21,31>|2 (0.0) <0,0,1,0,1>|0|0|0|80%|56|![](https://media.fortniteapi.io/images/e67475a13c9e175102842ec42e7db8d8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9157c23-456079b-432ab35-ab64fb4/transparent.png){:height="35px"}|
-|48||iron.dog.|14.4|7.0 <7,7>|1 (0.0) <1,0>|0|0|0|100%|208|![](https://media.fortniteapi.io/images/d022593465f638bdcb656c69a5b1d89c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f141da0851c36ffe9357b1f55c340963/transparent.png){:height="35px"}|
-|49||Ag8teFirE|14.4|15.0 <1,29>|3 (1.0) <3,0>|0|0|0|100%|258|![](https://media.fortniteapi.io/images/142913526bf1b32ba9433bf5de83e010/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
-|50||JessMonique2072|13.1|55.0 <67,62,36>|0 (0.0) <0,0,0>|0|0|1|100%|214|![](https://media.fortniteapi.io/images/f2040b70dbb8f1edff6e3a9bf4449f25/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0d37cb24e1ac0102361de0b4c0df269f/transparent.png){:height="35px"}|
-|51||ItsDrakeFam|12.7|13.0 <26,6,8>|0 (0.0) <0,0,0>|0|0|0|100%|81|![](https://media.fortniteapi.io/images/db69abc9a8fd8498aef457a86f500680/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b4e4558238fbaf2a700434ef1220d730/transparent.png){:height="35px"}|
-|52||DustyCottonball|12.7|36.0 <51,48,19,26>|2 (0.0) <1,0,1,0>|0|0|0|75%|153|![](https://media.fortniteapi.io/images/493fdcd5f6cf1f921f7c7f809a224d01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|53||Fl0ww_XD|12.6|16.0 <10,22>|1 (0.0) <0,1>|0|0|0|0%|97|![](https://media.fortniteapi.io/images/cd829bb0885a3dd072fb383236898c58/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
-|54||stealthy-treat6|12.6|67.0 <48,86>|0 (0.0) <0,0>|0|0|1|100%|125|![](https://media.fortniteapi.io/images/f36e2e79c7c7cad6c98d560dec438899/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a4d1f456a862c9912ebd9e0f7b02fa98/transparent.png){:height="35px"}|
-|55||SikeBiShh91|12.6|28.0 <48,16,21>|0 (0.0) <0,0,0>|0|0|1|100%|10|![](https://media.fortniteapi.io/images/c4d9480a09360cce72c922389d99ff64/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|56||SmashhNtrashh|12.4|4.0 <4>|3 (3.0) <3>|0|0|0|100%|191|![](https://media.fortniteapi.io/images/142913526bf1b32ba9433bf5de83e010/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/29bb311ca8def3abb5e485a31c68a32d/transparent.png){:height="35px"}|
-|57||MoH_AimyLynn|12.3|22.0 <42,2>|0 (0.0) <0,0>|0|0|0|50%|120|![](https://media.fortniteapi.io/images/7ef5c2d3fe4d91ba496ebfb9cf6040ec/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/79891fa044fe109050926417c6772746/transparent.png){:height="35px"}|
-|58||KoS SillyFawn|12.2|13.0 <17,11,13>|7 (2.0) <3,0,4>|0|1|0|100%|157|![](https://media.fortniteapi.io/images/b8b6e61-88a5b7e-fc194d0-d0c168c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/44df8218e7788a008d6b21ba1d97f946/transparent.png){:height="35px"}|
-|59||LooseClipz-19|12.1|21.0 <43,1,21>|0 (0.0) <0,0,0>|0|0|0|0%|141|![](https://media.fortniteapi.io/images/45e8d8be454a132b1731d56c9e9ec2bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|60||Lilrondog216650|11.8|21.0 <31,6,27>|1 (0.0) <0,1,0>|1|0|0|67%|117|![](https://media.fortniteapi.io/images/1c2c31593cb70c6624ddaa99d4d916b2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/96923ae-737f388-60916f1-83b0916/transparent.png){:height="35px"}|
-|61||Ky3lliot|11.8|16.0 <14,19>|0 (0.0) <0,0>|0|0|1|0%|134|![](https://media.fortniteapi.io/images/7b23e64-79f03b2-8b66d60-f62427c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/faafdc1-6d061b6-fd4ba86-88fb926/transparent.png){:height="35px"}|
-|62||BigJoeee420|11.4|17.0 <16,13,22>|3 (1.0) <2,1,0>|0|0|0|0%|94|![](https://media.fortniteapi.io/images/0d13fd9-4330b64-620dedb-bbd40b9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|63||GrizzyWright703|11.4|18.0 <2,34>|1 (0.0) <1,0>|0|0|0|100%|109|![](https://media.fortniteapi.io/images/887cbde3ba5120dda6d504dd8e85a417/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/05c48936305179b91613cac98be12beb/transparent.png){:height="35px"}|
-|64||MoH MrsGines|11.1|31.0 <45,52,19,11>|1 (0.0) <0,0,0,1>|0|0|0|75%|197|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
-|65||OG Khaleesii|10.8|20.0 <28,13>|3 (1.0) <1,2>|0|0|0|100%|107|![](https://media.fortniteapi.io/images/6ee43a20a84f5fffebfe008e176575a1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/cb912b1144851a0a6c17485ee2ec53a1/transparent.png){:height="35px"}|
-|66||jethro50457|10.6|27.0 <62,29,14,3>|2 (0.0) <1,1,0,0>|0|1|0|75%|121|![](https://media.fortniteapi.io/images/dbb3155fb624a0eb2657735c1d35364f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bcb936b-e88999a-f701fea-afe213e/transparent.png){:height="35px"}|
-|67||fatboyCharles420|10.4|49.0 <65,69,36,26>|0 (0.0) <0,0,0,0>|0|0|0|75%|37|![](https://media.fortniteapi.io/images/a340e798cf705bfd7e60da8518705189/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
-|68||thebirdbabee|10.3|31.0 <42,20>|5 (2.0) <0,5>|0|0|0|0%|171|![](https://media.fortniteapi.io/images/bfdf632-11c87bc-fed2833-97a64dc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8d7b7960776bd3be44711d8b3c7731c6/transparent.png){:height="35px"}|
-|69||rated_v4VENOM11|10.3|18.0 <28,9>|1 (0.0) <1,0>|2|0|0|0%|131|![](https://media.fortniteapi.io/images/addacc3-e8cc989-58770ab-49e6656/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|70||tehh asian|10.1|13.0 <15,12>|5 (2.0) <0,5>|0|0|0|50%|49|![](https://media.fortniteapi.io/images/0961782-0c80ab5-6fbbc33-69160f0/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bf781d1-baafaa7-40a5dc8-7bb3923/transparent.png){:height="35px"}|
-|71||Compass0920|9.7|50.0 <27,73>|2 (1.0) <2,0>|0|0|0|50%|106|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|72||nuperspectiv|9.6|62.0 <40,84>|0 (0.0) <0,0>|0|0|0|100%|254|![](https://media.fortniteapi.io/images/e91f3512574814c859404056cda0ef94/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dfd7a3a03fb1ee16192e8aa30544eda3/transparent.png){:height="35px"}|
-|73||ninjadeer3|9.6|33.0 <11,56>|2 (1.0) <2,0>|0|0|0|50%|97|![](https://media.fortniteapi.io/images/f36e2e79c7c7cad6c98d560dec438899/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7ca1c9bec0e166a8ab4045db06f307fc/transparent.png){:height="35px"}|
-|74||LLito178|9.3|18.0 <26,9,19>|0 (0.0) <0,0,0>|0|0|0|33%|229|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d7fdc43a055eb432c01c2a3591dbcd00/transparent.png){:height="35px"}|
-|75||aytondan|9.2|34.0 <39,60,19,20>|1 (0.0) <0,0,1,0>|0|0|0|50%|119|![](https://media.fortniteapi.io/images/d454d00bb470afece897ed54e577fd35/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3591ee17867120d32feedd8945028f36/transparent.png){:height="35px"}|
-|76||smooter33|9.2|14.0 <22,6>|3 (1.0) <2,1>|0|0|0|50%|97|![](https://media.fortniteapi.io/images/142913526bf1b32ba9433bf5de83e010/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|77||KVANDYSTEIN|8.7|30.0 <37,24>|3 (1.0) <3,0>|0|0|0|100%|124|![](https://media.fortniteapi.io/images/9ef8a5f2ce2eec295d3bf0aa460fb592/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b754ae2385ba2fc9f583463b8a2d4f2a/transparent.png){:height="35px"}|
-|78||Soul_of_Shadows|8.5|4.0 <8,1>|5 (2.0) <2,3>|0|0|0|100%|118|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b83fc2365d120052de1e245252f73e60/transparent.png){:height="35px"}|
-|79||visceral virus|8.1|20.0 <20,20>|2 (1.0) <2,0>|0|0|0|50%|110|![](https://media.fortniteapi.io/images/c7a771512d96d090ff0bbfff851613e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
-|80||isabelbee22|8.0|8.0 <3,13>|1 (0.0) <0,1>|0|0|0|50%|132|![](https://media.fortniteapi.io/images/55f5cd4bd2720606751b71b04dce9c6e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/751ae30d771f85f1dd8b1a670873e574/transparent.png){:height="35px"}|
-|81||itsvare|7.9|66.0 <66>|0 (0.0) <0>|0|0|0|100%|172|![](https://media.fortniteapi.io/images/e6ee86ae0f913e32d201cb97daf31ed1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dfd7a3a03fb1ee16192e8aa30544eda3/transparent.png){:height="35px"}|
-|82||Magoo8351|7.8|3.0 <3>|0 (0.0) <0>|0|0|0|100%|208|![](https://media.fortniteapi.io/images/8a8f97e1b4e940746c5372bbb643a5dc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/726105a63177df0c85502e95b21d4786/transparent.png){:height="35px"}|
-|83||the_livid_joker|7.7|46.0 <68,25>|1 (0.0) <0,1>|0|0|0|50%|173|![](https://media.fortniteapi.io/images/b954f412518352259111c2813f90e2b4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|84||spiderman111280|7.5|12.0 <12,12>|0 (0.0) <0,0>|0|0|0|100%|226|![](https://media.fortniteapi.io/images/9ef8a5f2ce2eec295d3bf0aa460fb592/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3b0592f38af43c3107953c3b077e5660/transparent.png){:height="35px"}|
-|85||Pengy.x|7.3|43.0 <75,12>|0 (0.0) <0,0>|0|0|0|100%|92|![](https://media.fortniteapi.io/images/b5acca5f9e0460f0120be44db1bc8ae1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
-|86||MoH LOOKatMe|7.1|21.0 <30,13>|0 (0.0) <0,0>|0|0|0|100%|100|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|87||GageCrowell|7.0|27.0 <25,30>|0 (0.0) <0,0>|0|0|0|100%|204|![](https://media.fortniteapi.io/images/f7605c831db2916f1a2ba1572059ca8b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|88||MoH_Ben-Dover|6.9|47.0 <23,71>|1 (0.0) <1,0>|0|0|0|0%|104|![](https://media.fortniteapi.io/images/c84d0305f5a16a3bd9cca4c88392f8a5/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
-|89||Th3xBabaYa9ax|6.7|50.0 <80,21>|1 (0.0) <1,0>|0|0|0|100%|170|![](https://media.fortniteapi.io/images/b84ebe53124b8e2d9409eb44fc6aaab2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dca5f6a52fe2608d782166d4fde05950/transparent.png){:height="35px"}|
-|90||x4KTclappedU|6.7|27.0 <27>|3 (3.0) <3>|0|0|0|100%|130|![](https://media.fortniteapi.io/images/4385d03-bfd6a83-19f8c85-52c9fc8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9157c23-456079b-432ab35-ab64fb4/transparent.png){:height="35px"}|
-|91||KayMarieJane|6.5|26.0 <22,30>|0 (0.0) <0,0>|0|0|0|0%|165|![](https://media.fortniteapi.io/images/bb70612d4b1546e71b76e9b0a9bbbc81/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a01b014b52f327d4ef72e3fd7c522bf6/transparent.png){:height="35px"}|
-|92||ΨＢａｄ Ｈｏｋａｇｅﾘｲ|6.4|7.0 <4,10>|10 (5.0) <6,4>|0|0|0|50%|113|![](https://media.fortniteapi.io/images/dfaafc5-4d29590-774f1a3-ee676eb/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/17c3f5be795fc536fd5b6d5348fece4a/transparent.png){:height="35px"}|
-|93||B16RYRY|6.2|18.0 <15,22>|0 (0.0) <0,0>|0|0|0|0%|217|![](https://media.fortniteapi.io/images/f36e2e79c7c7cad6c98d560dec438899/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1c432ada4a32eb8e52774014785040ab/transparent.png){:height="35px"}|
-|94||Porgey09|6.1|41.0 <41>|3 (3.0) <3>|0|0|0|0%|145|![](https://media.fortniteapi.io/images/45e8d8be454a132b1731d56c9e9ec2bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1c432ada4a32eb8e52774014785040ab/transparent.png){:height="35px"}|
-|95||ZchikiNugg|5.9|35.0 <26,45>|0 (0.0) <0,0>|0|0|0|100%|140|![](https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/90ca96e-597ad2e-41789a7-8535f91/transparent.png){:height="35px"}|
-|96||MistaCorbzZ|5.9|18.0 <17,20>|2 (1.0) <2,0>|0|0|0|0%|144|![](https://media.fortniteapi.io/images/142913526bf1b32ba9433bf5de83e010/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f56f2564609e716d5ce84222400c4d9a/transparent.png){:height="35px"}|
-|97||HDF112905|5.9|30.0 <46,15,29>|0 (0.0) <0,0,0>|0|0|0|67%|129|![](https://media.fortniteapi.io/images/f7605c831db2916f1a2ba1572059ca8b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ddb520ebf2db2db80b851de8c89a558e/transparent.png){:height="35px"}|
-|98||MoH_Dolphinlover|5.8|34.0 <41,28>|0 (0.0) <0,0>|0|0|0|100%|105|![](https://media.fortniteapi.io/images/b8702f6f79247a80c436804f7edc9953/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|99||CodyOdy420|5.8|32.0 <28,37>|1 (0.0) <1,0>|1|0|0|100%|78|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e76acbd-fb39c64-8994980-2db2198/transparent.png){:height="35px"}|
-|100||ten_mall9|5.8|10.0 <12,9>|0 (0.0) <0,0>|0|0|0|100%|218|![](https://media.fortniteapi.io/images/d958ca67fcc248e83c3fc8972c67ca0b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dba7ba145f6ae129a4682345015426e6/transparent.png){:height="35px"}|
-|101||Hannah_p_k|5.7|56.0 <38,74>|0 (0.0) <0,0>|0|0|0|100%|163|![](https://media.fortniteapi.io/images/6ab699ca8456e1092e07ffc2bdb131c7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b83fc2365d120052de1e245252f73e60/transparent.png){:height="35px"}|
-|102||Shaunachu|5.4|55.0 <55,55>|1 (0.0) <0,1>|0|0|0|50%|92|![](https://media.fortniteapi.io/images/52f1f7d24620835f96dfe15fc8f5b1da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/81f8e8dd30cc7948c0a4fe364235921d/transparent.png){:height="35px"}|
-|103||poopsie55|5.3|20.0 <13,28>|1 (0.0) <1,0>|0|0|0|50%|241|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
-|104||asleep365|5.2|23.0 <23>|2 (2.0) <2>|0|0|0|100%|174|![](https://media.fortniteapi.io/images/d7ea0328a1474646b5c438491c6847f8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/03088c7e387144bc5333f6e78e6809fa/transparent.png){:height="35px"}|
-|105||micahls77|5.2|56.0 <58,67,43>|0 (0.0) <0,0,0>|0|0|0|100%|132|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/fb1e4de0b07df7cf74ffaab785aa12e6/transparent.png){:height="35px"}|
-|106||Tałia.|5.2|44.0 <44,45>|1 (0.0) <0,1>|0|0|0|50%|317|![](https://media.fortniteapi.io/images/3da32cea94f74727d84e3fdae3c83766/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fc0875-a4f0477-55ac591-d71b0ae/transparent.png){:height="35px"}|
-|107||IckyMuck69|5.1|71.0 <60,83>|1 (0.0) <0,1>|0|0|0|100%|141|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|108||Yahgaa2718|4.9|4.0 <4>|1 (1.0) <1>|0|0|0|100%|187|![](https://media.fortniteapi.io/images/b5acca5f9e0460f0120be44db1bc8ae1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/410610492f7995d07f15c168b2376cb9/transparent.png){:height="35px"}|
-|109||CHEVY_gang23|4.9|24.0 <24>|3 (3.0) <3>|0|0|0|100%|166|![](){:height="35px"}|![](){:height="35px"}|
-|110||Kayebabe94|4.8|26.0 <20,33>|0 (0.0) <0,0>|0|0|0|100%|140|![](https://media.fortniteapi.io/images/42f90dc95a07f89198fda80ed490431a/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54b5fbafce2723d3198106a3131623ff/transparent.png){:height="35px"}|
-|111||TTV-kerrboyyfn|4.8|16.0 <16>|3 (3.0) <3>|0|0|0|100%|210|![](https://media.fortniteapi.io/images/3e756f27efe7f24dfcde9018cedc5912/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
-|112||Rainbosprkl|4.7|18.0 <18>|1 (1.0) <1>|0|0|0|100%|144|![](https://media.fortniteapi.io/images/57c93bf7e5275553aea8506dd5807428/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|113||Lea_cother09|4.6|60.0 <54,66>|0 (0.0) <0,0>|0|0|0|100%|104|![](https://media.fortniteapi.io/images/5fa0c7e1dd44bca0d27a9970373b76aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
-|114||LILSMURFETTE629|4.6|51.0 <56,47>|0 (0.0) <0,0>|0|0|0|100%|111|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|115||YendaD|4.6|11.0 <11>|0 (0.0) <0>|0|0|0|100%|115|![](https://media.fortniteapi.io/images/d022593465f638bdcb656c69a5b1d89c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/5fb6b7c6cdae8ce8de96ea79f843474e/transparent.png){:height="35px"}|
-|116||Babybell08|4.5|25.0 <25>|0 (0.0) <0>|0|0|0|100%|202|![](){:height="35px"}|![](){:height="35px"}|
-|117||dibkis_dee28|4.1|27.0 <27>|2 (2.0) <2>|0|0|0|0%|99|![](){:height="35px"}|![](){:height="35px"}|
-|118||Sol Cyfer Landon|4.0|37.0 <37>|1 (1.0) <1>|0|0|0|100%|128|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
-|119||Sarishka|4.0|21.0 <13,17,34>|1 (0.0) <1,0,0>|0|0|0|33%|152|![](https://media.fortniteapi.io/images/8dd1f3710bd91bf2c5f1f5ccff381e9b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3eda364936b106774751de0e64c8cbde/transparent.png){:height="35px"}|
-|120||bbymama21|3.9|33.0 <33>|1 (1.0) <1>|0|0|0|100%|199|![](https://media.fortniteapi.io/images/4a547a98addf2e2f7b8e14ca5e8bb046/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ca7c49c0671da4d7d3e093d4b05e0f91/transparent.png){:height="35px"}|
-|121||EccentricFate|3.9|19.0 <19>|2 (2.0) <2>|0|0|0|100%|113|![](){:height="35px"}|![](){:height="35px"}|
-|122||Telo meti 23495|3.8|41.0 <41>|0 (0.0) <0>|0|0|0|100%|137|![](https://media.fortniteapi.io/images/6b56b706d1e14993af00a727dd037e02/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
-|123||Killed-by-Rocko|3.8|46.0 <46>|1 (1.0) <1>|0|0|0|100%|126|![](https://media.fortniteapi.io/images/ecac1ede2b9d0eb9282c41054e5afebb/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/15058337f3d637d4a5a466001dce65b1/transparent.png){:height="35px"}|
-|124||JaakB2018|3.5|18.0 <17,20>|0 (0.0) <0,0>|0|0|0|100%|213|![](https://media.fortniteapi.io/images/5ca15d1e9ebabe7dee16301dd2e06985/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|125||danisaur0401|3.4|37.0 <57,17>|1 (0.0) <0,1>|0|0|0|0%|291|![](https://media.fortniteapi.io/images/dea0d24fae2f52363e9d3f5ec8029cad/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/18f01880c6efec6c2e5f48c0c8ab78df/transparent.png){:height="35px"}|
-|126||jacobFELLERomo|3.4|33.0 <33>|0 (0.0) <0>|0|0|0|0%|97|![](https://media.fortniteapi.io/images/4385d03-bfd6a83-19f8c85-52c9fc8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|127||DADLAD247|3.3|49.0 <49>|1 (1.0) <1>|0|0|0|0%|34|![](https://media.fortniteapi.io/images/6e72a89c1094b5f9afea6b95bed274dc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b754ae2385ba2fc9f583463b8a2d4f2a/transparent.png){:height="35px"}|
-|128||BigStankinJerk|3.1|31.0 <31>|0 (0.0) <0>|0|0|0|100%|106|![](https://media.fortniteapi.io/images/9137448-5e8bdae-315d447-ec12bcc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3eda364936b106774751de0e64c8cbde/transparent.png){:height="35px"}|
-|129||Wbkern|3.0|18.0 <18>|0 (0.0) <0>|0|0|0|100%|228|![](https://media.fortniteapi.io/images/57c93bf7e5275553aea8506dd5807428/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|130||STR0PH1CS-|3.0|15.0 <15>|0 (0.0) <0>|0|0|0|100%|128|![](https://media.fortniteapi.io/images/c7a771512d96d090ff0bbfff851613e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|131||Moidreabear|3.0|24.0 <24>|0 (0.0) <0>|0|0|0|100%|115|![](https://media.fortniteapi.io/images/45e8d8be454a132b1731d56c9e9ec2bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|132||mossberg420us555|3.0|53.0 <53>|0 (0.0) <0>|0|0|0|0%|182|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
-|133||NHS zay420|2.9|15.0 <15>|0 (0.0) <0>|0|0|0|100%|113|![](https://media.fortniteapi.io/images/45e8d8be454a132b1731d56c9e9ec2bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a02b9082525370e9088801261a77c3e1/transparent.png){:height="35px"}|
-|134||BeardedDad4517|2.9|29.0 <29>|0 (0.0) <0>|0|0|0|100%|196|![](https://media.fortniteapi.io/images/4ff9268-98079ec-9c612ec-35da8d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|135||OdorlessDuke574|2.9|32.0 <32>|0 (0.0) <0>|0|0|0|100%|166|![](https://media.fortniteapi.io/images/2cae081-828dd4d-eb19098-83b342f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/14a375486863d7f10ed120bcf50ec5b2/transparent.png){:height="35px"}|
-|136||Solar_Symbi0te22|2.9|49.0 <49>|1 (1.0) <1>|0|0|0|100%|286|![](https://media.fortniteapi.io/images/e658c2fa2b4c04f06184228da4a1c77e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0ead08950af9084eae44dc11b15973fd/transparent.png){:height="35px"}|
-|137||RiodoesitALL256|2.8|79.0 <79>|0 (0.0) <0>|0|0|0|100%|139|![](https://media.fortniteapi.io/images/cca2222d6850f7b680175c3b70fba6f6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a23a0ea7a993f6d6cda5c862e32df2df/transparent.png){:height="35px"}|
-|138||DaCrEdAnGeR613|2.8|59.0 <59>|0 (0.0) <0>|0|0|0|100%|122|![](https://media.fortniteapi.io/images/f77256c89d682760479afca924a6da47/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7db03922296208ea119eea6ce4b0d8a9/transparent.png){:height="35px"}|
-|139||MoH Owens03|2.8|81.0 <81>|0 (0.0) <0>|0|0|0|100%|169|![](https://media.fortniteapi.io/images/4ffaa851073fbccd20d2fe39a81683de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/53fc505eb57eddda378f01036da25181/transparent.png){:height="35px"}|
-|140||R0sefoxx44|2.8|23.0 <23>|1 (1.0) <1>|0|0|0|100%|209|![](https://media.fortniteapi.io/images/ae10d7211a0aedd4824da7ef221111a8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3ed9f823b78df8f6abe48ce0b7068bfc/transparent.png){:height="35px"}|
-|141||KiddScrvb|2.5|58.0 <58>|0 (0.0) <0>|0|0|0|0%|91|![](https://media.fortniteapi.io/images/5d89d43829d59c68aa1abef962f170fc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/410610492f7995d07f15c168b2376cb9/transparent.png){:height="35px"}|
-|142||slick252006|2.5|24.0 <24>|1 (1.0) <1>|1|0|0|100%|151|![](){:height="35px"}|![](){:height="35px"}|
-|143||thatonekidd612|2.5|18.0 <18>|0 (0.0) <0>|0|0|0|0%|68|![](https://media.fortniteapi.io/images/3973f37c8016b0394c939e16c412b1cc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|
-|144||BigTimmyDun|2.5|21.0 <13,30>|0 (0.0) <0,0>|0|0|0|0%|142|![](https://media.fortniteapi.io/images/08bf2116e22d51713e98460b99036fae/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/19d637744dbd564d880911cf6c5d722d/transparent.png){:height="35px"}|
-|145||SoloShootR|2.5|26.0 <47,17,15>|0 (0.0) <0,0,0>|0|0|0|0%|294|![](https://media.fortniteapi.io/images/d4c0049bf872c2e252d7fbc4c6aaac28/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|146||p_shmoovvy214|2.5|43.0 <43>|0 (0.0) <0>|0|0|0|0%|101|![](https://media.fortniteapi.io/images/99cd2ba-e442355-3eb9ee5-c8842d1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|147||LloydDIDit|2.5|26.0 <39,14>|0 (0.0) <0,0>|0|0|0|0%|68|![](https://media.fortniteapi.io/images/887cbde3ba5120dda6d504dd8e85a417/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dfd7a3a03fb1ee16192e8aa30544eda3/transparent.png){:height="35px"}|
-|148||Minion boi 127|2.4|18.0 <18>|0 (0.0) <0>|0|0|0|0%|166|![](https://media.fortniteapi.io/images/50880d15eb86d414d6752e5c1664c4a3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
-|149||super_saiyanrice|2.4|23.0 <23>|0 (0.0) <0>|0|0|0|0%|17|![](https://media.fortniteapi.io/images/8e5194a7a80141a1723ee25e8a4d00b3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
-|150||Tezzypoo1978|2.4|46.0 <46>|0 (0.0) <0>|0|0|0|0%|145|![](https://media.fortniteapi.io/images/f7605c831db2916f1a2ba1572059ca8b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9366ae4dd409282c967f089e65a5d6fa/transparent.png){:height="35px"}|
-|151||Pandaboy001793|2.3|76.0 <76>|0 (0.0) <0>|0|0|0|0%|144|![](https://media.fortniteapi.io/images/b5acca5f9e0460f0120be44db1bc8ae1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7e4d9d90ef6974521b3e210b19f1ade1/transparent.png){:height="35px"}|
-|152||Toosie18TTV|2.3|65.0 <65>|0 (0.0) <0>|0|0|0|0%|105|![](https://media.fortniteapi.io/images/43351bc685621b3ed2a66fce93484d00/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/580f79849458a2b1b74fe0b397034612/transparent.png){:height="35px"}|
-|153||NateDigger|2.0|29.0 <29>|0 (0.0) <0>|0|0|0|0%|112|![](){:height="35px"}|![](){:height="35px"}|
-|154||someyoungin_|1.9|52.0 <52>|0 (0.0) <0>|0|0|0|100%|73|![](https://media.fortniteapi.io/images/be81a2b65240ef3bb6fafcad9073d47c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|155||LegendaryWoody|1.8|28.0 <28>|0 (0.0) <0>|0|0|0|100%|74|![](https://media.fortniteapi.io/images/d958ca67fcc248e83c3fc8972c67ca0b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b4e367781ba31cd934ce595f38e34804/transparent.png){:height="35px"}|
-|156||BigTeeRex10|1.8|16.0 <16>|0 (0.0) <0>|0|0|0|100%|201|![](https://media.fortniteapi.io/images/c523b73-aeff7b6-a295adf-1b9d9d3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/cb912b1144851a0a6c17485ee2ec53a1/transparent.png){:height="35px"}|
-|157||SkyPool12|1.6|59.0 <59>|0 (0.0) <0>|0|0|0|0%|162|![](https://media.fortniteapi.io/images/1aec7178aa5e9f6a01ada6d85be1ff5e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/343445a08d0bc046f4c3feab41e680f0/transparent.png){:height="35px"}|
-|158||UselessMeltdown|1.6|18.0 <18>|0 (0.0) <0>|0|0|0|0%|142|![](https://media.fortniteapi.io/images/5047282e970a3e541244e880d9b2594f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8d7b7960776bd3be44711d8b3c7731c6/transparent.png){:height="35px"}|
-|159||wehi_mckee|1.4|17.0 <17>|1 (1.0) <1>|0|0|0|100%|346|![](https://media.fortniteapi.io/images/2531c5a-985ce7d-6dcb1cc-4b6d7f9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3eda364936b106774751de0e64c8cbde/transparent.png){:height="35px"}|
-|160||mangowise|1.3|17.0 <17>|0 (0.0) <0>|0|0|0|0%|207|![](https://media.fortniteapi.io/images/c7a771512d96d090ff0bbfff851613e1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|161||Wrecks_one|0.5|31.0 <31>|0 (0.0) <0>|0|0|0|100%|194|![](){:height="35px"}|![](){:height="35px"}|
-|162||CREEPYREPTILE866|0.5|33.0 <33>|0 (0.0) <0>|0|0|0|100%|122|![](){:height="35px"}|![](){:height="35px"}|
-|163||Sassy5154|0.5|27.0 <27>|0 (0.0) <0>|0|0|0|100%|235|![](){:height="35px"}|![](){:height="35px"}|
-|164||SneakyNinja9206|0.5|44.0 <44>|0 (0.0) <0>|0|0|0|100%|189|![](){:height="35px"}|![](){:height="35px"}|
-|165||KannonK14|0.5|31.0 <31>|0 (0.0) <0>|0|0|0|100%|158|![](){:height="35px"}|![](){:height="35px"}|
-|171||lyssabrianne27|0.0|19.0 <19>|0 (0.0) <0>|0|0|0|0%|112|![](){:height="35px"}|![](){:height="35px"}|
-|200||Archivalcash911|0.0|23.0 <23>|0 (0.0) <0>|0|0|0|0%|123|![](){:height="35px"}|![](){:height="35px"}|
-|206||mutant_x90|-0.9|30.0 <39,22,30>|4 (1.0) <2,1,1>|0|1|0|0%|190|![](https://media.fortniteapi.io/images/4a953254e02c4198291d987d881b1e22/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3591ee17867120d32feedd8945028f36/transparent.png){:height="35px"}|
-|207||FireballGamingFB|-1.1|41.0 <41>|2 (2.0) <2>|0|1|0|100%|167|![](https://media.fortniteapi.io/images/399342493d02c6e6ec3de4a8316340b8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a02b9082525370e9088801261a77c3e1/transparent.png){:height="35px"}|
-|208||powerranger_102|-4.5|6.0 <6>|0 (0.0) <0>|0|0|0|100%|69|![](https://media.fortniteapi.io/images/e4f211fe40a7ba17ee9281e3aa403eff/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b5c1b6fefb400c63088626e0df52f074/transparent.png){:height="35px"}|
-|209||jaydenXbox7609|-5.2|25.0 <25>|1 (1.0) <1>|0|0|0|0%|244|![](https://media.fortniteapi.io/images/0ba9e8223437c11d4ca19f4ed0962684/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
-|210||OxtailRex437334|-5.2|5.0 <5>|0 (0.0) <0>|0|0|0|100%|160|![](https://media.fortniteapi.io/images/198cf9f3e40f6162aaf8ed02a5f5c80e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/29bb311ca8def3abb5e485a31c68a32d/transparent.png){:height="35px"}|
-|211||vemon2186|-7.0|31.0 <31>|0 (0.0) <0>|0|0|0|100%|197|![](https://media.fortniteapi.io/images/725919697a5e6496f982fca5bf50b767/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|212||hazel_monster023|-7.4|6.0 <10,3>|0 (0.0) <0,0>|0|0|0|100%|206|![](https://media.fortniteapi.io/images/a7c4ac265dc8782c783abf34bb898810/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|
-|213||Homeツ|-7.5|21.0 <21>|0 (0.0) <0>|0|0|0|0%|228|![](https://media.fortniteapi.io/images/d6400d2b9f845912f10d954d324e373c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3eda364936b106774751de0e64c8cbde/transparent.png){:height="35px"}|
-|214||Lilgamerguy9465|-8.1|50.0 <50>|0 (0.0) <0>|0|0|0|100%|76|![](https://media.fortniteapi.io/images/4a547a98addf2e2f7b8e14ca5e8bb046/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1470afcef74ebc3e9f96b52fd1320466/transparent.png){:height="35px"}|
-|215||FlaguNah|-9.5|35.0 <35>|0 (0.0) <0>|0|0|0|100%|213|![](){:height="35px"}|![](){:height="35px"}|
-|216||vNino TG|-12.9|25.0 <19,32>|2 (1.0) <2,0>|0|0|0|50%|100|![](https://media.fortniteapi.io/images/de92b06-8bbfd0f-cae852b-b674681/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|217||MistyMoon056|-13.1|46.0 <29,63>|1 (0.0) <0,1>|0|0|0|100%|227|![](https://media.fortniteapi.io/images/5fa0c7e1dd44bca0d27a9970373b76aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/335dd8d569d71a5680887c39f8663130/transparent.png){:height="35px"}|
-|218||TTV-Tobey2011|-13.6|15.0 <16,14>|2 (1.0) <0,2>|0|0|0|50%|312|![](https://media.fortniteapi.io/images/d6400d2b9f845912f10d954d324e373c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
-|219||littletickler23|-14.8|35.0 <63,11,33>|4 (1.0) <0,2,2>|0|0|0|100%|263|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/72c6e47-4a65b88-4758c03-ca440ea/transparent.png){:height="35px"}|
-|220||jjarv25|-18.9|27.0 <7,40,35>|1 (0.0) <1,0,0>|0|0|0|0%|79|![](https://media.fortniteapi.io/images/c43720e-1839958-e653b0c-4e5f2aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/bcb936b-e88999a-f701fea-afe213e/transparent.png){:height="35px"}|
-|221||WreckitRalphFN|-20.0|61.0 <78,44>|2 (1.0) <2,0>|0|1|0|100%|198|![](https://media.fortniteapi.io/images/493fdcd5f6cf1f921f7c7f809a224d01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|222||FAZ SLEET2|-23.9|34.0 <82,32,12,11>|3 (0.0) <0,1,1,1>|0|0|0|25%|175|![](https://media.fortniteapi.io/images/6216ad8-faa878e-0421978-fb2da8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ddb520ebf2db2db80b851de8c89a558e/transparent.png){:height="35px"}|
-|223||zZCoDkInGZz|-24.3|20.0 <15,31,18,9,28>|4 (0.0) <2,0,1,1,0>|0|0|0|100%|168|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a8bc04a412c39c728f0e8ae32f5f4bda/transparent.png){:height="35px"}|
-|224||Donnydeuce|-29.8|20.0 <9,14,34,20,27>|7 (1.0) <1,3,0,1,2>|0|0|0|100%|220|![](https://media.fortniteapi.io/images/f154ad1a24b0815edd5d4223c8c792a2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a309cc76ecf13024068e5cab9220eb1f/transparent.png){:height="35px"}|
-|225||MamaFlag|-31.3|28.0 <44,17,47,9,24>|1 (0.0) <0,0,0,0,1>|0|0|0|100%|109|![](https://media.fortniteapi.io/images/f50e8410ad51cc6d12e0189c6cc135cc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-
 
 ## [GO BACK](https://www.kaso.gg)
+
+# Game <strong>One</strong> Killfeed<br>
+jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
+Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 2:18 near <strong>Lighthouse</strong>, with a SMG from 10m<br>
+Yungdabs710 <strong><span style="color:crimson;background-color:">Killed</span></strong> Suckmyforkknife0 at 2:22 near <strong>BuriedDesertTown</strong>, with a PumpShotgun from 11m<br>
+jjarv25 <strong><span style="color:crimson;background-color:">Killed</span></strong> littletickler23 at 2:41 near <strong>MushroomFarm</strong>, with a TacticalShotgun from 1m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> jethro50457 at 3:01 from 102m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> Yungdabs710 at 3:21 near <strong>BuriedDesertTown</strong>, with a HeavyAR from 14m<br>
+BlakHart318 <strong><span style="color:crimson;background-color:">Killed</span></strong> IckyMuck69 at 3:23 near <strong>TheJoneses</strong>, with a Shotgun from 1m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> SkyPool12 at 3:26 near <strong>SmallMine</strong>, with a SMG from 19m<br>
+bbymama21 <strong><span style="color:crimson;background-color:">Killed</span></strong> danisaur0401 at 3:36 near <strong>ChonkersSpeedway</strong>, with a Rifle from 12m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> micahls77 at 3:37 near <strong>SmallMine</strong>, with a TacticalShotgun from 9m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> LILSMURFETTE629 at 3:56, with a HeavyAR from 22m<br>
+CodyOdy420 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 3:59 near <strong>Sanctuary</strong>, with a SMG from 4m (why you pick on NPCs?)<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Shaunachu at 4:24 near <strong>SynapseStation</strong>, with a TacticalShotgun from 9m<br>
+BlakHart318 <strong><span style="color:crimson;background-color:">Killed</span></strong> Leacother09 at 4:44 near <strong>TheJoneses</strong>, with a Shotgun from 10m<br>
+CodyOdy420 <strong><span style="color:crimson;background-color:">Killed</span></strong> W0ahcheyenne at 4:55 near <strong>Sanctuary</strong>, with a SMG from 1m<br>
+SolarSymbi0te22 <strong><span style="color:crimson;background-color:">Killed</span></strong> someyoungin at 4:59 near <strong>GreasyGrove</strong>, with a Shotgun from 4m<br>
+CheefTuckTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> Onelife84 at 5:36, with a Shotgun from 1m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> Lilgamerguy9465 at 6:16 near <strong>RockyReels</strong>, with a TacticalShotgun from 10m<br>
+zZCoDkInGZz <strong><span style="color:crimson;background-color:">Killed</span></strong> SolarSymbi0te22 at 6:18 near <strong>GreasyGrove</strong>, with a HeavyAR from 9m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> stealthy-treat6 at 6:18 from 18m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> TwoTaps27 at 7:20, with a SMG from 4m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 7:25, with a BurstRifle from 118m<br>
+Compass0920 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMrsGines at 7:41, with a SMG from 10m<br>
+MamaFlag <strong><span style="color:crimson;background-color:">Killed</span></strong> MamaFlag at 8:03, with a Environment from 22m<br>
+Compass0920 <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicPhantom74 at 8:03, with a HeavyAR from 2m<br>
+SolCyferLandon <strong><span style="color:crimson;background-color:">Killed</span></strong> thebirdbabee at 8:19, with a Shotgun from 5m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHDolphinlover at 8:29 near <strong>CreamyCrossroads</strong>, with a Shotgun from 5m<br>
+zZCoDkInGZz <strong><span style="color:crimson;background-color:">Killed</span></strong> nuperspectiv at 9:08, with a Shotgun from 4m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> aytondan at 10:05, with a HeavyAR from 42m<br>
+BigJoeee420 <strong><span style="color:crimson;background-color:">Killed</span></strong> Hannahpk at 10:21, with a PumpShotgun from 20m<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> SolCyferLandon at 10:29, with a Shotgun from 3m<br>
+MoHBen-Dover <strong><span style="color:crimson;background-color:">Killed</span></strong> Krasnog at 10:33 near <strong>BobsHouse</strong>, with a HeavyAR from 57m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 10:41, with a Shotgun from 5m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> jellycatkern514 at 11:03, with a Rifle from 21m<br>
+FritoLay19 <strong><span style="color:crimson;background-color:">Killed</span></strong> bbymama21 at 11:20, with a Shotgun from 1m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> toxicCROW28 at 11:26, with a Storm from 31m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> BigStankinJerk at 11:30, with a HeavyAR from 26m<br>
+MattInTheHat97 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHLOOKatMe at 11:39 near <strong>ShuffledShrines</strong>, with a SMG from 5m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> MistyMoon056 at 11:46, with a Shotgun from 12m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> Compass0920 at 12:52, with a Shotgun from 2m<br>
+ninjadeer3 <strong><span style="color:crimson;background-color:">Killed</span></strong> CodyOdy420 at 12:52 near <strong>BobsHouse</strong>, with a BurstRifle from 1m<br>
+ZchikiNugg messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
+Donnydeuce <strong><span style="color:crimson;background-color:">Killed</span></strong> WubaLubaDub9613 at 13:02, with a Shotgun from 2m<br>
+ninjadeer3 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHBen-Dover at 14:00 near <strong>BobsHouse</strong>, with a Shotgun from 3m<br>
+MattInTheHat97 <strong><span style="color:crimson;background-color:">Killed</span></strong> mikepal75 at 14:00 near <strong>ShuffledShrines</strong>, with a SMG from 1m<br>
+BigJoeee420 <strong><span style="color:crimson;background-color:">Killed</span></strong> BlakHart318 at 14:10 near <strong>CondoCanyon</strong>, with a SMG from 3m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> MattInTheHat97 at 14:31 near <strong>ShuffledShrines</strong>, with a Shotgun from 1m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> FuriousLion3158 at 15:15, with a Shotgun from 6m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> PuppyisEvil at 15:24, with a SMG from 5m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> Volleyjuless at 15:44, with a Shotgun from 5m<br>
+DrTweak98 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 15:46, with a Shotgun from 4m<br>
+RapidDryFire <strong><span style="color:crimson;background-color:">Killed</span></strong> BigJoeee420 at 16:05 near <strong>CondoCanyon</strong>, with a SMG from 2m<br>
+RapidDryFire <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 16:14 near <strong>CondoCanyon</strong>, with a Shotgun from 2m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> FritoLay19 at 16:19 near <strong>CondoCanyon</strong>, with a Shotgun from 2m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> DrTweak98 at 16:23, with a Shotgun from 3m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> spiderman111280 at 16:44 near <strong>CondoCanyon</strong>, with a SMG from 2m<br>
+Whitt-ley7 <strong><span style="color:crimson;background-color:">Killed</span></strong> ninjadeer3 at 17:08 near <strong>CondoCanyon</strong>, with a Shotgun from 1m<br>
+TAYVEA- <strong><span style="color:crimson;background-color:">Killed</span></strong> YourDoody at 17:13 near <strong>CondoCanyon</strong>, with a Shotgun from 1m<br>
+RapidDryFire <strong><span style="color:crimson;background-color:">Killed</span></strong> Donnydeuce at 17:33 near <strong>CrazyCactus</strong>, with a HeavyAR from 14m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> TAYVEA- at 17:47, with a HeavyAR from 30m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> jjarv25 at 17:48 near <strong>CondoCanyon</strong>, with a SMG from 7m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> BlAcKDoMiNAX at 17:57, with a HeavyAR from 46m<br>
+RapidDryFire <strong><span style="color:crimson;background-color:">Killed</span></strong> CalNHarps at 18:05, with a SMG from 5m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Yahgaa2718 at 18:12, with a Environment from 35m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> RapidDryFire at 18:46, with a Shotgun from 1m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Whitt-ley7 at 18:53, with a HeavyAR from 4m<br>
+# Game <strong>Two</strong> Killfeed<br>
+WreckitRalphFN <strong><span style="color:crimson;background-color:">Killed</span></strong> stealthy-treat6 at 1:25, with a BurstRifle from 3m<br>
+IckyMuck69 <strong><span style="color:crimson;background-color:">Killed</span></strong> AutoRick4223 at 1:40 near <strong>TheJoneses</strong>, with a HeavyAR from 5m<br>
+RagingMattman <strong><span style="color:crimson;background-color:">Killed</span></strong> nuperspectiv at 1:47 near <strong>BeachCarPark</strong>, with a SMG from 2m<br>
+BlakHart318 <strong><span style="color:crimson;background-color:">Killed</span></strong> IckyMuck69 at 1:54 near <strong>TheJoneses</strong>, with a Fire from 46m<br>
+Th3xBabaYa9ax <strong><span style="color:crimson;background-color:">Killed</span></strong> FAZSLEET2 at 2:00, with a TacticalShotgun from 1m<br>
+DustyCottonball <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHOwens03 at 2:02 from 57m<br>
+WreckitRalphFN <strong><span style="color:crimson;background-color:">Killed</span></strong> Th3xBabaYa9ax at 2:11, with a Rifle from 1m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> RiodoesitALL256 at 2:11 near <strong>MushroomFarm</strong>, with a PumpShotgun from 6m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> WreckitRalphFN at 2:19, with a BurstRifle from 54m<br>
+BlakHart318 <strong><span style="color:crimson;background-color:">Killed</span></strong> Pandaboy001793 at 2:27 near <strong>TheJoneses</strong>, with a Shotgun from 2m<br>
+Volleyjuless <strong><span style="color:crimson;background-color:">Killed</span></strong> Kosmire1 at 2:28 near <strong>MushroomVillage</strong>, with a HeavyAR from 49m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> Pengy.x at 2:41, with a Shotgun from 8m<br>
+MattInTheHat97 <strong><span style="color:crimson;background-color:">Killed</span></strong> Hannahpk at 2:43 near <strong>CrazyCave</strong>, with a PumpShotgun from 15m<br>
+MistyMoon056 <strong><span style="color:crimson;background-color:">Killed</span></strong> Compass0920 at 2:47 near <strong>CreamyCrossroads</strong>, with a Pistol from 4m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> Persicutor at 2:55 near <strong>MushroomFarm</strong>, with a Shotgun from 5m<br>
+KVANDYSTEIN <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHBen-Dover at 3:00 near <strong>BeachShacks</strong>, with a HeavyAR from 12m<br>
+iron.dog. <strong><span style="color:crimson;background-color:">Killed</span></strong> jellycatkern514 at 3:02, with a Sniper from 55m<br>
+thebirdbabee <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 3:10 near <strong>Lighthouse</strong>, with a TacticalShotgun from 11m<br>
+KVANDYSTEIN <strong><span style="color:crimson;background-color:">Killed</span></strong> thelividjoker at 3:13 near <strong>BeachShacks</strong>, with a Shotgun from 7m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> micahls77 at 3:23, with a Shotgun from 2m<br>
+KVANDYSTEIN <strong><span style="color:crimson;background-color:">Killed</span></strong> Leacother09 at 3:23 near <strong>BeachShacks</strong>, with a HeavyAR from 7m<br>
+DADLAD247 <strong><span style="color:crimson;background-color:">Killed</span></strong> Toosie18TTV at 3:28, with a Shotgun from 4m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> CalNHarps at 3:29, with a Shotgun from 7m<br>
+x4KTclappedU <strong><span style="color:crimson;background-color:">Killed</span></strong> MistyMoon056 at 3:38 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 29m<br>
+Killed-by-Rocko <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 4:51 near <strong>SleepySound</strong>, with a Shotgun from 3m<br>
+x4KTclappedU <strong><span style="color:crimson;background-color:">Killed</span></strong> toxicCROW28 at 5:00, with a SMG from 2m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> aytondan at 5:09, with a SMG from 19m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> DaCrEdAnGeR613 at 5:14, with a BurstRifle from 71m<br>
+FuriousLion3158 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 5:27 near <strong>CrazyCave</strong>, with a HeavyAR from 1m (why you pick on NPCs?)<br>
+W0ahcheyenne <strong><span style="color:crimson;background-color:">Killed</span></strong> KiddScrvb at 5:32 near <strong>Sanctuary</strong>, with a SMG from 1m<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> BlakHart318 at 5:35 near <strong>TheJoneses</strong>, with a HeavyAR from 47m<br>
+Shaunachu <strong><span style="color:crimson;background-color:">Killed</span></strong> ninjadeer3 at 5:40, with a HeavyAR from 8m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Shaunachu at 5:58, with a BurstRifle from 68m<br>
+FuriousLion3158 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 6:01 near <strong>CrazyCave</strong>, with a TacticalShotgun from 1m (why you pick on NPCs?)<br>
+RagingMattman <strong><span style="color:crimson;background-color:">Killed</span></strong> liaawoo-- at 6:20, with a HeavyAR from 41m<br>
+mikepal75 <strong><span style="color:crimson;background-color:">Killed</span></strong> mossberg420us555 at 6:39 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+PuppyisEvil <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMrsGines at 7:18 from 97m<br>
+W0ahcheyenne <strong><span style="color:crimson;background-color:">Killed</span></strong> DustyCottonball at 7:23 near <strong>Sanctuary</strong>, with a SMG from 1m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Whitt-ley7 at 8:08, with a Shotgun from 11m<br>
+thebirdbabee <strong><span style="color:crimson;background-color:">Killed</span></strong> DADLAD247 at 8:11 near <strong>VolcanoMonitoringStation</strong>, with a TacticalShotgun from 1m<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> DrTweak98 at 8:15 near <strong>ShuffledShrines</strong>, with a SMG from 12m<br>
+thebirdbabee <strong><span style="color:crimson;background-color:">Killed</span></strong> LILSMURFETTE629 at 8:22 near <strong>VolcanoMonitoringStation</strong>, with a SMG from 1m<br>
+thebirdbabee <strong><span style="color:crimson;background-color:">Killed</span></strong> Killed-by-Rocko at 8:41 near <strong>VolcanoMonitoringStation</strong>, with a SMG from 6m<br>
+Yungdabs710 <strong><span style="color:crimson;background-color:">Killed</span></strong> ZchikiNugg at 8:51, with a PumpShotgun from 2m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Tałia. at 8:57, with a Shotgun from 3m<br>
+x4KTclappedU <strong><span style="color:crimson;background-color:">Killed</span></strong> Krasnog at 8:59 near <strong>Sanctuary</strong>, with a SMG from 3m<br>
+Donnydeuce <strong><span style="color:crimson;background-color:">Killed</span></strong> FritoLay19 at 9:16, with a HeavyAR from 27m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> jjarv25 at 9:31, with a Shotgun from 6m<br>
+Donnydeuce <strong><span style="color:crimson;background-color:">Killed</span></strong> Telometi23495 at 9:32, with a HeavyAR from 45m<br>
+jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> TwoTaps27 at 9:35, with a Shotgun from 2m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> MattInTheHat97 at 9:37, with a BurstRifle from 70m<br>
+RagingMattman <strong><span style="color:crimson;background-color:">Killed</span></strong> KVANDYSTEIN at 9:51 near <strong>TheJoneses</strong>, with a HeavyAR from 8m<br>
+CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> FuriousLion3158 at 9:55, with a HeavyAR from 42m<br>
+littletickler23 <strong><span style="color:crimson;background-color:">Killed</span></strong> BlAcKDoMiNAX at 10:01 near <strong>TheJoneses</strong>, with a Sniper from 97m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 10:16, with a BurstRifle from 64m<br>
+mikepal75 <strong><span style="color:crimson;background-color:">Killed</span></strong> jacobFELLERomo at 10:23, with a Shotgun from 6m<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> Onelife84 at 10:29 near <strong>TheJoneses</strong>, with a TacticalShotgun from 6m<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 10:43 near <strong>TheJoneses</strong>, with a SMG from 4m<br>
+RagingMattman <strong><span style="color:crimson;background-color:">Killed</span></strong> WubaLubaDub9613 at 11:04, with a Shotgun from 13m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> jethro50457 at 11:04, with a BurstRifle from 67m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHDolphinlover at 11:12 near <strong>HiddenVillage</strong>, with a Shotgun from 7m<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> x4KTclappedU at 11:45, with a SMG from 18m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> LLito178 at 11:53, with a HeavyAR from 18m<br>
+mikepal75 <strong><span style="color:crimson;background-color:">Killed</span></strong> GageCrowell at 12:05 near <strong>CondoCanyon</strong>, with a Sniper from 53m<br>
+Donnydeuce <strong><span style="color:crimson;background-color:">Killed</span></strong> CoalhouseJr92 at 12:09, with a HeavyAR from 88m<br>
+thebirdbabee <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 12:13, with a SMG from 2m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> Sinatraa600 at 12:15 near <strong>TheJoneses</strong>, with a Shotgun from 2m<br>
+RagingMattman <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMakeouthill at 12:18 near <strong>TheJoneses</strong>, with a Shotgun from 11m<br>
+Yungdabs710 <strong><span style="color:crimson;background-color:">Killed</span></strong> thebirdbabee at 12:22, with a BurstRifle from 72m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> RagingMattman at 12:29, with a HeavyAR from 36m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> taylar02 at 12:39 near <strong>HiddenVillage</strong>, with a Shotgun from 1m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> MamaFlag at 12:57 near <strong>TheJoneses</strong>, with a Shotgun from 7m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAndreaaa at 13:10 near <strong>TheJoneses</strong>, with a HeavyAR from 36m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> B16RYRY at 13:13 near <strong>CondoCanyon</strong>, with a Shotgun from 6m<br>
+littletickler23 <strong><span style="color:crimson;background-color:">Killed</span></strong> Donnydeuce at 13:37 near <strong>TheJoneses</strong>, with a TacticalShotgun from 10m<br>
+Suckmyforkknife0 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHLOOKatMe at 13:37 near <strong>HiddenVillage</strong>, with a HeavyAR from 52m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> W0ahcheyenne at 13:48 near <strong>TheJoneses</strong>, with a Shotgun from 7m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> littletickler23 at 14:04 near <strong>TheJoneses</strong>, with a Shotgun from 5m<br>
+mikepal75 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Stash'd at 14:30 from 20m (why you pick on NPCs?)<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> mikepal75 at 14:31 near <strong>CondoCanyon</strong>, with a Shotgun from 8m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> Yungdabs710 at 14:40 near <strong>TheJoneses</strong>, with a Shotgun from 5m<br>
+Volleyjuless <strong><span style="color:crimson;background-color:">Killed</span></strong> Suckmyforkknife0 at 16:33, with a HeavyAR from 1m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> iron.dog. at 16:37, with a Shotgun from 2m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> PuppyisEvil at 17:08 near <strong>HiddenVillage</strong>, with a HeavyAR from 14m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 17:17, with a Storm from 7m<br>
+YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> Volleyjuless at 17:35, with a HeavyAR from 10m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> YourDoody at 17:39, with a Shotgun from 9m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicPhantom74 at 18:14, with a Shotgun from 1m<br>
+# Game <strong>Three</strong> Killfeed<br>
+FireballGamingFB <strong><span style="color:blue;background-color:">Knocked</span></strong> SikeBiShh91 at 1:51 near <strong>ShiftyShafts</strong>, with a TacticalShotgun from 4m<br>
+Porgey09 <strong><span style="color:crimson;background-color:">Killed</span></strong> SikeBiShh91 at 1:54 near <strong>ShiftyShafts</strong>, with a HeavyAR from 14m<br>
+mutantx90 <strong><span style="color:blue;background-color:">Knocked</span></strong> MamaFlag at 2:03 near <strong>LogJam</strong>, with a Shotgun from 6m<br>
+mikepal75 <strong><span style="color:blue;background-color:">Knocked</span></strong> MattInTheHat97 at 2:03 near <strong>BoatClub</strong>, with a SMG from 4m<br>
+mutantx90 <strong><span style="color:crimson;background-color:">Killed</span></strong> MamaFlag at 2:07 near <strong>LogJam</strong>, with a Shotgun from 6m<br>
+FireballGamingFB <strong><span style="color:crimson;background-color:">Killed</span></strong> DustyCottonball at 2:10 near <strong>ShiftyShafts</strong>, with a TacticalShotgun from 2m<br>
+KoSSillyFawn <strong><span style="color:blue;background-color:">Knocked</span></strong> Whitt-ley7 at 2:13 near <strong>RuinedTempleTropical</strong>, with a SMG from 4m<br>
+SoloShootR <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHAndreaaa at 2:14 near <strong>LogJam</strong>, with a Rifle from 4m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> SoloShootR at 2:15 near <strong>LogJam</strong>, with a TacticalShotgun from 12m<br>
+Porgey09 <strong><span style="color:blue;background-color:">Knocked</span></strong> liaawoo-- at 2:17 near <strong>ShiftyShafts</strong>, with a HeavyAR from 12m<br>
+KoSSillyFawn <strong><span style="color:crimson;background-color:">Killed</span></strong> Whitt-ley7 at 2:17 near <strong>RuinedTempleTropical</strong>, with a SMG from 2m<br>
+Porgey09 <strong><span style="color:crimson;background-color:">Killed</span></strong> liaawoo-- at 2:21 near <strong>ShiftyShafts</strong>, with a HeavyAR from 1m<br>
+OGKhaleesii <strong><span style="color:blue;background-color:">Knocked</span></strong> HDF112905 at 2:22 near <strong>DailyBugle</strong>, with a SMG from 1m<br>
+ratedv4VENOM11 <strong><span style="color:crimson;background-color:">Killed</span></strong> HDF112905 at 2:25 near <strong>DailyBugle</strong>, with a SMG from 5m<br>
+Tałia. <strong><span style="color:blue;background-color:">Knocked</span></strong> FireballGamingFB at 2:31 near <strong>ShiftyShafts</strong>, with a PumpShotgun from 2m<br>
+Tałia. <strong><span style="color:crimson;background-color:">Killed</span></strong> FireballGamingFB at 2:34 near <strong>ShiftyShafts</strong>, with a HeavyAR from 1m<br>
+Porgey09 <strong><span style="color:blue;background-color:">Knocked</span></strong> Tałia. at 2:39 near <strong>ShiftyShafts</strong>, with a HeavyAR from 11m<br>
+ratedv4VENOM11 <strong><span style="color:crimson;background-color:">Killed</span></strong> Tezzypoo1978 at 2:40 near <strong>DailyBugle</strong>, with a Rifle from 18m<br>
+Porgey09 <strong><span style="color:crimson;background-color:">Killed</span></strong> BlakHart318 at 2:45 near <strong>ShiftyShafts</strong>, with a Shotgun from 8m<br>
+Porgey09 <strong><span style="color:crimson;background-color:">Killed</span></strong> Tałia. at 2:46 near <strong>ShiftyShafts</strong>, with a HeavyAR<br>
+KoSSillyFawn <strong><span style="color:crimson;background-color:">Killed</span></strong> MattInTheHat97 at 2:50 near <strong>RuinedTempleTropical</strong>, with a BurstRifle from 139m<br>
+ToxicPhantom74 <strong><span style="color:blue;background-color:">Knocked</span></strong> YendaD at 3:18 near <strong>LogJam</strong>, with a TacticalShotgun from 5m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> YendaD at 3:31 near <strong>LogJam</strong>, with a SMG from 13m<br>
+mutantx90 <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHAndreaaa at 3:33 near <strong>LogJam</strong> from 33m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> SneakyNinja9206 at 3:39 near <strong>SynapseStation</strong>, with a HeavyAR from 16m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> micahls77 at 3:45 near <strong>SynapseStation</strong>, with a BurstRifle from 62m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> SneakyNinja9206 at 3:48 near <strong>SynapseStation</strong>, with a Shotgun from 3m<br>
+Sarishka <strong><span style="color:blue;background-color:">Knocked</span></strong> ItsDrakeFam at 3:49 near <strong>ChopShop</strong>, with a Pistol from 18m<br>
+TAYVEA- <strong><span style="color:blue;background-color:">Knocked</span></strong> LooseClipz-19 at 3:55 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 3m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> WreckitRalphFN at 4:04 near <strong>SynapseStation</strong>, with a HeavyAR from 31m<br>
+FAZSLEET2 <strong><span style="color:blue;background-color:">Knocked</span></strong> mutantx90 at 4:12 near <strong>LogJam</strong> from 54m<br>
+ratedv4VENOM11 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 4:12 near <strong>DailyBugle</strong>, with a BurstRifle from 26m (why you pick on NPCs?)<br>
+TAYVEA- <strong><span style="color:crimson;background-color:">Killed</span></strong> pshmoovvy214 at 4:17 near <strong>CreamyCrossroads</strong>, with a Grenade from 22m<br>
+TAYVEA- <strong><span style="color:crimson;background-color:">Killed</span></strong> LooseClipz-19 at 4:17 near <strong>CreamyCrossroads</strong>, with a HeavyAR<br>
+micahls77 <strong><span style="color:crimson;background-color:">Killed</span></strong> micahls77 at 4:20<br>
+danisaur0401 <strong><span style="color:blue;background-color:">Knocked</span></strong> mikepal75 at 4:26 near <strong>BoatClub</strong>, with a Shotgun from 6m<br>
+liaawoo-- <strong><span style="color:white;background-color:crimson">Revived</span></strong> liaawoo-- at 4:29, with a RebootVan<br>
+danisaur0401 <strong><span style="color:crimson;background-color:">Killed</span></strong> mikepal75 at 4:29 near <strong>BoatClub</strong>, with a Shotgun from 6m<br>
+dibkisdee28 <strong><span style="color:blue;background-color:">Knocked</span></strong> Porgey09 at 4:29 near <strong>SleepySound</strong>, with a SMG from 6m<br>
+FireballGamingFB <strong><span style="color:white;background-color:crimson">Revived</span></strong> FireballGamingFB at 4:31, with a RebootVan<br>
+KoSSillyFawn <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAimyLynn at 4:31 near <strong>BoatClub</strong>, with a SMG from 19m<br>
+TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></strong> Porgey09 at 4:35 near <strong>SleepySound</strong>, with a SMG from 5m<br>
+mutantx90 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAndreaaa at 4:36 near <strong>LogJam</strong>, with a Storm<br>
+dibkisdee28 <strong><span style="color:blue;background-color:">Knocked</span></strong> AutoRick4223 at 4:47 near <strong>SleepySound</strong>, with a HeavyAR from 20m<br>
+Sarishka <strong><span style="color:crimson;background-color:">Killed</span></strong> ItsDrakeFam at 4:49 near <strong>ChopShop</strong>, with a Pistol<br>
+TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></strong> FireballGamingFB at 4:50 near <strong>SleepySound</strong>, with a Shotgun from 5m<br>
+littletickler23 <strong><span style="color:crimson;background-color:">Killed</span></strong> Volleyjuless at 4:52, with a HeavyAR from 12m<br>
+Onelife84 <strong><span style="color:blue;background-color:">Knocked</span></strong> dibkisdee28 at 4:53 near <strong>SleepySound</strong>, with a HeavyAR from 5m<br>
+FAZSLEET2 <strong><span style="color:crimson;background-color:">Killed</span></strong> mutantx90 at 4:54 near <strong>LogJam</strong>, with a DBNOTimeout<br>
+TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></strong> Onelife84 at 4:55 near <strong>SleepySound</strong>, with a SMG from 4m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> LloydDIDit at 4:55 near <strong>LogJam</strong>, with a BurstRifle from 60m<br>
+dibkisdee28 <strong><span style="color:crimson;background-color:">Killed</span></strong> AutoRick4223 at 4:56 near <strong>SleepySound</strong>, with a HeavyAR<br>
+CodyOdy420 <strong><span style="color:crimson;background-color:">Killed</span></strong> CodyOdy420 at 5:07, with a Environment from 37m<br>
+Yungdabs710 <strong><span style="color:blue;background-color:">Knocked</span></strong> JessMonique2072 at 5:08, with a BurstRifle from 35m<br>
+littletickler23 <strong><span style="color:blue;background-color:">Knocked</span></strong> danisaur0401 at 5:08, with a HeavyAR from 20m<br>
+littletickler23 <strong><span style="color:crimson;background-color:">Killed</span></strong> danisaur0401 at 5:14, with a Shotgun from 5m<br>
+CalNHarps <strong><span style="color:blue;background-color:">Knocked</span></strong> jjarv25 at 5:18 near <strong>CrazyCave</strong>, with a BurstRifle from 15m<br>
+Yungdabs710 <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 5:26, with a PumpShotgun from 17m<br>
+Yungdabs710 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 5:26, with a BurstRifle<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> jjarv25 at 5:33 near <strong>CrazyCave</strong>, with a Shotgun from 6m<br>
+W0ahcheyenne <strong><span style="color:blue;background-color:">Knocked</span></strong> Kayebabe94 at 5:41 near <strong>Sanctuary</strong>, with a HeavyAR from 2m<br>
+ratedv4VENOM11 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 6:02 near <strong>DailyBugle</strong>, with a SMG from 3m (why you pick on NPCs?)<br>
+YendaD <strong><span style="color:white;background-color:crimson">Revived</span></strong> YendaD at 6:02, with a RebootVan<br>
+taylar02 <strong><span style="color:crimson;background-color:">Killed</span></strong> FritoLay19 at 6:04 near <strong>CrazyCave</strong>, with a Shotgun from 3m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Donnydeuce at 6:06, with a BurstRifle from 22m<br>
+KoSSillyFawn <strong><span style="color:crimson;background-color:">Killed</span></strong> littletickler23 at 6:09, with a SMG from 8m<br>
+ToxicPhantom74 <strong><span style="color:blue;background-color:">Knocked</span></strong> FAZSLEET2 at 6:45 near <strong>LogJam</strong>, with a SMG from 9m<br>
+Queenkilla2010 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sabina at 6:45 near <strong>FancyMansion</strong>, with a SMG from 7m (why you pick on NPCs?)<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> OdorlessDuke574 at 6:53 near <strong>LogJam</strong>, with a PumpShotgun from 6m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> FAZSLEET2 at 6:54 near <strong>LogJam</strong>, with a SMG<br>
+visceralvirus <strong><span style="color:blue;background-color:">Knocked</span></strong> W0ahcheyenne at 7:07 near <strong>Sanctuary</strong>, with a SMG from 11m<br>
+visceralvirus <strong><span style="color:crimson;background-color:">Killed</span></strong> W0ahcheyenne at 7:12 near <strong>Sanctuary</strong>, with a BurstRifle from 5m<br>
+ItsDrakeFam <strong><span style="color:white;background-color:crimson">Revived</span></strong> ItsDrakeFam at 7:15, with a RebootVan<br>
+danisaur0401 <strong><span style="color:white;background-color:crimson">Revived</span></strong> danisaur0401 at 7:16, with a RebootVan<br>
+Justtrey49er <strong><span style="color:blue;background-color:">Knocked</span></strong> BeardedDad4517 at 7:36 near <strong>ShuffledShrines</strong>, with a Rifle from 3m<br>
+Suckmyforkknife0 <strong><span style="color:blue;background-color:">Knocked</span></strong> toxicCROW28 at 7:37, with a Shotgun from 4m<br>
+MoHAndreaaa <strong><span style="color:white;background-color:crimson">Revived</span></strong> MoHAndreaaa at 7:37, with a RebootVan<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> BeardedDad4517 at 7:40 near <strong>ShuffledShrines</strong>, with a Shotgun from 2m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> Suckmyforkknife0 at 7:44, with a BurstRifle from 63m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> Lilrondog216650 at 7:52, with a BurstRifle from 13m<br>
+zZCoDkInGZz <strong><span style="color:blue;background-color:">Knocked</span></strong> TAYVEA- at 8:08 near <strong>CreamyCrossroads</strong>, with a Shotgun from 5m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> vemon2186 at 8:08, with a Shotgun from 2m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Lilrondog216650 at 8:10, with a BurstRifle<br>
+zZCoDkInGZz <strong><span style="color:crimson;background-color:">Killed</span></strong> TAYVEA- at 8:11 near <strong>CreamyCrossroads</strong>, with a Shotgun from 5m<br>
+CheefTuckTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> GageCrowell at 8:18 near <strong>CreamyCrossroads</strong>, with a Shotgun from 8m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> jellycatkern514 at 8:19 near <strong>ShuffledShrines</strong>, with a Shotgun from 4m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> OGKhaleesii at 8:23 near <strong>CreamyCrossroads</strong>, with a Shotgun from 2m<br>
+thelividjoker <strong><span style="color:blue;background-color:">Knocked</span></strong> dibkisdee28 at 8:31, with a HeavyAR from 46m<br>
+Kayebabe94 <strong><span style="color:crimson;background-color:">Killed</span></strong> dibkisdee28 at 8:38, with a BurstRifle from 47m<br>
+TwoTaps27 <strong><span style="color:blue;background-color:">Knocked</span></strong> thelividjoker at 8:40, with a Shotgun from 1m<br>
+CoalhouseJr92 <strong><span style="color:blue;background-color:">Knocked</span></strong> CoalhouseJr92 at 8:41, with a Environment from 27m<br>
+CheefTuckTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> ratedv4VENOM11 at 8:41 near <strong>CreamyCrossroads</strong>, with a Shotgun from 2m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> OGKhaleesii at 8:42 near <strong>CreamyCrossroads</strong>, with a Shotgun<br>
+CoalhouseJr92 <strong><span style="color:crimson;background-color:">Killed</span></strong> CoalhouseJr92 at 8:43, with a Environment from 28m<br>
+jaydenXbox7609 <strong><span style="color:crimson;background-color:">Killed</span></strong> TwoTaps27 at 8:44, with a PumpShotgun from 1m<br>
+PuppyisEvil <strong><span style="color:blue;background-color:">Knocked</span></strong> YendaD at 8:45 near <strong>DrillHill</strong>, with a SMG from 2m<br>
+PuppyisEvil <strong><span style="color:crimson;background-color:">Killed</span></strong> YendaD at 8:53 near <strong>DrillHill</strong>, with a TacticalShotgun from 5m<br>
+WubaLubaDub9613 <strong><span style="color:blue;background-color:">Knocked</span></strong> thelividjoker at 9:21, with a BurstRifle from 126m<br>
+ItsDrakeFam messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> KVANDYSTEIN at 9:23, with a HeavyAR from 4m<br>
+visceralvirus <strong><span style="color:crimson;background-color:">Killed</span></strong> jaydenXbox7609 at 9:28, with a Shotgun from 2m<br>
+WubaLubaDub9613 <strong><span style="color:crimson;background-color:">Killed</span></strong> thelividjoker at 9:28, with a BurstRifle<br>
+Moidreabear <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 9:43, with a Shotgun from 6m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> KVANDYSTEIN at 9:56, with a HeavyAR<br>
+Justtrey49er <strong><span style="color:crimson;background-color:">Killed</span></strong> Moidreabear at 9:57, with a Shotgun from 2m<br>
+ToxicPhantom74 <strong><span style="color:blue;background-color:">Knocked</span></strong> PuppyisEvil at 10:10 near <strong>DrillHill</strong>, with a Shotgun from 5m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> PuppyisEvil at 10:17 near <strong>DrillHill</strong>, with a Shotgun from 6m<br>
+danisaur0401 messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> Suckmyforkknife0 at 10:29, with a Shotgun from 6m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> Suckmyforkknife0 at 10:34, with a HeavyAR from 11m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> supersaiyanrice at 10:39 near <strong>DrillHill</strong>, with a Shotgun from 1m<br>
+toxicCROW28 <strong><span style="color:blue;background-color:">Knocked</span></strong> Th3xBabaYa9ax at 10:40, with a Shotgun from 14m<br>
+YendaD <strong><span style="color:white;background-color:crimson">Revived</span></strong> YendaD at 10:41, with a RebootVan<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Th3xBabaYa9ax at 10:44, with a Shotgun from 3m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> B16RYRY at 10:45, with a Shotgun from 5m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> Sinatraa600 at 10:48 near <strong>DesertArch</strong>, with a HeavyAR from 19m<br>
+danisaur0401 messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
+toxicCROW28 <strong><span style="color:blue;background-color:">Knocked</span></strong> visceralvirus at 11:08 near <strong>DesertArch</strong>, with a HeavyAR from 1m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Kayebabe94 at 11:09 near <strong>DesertArch</strong>, with a Shotgun from 4m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> visceralvirus at 11:10 near <strong>DesertArch</strong>, with a HeavyAR<br>
+Krasnog <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 11:14 near <strong>SynapseStation</strong>, with a Shotgun from 5m (why you pick on NPCs?)<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMrsGines at 11:21 near <strong>SynapseStation</strong>, with a Shotgun from 1m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> WubaLubaDub9613 at 11:43, with a Storm from 7m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> WubaLubaDub9613 at 11:45, with a DBNOTimeout from 2m<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> zZCoDkInGZz at 11:52, with a HeavyAR from 13m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 11:56, with a Shotgun from 4m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> Minionboi127 at 12:14, with a Shotgun from 6m<br>
+toxicCROW28 <strong><span style="color:blue;background-color:">Knocked</span></strong> CheefTuckTTV at 12:20, with a Shotgun from 2m<br>
+KoS SillyFawn messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong> near <strong>DirtTrack</strong>!<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> toxicCROW28 at 12:25, with a Shotgun from 3m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 12:26, with a Shotgun<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> FuriousLion3158 at 12:28, with a Shotgun from 5m<br>
+Yungdabs710 <strong><span style="color:crimson;background-color:">Killed</span></strong> NHSzay420 at 12:46, with a BurstRifle from 47m<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> YendaD at 12:50, with a Shotgun from 1m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHOtter at 12:52, with a Shotgun from 8m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> Sarishka at 13:16, with a BurstRifle from 4m<br>
+CPKkaso <strong><span style="color:blue;background-color:">Knocked</span></strong> Pengy.x at 14:06 near <strong>GreasyGrove</strong> from 14m<br>
+CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> Pengy.x at 14:12 near <strong>GreasyGrove</strong>, with a SMG from 6m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> spiderman111280 at 14:15 near <strong>GreasyGrove</strong>, with a HeavyAR from 7m<br>
+MoHAndreaaa <strong><span style="color:blue;background-color:">Knocked</span></strong> YendaD at 14:17, with a HeavyAR from 63m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> YendaD at 14:23, with a BurstRifle from 74m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> ToxicPhantom74 at 14:38, with a BurstRifle from 35m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 14:48, with a Shotgun from 6m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicPhantom74 at 14:49, with a BurstRifle<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAndreaaa at 14:50 near <strong>LogJam</strong>, with a Storm<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> LLito178 at 15:24, with a Shotgun from 3m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 15:35, with a BurstRifle from 155m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 15:41, with a Rifle from 172m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 15:49, with a BurstRifle from 94m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> iron.dog. at 16:02, with a BurstRifle from 79m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> CalNHarps at 16:43, with a BurstRifle from 153m<br>
+taylar02 <strong><span style="color:blue;background-color:">Knocked</span></strong> DrTweak98 at 17:11, with a HeavyAR from 2m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> DrTweak98 at 17:14, with a HeavyAR from 3m<br>
+toxicCROW28 <strong><span style="color:blue;background-color:">Knocked</span></strong> CalNHarps at 17:24, with a BurstRifle from 119m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> CalNHarps at 17:35, with a Shotgun from 3m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> liaawoo-- at 17:56 near <strong>SmallMine</strong>, with a Shotgun from 4m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> taylar02 at 17:56, with a BurstRifle from 41m<br>
+Krasnog <strong><span style="color:blue;background-color:">Knocked</span></strong> Justtrey49er at 17:57 near <strong>SmallMine</strong>, with a Shotgun from 9m<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> ᴍᴏʟꜱᴏɴ at 18:04 near <strong>SmallMine</strong>, with a Shotgun from 3m<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> Justtrey49er at 18:04 near <strong>SmallMine</strong>, with a Shotgun<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> liaawoo-- at 18:17 near <strong>SmallMine</strong>, with a Shotgun from 2m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Krasnog at 18:18 near <strong>SmallMine</strong>, with a Shotgun from 4m<br>
+JoshxEffect <strong><span style="color:blue;background-color:">Knocked</span></strong> Kosmire1 at 18:51 near <strong>SynapseStation</strong>, with a HeavyAR from 31m<br>
+JoshxEffect <strong><span style="color:crimson;background-color:">Killed</span></strong> Kosmire1 at 18:58 near <strong>SynapseStation</strong>, with a HeavyAR from 40m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> Yungdabs710 at 19:10, with a HeavyAR from 1m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> JoshxEffect at 19:54 near <strong>SmallMine</strong>, with a PickAxe from 1m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMakeouthill at 20:04, with a Logout<br>
+# Game <strong>Four</strong> Killfeed<br>
+mutantx90 <strong><span style="color:blue;background-color:">Knocked</span></strong> AutoRick4223 at 1:45 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 10m<br>
+mutantx90 <strong><span style="color:crimson;background-color:">Killed</span></strong> AutoRick4223 at 1:50 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 6m<br>
+DrTweak98 <strong><span style="color:blue;background-color:">Knocked</span></strong> TAYVEA- at 1:55 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 9m<br>
+Donnydeuce <strong><span style="color:blue;background-color:">Knocked</span></strong> Fl0wwXD at 1:55 near <strong>TheJoneses</strong>, with a SMG from 5m<br>
+zZCoDkInGZz <strong><span style="color:blue;background-color:">Knocked</span></strong> KayMarieJane at 2:00 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 6m<br>
+Onelife84 <strong><span style="color:crimson;background-color:">Killed</span></strong> Fl0wwXD at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
+zZCoDkInGZz <strong><span style="color:crimson;background-color:">Killed</span></strong> KayMarieJane at 2:03 near <strong>ChonkersSpeedway</strong>, with a HeavyAR<br>
+smooter33 <strong><span style="color:blue;background-color:">Knocked</span></strong> zZCoDkInGZz at 2:06 near <strong>ChonkersSpeedway</strong>, with a BurstRifle from 62m<br>
+KoSSillyFawn <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHOtter at 2:07 near <strong>SleepySound</strong>, with a HeavyAR from 40m<br>
+DustyCottonball <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHAndreaaa at 2:11 near <strong>TheJoneses</strong>, with a HeavyAR from 2m<br>
+aytondan <strong><span style="color:blue;background-color:">Knocked</span></strong> Onelife84 at 2:14 near <strong>TheJoneses</strong>, with a SMG from 5m<br>
+DrTweak98 <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 2:14 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 4m<br>
+DustyCottonball <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAndreaaa at 2:15 near <strong>TheJoneses</strong>, with a HeavyAR from 2m<br>
+vNinoTG <strong><span style="color:blue;background-color:">Knocked</span></strong> hazelmonster023 at 2:16 near <strong>TheJoneses</strong>, with a HeavyAR from 14m<br>
+vNinoTG <strong><span style="color:blue;background-color:">Knocked</span></strong> Donnydeuce at 2:29 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
+aytondan <strong><span style="color:crimson;background-color:">Killed</span></strong> hazelmonster023 at 2:31 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
+vNinoTG <strong><span style="color:crimson;background-color:">Killed</span></strong> Donnydeuce at 2:38 near <strong>TheJoneses</strong>, with a HeavyAR from 8m<br>
+MoHMrsGines <strong><span style="color:blue;background-color:">Knocked</span></strong> JaakB2018 at 2:39, with a TacticalShotgun from 9m<br>
+MoHMrsGines <strong><span style="color:crimson;background-color:">Killed</span></strong> JaakB2018 at 2:43, with a TacticalShotgun from 4m<br>
+aytondan <strong><span style="color:crimson;background-color:">Killed</span></strong> Onelife84 at 2:45 near <strong>TheJoneses</strong>, with a TacticalShotgun from 4m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> aytondan at 2:53 near <strong>TheJoneses</strong>, with a BurstRifle from 25m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:blue;background-color:">Knocked</span></strong> isabelbee22 at 2:53 near <strong>BoatRentals</strong>, with a BurstRifle from 18m<br>
+smooter33 <strong><span style="color:blue;background-color:">Knocked</span></strong> MamaFlag at 2:54 near <strong>ChonkersSpeedway</strong>, with a BurstRifle from 23m<br>
+CheefTuckTTV <strong><span style="color:blue;background-color:">Knocked</span></strong> liaawoo-- at 2:54 near <strong>SleepySound</strong>, with a SMG from 2m<br>
+CheefTuckTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> liaawoo-- at 2:58 near <strong>SleepySound</strong>, with a SMG from 1m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> vNinoTG at 3:00 near <strong>TheJoneses</strong>, with a SMG from 9m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> isabelbee22 at 3:01 near <strong>BoatRentals</strong>, with a TacticalShotgun from 2m<br>
+smooter33 <strong><span style="color:crimson;background-color:">Killed</span></strong> MamaFlag at 3:02 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 5m<br>
+TTVkyraluvsyu <strong><span style="color:blue;background-color:">Knocked</span></strong> mikepal75 at 3:12 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 17m<br>
+Nicholas3206 <strong><span style="color:blue;background-color:">Knocked</span></strong> KoSSillyFawn at 3:15 near <strong>SleepySound</strong>, with a SMG from 1m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> mikepal75 at 3:19 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun from 4m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> DustyCottonball at 3:26 near <strong>TheJoneses</strong>, with a BurstRifle from 34m<br>
+TTVkyraluvsyu <strong><span style="color:blue;background-color:">Knocked</span></strong> smooter33 at 3:33 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun from 13m<br>
+taylar02 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> BeachBomber at 3:35 near <strong>CreamyCrossroads</strong>, with a BurstRifle from 3m (why you pick on NPCs?)<br>
+MistaCorbzZ <strong><span style="color:blue;background-color:">Knocked</span></strong> CheefTuckTTV at 3:36 near <strong>SleepySound</strong>, with a TacticalShotgun from 15m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> Homeツ at 3:37 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+SoloShootR <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 3:39 near <strong>SleepySound</strong>, with a Shotgun from 2m<br>
+TTVkyraluvsyu <strong><span style="color:blue;background-color:">Knocked</span></strong> DrTweak98 at 3:41 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 30m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> Homeツ at 3:44 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+hazelmonster023 <strong><span style="color:white;background-color:crimson">Revived</span></strong> hazelmonster023 at 3:46, with a RebootVan<br>
+Fl0wwXD <strong><span style="color:white;background-color:crimson">Revived</span></strong> Fl0wwXD at 3:46, with a RebootVan<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> smooter33 at 3:52 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> WubaLubaDub9613 at 3:52 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> DrTweak98 at 3:52 near <strong>ChonkersSpeedway</strong>, with a HeavyAR<br>
+TAYVEA- <strong><span style="color:crimson;background-color:">Killed</span></strong> mutantx90 at 3:54 near <strong>ChonkersSpeedway</strong>, with a PumpShotgun from 11m<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> aytondan at 3:56 near <strong>TheJoneses</strong>, with a BurstRifle<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> vNinoTG at 3:59 near <strong>TheJoneses</strong>, with a Storm<br>
+JaakB2018 <strong><span style="color:white;background-color:crimson">Revived</span></strong> JaakB2018 at 4:08, with a RebootVan<br>
+Suckmyforkknife0 <strong><span style="color:blue;background-color:">Knocked</span></strong> thatonekidd612 at 4:14, with a Rifle from 29m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> TAYVEA- at 4:14 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 4m<br>
+poopsie55 <strong><span style="color:crimson;background-color:">Killed</span></strong> thatonekidd612 at 4:25, with a Storm<br>
+poopsie55 <strong><span style="color:blue;background-color:">Knocked</span></strong> PuppyisEvil at 4:26, with a SMG from 5m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> DustyCottonball at 4:27 near <strong>ShuffledShrines</strong>, with a BurstRifle from 89m<br>
+FAZSLEET2 <strong><span style="color:crimson;background-color:">Killed</span></strong> visceralvirus at 4:28 near <strong>Sanctuary</strong>, with a HeavyAR from 1m<br>
+Suckmyforkknife0 <strong><span style="color:crimson;background-color:">Killed</span></strong> PuppyisEvil at 4:29, with a SMG from 2m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> DustyCottonball at 4:41, with a Shotgun from 1m<br>
+MistaCorbzZ <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHMrsGines at 5:04 near <strong>SleepySound</strong>, with a HeavyAR from 16m<br>
+JaakB2018 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMrsGines at 5:08 near <strong>SleepySound</strong>, with a PumpShotgun from 2m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicPhantom74 at 5:16 near <strong>Sanctuary</strong>, with a BurstRifle from 50m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> SikeBiShh91 at 5:41 near <strong>CondoCanyon</strong>, with a HeavyAR from 79m<br>
+zZCoDkInGZz <strong><span style="color:white;background-color:crimson">Revived</span></strong> zZCoDkInGZz at 6:01, with a RebootVan<br>
+Krasnog <strong><span style="color:blue;background-color:">Knocked</span></strong> ratedv4VENOM11 at 6:04 near <strong>SynapseStation</strong>, with a Shotgun from 3m<br>
+MamaFlag <strong><span style="color:white;background-color:crimson">Revived</span></strong> MamaFlag at 6:04, with a RebootVan<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> SikeBiShh91 at 6:04 near <strong>CondoCanyon</strong>, with a Shotgun from 2m<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> ratedv4VENOM11 at 6:07 near <strong>SynapseStation</strong>, with a Shotgun from 6m<br>
+Rainbosprkl <strong><span style="color:blue;background-color:">Knocked</span></strong> poopsie55 at 6:07, with a SMG from 4m<br>
+CheefTuckTTV <strong><span style="color:white;background-color:crimson">Revived</span></strong> CheefTuckTTV at 6:09, with a RebootVan<br>
+CalNHarps <strong><span style="color:blue;background-color:">Knocked</span></strong> Rainbosprkl at 6:10, with a BurstRifle from 25m<br>
+MoHMrsGines <strong><span style="color:white;background-color:crimson">Revived</span></strong> MoHMrsGines at 6:11, with a RebootVan<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> Rainbosprkl at 6:13, with a Shotgun from 10m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> poopsie55 at 6:20, with a SMG from 6m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> TTV-Tobey2011 at 6:21 near <strong>ShuffledShrines</strong>, with a Shotgun from 4m<br>
+Krasnog <strong><span style="color:blue;background-color:">Knocked</span></strong> zZCoDkInGZz at 6:27 near <strong>SynapseStation</strong>, with a Shotgun from 7m<br>
+Nicholas3206 <strong><span style="color:blue;background-color:">Knocked</span></strong> Whitt-ley7 at 6:27 near <strong>SleepySound</strong>, with a Shotgun from 1m<br>
+FritoLay19 <strong><span style="color:blue;background-color:">Knocked</span></strong> Kosmire1 at 6:31 near <strong>ShuffledShrines</strong>, with a SMG from 3m<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> Whitt-ley7 at 6:31 near <strong>SleepySound</strong>, with a Shotgun from 2m<br>
+MamaFlag <strong><span style="color:blue;background-color:">Knocked</span></strong> STR0PH1CS- at 6:32 near <strong>SynapseStation</strong>, with a Pistol from 50m<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 6:34 near <strong>SynapseStation</strong>, with a Shotgun from 8m<br>
+FritoLay19 <strong><span style="color:crimson;background-color:">Killed</span></strong> Kosmire1 at 6:38 near <strong>ShuffledShrines</strong>, with a SMG from 2m<br>
+BlAcKDoMiNAX <strong><span style="color:blue;background-color:">Knocked</span></strong> BlAcKDoMiNAX at 6:55, with a Environment from 30m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> Wbkern at 6:57, with a Shotgun from 5m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> TTV-Tobey2011 at 7:23 near <strong>ShuffledShrines</strong>, with a Storm<br>
+Lilrondog216650 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Mancake at 8:02 near <strong>RockyReels</strong>, with a PumpShotgun from 2m (why you pick on NPCs?)<br>
+TAYVEA- <strong><span style="color:white;background-color:crimson">Revived</span></strong> TAYVEA- at 8:02, with a RebootVan<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> MistaCorbzZ at 8:04, with a Falling from 27m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> STR0PH1CS- at 8:04 near <strong>SynapseStation</strong>, with a BurstRifle from 64m<br>
+BlakHart318 <strong><span style="color:blue;background-color:">Knocked</span></strong> jethro50457 at 8:07, with a SMG from 7m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> MistaCorbzZ at 8:10, with a PumpShotgun<br>
+Nicholas3206 <strong><span style="color:blue;background-color:">Knocked</span></strong> SoloShootR at 8:14, with a SMG from 7m<br>
+SmashhNtrashh <strong><span style="color:crimson;background-color:">Killed</span></strong> jethro50457 at 8:15, with a SMG from 3m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> Krasnog at 8:20 near <strong>SynapseStation</strong>, with a Shotgun from 12m<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> SoloShootR at 8:24 near <strong>RockyReels</strong>, with a Storm from 10m<br>
+Nicholas3206 <strong><span style="color:blue;background-color:">Knocked</span></strong> JaakB2018 at 8:25, with a Shotgun from 9m<br>
+toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> toxicCROW28 at 8:28, with a Environment from 26m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> Sarishka at 8:29, with a Shotgun from 1m<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> JaakB2018 at 8:29, with a Shotgun<br>
+Sarishka <strong><span style="color:blue;background-color:">Knocked</span></strong> Nicholas3206 at 8:29, with a Shotgun from 15m<br>
+LooseClipz-19 <strong><span style="color:crimson;background-color:">Killed</span></strong> HDF112905 at 8:32 near <strong>SynapseStation</strong>, with a SMG from 4m<br>
+SmashhNtrashh <strong><span style="color:blue;background-color:">Knocked</span></strong> taylar02 at 8:33, with a BurstRifle from 90m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> tehhasian at 8:35 near <strong>SynapseStation</strong>, with a Shotgun from 5m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> Krasnog at 8:35 near <strong>SynapseStation</strong>, with a Shotgun<br>
+BlakHart318 <strong><span style="color:crimson;background-color:">Killed</span></strong> Ky3lliot at 8:36, with a HeavyAR from 83m<br>
+SmashhNtrashh <strong><span style="color:crimson;background-color:">Killed</span></strong> taylar02 at 8:36, with a BurstRifle<br>
+BigJoeee420 <strong><span style="color:crimson;background-color:">Killed</span></strong> LloydDIDit at 8:36, with a Shotgun from 17m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> STR0PH1CS- at 8:36 near <strong>SynapseStation</strong>, with a BurstRifle<br>
+SmashhNtrashh <strong><span style="color:blue;background-color:">Knocked</span></strong> BigJoeee420 at 8:51, with a SMG from 3m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:blue;background-color:">Knocked</span></strong> Suckmyforkknife0 at 8:52, with a TacticalShotgun from 6m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> BigTimmyDun at 8:56, with a SMG from 3m<br>
+SmashhNtrashh <strong><span style="color:crimson;background-color:">Killed</span></strong> BigJoeee420 at 8:57, with a SMG<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> Suckmyforkknife0 at 8:58, with a TacticalShotgun<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> Sinatraa600 at 9:12 near <strong>BobsHouse</strong>, with a BurstRifle from 83m<br>
+returnedtozero <strong><span style="color:blue;background-color:">Knocked</span></strong> tenmall9 at 9:27, with a Shotgun from 7m<br>
+returnedtozero <strong><span style="color:blue;background-color:">Knocked</span></strong> W0ahcheyenne at 9:34, with a Shotgun from 6m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> Justtrey49er at 9:35, with a SMG from 1m<br>
+FAZSLEET2 <strong><span style="color:blue;background-color:">Knocked</span></strong> CalNHarps at 9:35, with a SMG from 3m<br>
+SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> FAZSLEET2 at 9:38, with a PumpShotgun from 1m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> Justtrey49er at 9:39, with a SMG<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> tenmall9 at 9:39, with a Shotgun<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> W0ahcheyenne at 9:40, with a Shotgun<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> FritoLay19 at 9:46, with a BurstRifle from 29m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:blue;background-color:">Knocked</span></strong> KoSSillyFawn at 9:55 near <strong>DirtTrack</strong>, with a BurstRifle from 41m<br>
+ratedv4VENOM11 <strong><span style="color:white;background-color:crimson">Revived</span></strong> ratedv4VENOM11 at 10:01, with a RebootVan<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHMakeouthill at 10:02, with a Shotgun from 3m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMakeouthill at 10:05, with a Shotgun from 2m<br>
+zZCoDkInGZz <strong><span style="color:white;background-color:crimson">Revived</span></strong> zZCoDkInGZz at 10:06, with a RebootVan<br>
+BlAcKDoMiNAX <strong><span style="color:blue;background-color:">Knocked</span></strong> BlAcKDoMiNAX at 10:09, with a Environment from 26m<br>
+JoshxEffect <strong><span style="color:blue;background-color:">Knocked</span></strong> CheefTuckTTV at 10:10 near <strong>DirtTrack</strong>, with a HeavyAR from 65m<br>
+SmashhNtrashh <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMrsGines at 10:11, with a SMG from 10m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> KoSSillyFawn at 10:12 near <strong>DirtTrack</strong>, with a BurstRifle<br>
+JoshxEffect <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 10:13 near <strong>DirtTrack</strong>, with a HeavyAR<br>
+TAYVEA- <strong><span style="color:blue;background-color:">Knocked</span></strong> FuriousLion3158 at 10:45, with a BuildingProp from 66m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> Fl0wwXD at 11:55 near <strong>BuriedDesertTown</strong>, with a HeavyAR from 2m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> BlAcKDoMiNAX at 12:03 near <strong>BuriedDesertTown</strong>, with a Shotgun from 7m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> BlAcKDoMiNAX at 12:05 near <strong>BuriedDesertTown</strong>, with a Shotgun from 4m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> Fl0wwXD at 12:09 near <strong>BuriedDesertTown</strong>, with a HeavyAR<br>
+CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> hazelmonster023 at 12:09, with a SMG from 1m<br>
+SoulofShadows <strong><span style="color:blue;background-color:">Knocked</span></strong> ItsDrakeFam at 12:20 near <strong>TiltedTowers</strong>, with a HeavyAR from 8m<br>
+SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> ItsDrakeFam at 12:25 near <strong>TiltedTowers</strong>, with a TacticalShotgun from 2m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> TAYVEA- at 12:25, with a Shotgun from 3m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> zZCoDkInGZz at 12:34, with a Shotgun from 5m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> powerranger102 at 12:43 near <strong>TiltedTowers</strong>, with a SMG from 5m<br>
+Lilrondog216650 <strong><span style="color:blue;background-color:">Knocked</span></strong> Queenkilla2010 at 12:48 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> ratedv4VENOM11 at 12:51, with a BurstRifle from 51m<br>
+Lilrondog216650 <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 12:52 near <strong>TiltedTowers</strong>, with a Storm<br>
+returnedtozero <strong><span style="color:blue;background-color:">Knocked</span></strong> Lilrondog216650 at 12:54 near <strong>TiltedTowers</strong>, with a HeavyAR from 2m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> Lilrondog216650 at 12:57 near <strong>TiltedTowers</strong>, with a Shotgun from 5m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> powerranger102 at 12:57 near <strong>TiltedTowers</strong>, with a SMG from 4m<br>
+Ag8teFirE <strong><span style="color:blue;background-color:">Knocked</span></strong> MamaFlag at 12:59, with a SMG from 9m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> ratedv4VENOM11 at 13:02, with a BurstRifle<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> TAYVEA- at 13:02, with a Shotgun from 10m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 13:02, with a Shotgun<br>
+Ag8teFirE <strong><span style="color:crimson;background-color:">Killed</span></strong> MamaFlag at 13:02, with a SMG<br>
+SmashhNtrashh <strong><span style="color:blue;background-color:">Knocked</span></strong> SoulofShadows at 13:08 near <strong>TiltedTowers</strong>, with a HeavyAR from 63m<br>
+JoshxEffect <strong><span style="color:blue;background-color:">Knocked</span></strong> CalNHarps at 13:56 near <strong>TiltedTowers</strong>, with a TacticalShotgun from 7m<br>
+CalNHarps <strong><span style="color:blue;background-color:">Knocked</span></strong> SmashhNtrashh at 13:57 near <strong>TiltedTowers</strong>, with a SMG from 5m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> SmashhNtrashh at 14:02 near <strong>TiltedTowers</strong>, with a SMG from 6m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:blue;background-color:">Knocked</span></strong> SoulofShadows at 14:11 near <strong>TiltedTowers</strong>, with a SMG from 11m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> CalNHarps at 14:19 near <strong>TiltedTowers</strong>, with a TacticalShotgun from 7m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> SoulofShadows at 14:31 near <strong>TiltedTowers</strong>, with a SMG<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> FritoLay19 at 14:31, with a HeavyAR from 5m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 14:32 near <strong>TiltedTowers</strong>, with a SMG from 2m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 14:36, with a Shotgun from 7m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> FritoLay19 at 14:41, with a HeavyAR<br>
+CPKkaso <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 14:42 from 8m<br>
+jellycatkern514 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 14:45, with a Fire from 2m<br>
+TwoTaps27 <strong><span style="color:blue;background-color:">Knocked</span></strong> jellycatkern514 at 14:47, with a PumpShotgun from 1m<br>
+TwoTaps27 <strong><span style="color:blue;background-color:">Knocked</span></strong> Persicutor at 14:48, with a SMG from 10m<br>
+TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></strong> Persicutor at 15:08, with a SMG<br>
+TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></strong> Sinatraa600 at 15:09, with a PumpShotgun from 10m<br>
+TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></strong> jellycatkern514 at 15:09, with a PumpShotgun<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHAimyLynn at 15:55 near <strong>TiltedTowers</strong>, with a SMG from 2m<br>
+Silentsender <strong><span style="color:crimson;background-color:">Killed</span></strong> ΨＢａｄＨｏｋａｇｅﾘｲ at 16:03 near <strong>TiltedTowers</strong>, with a Shotgun from 4m<br>
+Ag8teFirE <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 17:47 near <strong>TiltedTowers</strong>, with a Shotgun from 18m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 17:51 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+GrizzyWright703 <strong><span style="color:crimson;background-color:">Killed</span></strong> CoalhouseJr92 at 17:55 near <strong>TiltedTowers</strong>, with a Rifle from 21m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> TwoTaps27 at 17:59 near <strong>TiltedTowers</strong>, with a Shotgun from 8m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> BlakHart318 at 18:03 near <strong>TiltedTowers</strong>, with a Shotgun from 3m<br>
+TTVkyraluvsyu <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 18:03 near <strong>TiltedTowers</strong>, with a Shotgun from 3m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> BlakHart318 at 18:05 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 18:08 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> TwoTaps27 at 18:12 near <strong>ShuffledShrines</strong>, with a Storm from 9m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> LooseClipz-19 at 18:12 near <strong>TiltedTowers</strong>, with a HeavyAR from 46m<br>
+CPKkaso <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVkyraluvsyu at 18:13, with a Storm<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> ᴍᴏʟꜱᴏɴ at 18:14 near <strong>TiltedTowers</strong>, with a HeavyAR from 43m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVkyraluvsyu at 18:25, with a Storm<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> JoshxEffect at 18:51 near <strong>TiltedTowers</strong>, with a Shotgun from 1m<br>
+TTVkyraluvsyu <strong><span style="color:white;background-color:crimson">Revived</span></strong> TTVkyraluvsyu at 19:19, with a RebootVan<br>
+MRKCSPAMZ <strong><span style="color:blue;background-color:">Knocked</span></strong> LooseClipz-19 at 19:20 near <strong>ShuffledShrines</strong>, with a Storm from 25m<br>
+Ag8teFirE messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong> near <strong>TheJoneses</strong>!<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> GrizzyWright703 at 19:24 near <strong>TiltedTowers</strong>, with a HeavyAR from 65m<br>
+MRKCSPAMZ <strong><span style="color:crimson;background-color:">Killed</span></strong> LooseClipz-19 at 19:31 near <strong>ShuffledShrines</strong>, with a Storm from 99m<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> MRKCSPAMZ at 19:32 near <strong>TiltedTowers</strong>, with a Shotgun from 5m<br>
+Ag8teFirE messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong> near <strong>TheJoneses</strong>!<br>
+TTVkyraluvsyu <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHOtter at 19:57 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+MoH_AimyLynn messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> Silentsender at 20:03 near <strong>TiltedTowers</strong>, with a Shotgun from 7m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHOtter at 20:03 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> Nicholas3206 at 20:05 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> Silentsender at 20:08 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+TTVkyraluvsyu <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHAimyLynn at 20:59 near <strong>TiltedTowers</strong>, with a Shotgun from 3m<br>
+MRKCSPAMZ <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVkyraluvsyu at 21:03 near <strong>TiltedTowers</strong>, with a Shotgun from 1m<br>
+FuriousLion3158 <strong><span style="color:blue;background-color:">Knocked</span></strong> MRKCSPAMZ at 21:04 near <strong>TiltedTowers</strong>, with a Shotgun from 10m<br>
+TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAimyLynn at 21:05 near <strong>TiltedTowers</strong>, with a Shotgun<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> GrizzyWright703 at 21:06 near <strong>TiltedTowers</strong>, with a Shotgun from 4m<br>
+FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> MRKCSPAMZ at 21:06 near <strong>TiltedTowers</strong>, with a Shotgun<br>
+# Game <strong>Five</strong> Killfeed<br>
+FlaguNah <strong><span style="color:crimson;background-color:">Killed</span></strong> FlaguNah at 0:55<br>
+KoSSillyFawn <strong><span style="color:blue;background-color:">Knocked</span></strong> Ky3lliot at 1:49 near <strong>RockyReels</strong>, with a Rifle from 11m<br>
+isabelbee22 <strong><span style="color:crimson;background-color:">Killed</span></strong> Ky3lliot at 1:58 near <strong>RockyReels</strong>, with a PickAxe from 1m<br>
+Nicholas3206 <strong><span style="color:blue;background-color:">Knocked</span></strong> mangowise at 2:07 near <strong>SynapseStation</strong>, with a SMG from 16m<br>
+wehimckee <strong><span style="color:blue;background-color:">Knocked</span></strong> Nicholas3206 at 2:17 near <strong>SynapseStation</strong>, with a Shotgun from 10m<br>
+CheefTuckTTV <strong><span style="color:blue;background-color:">Knocked</span></strong> Babybell08 at 2:20 near <strong>RockyReels</strong>, with a SMG from 4m<br>
+TTV-Tobey2011 <strong><span style="color:blue;background-color:">Knocked</span></strong> jethro50457 at 2:21 near <strong>RealityFalls</strong>, with a SMG from 15m<br>
+wehimckee <strong><span style="color:crimson;background-color:">Killed</span></strong> Nicholas3206 at 2:22 near <strong>SynapseStation</strong>, with a Shotgun from 2m<br>
+CheefTuckTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> Babybell08 at 2:24 near <strong>RockyReels</strong>, with a Pistol from 2m<br>
+TTV-Tobey2011 <strong><span style="color:crimson;background-color:">Killed</span></strong> jethro50457 at 2:26 near <strong>RealityFalls</strong>, with a Storm<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> NateDigger at 2:29 near <strong>GreasyGrove</strong> from 49m<br>
+MoHAndreaaa <strong><span style="color:blue;background-color:">Knocked</span></strong> taylar02 at 2:30 near <strong>RockyReels</strong>, with a PumpShotgun from 2m<br>
+MamaFlag <strong><span style="color:blue;background-color:">Knocked</span></strong> Lilrondog216650 at 2:34 near <strong>ChonkersSpeedway</strong>, with a Rifle from 47m<br>
+liaawoo-- <strong><span style="color:blue;background-color:">Knocked</span></strong> BigJoeee420 at 2:34 near <strong>RockyReels</strong>, with a Shotgun from 5m<br>
+TTV-Tobey2011 <strong><span style="color:blue;background-color:">Knocked</span></strong> Magoo8351 at 2:34 near <strong>RealityFalls</strong>, with a HeavyAR from 35m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> NateDigger at 2:34 near <strong>GreasyGrove</strong> from 46m<br>
+MoHAndreaaa <strong><span style="color:crimson;background-color:">Killed</span></strong> taylar02 at 2:35 near <strong>RockyReels</strong>, with a PumpShotgun from 3m<br>
+Donnydeuce <strong><span style="color:blue;background-color:">Knocked</span></strong> Sarishka at 2:37 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 5m<br>
+slick252006 <strong><span style="color:blue;background-color:">Knocked</span></strong> KannonK14 at 2:40 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun from 2m<br>
+DustyCottonball <strong><span style="color:blue;background-color:">Knocked</span></strong> SoulofShadows at 2:40 near <strong>CondoCanyon</strong>, with a BurstRifle from 2m<br>
+slick252006 <strong><span style="color:crimson;background-color:">Killed</span></strong> KannonK14 at 2:44 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 1m<br>
+Donnydeuce <strong><span style="color:blue;background-color:">Knocked</span></strong> BlAcKDoMiNAX at 2:44 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 4m<br>
+CheefTuckTTV <strong><span style="color:blue;background-color:">Knocked</span></strong> liaawoo-- at 2:48 near <strong>RockyReels</strong>, with a SMG from 2m<br>
+GrizzyWright703 <strong><span style="color:blue;background-color:">Knocked</span></strong> Sassy5154 at 2:48 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 6m<br>
+TTV-kerrboyyfn <strong><span style="color:blue;background-color:">Knocked</span></strong> AutoRick4223 at 2:50 near <strong>ButterBarn</strong>, with a SMG from 14m<br>
+TTV-kerrboyyfn <strong><span style="color:blue;background-color:">Knocked</span></strong> Kayebabe94 at 2:51 near <strong>ButterBarn</strong>, with a Grenade from 18m<br>
+returnedtozero <strong><span style="color:blue;background-color:">Knocked</span></strong> Ag8teFirE at 2:52 near <strong>GreasyGrove</strong>, with a HeavyAR from 9m<br>
+WubaLubaDub9613 <strong><span style="color:crimson;background-color:">Killed</span></strong> GrizzyWright703 at 2:52 near <strong>ChonkersSpeedway</strong>, with a Pistol from 7m<br>
+Kayebabe94 <strong><span style="color:blue;background-color:">Knocked</span></strong> BigTeeRex10 at 2:53 near <strong>ButterBarn</strong>, with a SMG from 17m<br>
+Donnydeuce <strong><span style="color:crimson;background-color:">Killed</span></strong> BlAcKDoMiNAX at 2:53 near <strong>ChonkersSpeedway</strong>, with a HeavyAR<br>
+TTV-kerrboyyfn <strong><span style="color:crimson;background-color:">Killed</span></strong> AutoRick4223 at 2:54 near <strong>ButterBarn</strong>, with a Grenade from 17m<br>
+Donnydeuce <strong><span style="color:crimson;background-color:">Killed</span></strong> Sarishka at 2:54 near <strong>ChonkersSpeedway</strong>, with a Shotgun<br>
+TTV-kerrboyyfn <strong><span style="color:crimson;background-color:">Killed</span></strong> CREEPYREPTILE866 at 2:54 near <strong>ButterBarn</strong>, with a Grenade from 12m<br>
+TTV-kerrboyyfn <strong><span style="color:crimson;background-color:">Killed</span></strong> Kayebabe94 at 2:56 near <strong>ButterBarn</strong>, with a Grenade<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> Ag8teFirE at 2:56 near <strong>GreasyGrove</strong>, with a PickAxe from 1m<br>
+Fl0wwXD <strong><span style="color:crimson;background-color:">Killed</span></strong> vNinoTG at 3:00 near <strong>RockyReels</strong>, with a HeavyAR from 8m<br>
+MoHMakeouthill <strong><span style="color:blue;background-color:">Knocked</span></strong> Sinatraa600 at 3:00, with a HeavyAR from 65m<br>
+R0sefoxx44 <strong><span style="color:blue;background-color:">Knocked</span></strong> JaakB2018 at 3:00 near <strong>ShroomStation</strong>, with a PumpShotgun from 3m<br>
+CheefTuckTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> liaawoo-- at 3:01 near <strong>RockyReels</strong>, with a SMG<br>
+mutantx90 <strong><span style="color:blue;background-color:">Knocked</span></strong> Wrecksone at 3:01 near <strong>ChonkersSpeedway</strong>, with a BurstRifle from 60m<br>
+aytondan <strong><span style="color:blue;background-color:">Knocked</span></strong> R0sefoxx44 at 3:02 near <strong>ShroomStation</strong>, with a Pistol from 6m<br>
+slick252006 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Stash'd at 3:06 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun from 6m (why you pick on NPCs?)<br>
+MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Sinatraa600 at 3:08, with a HeavyAR from 29m<br>
+tehhasian <strong><span style="color:blue;background-color:">Knocked</span></strong> mutantx90 at 3:16 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 66m<br>
+mutantx90 <strong><span style="color:crimson;background-color:">Killed</span></strong> Wrecksone at 3:19 near <strong>ChonkersSpeedway</strong>, with a BurstRifle<br>
+asleep365 <strong><span style="color:blue;background-color:">Knocked</span></strong> MistaCorbzZ at 3:19 near <strong>ShroomStation</strong>, with a Shotgun from 11m<br>
+MamaFlag <strong><span style="color:crimson;background-color:">Killed</span></strong> WubaLubaDub9613 at 3:19 near <strong>ChonkersSpeedway</strong>, with a Pistol from 4m<br>
+MistaCorbzZ <strong><span style="color:blue;background-color:">Knocked</span></strong> Archivalcash911 at 3:20 near <strong>ShroomStation</strong>, with a HeavyAR from 9m<br>
+tehhasian <strong><span style="color:crimson;background-color:">Killed</span></strong> KayMarieJane at 3:31 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 67m<br>
+tehhasian <strong><span style="color:crimson;background-color:">Killed</span></strong> mutantx90 at 3:31 near <strong>ChonkersSpeedway</strong>, with a HeavyAR<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:blue;background-color:">Knocked</span></strong> poopsie55 at 3:31, with a SMG from 6m<br>
+MRKCSPAMZ <strong><span style="color:crimson;background-color:">Killed</span></strong> BigTimmyDun at 3:33 near <strong>ChonkersSpeedway</strong>, with a Rifle from 38m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> HDF112905 at 3:33 near <strong>GreasyGrove</strong>, with a HeavyAR from 2m<br>
+asleep365 <strong><span style="color:crimson;background-color:">Killed</span></strong> JaakB2018 at 3:43 near <strong>ShroomStation</strong>, with a PumpShotgun<br>
+Onelife84 <strong><span style="color:crimson;background-color:">Killed</span></strong> zZCoDkInGZz at 3:44, with a Shotgun from 1m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> poopsie55 at 3:44, with a SMG<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> LegendaryWoody at 3:44, with a SMG from 3m<br>
+OGKhaleesii <strong><span style="color:blue;background-color:">Knocked</span></strong> CheefTuckTTV at 3:46 near <strong>RockyReels</strong>, with a HeavyAR from 4m<br>
+ToxicPhantom74 <strong><span style="color:blue;background-color:">Knocked</span></strong> BigJoeee420 at 3:52 near <strong>RockyReels</strong>, with a SMG from 6m<br>
+Ky3lliot <strong><span style="color:white;background-color:crimson">Revived</span></strong> Ky3lliot at 3:53, with a RebootVan<br>
+OGKhaleesii <strong><span style="color:blue;background-color:">Knocked</span></strong> ToxicPhantom74 at 3:55 near <strong>RockyReels</strong>, with a HeavyAR from 6m<br>
+CHEVYgang23 <strong><span style="color:blue;background-color:">Knocked</span></strong> Donnydeuce at 3:57 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+MamaFlag <strong><span style="color:crimson;background-color:">Killed</span></strong> Donnydeuce at 4:06 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+CHEVYgang23 <strong><span style="color:blue;background-color:">Knocked</span></strong> Lilrondog216650 at 4:08 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 7m<br>
+slick252006 <strong><span style="color:crimson;background-color:">Killed</span></strong> Lilrondog216650 at 4:11 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun from 3m<br>
+CHEVYgang23 <strong><span style="color:crimson;background-color:">Killed</span></strong> Sassy5154 at 4:19 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 1m<br>
+ToxicPhantom74 <strong><span style="color:crimson;background-color:">Killed</span></strong> BigJoeee420 at 4:21 near <strong>RockyReels</strong>, with a SMG from 1m<br>
+asleep365 <strong><span style="color:crimson;background-color:">Killed</span></strong> MistaCorbzZ at 4:22 near <strong>ShroomStation</strong>, with a Storm<br>
+SoulofShadows <strong><span style="color:blue;background-color:">Knocked</span></strong> Justtrey49er at 4:24 near <strong>CondoCanyon</strong>, with a BurstRifle from 4m<br>
+fatboyCharles420 <strong><span style="color:blue;background-color:">Knocked</span></strong> SoulofShadows at 4:27 near <strong>CondoCanyon</strong>, with a SMG from 2m<br>
+CalNHarps <strong><span style="color:blue;background-color:">Knocked</span></strong> fatboyCharles420 at 4:32 near <strong>CondoCanyon</strong>, with a Shotgun from 3m<br>
+SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Justtrey49er at 4:36 near <strong>CondoCanyon</strong>, with a BurstRifle<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> DustyCottonball at 4:37 near <strong>CondoCanyon</strong>, with a SMG from 9m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 4:38 near <strong>CondoCanyon</strong>, with a Shotgun<br>
+TTV-Tobey2011 <strong><span style="color:blue;background-color:">Knocked</span></strong> R0sefoxx44 at 4:38, with a Sniper from 35m<br>
+TTV-Tobey2011 <strong><span style="color:crimson;background-color:">Killed</span></strong> R0sefoxx44 at 4:44 near <strong>ShroomStation</strong>, with a Storm<br>
+OGKhaleesii <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 4:46 near <strong>RockyReels</strong>, with a HeavyAR<br>
+Sinatraa600 <strong><span style="color:white;background-color:crimson">Revived</span></strong> Sinatraa600 at 4:50, with a RebootVan<br>
+ToxicPhantom74 <strong><span style="color:blue;background-color:">Knocked</span></strong> isabelbee22 at 4:54 near <strong>RockyReels</strong>, with a Shotgun from 5m<br>
+asleep365 <strong><span style="color:blue;background-color:">Knocked</span></strong> TTV-Tobey2011 at 4:56 near <strong>ShroomStation</strong>, with a Shotgun from 12m<br>
+OGKhaleesii <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAndreaaa at 4:56 near <strong>RockyReels</strong>, with a Shotgun from 2m<br>
+EccentricFate <strong><span style="color:blue;background-color:">Knocked</span></strong> Archivalcash911 at 4:57 from 25m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> SikeBiShh91 at 4:58 near <strong>GreasyGrove</strong>, with a SMG from 4m<br>
+KoSSillyFawn <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicPhantom74 at 4:58 near <strong>RockyReels</strong>, with a Shotgun from 16m<br>
+asleep365 <strong><span style="color:crimson;background-color:">Killed</span></strong> TTV-Tobey2011 at 4:59 near <strong>RealityRoots</strong>, with a Shotgun from 4m<br>
+tehhasian <strong><span style="color:blue;background-color:">Knocked</span></strong> slick252006 at 5:00 near <strong>ChonkersSpeedway</strong>, with a TacticalShotgun from 2m<br>
+Whitt-ley7 <strong><span style="color:crimson;background-color:">Killed</span></strong> slick252006 at 5:03 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 5m<br>
+EccentricFate <strong><span style="color:crimson;background-color:">Killed</span></strong> Archivalcash911 at 5:03 near <strong>ShroomStation</strong>, with a SMG from 4m<br>
+MamaFlag <strong><span style="color:blue;background-color:">Knocked</span></strong> MRKCSPAMZ at 5:05 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 4m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHMakeouthill at 5:09 near <strong>GreasyGrove</strong>, with a BurstRifle from 65m<br>
+Whitt-ley7 <strong><span style="color:blue;background-color:">Knocked</span></strong> CHEVYgang23 at 5:09 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 7m<br>
+tehhasian <strong><span style="color:crimson;background-color:">Killed</span></strong> MamaFlag at 5:11 near <strong>ChonkersSpeedway</strong>, with a SMG from 6m<br>
+Whitt-ley7 <strong><span style="color:crimson;background-color:">Killed</span></strong> CHEVYgang23 at 5:12 near <strong>ChonkersSpeedway</strong>, with a Shotgun<br>
+EccentricFate <strong><span style="color:crimson;background-color:">Killed</span></strong> asleep365 at 5:15 near <strong>ShroomStation</strong>, with a SMG from 7m<br>
+KoSSillyFawn <strong><span style="color:crimson;background-color:">Killed</span></strong> Fl0wwXD at 5:16, with a Environment from 16m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> SikeBiShh91 at 5:23 near <strong>GreasyGrove</strong>, with a SMG<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHMakeouthill at 5:24 near <strong>GreasyGrove</strong>, with a BurstRifle<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> LooseClipz-19 at 5:24 near <strong>GreasyGrove</strong>, with a Rifle from 19m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> Ky3lliot at 5:59 near <strong>GreasyGrove</strong>, with a BurstRifle from 37m<br>
+KoSSillyFawn <strong><span style="color:blue;background-color:">Knocked</span></strong> TTV-kerrboyyfn at 6:04 near <strong>RockyReels</strong>, with a HeavyAR from 1m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> Ky3lliot at 6:04 near <strong>GreasyGrove</strong>, with a BurstRifle<br>
+OGKhaleesii <strong><span style="color:crimson;background-color:">Killed</span></strong> TTV-kerrboyyfn at 6:07 near <strong>RockyReels</strong>, with a Shotgun from 6m<br>
+Nicholas3206 <strong><span style="color:white;background-color:crimson">Revived</span></strong> Nicholas3206 at 6:09, with a RebootVan<br>
+toxicCROW28 <strong><span style="color:blue;background-color:">Knocked</span></strong> returnedtozero at 6:12 near <strong>GreasyGrove</strong>, with a HeavyAR from 12m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> lyssabrianne27 at 6:14 near <strong>GreasyGrove</strong>, with a HeavyAR from 13m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> lyssabrianne27 at 6:16 near <strong>GreasyGrove</strong>, with a Shotgun from 3m<br>
+aytondan <strong><span style="color:crimson;background-color:">Killed</span></strong> aytondan at 6:18<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> toxicCROW28 at 6:31 near <strong>GreasyGrove</strong>, with a SMG from 5m<br>
+EccentricFate <strong><span style="color:crimson;background-color:">Killed</span></strong> EccentricFate at 7:19<br>
+tehhasian <strong><span style="color:blue;background-color:">Knocked</span></strong> Kosmire1 at 7:52, with a BurstRifle from 39m<br>
+LLito178 <strong><span style="color:crimson;background-color:">Killed</span></strong> LLito178 at 7:54<br>
+MRKCSPAMZ <strong><span style="color:blue;background-color:">Knocked</span></strong> wehimckee at 7:55, with a BurstRifle from 53m<br>
+MRKCSPAMZ <strong><span style="color:crimson;background-color:">Killed</span></strong> mangowise at 8:01, with a SMG from 3m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> UselessMeltdown at 8:01, with a HeavyAR from 51m<br>
+mangowise <strong><span style="color:blue;background-color:">Knocked</span></strong> tehhasian at 8:02, with a Shotgun from 9m<br>
+tehhasian <strong><span style="color:crimson;background-color:">Killed</span></strong> Kosmire1 at 8:02, with a BurstRifle<br>
+MRKCSPAMZ <strong><span style="color:crimson;background-color:">Killed</span></strong> wehimckee at 8:02, with a BurstRifle<br>
+isabelbee22 <strong><span style="color:crimson;background-color:">Killed</span></strong> BigTeeRex10 at 8:04 near <strong>RockyReels</strong>, with a HeavyAR from 2m<br>
+W0ahcheyenne <strong><span style="color:blue;background-color:">Knocked</span></strong> isabelbee22 at 8:34, with a BurstRifle from 54m<br>
+W0ahcheyenne <strong><span style="color:crimson;background-color:">Killed</span></strong> isabelbee22 at 8:39, with a BurstRifle from 54m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> SoloShootR at 8:45 near <strong>DesertArch</strong>, with a Shotgun from 11m<br>
+KoSSillyFawn <strong><span style="color:blue;background-color:">Knocked</span></strong> CoalhouseJr92 at 8:46 near <strong>ShuffledShrines</strong>, with a Shotgun from 14m<br>
+Suckmyforkknife0 <strong><span style="color:blue;background-color:">Knocked</span></strong> returnedtozero at 8:46, with a Shotgun from 3m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> Suckmyforkknife0 at 8:52 near <strong>DesertArch</strong>, with a SMG from 1m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> SoloShootR at 8:57 near <strong>DesertArch</strong>, with a Shotgun<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> Suckmyforkknife0 at 8:57 near <strong>DesertArch</strong>, with a SMG<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> FritoLay19 at 8:57, with a Shotgun from 2m<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> TAYVEA- at 9:31, with a Shotgun from 3m<br>
+Onelife84 <strong><span style="color:blue;background-color:">Knocked</span></strong> KoSSillyFawn at 9:39 near <strong>BobsHouse</strong>, with a SMG from 2m<br>
+OGKhaleesii <strong><span style="color:blue;background-color:">Knocked</span></strong> Onelife84 at 9:39 near <strong>BobsHouse</strong>, with a HeavyAR from 3m<br>
+ΨＢａｄＨｏｋａｇｅﾘｲ <strong><span style="color:crimson;background-color:">Killed</span></strong> OGKhaleesii at 9:43 near <strong>BobsHouse</strong>, with a TacticalShotgun from 3m<br>
+Onelife84 <strong><span style="color:crimson;background-color:">Killed</span></strong> KoSSillyFawn at 9:44 near <strong>BobsHouse</strong>, with a SMG<br>
+Sinatraa600 <strong><span style="color:blue;background-color:">Knocked</span></strong> jellycatkern514 at 10:16 from 14m<br>
+W0ahcheyenne <strong><span style="color:blue;background-color:">Knocked</span></strong> ItsDrakeFam at 10:16, with a HeavyAR from 70m<br>
+Sinatraa600 <strong><span style="color:crimson;background-color:">Killed</span></strong> jellycatkern514 at 10:23 from 5m<br>
+FAZSLEET2 <strong><span style="color:blue;background-color:">Knocked</span></strong> Sinatraa600 at 10:32, with a Rifle from 40m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> tehhasian at 10:36 near <strong>DesertArch</strong>, with a BurstRifle from 58m<br>
+W0ahcheyenne <strong><span style="color:crimson;background-color:">Killed</span></strong> ItsDrakeFam at 10:46 near <strong>ShuffledShrines</strong>, with a Shotgun from 10m<br>
+W0ahcheyenne <strong><span style="color:blue;background-color:">Knocked</span></strong> mikepal75 at 10:49 near <strong>ShuffledShrines</strong>, with a HeavyAR from 3m<br>
+FAZSLEET2 <strong><span style="color:crimson;background-color:">Killed</span></strong> Sinatraa600 at 10:51, with a PumpShotgun from 1m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> tehhasian at 10:55 near <strong>ButterBarn</strong>, with a Shotgun from 2m<br>
+W0ahcheyenne <strong><span style="color:crimson;background-color:">Killed</span></strong> mikepal75 at 10:57 near <strong>ShuffledShrines</strong>, with a Shotgun from 2m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> MRKCSPAMZ at 10:58 near <strong>ButterBarn</strong>, with a Shotgun from 5m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> MRKCSPAMZ at 11:01 near <strong>ButterBarn</strong>, with a Shotgun from 3m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> Whitt-ley7 at 11:11 near <strong>ButterBarn</strong>, with a BurstRifle from 4m<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> FAZSLEET2 at 11:58 near <strong>RealityRoots</strong>, with a Sniper from 57m<br>
+smooter33 <strong><span style="color:blue;background-color:">Knocked</span></strong> JoshxEffect at 12:24, with a BurstRifle from 144m<br>
+returnedtozero <strong><span style="color:blue;background-color:">Knocked</span></strong> ΨＢａｄＨｏｋａｇｅﾘｲ at 12:34 near <strong>BuriedDesertTown</strong>, with a Shotgun from 7m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> ΨＢａｄＨｏｋａｇｅﾘｲ at 12:36 near <strong>BuriedDesertTown</strong>, with a Shotgun from 2m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> Onelife84 at 12:42, with a BurstRifle from 12m<br>
+OxtailRex437334 <strong><span style="color:crimson;background-color:">Killed</span></strong> JoshxEffect at 12:45, with a SMG from 9m<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> Yungdabs710 at 12:47, with a Storm from 58m<br>
+CalNHarps <strong><span style="color:blue;background-color:">Knocked</span></strong> tenmall9 at 12:52 near <strong>ChonkersSpeedway</strong>, with a SMG from 10m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> tenmall9 at 12:56 near <strong>ChonkersSpeedway</strong>, with a SMG from 4m<br>
+SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> W0ahcheyenne at 12:58 near <strong>ChonkersSpeedway</strong>, with a HeavyAR from 8m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> Yungdabs710 at 12:59, with a Storm<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> CoalhouseJr92 at 13:03, with a BurstRifle from 118m<br>
+Nicholas3206 <strong><span style="color:blue;background-color:">Knocked</span></strong> DrTweak98 at 13:19, with a Shotgun from 5m<br>
+Nicholas3206 <strong><span style="color:crimson;background-color:">Killed</span></strong> DrTweak98 at 13:22, with a SMG from 1m<br>
+Krasnog <strong><span style="color:blue;background-color:">Knocked</span></strong> Nicholas3206 at 13:35, with a SMG from 20m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> Silentsender at 13:37 near <strong>ButterBarn</strong>, with a BurstRifle from 139m<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> Nicholas3206 at 13:42, with a SMG<br>
+Krasnog <strong><span style="color:crimson;background-color:">Killed</span></strong> smooter33 at 13:43, with a PumpShotgun from 3m<br>
+Persicutor <strong><span style="color:blue;background-color:">Knocked</span></strong> OxtailRex437334 at 13:59, with a BurstRifle from 34m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> Krasnog at 14:36, with a Storm from 90m<br>
+Persicutor <strong><span style="color:crimson;background-color:">Killed</span></strong> OxtailRex437334 at 14:37, with a Storm from 77m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 15:50 near <strong>SynapseStation</strong>, with a BurstRifle from 42m<br>
+returnedtozero <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 15:58 near <strong>SynapseStation</strong>, with a HeavyAR from 69m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 16:03 near <strong>SynapseStation</strong>, with a BurstRifle from 38m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 16:37 near <strong>SynapseStation</strong>, with a BurstRifle from 20m<br>
+MoHOtter <strong><span style="color:blue;background-color:">Knocked</span></strong> Persicutor at 16:41, with a HeavyAR from 34m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> ᴍᴏʟꜱᴏɴ at 16:48 near <strong>SynapseStation</strong>, with a Shotgun from 3m<br>
+MoHOtter <strong><span style="color:crimson;background-color:">Killed</span></strong> Persicutor at 16:49, with a Shotgun from 3m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> hazelmonster023 at 18:00 near <strong>SynapseStation</strong>, with a SMG from 11m<br>
+Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> hazelmonster023 at 18:02 near <strong>SynapseStation</strong>, with a SMG<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> Magoo8351 at 18:03 near <strong>SynapseStation</strong>, with a Shotgun from 3m<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> MoHOtter at 19:16 near <strong>SynapseStation</strong>, with a Shotgun from 1m<br>
+CalNHarps <strong><span style="color:blue;background-color:">Knocked</span></strong> returnedtozero at 19:25 near <strong>SynapseStation</strong>, with a PumpShotgun from 1m<br>
+returnedtozero <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHOtter at 19:26 near <strong>SynapseStation</strong>, with a Storm<br>
+Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> CalNHarps at 19:26 near <strong>SynapseStation</strong>, with a Shotgun from 5m<br>
+SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
+CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>

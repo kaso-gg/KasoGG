@@ -1,13 +1,10 @@
 ---
-permalink: /killfeed/
+permalink: / killfeed /
 title: "full killfeed"
 excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
-<meta http-equiv="refresh" content="30">
-<!--
-i need to add search highlighting to this so you can type your name in and it will highlight your kills and stuff
--->
+<meta http - equiv = "refresh" content = "30" >
 
 ## [GO BACK](https://www.kaso.gg)
 
