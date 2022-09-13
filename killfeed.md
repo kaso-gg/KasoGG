@@ -5,8 +5,9 @@ excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
 
-# Game One Killfeed
+## [GO BACK](https://www.kaso.gg)
 
+# Game One Killfeed
 jethro50457 <strong><span style="color:darkred">Killed</span></strong> JessMonique2072 at 1:32 near Lighthouse<br>
 Yahgaa2718 <strong><span style="color:darkred">Killed</span></strong> itsvare at 2:03 near TheJoneses<br>
 YourDoody <strong><span style="color:darkred">Killed</span></strong> fatboyCharles420 at 2:18 near Lighthouse<br>
