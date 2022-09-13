@@ -44,7 +44,7 @@ body {
 
 
 
-# ![Doggo](/images/dogs/chalkboardDog1.png){:height="150px"} Doggo is cALcuLaTINg...
+# ![Doggo](/images/dogs/chalkboardDog1.png){height="150px"} Doggo is cALcuLaTINg...
 Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually 3-4 minutes after the end of match.
 
 
@@ -74,6 +74,8 @@ Insert scoring results here (script ABC.sql)-->
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click the [link](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR tells you your thank rate (%) to the bus driver.
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
+**Click here for [FULL KILLFEED](https://www.kaso.gg/killfeed)**
+
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
