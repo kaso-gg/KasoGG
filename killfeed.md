@@ -11,7 +11,7 @@ i need to add search highlighting to this so you can type your name in and it wi
 ## [GO BACK](https://www.kaso.gg)
 
 # Game One Killfeed
-ZchikiNugg messed around and died in storm!<br>
+ZchikiNugg messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
 Porgey09 <strong><span style="color:crimson;background-color:">Killed</span></strong> Tałia. at 2:46 near <strong>ShiftyShafts</strong>, with a HeavyAR<br>
 TAYVEA- <strong><span style="color:crimson;background-color:">Killed</span></strong> LooseClipz-19 at 4:17 near <strong>CreamyCrossroads</strong>, with a HeavyAR<br>
 micahls77 <strong><span style="color:crimson;background-color:">Killed</span></strong> micahls77 at 4:20<br>
@@ -29,14 +29,14 @@ danisaur0401 <strong><span style="color:mediumblue;background-color:black">Reviv
 MoHAndreaaa <strong><span style="color:mediumblue;background-color:black">Revived</span></strong> MoHAndreaaa at 7:37, with a RebootVan<br>
 MoHMakeouthill <strong><span style="color:crimson;background-color:">Killed</span></strong> Lilrondog216650 at 8:10, with a BurstRifle<br>
 FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> OGKhaleesii at 8:42 near <strong>CreamyCrossroads</strong>, with a Shotgun<br>
-ItsDrakeFam messed around and died in storm!<br>
+ItsDrakeFam messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
 WubaLubaDub9613 <strong><span style="color:crimson;background-color:">Killed</span></strong> thelividjoker at 9:28, with a BurstRifle<br>
 ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Killed</span></strong> KVANDYSTEIN at 9:56, with a HeavyAR<br>
-danisaur0401 messed around and died in storm!<br>
+danisaur0401 messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
 YendaD <strong><span style="color:mediumblue;background-color:black">Revived</span></strong> YendaD at 10:41, with a RebootVan<br>
-danisaur0401 messed around and died in storm!<br>
+danisaur0401 messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
 toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> visceralvirus at 11:10 near <strong>DesertArch</strong>, with a HeavyAR<br>
-KoS SillyFawn messed around and died in storm near <strong>DirtTrack</strong>!<br>
+KoS SillyFawn messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong> near <strong>DirtTrack</strong>!<br>
 toxicCROW28 <strong><span style="color:crimson;background-color:">Killed</span></strong> CheefTuckTTV at 12:26, with a Shotgun<br>
 Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicPhantom74 at 14:49, with a BurstRifle<br>
 Queenkilla2010 <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAndreaaa at 14:50 near <strong>LogJam</strong>, with a Storm<br>
@@ -83,9 +83,9 @@ TwoTaps27 <strong><span style="color:crimson;background-color:">Killed</span></s
 CPKkaso <strong><span style="color:darkorange;background-color:">Knocked</span></strong> TTVkyraluvsyu at 18:13, with a Storm<br>
 CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVkyraluvsyu at 18:25, with a Storm<br>
 TTVkyraluvsyu <strong><span style="color:mediumblue;background-color:black">Revived</span></strong> TTVkyraluvsyu at 19:19, with a RebootVan<br>
-Ag8teFirE messed around and died in storm near <strong>TheJoneses</strong>!<br>
-Ag8teFirE messed around and died in storm near <strong>TheJoneses</strong>!<br>
-MoH_AimyLynn messed around and died in storm!<br>
+Ag8teFirE messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong> near <strong>TheJoneses</strong>!<br>
+Ag8teFirE messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong> near <strong>TheJoneses</strong>!<br>
+MoH_AimyLynn messed around and <strong><span style="color:purple;background-color:gainsboro">died in storm</span></strong>!<br>
 TTVkyraluvsyu <strong><span style="color:crimson;background-color:">Killed</span></strong> MoHAimyLynn at 21:05 near <strong>TiltedTowers</strong>, with a Shotgun<br>
 FuriousLion3158 <strong><span style="color:crimson;background-color:">Killed</span></strong> MRKCSPAMZ at 21:06 near <strong>TiltedTowers</strong>, with a Shotgun<br>
 FlaguNah <strong><span style="color:crimson;background-color:">Killed</span></strong> FlaguNah at 0:55<br>
