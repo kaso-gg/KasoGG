@@ -44,7 +44,7 @@ body {
 
 
 
-# ![Doggo](/images/dogs/chalkboardDog1.png){height="150px"} Doggo is cALcuLaTINg...
+# ![Doggo](/images/dogs/chalkboardDog1.png){:height="150px"} Doggo is cALcuLaTINg...
 Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually 3-4 minutes after the end of match.
 
 

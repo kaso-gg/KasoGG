@@ -9,7 +9,7 @@ markdown: kramdown
      crossorigin="anonymous"></script>
 
 
-![Doggo](/images/dogs/physicsDog1.png){:height="300px"}
+![Doggo](/images/dogs/physicsDog1.png){height="300px"}
 ## Doggo did the math!
 ## [GO BACK](https://www.kaso.gg)
 
