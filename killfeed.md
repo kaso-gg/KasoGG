@@ -36,7 +36,6 @@ markdown: kramdown
 <strong>
     <div id="countUpTimer", style="color:red;background-color:white"></div>
 </strong>
-<br>
 
 ## [GO BACK](https://www.kaso.gg)     
 
