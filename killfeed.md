@@ -24,9 +24,9 @@ var x = setInterval(function() {
 }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
-<div>Last update: <span id="demo"></span> ago.</div>
 
 ## [GO BACK](https://www.kaso.gg)     
+<div>Elim Feed last updated: <span id="demo"></span> ago.</div>
 
 # Game <strong>One</strong> Killfeed<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
