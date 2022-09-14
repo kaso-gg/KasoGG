@@ -2,22 +2,6 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7150318280681240"
      crossorigin="anonymous"></script>
 
-<!-- <style>
-body {
-  background: url("/images/dogs/chalkboardDog1.png") repeat;
-}
-#banner {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  width: 100%;
-  height: 200px;
-  z-index: -1;
-}
-</style>
-<img id="banner" src="/images/dogs/chalkboardDog1.png" alt="Banner Image"/> -->
-
 <style>
       .tableFixHead {
         overflow-y: auto;
