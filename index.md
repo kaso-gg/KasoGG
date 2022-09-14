@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 18:18:05").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 18:21:59").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -92,7 +92,6 @@ Here's a breakdown of points allocation across all players and matches. This dat
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>
 **Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
-
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|MoH Makeouthill|52.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
