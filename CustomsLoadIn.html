@@ -23,7 +23,7 @@
 
 <body>
     <script>
-        var countUpdDate = new Date("Sep 13, 2022 21:47:23").getTime(); // Set the date we're counting down to
+        var countUpdDate = new Date("Sep 14, 2022 13:26:23").getTime(); // Set the date we're counting down to
         var x = setInterval(function () {
             var timeNow = new Date().getTime(); // Get today's date and time
             var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -31,7 +31,15 @@
             var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-            document.getElementById("countUpTimer").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s "; // Display the result in the element with id="demo"
+            var minutesString = minutes.toString();
+            var secondsString = seconds.toString();
+            if (minutesString.length < 2) {
+                minutesString = "0" + minutesString;
+            }
+            if (secondsString.length < 2) {
+                secondsString = "0" + secondsString;
+            }
+            document.getElementById("countUpTimer").innerHTML = minutesString + ":" + secondsString + " since updt"; // Display the result in the element with id="demo"
             // If the count down is finished, write some text
             if (distance < 0) {
                 clearInterval(x);
@@ -49,7 +57,9 @@
         Mode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
         TeamSize: <strong><span style="color:black;background-color:white">Squads</span></strong><br>
         Fill: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
-        <strong><div id="countUpTimer", style="color:red;background-color:white"></div></strong>
+        <strong>
+            <div id="countUpTimer" , style="color:red;background-color:white"></div>
+        </strong>
         <!-- Updt: <strong><div id="countUpTimer", style="color:red;background-color:white"></div></strong><br> -->
     </p>
     <p id="go-back"><a href="https://www.kaso.gg">Back to homepage</a><a class="anchorjs-link " href="#go-back"
