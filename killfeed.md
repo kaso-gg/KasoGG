@@ -7,30 +7,40 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-var countUpdDate = new Date("Sep 13, 2022 21:47:23").getTime(); // Set the date we're counting down to
-var x = setInterval(function() {
-  var now = new Date().getTime(); // Get today's date and time
-  var distance = now - countUpdDate; // Find the distance between now and the count down date
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s "; // Display the result in the element with id="demo"
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("countUpTimer").innerHTML = "EXPIRED";
-  }
-}, 1000); // Update the count down every 1000 milliseconds
+    var countUpdDate = new Date("Sep 14, 2022 13:40:36").getTime(); // Set the date we're counting down to
+    var x = setInterval(function () {
+        var timeNow = new Date().getTime(); // Get today's date and time
+        var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        var minutesString = minutes.toString();
+        var secondsString = seconds.toString();
+        if (minutesString.length < 2) {
+            minutesString = "0" + minutesString;
+        }
+        if (secondsString.length < 2) {
+            secondsString = "0" + secondsString;
+        }
+        document.getElementById("countUpTimer").innerHTML = minutesString + ":" + secondsString + " since updt"; // Display the result in the element with id="demo"
+        // If the count down is finished, write some text
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("countUpTimer").innerHTML = "EXPIRED";
+        }
+    }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
-## [GO BACK](https://www.kaso.gg)
 
+<strong>
+    <div id="countUpTimer", style="color:red;background-color:white"></div>
+</strong>
+<br>
 
+## [GO BACK](https://www.kaso.gg)     
 
-Elim Feed last updated: <div id="countUpTimer"></div> ago.
-
-# Game <strong>One</strong> Killfeed5<br>
+# Game <strong>One</strong> Killfeed<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
 Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
 YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 2:18 near <strong>Lighthouse</strong>, with a SMG from 10m<br>
@@ -745,4 +755,4 @@ Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span>
 SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
 CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>
 <!--CREATED BY CODE-->
-<!--9/13/2022 9:47:23 PM-->
+<!--9/14/2022 1:40:36 PM-->
