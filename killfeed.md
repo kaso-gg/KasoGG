@@ -24,8 +24,8 @@ var x = setInterval(function() {
 }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
-
-## [GO BACK](https://www.kaso.gg)     
+## [GO BACK](https://www.kaso.gg)
+<span id="demo"></span>
 <div>Elim Feed last updated: <span id="demo"></span> ago.</div>
 
 # Game <strong>One</strong> Killfeeds<br>
