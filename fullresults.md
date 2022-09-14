@@ -8,7 +8,7 @@ markdown: kramdown
 
 
 
-## [GO BACK](https://www.kaso.gg)
+## [BACK TO HOMEPAGE](https://www.kaso.gg)
 [Game Two](#Game_Two_Killfeed)
 
 # Game <strong>One</strong> Killfeed<br>
