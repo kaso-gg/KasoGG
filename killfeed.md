@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 15:03:36").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 15:22:13").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -32,11 +32,12 @@ markdown: kramdown
     }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
+
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span><strong>
 
 ## [GO BACK](https://www.kaso.gg)     
 
-# Game <strong>One</strong> Killfeeds<br>
+# Game <strong>One</strong> Killfeed<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
 Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
 YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 2:18 near <strong>Lighthouse</strong>, with a SMG from 10m<br>
@@ -751,4 +752,4 @@ Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span>
 SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
 CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>
 <!--CREATED BY CODE-->
-<!--9/14/2022 1:40:36 PM-->
+<!--9/14/2022 3:22:13 PM-->
