@@ -25,6 +25,7 @@ var x = setInterval(function() {
 </script>
 
 <p>Last update:<span id="demo"></span> ago.</p>
+<p><span id="demo"></span>
 
 
 ## [GO BACK](https://www.kaso.gg)     
