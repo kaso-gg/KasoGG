@@ -25,6 +25,7 @@ var x = setInterval(function() {
 </script>
 
 ## [GO BACK](https://www.kaso.gg)
+<p id="demo"></p>
 <span id="demo"></span>
 <div>Elim Feed last updated: <span id="demo"></span> ago.</div>
 
