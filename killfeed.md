@@ -4,7 +4,7 @@ title: "full killfeed"
 excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
-<meta http - equiv = "refresh" content = "30" >
+<meta http-equiv="refresh" content="30">
 
 ## [GO BACK](https://www.kaso.gg)
 

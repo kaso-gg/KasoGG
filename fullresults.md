@@ -1,19 +1,12 @@
 ---
-permalink: /fullresults/
+permalink: /killfeed/
 title: "full killfeed"
 excerpt: "Full score results all on one page!"
 markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
 
-
-
-## [BACK TO HOMEPAGE](https://www.kaso.gg)
-[Game One](#Game_One_Killfeed)<br>
-[Game Two](#Game_Two_Killfeed)<br>
-[Game Three](#Game_Three_Killfeed)<br>
-[Game Four](#Game_Four_Killfeed)<br>
-[Game Five](#Game_Five_Killfeed)<br>
+## [GO BACK](https://www.kaso.gg)
 
 # Game <strong>One</strong> Killfeed<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
