@@ -58,7 +58,6 @@ Here' a breakdown of points allocation across all players and matches. This data
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-
 |1|G^gg|MoH Makeouthill|52.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
 |2|bitties|ᴍᴏʟꜱᴏɴ|50.0|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
 |3|stars|Cal_N_Harps|42.6|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
@@ -246,3 +245,4 @@ Here' a breakdown of points allocation across all players and matches. This data
 |185||zZCoDkInGZz|-28.3|20.0 <15,31,18,9,28>|4 (0.0) <2,0,1,1,0>|0|0|0|0|100%|168|![](https://media.fortniteapi.io/images/f8cb81b5b715986679dacb75c67496aa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a8bc04a412c39c728f0e8ae32f5f4bda/transparent.png){:height="35px"}|
 |186||MamaFlag|-32.5|28.0 <44,17,47,9,24>|1 (0.0) <0,0,0,0,1>|0|0|0|0|100%|109|![](https://media.fortniteapi.io/images/f50e8410ad51cc6d12e0189c6cc135cc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
 |187||Donnydeuce|-33.9|20.0 <9,14,34,20,27>|7 (1.0) <1,3,0,1,2>|0|0|0|0|100%|220|![](https://media.fortniteapi.io/images/f154ad1a24b0815edd5d4223c8c792a2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a309cc76ecf13024068e5cab9220eb1f/transparent.png){:height="35px"}|
+
