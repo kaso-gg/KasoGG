@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 17:06:52").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 17:13:03").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -56,8 +56,10 @@ Here' a breakdown of points allocation across all players and matches. This data
 <br>
 <br>
 
-FULL TABLE AND HEADER HERE
+FULLTABLEDATAHERE
 
+| #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
+| :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|MoH Makeouthill|52.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
 |2|bitties|ᴍᴏʟꜱᴏɴ|50.0|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
 |3|stars|Cal_N_Harps|42.6|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
