@@ -1,7 +1,7 @@
 ---
 permalink: /killfeed/
 title: "full killfeed"
-excerpt: "Full score results all on one page!"
+excerpt: "Full score results all on one page!!"
 markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
