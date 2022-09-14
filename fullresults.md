@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 17:15:04").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 17:24:34").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -55,8 +55,6 @@ Here' a breakdown of points allocation across all players and matches. This data
 - Bonus: 2 pt for thanking bus driver
 <br>
 <br>
-
-FULLTABLEDATAHERE
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
