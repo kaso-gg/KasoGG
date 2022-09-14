@@ -1,5 +1,3 @@
-<!--CREATED BY CODE-->
-<!--9/13/2022 8:25:09 PM-->
 ---
 permalink: /killfeed/
 title: "full killfeed"
@@ -8,8 +6,10 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
 
-## [GO BACK](https://www.kaso.gg)
+## [GO BACK](https://www.kaso.gg)     
 
+<!--CREATED BY CODE-->
+<!--9/13/2022 8:54:39 PM-->
 # Game <strong>One</strong> Killfeed<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
 Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
