@@ -19,14 +19,14 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("countUpTimer").innerHTML = "EXPIRED";
   }
 }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
 ## [GO BACK](https://www.kaso.gg)
 
-Elim Feed last updated: <span><id="demo"></span> ago.
+Elim Feed last updated: <div id="countUpTimer"></div> ago.
 
 # Game <strong>One</strong> Killfeed5<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
