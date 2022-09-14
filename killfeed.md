@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-var countUpdDate = new Date(Sep 13, 2022 21:40:30).getTime(); // Set the date we're counting down to
+var countUpdDate = new Date(Sep 13, 2022 21:47:23).getTime(); // Set the date we're counting down to
 var x = setInterval(function() {
   var now = new Date().getTime(); // Get today's date and time
   var distance = now - countUpdDate; // Find the distance between now and the count down date
@@ -23,6 +23,9 @@ var x = setInterval(function() {
   }
 }, 1000); // Update the count down every 1000 milliseconds
 </script>
+
+<p>Last update: <span id = "demo" ></span> ago.</p>
+
 
 ## [GO BACK](https://www.kaso.gg)     
 
@@ -741,4 +744,4 @@ Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span>
 SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
 CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>
 <!--CREATED BY CODE-->
-<!--9/13/2022 9:40:30 PM-->
+<!--9/13/2022 9:47:23 PM-->
