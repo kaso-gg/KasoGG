@@ -6,6 +6,39 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="30">
 
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 5, 2024 15:37:25").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
+<p id="demo"></p>
+
 ## [GO BACK](https://www.kaso.gg)     
 
 # Game <strong>One</strong> Killfeed<br>
@@ -723,4 +756,4 @@ Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span>
 SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
 CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>
 <!--CREATED BY CODE-->
-<!--9/13/2022 9:14:44 PM-->
+<!--9/13/2022 9:16:22 PM-->

@@ -100,3 +100,6 @@ use double space at end of a line to make a carriage return on the resulting pag
 ![Kas](/images/kas.JPG){:height="20%" width="20%"}
 ![Kas](/images/gamingDog1.JPG){:height="200px"}
 -->
+
+<!--CREATED BY CODE-->
+<!--9/13/2022 9:16:20 PM-->
