@@ -32,6 +32,29 @@ markdown: kramdown
     }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
+<style>
+      .tableFixHead {
+        overflow-y: auto;
+        height: 195px;
+      }
+      .tableFixHead thead th {
+        position: sticky;
+        top: 0;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      th,
+      td {
+        padding: 2px 2x;
+        border: 1px solid #ccc;
+      }
+      th {
+        background: #eee;
+      }
+</style>
+
 
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
