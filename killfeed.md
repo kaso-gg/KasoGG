@@ -24,9 +24,7 @@ var x = setInterval(function() {
 }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
-<p>Last update:<span id="demo"></span>ago.</p>
-<p><span id="demo"></span></p>
-
+<div>Last update: <span id="demo"></span> ago.</div>
 
 ## [GO BACK](https://www.kaso.gg)     
 
