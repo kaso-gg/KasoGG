@@ -25,9 +25,8 @@ var x = setInterval(function() {
 </script>
 
 ## [GO BACK](https://www.kaso.gg)
-<p id="demo"></p>
-<span id="demo"></span>
-<div>Elim Feed last updated: <span id="demo"></span> ago.</div>
+
+<div>Elim Feed last updated: <p id="demo"></p> ago.</div>
 
 # Game <strong>One</strong> Killfeed5<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
