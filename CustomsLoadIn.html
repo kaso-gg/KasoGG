@@ -31,7 +31,7 @@
             var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-            document.getElementById("countUpTimer").innerText = days + "d " + hours + "h " + minutes + "m " + seconds + "s "; // Display the result in the element with id="demo"
+            document.getElementById("countUpTimer").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s "; // Display the result in the element with id="demo"
             // If the count down is finished, write some text
             if (distance < 0) {
                 clearInterval(x);
@@ -49,7 +49,8 @@
         Mode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
         TeamSize: <strong><span style="color:black;background-color:white">Squads</span></strong><br>
         Fill: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
-        Updt: <strong><div id="countUpTimer", style="color:red;background-color:white"></div></strong><br>
+        <strong><div id="countUpTimer", style="color:red;background-color:white"></div></strong>
+        <!-- Updt: <strong><div id="countUpTimer", style="color:red;background-color:white"></div></strong><br> -->
     </p>
     <p id="go-back"><a href="https://www.kaso.gg">Back to homepage</a><a class="anchorjs-link " href="#go-back"
             aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a>
