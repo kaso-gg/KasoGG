@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 18:08:37").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 18:18:08").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -752,4 +752,4 @@ Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span>
 SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
 CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>
 <!--CREATED BY CODE-->
-<!--9/14/2022 6:08:37 PM-->
+<!--9/14/2022 6:18:08 PM-->
