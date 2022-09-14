@@ -1,5 +1,5 @@
 ---
-permalink: / killfeed /
+permalink: /killfeed/
 title: "full killfeed"
 excerpt: "Full score results all on one page!"
 markdown: kramdown
