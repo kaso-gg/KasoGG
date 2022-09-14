@@ -1,6 +1,4 @@
 <meta http-equiv="refresh" content="30">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7150318280681240"
-     crossorigin="anonymous"></script>
 
 <style>
       .tableFixHead {
@@ -25,16 +23,18 @@
       }
 </style>
 
+ADDTIMERSCRIPTHERE
+
+<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
+
 ![Doggo](/images/dogs/chalkboardDog1.png){:height="150px"}
 # Doggo is cALcuLaTINg...
 Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually within ~5 minutes after the end of match.
 
-## Session Overview and Top Results
-<!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-    Insert overview query results here (script XYZ.sql)-->
-Next time I play some customs, either mine or someone else's, I'll be updaing this about 5 minutes after every match we play. I have to be in the customs and either win (yeah, right!) or at least spectate to the end so I have a full replay file. Then I load and process that data and present it here. We can create a LOT of different scoring algorithms.
+## Customs Event Running NOW!
+Click <strong>[HERE FOR CUSTOMS CODE](/CustomsLoadIn.html)</strong> to get the active customs code.
 
-### ACTIVE POINTS ALGORITHM FOR NEXT EVENT:
+### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
 - Placement: 1st is 5 pts down to 10th = 0.5 pt
 - Noc/Elim: 1 pt per elim
 - Elim Siphon: 0.5 pt for each of your victim's kill count
@@ -46,28 +46,13 @@ Next time I play some customs, either mine or someone else's, I'll be updaing th
 - PENALTY: -5 pts first elim, -2.5 second elim (NPC's don't count)
 - PENALTY: -10 pts anon mode
 
+## Session Overview and Top Results
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
+
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>
-**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
-<!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-Insert scoring results here (script ABC.sql)-->
-| #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
-| :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|MoH Makeouthill|59.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|2|bitties|ᴍᴏʟꜱᴏɴ|56.8|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
-|3|stars|Cal_N_Harps|48.9|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|4|nada!|CPK_kaso|46.1|7.0 <17,5,8,5,4>|4 (0.0) <1,0,2,1,0>|0|0|0|80%|166|![](https://media.fortniteapi.io/images/e7de829-056f91d-4744fc8-5009f62/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|5|bruh?|Toxic_Phantom74|43.2|19.0 <43,2,10,19,25>|17 (3.0) <3,7,6,0,1>|0|0|0|60%|181|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
-|6||YourDoody|40.3|6.0 <10,3>|21 (10.0) <11,10>|0|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
+INSERTSUMMARYRESULTSHERE
 
-
-**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
-<!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/-->
-
-## Participants who are streaming:
-<br/>
-<br/>
 
 # Upcoming tournaments and Customs
 
@@ -100,3 +85,6 @@ use double space at end of a line to make a carriage return on the resulting pag
 ![Kas](/images/kas.JPG){:height="20%" width="20%"}
 ![Kas](/images/gamingDog1.JPG){:height="200px"}
 -->
+
+<!--CREATED BY CODE-->
+<!--9/13/2022 9:40:28 PM-->
