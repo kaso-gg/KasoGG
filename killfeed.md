@@ -7,10 +7,8 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-// Set the date we're counting down to
-var countUpdDate = new Date("Sep 13, 2022 21:20:13").getTime();
 
-// Update the count down every 1 second
+var countUpdDate = new Date("Sep 13, 2022 21:20:13").getTime(); // Set the date we're counting down to
 var x = setInterval(function() {
   var now = new Date().getTime(); // Get today's date and time
   var distance = now - countUpdDate; // Find the distance between now and the count down date
@@ -24,10 +22,10 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
-}, 1000);
+}, 1000); // Update the count down every 1000 milliseconds
 </script>
 
-Last Updated: <p id="demo"></p>
+<p id="demo"></p>
 
 ## [GO BACK](https://www.kaso.gg)     
 
