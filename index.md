@@ -29,6 +29,9 @@
 # Doggo is cALcuLaTINg...
 Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually within ~5 minutes after the end of match.
 
+## Customs Event
+Click [here](/CustomsLoadIn.html) to get the active customs code.
+
 ## Session Overview and Top Results
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
     Insert overview query results here (script XYZ.sql)-->

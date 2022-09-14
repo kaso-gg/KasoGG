@@ -26,6 +26,8 @@ var x = setInterval(function() {
 
 ## [GO BACK](https://www.kaso.gg)
 
+
+
 Elim Feed last updated: <div id="countUpTimer"></div> ago.
 
 # Game <strong>One</strong> Killfeed5<br>

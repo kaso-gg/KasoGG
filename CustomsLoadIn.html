@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="refresh" content="10">
+    <style>
+        html * {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: left;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+
+        body {
+            /* background-image: url('images/kasobackground.png'); */
+            background-repeat: no-repeat;
+            background-image: 0.3;
+            /* background-color: white; */
+        }
+    </style>
+</head>
+
+<body>
+    <font face="Verdana"></font>
+    <script>
+        var countUpdDate = new Date("Sep 13, 2022 21:47:23").getTime(); // Set the date we're counting down to
+        var x = setInterval(function () {
+            var now = new Date().getTime(); // Get today's date and time
+            var distance = now - countUpdDate; // Find the distance between now and the count down date
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            document.getElementById("demo").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s "; // Display the result in the element with id="demo"
+            // If the count down is finished, write some text
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("countUpTimer").innerHTML = "EXPIRED";
+            }
+        }, 1000); // Update the count down every 1000 milliseconds
+    </script>
+
+    <h2 id="go-back"><a href="https://www.kaso.gg">GO BACK</a><a class="anchorjs-link " href="#go-back"
+            aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a>
+    </h2>
+
+    <div id="countUpTimer"></div>
+
+    <h1>
+        Kaso's Custom Code: <strong><span style="color:red;background-color:white">NA-WEST</span></strong>
+    </h1>
+    <p>
+        Region: <strong><span style="color:rgb(125, 131, 45);background-color:white">NA-WEST</span></strong><br>
+        Mode: <strong><span style="color:rgb(125, 131, 45);background-color:">Build</span></strong><br>
+        TeamSize: <strong><span style="color:rgb(125, 131, 45);background-color:">Squads</span></strong><br>
+        Fill: <strong><span style="color:rgb(125, 131, 45);background-color:">Fill</span></strong><br>
+    </p>
+</body>
+
+</html>
