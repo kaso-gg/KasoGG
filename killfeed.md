@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 18:53:04").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 18:56:21").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,4 +38,4 @@ markdown: kramdown
 ## [GO BACK](https://www.kaso.gg)     
 
 <!--CREATED BY CODE-->
-<!--9/14/2022 6:53:04 PM-->
+<!--9/14/2022 6:56:21 PM-->
