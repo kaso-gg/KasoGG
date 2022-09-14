@@ -8,8 +8,6 @@ markdown: kramdown
 
 ## [GO BACK](https://www.kaso.gg)     
 
-<!--CREATED BY CODE-->
-<!--9/13/2022 8:57:26 PM-->
 # Game <strong>One</strong> Killfeed<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
 Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
@@ -724,3 +722,5 @@ returnedtozero <strong><span style="color:crimson;background-color:">Killed</spa
 Queenkilla2010 <strong><span style="color:blue;background-color:">Knocked</span></strong> CalNHarps at 19:26 near <strong>SynapseStation</strong>, with a Shotgun from 5m<br>
 SoulofShadows <strong><span style="color:crimson;background-color:">Killed</span></strong> Queenkilla2010 at 19:27 near <strong>SynapseStation</strong>, with a TacticalShotgun from 1m<br>
 CalNHarps <strong><span style="color:crimson;background-color:">Killed</span></strong> returnedtozero at 19:28 near <strong>SynapseStation</strong>, with a PumpShotgun<br>
+<!--CREATED BY CODE-->
+<!--9/13/2022 9:14:44 PM-->
