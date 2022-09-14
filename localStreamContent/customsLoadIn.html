@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <style>
+        /*     p {
+        text-align: center;
+        font-size: 60px;
+        margin-top: 0px;
+    } */
+    </style>
+</head>
+
+<body>
+    <script>
+        var countUpdDate = new Date("Sep 13, 2022 21:47:23").getTime(); // Set the date we're counting down to
+        var x = setInterval(function () {
+            var now = new Date().getTime(); // Get today's date and time
+            var distance = now - countUpdDate; // Find the distance between now and the count down date
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            document.getElementById("demo").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s "; // Display the result in the element with id="demo"
+            // If the count down is finished, write some text
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("demo").innerHTML = "EXPIRED";
+            }
+        }, 1000); // Update the count down every 1000 milliseconds
+    </script>
+
+    ## [GO BACK](https://www.kaso.gg)
+    <p id="demo"></p>
+    <span id="demo"></span>
+
+    <p>jethro50457 <strong><span style="color:rgb(125, 131, 45);background-color:">Killed</span></strong>
+        JessMonique2072 at 1:32 near
+        <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
+        Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near
+        <strong>TheJoneses</strong>, with a SMG from 1m<br>
+        YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 2:18
+        near
+        <strong>Lighthouse</strong>, with a SMG from 10m<br>
+    </p>
+</body>
