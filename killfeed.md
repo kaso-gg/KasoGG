@@ -32,11 +32,11 @@ markdown: kramdown
     }, 1000); // Update the count down every 1000 milliseconds
 </script>
 
-<span id="countUpTimer" style="color:red;background-color:white"></span>
+<strong><span id="countUpTimer" style="color:red;background-color:white"></span><strong>
 
 ## [GO BACK](https://www.kaso.gg)     
 
-# Game <strong>One</strong> Killfeed<br>
+# Game <strong>One</strong> Killfeeds<br>
 jethro50457 <strong><span style="color:crimson;background-color:">Killed</span></strong> JessMonique2072 at 1:32 near <strong>Lighthouse</strong>, with a Shotgun from 3m<br>
 Yahgaa2718 <strong><span style="color:crimson;background-color:">Killed</span></strong> itsvare at 2:03 near <strong>TheJoneses</strong>, with a SMG from 1m<br>
 YourDoody <strong><span style="color:crimson;background-color:">Killed</span></strong> fatboyCharles420 at 2:18 near <strong>Lighthouse</strong>, with a SMG from 10m<br>
