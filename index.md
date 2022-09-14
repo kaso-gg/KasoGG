@@ -65,7 +65,7 @@ Next time I play some customs, either mine or someone else's, I'll be updaing th
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>
-**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**
+**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
 <!--\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Insert scoring results here (script ABC.sql)-->
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | TR     | Lvl    | Skin   | Axe    |
