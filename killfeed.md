@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 19:53:35").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 20:17:28").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,23 +38,13 @@ markdown: kramdown
 ## [GO BACK](https://www.kaso.gg)     
 
 # Game <strong>One</strong> Killfeed<br>
-# Game <strong>Two</strong> Killfeed<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 6:37 near <strong>CreamyCrossroads</strong>, with a Rifle from 6m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 6:51 near <strong>CreamyCrossroads</strong>, with a Rifle from 9m (why you pick on NPCs?)<br>
-CPKjamieo <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> BeachBomber at 7:33 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 16m (why you pick on NPCs?)<br>
-CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 7:59 near <strong>CreamyCrossroads</strong>, with a Sniper from 67m<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 8:11, with a Logout<br>
-# Game <strong>Three</strong> Killfeed<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> BeachBomber at 1:46 near <strong>CreamyCrossroads</strong>, with a TacticalShotgun from 1m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 2:20 near <strong>CreamyCrossroads</strong>, with a TacticalShotgun from 4m (why you pick on NPCs?)<br>
-CPKjamieo <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 3:14 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 10m (why you pick on NPCs?)<br>
-CPKjamieo <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 6:15 near <strong>TiltedTowers</strong>, with a Shotgun from 6m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> TheUnderwriter at 6:28 near <strong>TiltedTowers</strong>, with a Shotgun from 2m (why you pick on NPCs?)<br>
-CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 8:02, with a Environment from 36m<br>
-# Game <strong>Four</strong> Killfeed<br>
-Ɔrab0n0F <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 4:29 near <strong>TiltedTowers</strong>, with a SMG from 17m<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 3:34, with a Falling from 23m<br>
-Ɔrab0n0F <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:59, with a Environment from 87m<br>
-SevenSIy <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 17:55, with a SMG from 4m<br>
+Ɔrab0n0F <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sabina at 2:01 near <strong>FancyMansion</strong>, with a HeavyAR from 9m (why you pick on NPCs?)<br>
+CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Panther at 8:05, with a BurstRifle from 46m (why you pick on NPCs?)<br>
+PopPopTaterhead <strong><span style="color:crimson;background-color:">Killed</span></strong> SevenSIy at 8:25, with a Shotgun from 6m<br>
+Ɔrab0n0F <strong><span style="color:crimson;background-color:">Killed</span></strong> PopPopTaterhead at 8:47 from 20m<br>
+CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 10:52 near <strong>Sanctuary</strong>, with a TacticalShotgun from 6m (why you pick on NPCs?)<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:55 near <strong>Sanctuary</strong>, with a Rifle from 39m<br>
+thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 15:26, with a Rifle from 13m<br>
+thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 17:37 near <strong>RuinedTempleTropical</strong>, with a Rifle from 2m<br>
 <!--CREATED BY CODE-->
-<!--9/14/2022 7:53:35 PM-->
+<!--9/14/2022 8:17:28 PM-->
