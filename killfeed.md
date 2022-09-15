@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 19:29:49").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 19:53:35").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -51,6 +51,10 @@ CPKjamieo <strong><span style="color:dodgerblue;background-color:yellow">BULLIED
 CPKjamieo <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 6:15 near <strong>TiltedTowers</strong>, with a Shotgun from 6m (why you pick on NPCs?)<br>
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> TheUnderwriter at 6:28 near <strong>TiltedTowers</strong>, with a Shotgun from 2m (why you pick on NPCs?)<br>
 CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 8:02, with a Environment from 36m<br>
+# Game <strong>Four</strong> Killfeed<br>
 Ɔrab0n0F <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 4:29 near <strong>TiltedTowers</strong>, with a SMG from 17m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 3:34, with a Falling from 23m<br>
+Ɔrab0n0F <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:59, with a Environment from 87m<br>
+SevenSIy <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 17:55, with a SMG from 4m<br>
 <!--CREATED BY CODE-->
-<!--9/14/2022 7:29:49 PM-->
+<!--9/14/2022 7:53:35 PM-->
