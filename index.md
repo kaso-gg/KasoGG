@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 19:05:55").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 19:22:03").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -77,7 +77,7 @@ Click <strong>[HERE FOR CUSTOMS CODE](/CustomsLoadIn.html)</strong> to get the a
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 2 matches with 2 unique people and the biggest lobby had 2 playing. There were 2 people who played every match. The highest XP level was 'CPK_jamieo' at 256. The lowest XP was 'CPK_kaso' at 194, welcome to our lobby you GOAT!Thank you everyone for NOT playing on Anonymous mode. 1 people have donkey laugh in their locker emotes, LOL!
+We had 3 matches with 2 unique people and the biggest lobby had 2 playing. There were 2 people who played every match. The highest XP level was 'CPK_jamieo' at 256. The lowest XP was 'CPK_kaso' at 194, welcome to our lobby you GOAT!Thank you everyone for NOT playing on Anonymous mode. 1 people have donkey laugh in their locker emotes, LOL!
 
 Most common skins: Bigfoot(1), Aura(1)
 Most common pickaxes: IdentityDisc(1), AbyssalBlade(1)
@@ -85,17 +85,17 @@ Most common emotes: GALAXIAN(1), FireSpinner(1), EagleFang(1)
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for -22.1% of all points earned this session and 2.9% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for -13.6% of all points earned this session and 5.4% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|49|08|34|55.9%|0.0%|4.6%|2.9%|41.2%|-22.1%|4.1%|13.2%|
+|70|08|55|51.7%|0.0%|6.8%|5.4%|25.4%|-13.6%|2.5%|21.8%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|CPK_kaso|20.0|2.0 <2,2>|1 (0.0) <0,1>|2|0|1|0|50%|194|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|2|bitties|CPK_jamieo|14.0|1.0 <1,1>|1 (0.0) <0,1>|1|1|0|0|0%|256|![](https://media.fortniteapi.io/images/8f227905f8f190434750999cd3b10fe9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
+|1|G^gg|CPK_kaso|31.6|1.0 <2,2,1>|1 (0.0) <0,1,0>|5|0|1|0|67%|194|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|2|bitties|CPK_jamieo|23.6|1.0 <1,1,2>|1 (0.0) <0,1,0>|3|1|0|0|33%|256|![](https://media.fortniteapi.io/images/8f227905f8f190434750999cd3b10fe9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
 
 
 
