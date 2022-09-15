@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 20:17:28").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 14, 2022 20:43:16").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -46,5 +46,16 @@ CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</
 CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:55 near <strong>Sanctuary</strong>, with a Rifle from 39m<br>
 thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 15:26, with a Rifle from 13m<br>
 thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 17:37 near <strong>RuinedTempleTropical</strong>, with a Rifle from 2m<br>
+# Game <strong>Two</strong> Killfeed<br>
+SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> BeachBomber at 3:10 near <strong>CreamyCrossroads</strong>, with a Rifle from 6m (why you pick on NPCs?)<br>
+CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Fishstick at 3:13 near <strong>SleepySound</strong>, with a Rifle from 7m (why you pick on NPCs?)<br>
+SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 4:49 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 3m (why you pick on NPCs?)<br>
+SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 4:52 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 1m (why you pick on NPCs?)<br>
+SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 5:08 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 30m (why you pick on NPCs?)<br>
+CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 7:50 near <strong>TiltedTowers</strong>, with a Shotgun from 4m (why you pick on NPCs?)<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:09, with a Grenade from 65m<br>
+thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 18:02 near <strong>LlamaFarm</strong>, with a BurstRifle from 87m<br>
+CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> SpideyTTV- at 21:22, with a Environment from 23m<br>
+SpideyTTV- <strong><span style="color:crimson;background-color:">Killed</span></strong> thegodamongus345 at 21:25, with a Storm<br>
 <!--CREATED BY CODE-->
-<!--9/14/2022 8:17:28 PM-->
+<!--9/14/2022 8:43:16 PM-->
