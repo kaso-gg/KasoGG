@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 20:43:16").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 11:19:04").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,24 +38,34 @@ markdown: kramdown
 ## [GO BACK](https://www.kaso.gg)     
 
 # Game <strong>One</strong> Killfeed<br>
-Ɔrab0n0F <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sabina at 2:01 near <strong>FancyMansion</strong>, with a HeavyAR from 9m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Panther at 8:05, with a BurstRifle from 46m (why you pick on NPCs?)<br>
-PopPopTaterhead <strong><span style="color:crimson;background-color:">Killed</span></strong> SevenSIy at 8:25, with a Shotgun from 6m<br>
-Ɔrab0n0F <strong><span style="color:crimson;background-color:">Killed</span></strong> PopPopTaterhead at 8:47 from 20m<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 10:52 near <strong>Sanctuary</strong>, with a TacticalShotgun from 6m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:55 near <strong>Sanctuary</strong>, with a Rifle from 39m<br>
-thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 15:26, with a Rifle from 13m<br>
-thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKjamieo at 17:37 near <strong>RuinedTempleTropical</strong>, with a Rifle from 2m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> Tjboy79 at 1:34 near <strong>TheJoneses</strong>, with a PickAxe from 1m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> KR4ZYPL4YZ at 1:38 near <strong>TheJoneses</strong>, with a SMG from 37m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:47 near <strong>TheJoneses</strong>, with a SMG from 6m<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 1:55 near <strong>TheJoneses</strong>, with a HeavyAR from 3m<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 2:06 near <strong>TheJoneses</strong>, with a HeavyAR from 2m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 2:06 near <strong>TheJoneses</strong>, with a Shotgun from 8m<br>
+MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 2:32 near <strong>TheJoneses</strong>, with a Fire from 21m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 2:42 near <strong>TheJoneses</strong>, with a SMG from 3m<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:24 near <strong>TheJoneses</strong>, with a Shotgun from 6m<br>
 # Game <strong>Two</strong> Killfeed<br>
-SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> BeachBomber at 3:10 near <strong>CreamyCrossroads</strong>, with a Rifle from 6m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Fishstick at 3:13 near <strong>SleepySound</strong>, with a Rifle from 7m (why you pick on NPCs?)<br>
-SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 4:49 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 3m (why you pick on NPCs?)<br>
-SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 4:52 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 1m (why you pick on NPCs?)<br>
-SpideyTTV- <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 5:08 near <strong>CreamyCrossroads</strong>, with a HeavyAR from 30m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> SevenSentry at 7:50 near <strong>TiltedTowers</strong>, with a Shotgun from 4m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> Ɔrab0n0F at 11:09, with a Grenade from 65m<br>
-thegodamongus345 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 18:02 near <strong>LlamaFarm</strong>, with a BurstRifle from 87m<br>
-CPKjamieo <strong><span style="color:crimson;background-color:">Killed</span></strong> SpideyTTV- at 21:22, with a Environment from 23m<br>
-SpideyTTV- <strong><span style="color:crimson;background-color:">Killed</span></strong> thegodamongus345 at 21:25, with a Storm<br>
+KR4ZYPL4YZ <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:37 near <strong>ShiftyShafts</strong>, with a PickAxe from 1m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 1:47 near <strong>ShiftyShafts</strong>, with a Shotgun from 3m<br>
+TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 1:55 near <strong>ShiftyShafts</strong>, with a TacticalShotgun from 2m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 2:17 near <strong>ShiftyShafts</strong>, with a Shotgun from 3m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 2:29 near <strong>ShiftyShafts</strong>, with a Shotgun from 5m<br>
+KR4ZYPL4YZ <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 2:41 near <strong>ShiftyShafts</strong>, with a TacticalShotgun from 4m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> KR4ZYPL4YZ at 3:21 near <strong>ShiftyShafts</strong>, with a Shotgun from 1m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 4:14 near <strong>ShiftyShafts</strong>, with a Shotgun from 5m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 4:57, with a Logout<br>
+# Game <strong>Three</strong> Killfeed<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 2:21 near <strong>RealityFalls</strong>, with a Falling from 45m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:14 near <strong>BeachParty</strong>, with a Pistol from 3m<br>
+K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 3:24 from 47m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 4:02 near <strong>RealityFalls</strong>, with a HeavyAR from 68m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> KR4ZYPL4YZ at 4:51 near <strong>RealityFalls</strong>, with a BurstRifle from 54m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 6:09 near <strong>RealityFalls</strong>, with a Shotgun from 5m<br>
+K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 7:12 near <strong>RealityFalls</strong> from 68m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 8:33 near <strong>RealityFalls</strong>, with a SMG from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:42, with a Logout<br>
 <!--CREATED BY CODE-->
-<!--9/14/2022 8:43:16 PM-->
+<!--9/16/2022 11:19:04 AM-->
