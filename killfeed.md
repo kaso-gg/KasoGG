@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 11:36:33").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 11:43:21").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -74,5 +74,13 @@ DestroGaming <strong><span style="color:crimson;background-color:">Killed</span>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 7:10 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 9:14 near <strong>TiltedTowers</strong>, with a PickAxe from 1m<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 9:20, with a Logout<br>
+# Game <strong>Five</strong> Killfeed<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 2:14 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 3m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 2:44 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 2:53 near <strong>ChonkersSpeedway</strong>, with a SMG from 1m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 3:40 near <strong>ChonkersSpeedway</strong> from 34m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:57 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 3:58 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 6m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 4:37 near <strong>ChonkersSpeedway</strong>, with a BurstRifle from 43m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 11:36:33 AM-->
+<!--9/16/2022 11:43:21 AM-->
