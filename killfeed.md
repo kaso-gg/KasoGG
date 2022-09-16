@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 14:26:48").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 14:27:05").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -37,10 +37,10 @@ markdown: kramdown
 
 ## [GO BACK](https://www.kaso.gg)     
 
-# Game <strong>Ten</strong>, started @12:31 PM<br>
+# Game <strong>Ten</strong> started @12:31 PM<br>
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 1:55 near <strong>GreasyGrove</strong>, with a Pistol from 2m<br>
 MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> Kittty--Kittty at 2:07 near <strong>GreasyGrove</strong>, with a SMG from 4m<br>
-# Game <strong>Nine</strong>, started @12:23 PM<br>
+# Game <strong>Nine</strong> started @12:23 PM<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:33 near <strong>RockyReels</strong>, with a TacticalShotgun from 4m<br>
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 1:48 near <strong>RockyReels</strong>, with a Rifle from 4m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> Kittty--Kittty at 2:34 near <strong>RockyReels</strong>, with a Shotgun from 3m<br>
@@ -48,7 +48,7 @@ omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></str
 TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:36 near <strong>RockyReels</strong>, with a Shotgun from 6m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 3:52 near <strong>RockyReels</strong>, with a Shotgun from 3m<br>
 TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 4:00 near <strong>RockyReels</strong>, with a SMG from 10m<br>
-# Game <strong>Eight</strong>, started @12:07 PM<br>
+# Game <strong>Eight</strong> started @12:07 PM<br>
 Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 1:15 near <strong>LogJam</strong>, with a HeavyAR from 2m<br>
 RollinsXO <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 1:39 near <strong>LogJam</strong>, with a Shotgun from 3m<br>
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 2:38 near <strong>LogJam</strong>, with a SMG from 2m<br>
@@ -57,7 +57,7 @@ Frxzty <strong><span style="color:crimson;background-color:">Killed</span></stro
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 4:47 near <strong>LogJam</strong>, with a Shotgun from 8m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 5:20 near <strong>LogJam</strong>, with a Shotgun from 7m<br>
 Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 5:23, with a Logout<br>
-# Game <strong>Seven</strong>, started @11:55 AM<br>
+# Game <strong>Seven</strong> started @11:55 AM<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 2:01 near <strong>SleepySound</strong>, with a SMG from 6m<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 2:10 near <strong>SleepySound</strong>, with a SMG from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 2:46 near <strong>SleepySound</strong>, with a Pistol from 3m<br>
@@ -68,7 +68,7 @@ omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></str
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 8:01 near <strong>SleepySound</strong>, with a SMG from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 8:34 near <strong>SleepySound</strong>, with a SMG from 6m<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:40, with a Logout<br>
-# Game <strong>Six</strong>, started @11:47 AM<br>
+# Game <strong>Six</strong> started @11:47 AM<br>
 RollinsXO <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 1:33 near <strong>GreasyGrove</strong>, with a Shotgun from 5m<br>
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 1:47 near <strong>GreasyGrove</strong>, with a Shotgun from 7m<br>
 MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> RHECking1997 at 2:23 near <strong>GreasyGrove</strong> from 1m<br>
@@ -78,7 +78,7 @@ LexieRage <strong><span style="color:crimson;background-color:">Killed</span></s
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 3:26 near <strong>GreasyGrove</strong>, with a Sniper from 41m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:31 near <strong>GreasyGrove</strong>, with a TacticalShotgun from 2m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 3:52 near <strong>GreasyGrove</strong>, with a Shotgun from 1m<br>
-# Game <strong>Five</strong>, started @11:36 AM<br>
+# Game <strong>Five</strong> started @11:36 AM<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 2:14 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 3m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 2:44 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
 Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 2:53 near <strong>ChonkersSpeedway</strong>, with a SMG from 1m<br>
@@ -86,14 +86,14 @@ ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:57 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 3:58 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 6m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 4:37 near <strong>ChonkersSpeedway</strong>, with a BurstRifle from 43m<br>
-# Game <strong>Four</strong>, started @11:24 AM<br>
+# Game <strong>Four</strong> started @11:24 AM<br>
 TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 4:15 near <strong>TiltedTowers</strong>, with a Shotgun from 3m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 5:13 near <strong>TiltedTowers</strong>, with a Rifle from 12m<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 5:32 near <strong>TiltedTowers</strong>, with a SMG from 7m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 7:10 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 9:14 near <strong>TiltedTowers</strong>, with a PickAxe from 1m<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 9:20, with a Logout<br>
-# Game <strong>Three</strong>, started @11:09 AM<br>
+# Game <strong>Three</strong> started @11:09 AM<br>
 CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 2:21 near <strong>RealityFalls</strong>, with a Falling from 45m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:14 near <strong>BeachParty</strong>, with a Pistol from 3m<br>
 K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 3:24 from 47m<br>
@@ -103,7 +103,7 @@ LexieRage <strong><span style="color:crimson;background-color:">Killed</span></s
 K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 7:12 near <strong>RealityFalls</strong> from 68m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 8:33 near <strong>RealityFalls</strong>, with a SMG from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:42, with a Logout<br>
-# Game <strong>Two</strong>, started @11:01 AM<br>
+# Game <strong>Two</strong> started @11:01 AM<br>
 KR4ZYPL4YZ <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:37 near <strong>ShiftyShafts</strong>, with a PickAxe from 1m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 1:47 near <strong>ShiftyShafts</strong>, with a Shotgun from 3m<br>
 TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 1:55 near <strong>ShiftyShafts</strong>, with a TacticalShotgun from 2m<br>
@@ -113,7 +113,7 @@ KR4ZYPL4YZ <strong><span style="color:crimson;background-color:">Killed</span></
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> KR4ZYPL4YZ at 3:21 near <strong>ShiftyShafts</strong>, with a Shotgun from 1m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 4:14 near <strong>ShiftyShafts</strong>, with a Shotgun from 5m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 4:57, with a Logout<br>
-# Game <strong>One</strong>, started @10:53 AM<br>
+# Game <strong>One</strong> started @10:53 AM<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> Tjboy79 at 1:34 near <strong>TheJoneses</strong>, with a PickAxe from 1m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> KR4ZYPL4YZ at 1:38 near <strong>TheJoneses</strong>, with a SMG from 37m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:47 near <strong>TheJoneses</strong>, with a SMG from 6m<br>
@@ -124,4 +124,4 @@ MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span><
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 2:42 near <strong>TheJoneses</strong>, with a SMG from 3m<br>
 Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:24 near <strong>TheJoneses</strong>, with a Shotgun from 6m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 2:26:48 PM-->
+<!--9/16/2022 2:27:05 PM-->
