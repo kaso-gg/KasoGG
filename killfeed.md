@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 12:07:10").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 13:31:20").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -103,5 +103,25 @@ omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></str
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 8:01 near <strong>SleepySound</strong>, with a SMG from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 8:34 near <strong>SleepySound</strong>, with a SMG from 6m<br>
 DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:40, with a Logout<br>
+# Game <strong>Eight</strong> Killfeed<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 1:15 near <strong>LogJam</strong>, with a HeavyAR from 2m<br>
+RollinsXO <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 1:39 near <strong>LogJam</strong>, with a Shotgun from 3m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 2:38 near <strong>LogJam</strong>, with a SMG from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 2:48 near <strong>LogJam</strong>, with a Shotgun from 3m<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:05 near <strong>LogJam</strong>, with a HeavyAR from 15m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 4:47 near <strong>LogJam</strong>, with a Shotgun from 8m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 5:20 near <strong>LogJam</strong>, with a Shotgun from 7m<br>
+Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 5:23, with a Logout<br>
+# Game <strong>Nine</strong> Killfeed<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:33 near <strong>RockyReels</strong>, with a TacticalShotgun from 4m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 1:48 near <strong>RockyReels</strong>, with a Rifle from 4m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> Kittty--Kittty at 2:34 near <strong>RockyReels</strong>, with a Shotgun from 3m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 2:46 near <strong>RockyReels</strong>, with a BurstRifle from 4m<br>
+TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:36 near <strong>RockyReels</strong>, with a Shotgun from 6m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 3:52 near <strong>RockyReels</strong>, with a Shotgun from 3m<br>
+TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 4:00 near <strong>RockyReels</strong>, with a SMG from 10m<br>
+# Game <strong>Ten</strong> Killfeed<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 1:55 near <strong>GreasyGrove</strong>, with a Pistol from 2m<br>
+MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> Kittty--Kittty at 2:07 near <strong>GreasyGrove</strong>, with a SMG from 4m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 12:07:10 PM-->
+<!--9/16/2022 1:31:20 PM-->
