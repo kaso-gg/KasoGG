@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 14:58:13").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 15:03:03").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -77,7 +77,7 @@ omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></str
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:06 near <strong>GreasyGrove</strong>, with a TacticalShotgun from 3m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 3:26 near <strong>GreasyGrove</strong>, with a Sniper from 41m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:31 near <strong>GreasyGrove</strong>, with a TacticalShotgun from 2m<br>
-LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 3:52 near <strong>GreasyGrove</strong>, with a Legendary Shotgun from 1m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 3:52 near <strong>GreasyGrove</strong>, with a <strong><span style="color:REPLACECOLOR;background-color:REPLACEBACKGROUND">Legendary </span></strong>Shotgun from 1m<br>
 # Game <strong>Five</strong> started @11:36 AM<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 2:14 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 3m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 2:44 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
@@ -101,7 +101,7 @@ ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> KR4ZYPL4YZ at 4:51 near <strong>RealityFalls</strong>, with a BurstRifle from 54m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 6:09 near <strong>RealityFalls</strong>, with a Shotgun from 5m<br>
 K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 7:12 near <strong>RealityFalls</strong> from 68m<br>
-omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 8:33 near <strong>RealityFalls</strong>, with a Legendary SMG from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 8:33 near <strong>RealityFalls</strong>, with a <strong><span style="color:REPLACECOLOR;background-color:REPLACEBACKGROUND">Legendary </span></strong>SMG from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:42, with a Logout<br>
 # Game <strong>Two</strong> started @11:01 AM<br>
 KR4ZYPL4YZ <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 1:37 near <strong>ShiftyShafts</strong>, with a PickAxe from 1m<br>
@@ -124,4 +124,4 @@ MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span><
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 2:42 near <strong>TheJoneses</strong>, with a SMG from 3m<br>
 Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:24 near <strong>TheJoneses</strong>, with a Shotgun from 6m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 2:58:13 PM-->
+<!--9/16/2022 3:03:03 PM-->
