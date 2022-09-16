@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 11:53:03").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 12:07:10").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -92,5 +92,16 @@ LexieRage <strong><span style="color:crimson;background-color:">Killed</span></s
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 3:26 near <strong>GreasyGrove</strong>, with a Sniper from 41m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:31 near <strong>GreasyGrove</strong>, with a TacticalShotgun from 2m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 3:52 near <strong>GreasyGrove</strong>, with a Shotgun from 1m<br>
+# Game <strong>Seven</strong> Killfeed<br>
+DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 2:01 near <strong>SleepySound</strong>, with a SMG from 6m<br>
+DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 2:10 near <strong>SleepySound</strong>, with a SMG from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 2:46 near <strong>SleepySound</strong>, with a Pistol from 3m<br>
+RollinsXO <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:18 near <strong>SleepySound</strong>, with a HeavyAR from 1m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 4:30 near <strong>SleepySound</strong>, with a Shotgun from 5m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 4:33 near <strong>SleepySound</strong>, with a HeavyAR from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> RHECking1997 at 6:02 near <strong>SleepySound</strong>, with a Shotgun from 7m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 8:01 near <strong>SleepySound</strong>, with a SMG from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 8:34 near <strong>SleepySound</strong>, with a SMG from 6m<br>
+DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:40, with a Logout<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 11:53:03 AM-->
+<!--9/16/2022 12:07:10 PM-->
