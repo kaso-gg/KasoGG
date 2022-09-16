@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 14:07:25").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 14:26:48").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -124,4 +124,4 @@ MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span><
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 2:42 near <strong>TheJoneses</strong>, with a SMG from 3m<br>
 Frxzty <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:24 near <strong>TheJoneses</strong>, with a Shotgun from 6m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 2:07:25 PM-->
+<!--9/16/2022 2:26:48 PM-->
