@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 14, 2022 20:43:14").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 11:19:02").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -63,27 +63,31 @@ markdown: kramdown
 <br>
 <br>
 
-We had 2 matches with 7 unique people and the biggest lobby had 6 playing. There were 4 people who played every match. The highest XP level was 'CPK_jamieo' at 256. The lowest XP was 'SpideyTTV-' at 164, welcome to our lobby you GOAT!Thank you everyone for NOT playing on Anonymous mode. 4 people have donkey laugh in their locker emotes, LOL!
+We had 3 matches with 11 unique people and the biggest lobby had 10 playing. There were 8 people who played every match. The highest XP level was 'Tjboy79' at 302. The lowest XP was 'LexieRage' at 82, welcome to our lobby you GOAT!Thank you everyone for NOT playing on Anonymous mode. 1 people have donkey laugh in their locker emotes, LOL!
 
-Most common skins: Marshmello(1), Mariana(1), Bigfoot(1)
-Most common pickaxes: IdentityDisc(1), Flawless(1), CrescentShroom(1)
-Most common emotes: LaughItUp(4), TheDip(4), JiggleJiggle(3)
+Most common skins: FreshAura(1), Echo(1), Cammy(1)
+Most common pickaxes: Driver(2), StarWand(2), InversionBlades(1)
+Most common emotes: CrowningAchievement(4), GetGriddy(4), JumpAround(4)
 
-Bot identified 8 error occurances affecting 6 player(s) with a net error balance of 8.62. Only ~8.62 total tournament points are at question due to kill feed data discrepancies. Affected players are: CPK_kaso, thegodamongus345, CPK_jamieo, ?rab0n0F, PopPopTaterhead, SpideyTTV-. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 13.9% of all points earned this session and 11.2% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for -1.8% of all points earned this session and 8.2% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|62|00|71|68.3%|0.0%|18.1%|11.2%|0.0%|13.9%|0.0%|2.4%|
+|239|23|194|41.9%|0.0%|9.7%|8.2%|35.5%|-1.8%|6.5%|0.0%|
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|thegodamongus345|15.9|1.0 <1,2>|3 (1.0) <2,1>|0|0|0|0|50%|250|![](https://media.fortniteapi.io/images/dfaafc5-4d29590-774f1a3-ee676eb/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8ce4c1a-87ff7fd-adb3f91-25d7cb2/transparent.png){:height="35px"}|
-|2|bitties|CPK_jamieo|14.0|1.0 <2,1>|1 (0.0) <0,1>|0|0|0|0|50%|256|![](https://media.fortniteapi.io/images/8f227905f8f190434750999cd3b10fe9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
-|3|stars|CPK_kaso|12.6|3.0 <3,4>|2 (1.0) <1,1>|0|0|0|0|50%|194|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|4|nada!|Ɔrab0n0F|10.0|4.0 <4,5>|1 (0.0) <1,0>|0|0|0|0|50%|197|![](https://media.fortniteapi.io/images/1a238b8a99e547fd5adff822277a2bb9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/transparent.png){:height="35px"}|
-|5|bruh?|SpideyTTV-|8.8|3.0 <3>|1 (1.0) <1>|1|0|0|0|100%|164|![](https://media.fortniteapi.io/images/d6400d2b9f845912f10d954d324e373c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3591ee17867120d32feedd8945028f36/transparent.png){:height="35px"}|
-|6||PopPopTaterhead|5.5|5.0 <5>|1 (1.0) <1>|0|0|0|0|100%|207|![](https://media.fortniteapi.io/images/01fb97b67e3078c01fc6cc353499279c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a02b9082525370e9088801261a77c3e1/transparent.png){:height="35px"}|
-|7||Seven SIy|4.1|6.0 <6>|0 (0.0) <0>|0|0|0|0|100%|214|![](https://media.fortniteapi.io/images/3465cb35e5189c394c21a1694e165fab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4e982968d59f16afb3b5c5f146aa3439/transparent.png){:height="35px"}|
+|1|G^gg|K9Gizmo|26.6|6.0 <8,9,2>|2 (0.0) <0,0,2>|0|0|1|0|67%|247|![](https://media.fortniteapi.io/images/6cfd3b3628dc294d7f8cd19365035d68/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/53fc505eb57eddda378f01036da25181/transparent.png){:height="35px"}|
+|2|bitties|MissJeepTTV|22.5|5.0 <3,5,8>|1 (0.0) <1,0,0>|0|0|0|0|100%|263|![](https://media.fortniteapi.io/images/c4d9480a09360cce72c922389d99ff64/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f56f2564609e716d5ce84222400c4d9a/transparent.png){:height="35px"}|
+|3|stars|TTV MissEly|22.1|6.0 <6,6,7>|1 (0.0) <0,1,0>|0|0|0|0|100%|109|![](https://media.fortniteapi.io/images/8eb901270be2e01b9ed9b429dd12c1cd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|4|nada!|ziadgamer5|21.4|4.0 <2,7,4>|3 (1.0) <2,0,1>|0|0|0|0|0%|124|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/580f79849458a2b1b74fe0b397034612/transparent.png){:height="35px"}|
+|5|bruh?|Frxzty_|20.1|4.0 <1,8>|3 (1.0) <3,0>|0|0|0|0|0%|224|![](https://media.fortniteapi.io/images/50880d15eb86d414d6752e5c1664c4a3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|6||LexieRage|19.9|3.0 <7,1,3>|6 (2.0) <2,2,2>|0|1|0|0|0%|82|![](https://media.fortniteapi.io/images/beafdf6-409d2d3-0f41721-800c2ac/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|7||omlxdjr|16.3|2.0 <5,2,1>|6 (2.0) <1,3,2>|0|0|0|0|100%|224|![](https://media.fortniteapi.io/images/edbffd61da38e7065d32cf3a9ed4eefd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e5690e6141f49bc4b584c4725792c1/transparent.png){:height="35px"}|
+|8||KR4ZY PL4YZ|14.9|5.0 <9,3,5>|2 (0.0) <0,2,0>|0|1|0|0|67%|174|![](https://media.fortniteapi.io/images/1e5245813310a4ab450640a82db992bc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fc0875-a4f0477-55ac591-d71b0ae/transparent.png){:height="35px"}|
+|9||CPK_kaso|10.7|4.0 <4,4,6>|1 (0.0) <0,0,1>|0|1|0|0|33%|196|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|10|zen|DestroGaming_|10.3|9.0 <9>|0 (0.0) <0>|0|0|1|0|100%|215|![](https://media.fortniteapi.io/images/c0845e4-143b80c-3910e1c-86686ea/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|11||Tjboy79|9.5|10.0 <10>|0 (0.0) <0>|0|0|1|0|100%|302|![](){:height="35px"}|![](){:height="35px"}|
 
