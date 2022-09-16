@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 18:02:03").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 18:51:19").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -65,9 +65,9 @@ markdown: kramdown
 
 We had 10 matches with 14 unique people and the biggest lobby had 10 playing. There were 3 people who played every match. The highest XP level was 'Kittty-_-Kittty' at 431. The lowest XP was 'LexieRage' at 82, welcome to our lobby you GOAT!Thank you everyone for NOT playing on Anonymous mode. 1 people have donkey laugh in their locker emotes, LOL!
 
-Most common skins: Commando(1), Cammy(1), BriteBomber(1)<br>
-Most common pickaxes: Driver(2), StarWand(2), DarkBlessing(1)<br>
-Most common emotes: JumpAround(6), CrowningAchievement(5), GetGriddy(5)<br>
+* Most common skins: Commando(1), Cammy(1), BriteBomber(1)<br>
+* Most common pickaxes: Driver(2), StarWand(2), DarkBlessing(1)<br>
+* Most common emotes: JumpAround(6), CrowningAchievement(5), GetGriddy(5)<br>
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
