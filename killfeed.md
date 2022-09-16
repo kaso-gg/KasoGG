@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 11:19:04").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 11:36:33").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -67,5 +67,12 @@ LexieRage <strong><span style="color:crimson;background-color:">Killed</span></s
 K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> LexieRage at 7:12 near <strong>RealityFalls</strong> from 68m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 8:33 near <strong>RealityFalls</strong>, with a SMG from 2m<br>
 omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 8:42, with a Logout<br>
+# Game <strong>Four</strong> Killfeed<br>
+TTVMissEly <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 4:15 near <strong>TiltedTowers</strong>, with a Shotgun from 3m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 5:13 near <strong>TiltedTowers</strong>, with a Rifle from 12m<br>
+DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVMissEly at 5:32 near <strong>TiltedTowers</strong>, with a SMG from 7m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 7:10 near <strong>TiltedTowers</strong>, with a Shotgun from 2m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 9:14 near <strong>TiltedTowers</strong>, with a PickAxe from 1m<br>
+DestroGaming <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 9:20, with a Logout<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 11:19:04 AM-->
+<!--9/16/2022 11:36:33 AM-->
