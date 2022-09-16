@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 11:43:21").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 11:53:03").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -82,5 +82,15 @@ ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:57 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 2m<br>
 ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 3:58 near <strong>ChonkersSpeedway</strong>, with a Shotgun from 6m<br>
 LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 4:37 near <strong>ChonkersSpeedway</strong>, with a BurstRifle from 43m<br>
+# Game <strong>Six</strong> Killfeed<br>
+RollinsXO <strong><span style="color:crimson;background-color:">Killed</span></strong> Frxzty at 1:33 near <strong>GreasyGrove</strong>, with a Shotgun from 5m<br>
+ziadgamer5 <strong><span style="color:crimson;background-color:">Killed</span></strong> RollinsXO at 1:47 near <strong>GreasyGrove</strong>, with a Shotgun from 7m<br>
+MissJeepTTV <strong><span style="color:crimson;background-color:">Killed</span></strong> RHECking1997 at 2:23 near <strong>GreasyGrove</strong> from 1m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 2:55 near <strong>GreasyGrove</strong>, with a Shotgun from 7m<br>
+omlxdjr <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 3:00 near <strong>GreasyGrove</strong>, with a Shotgun from 6m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> MissJeepTTV at 3:06 near <strong>GreasyGrove</strong>, with a TacticalShotgun from 3m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> DestroGaming at 3:26 near <strong>GreasyGrove</strong>, with a Sniper from 41m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> ziadgamer5 at 3:31 near <strong>GreasyGrove</strong>, with a TacticalShotgun from 2m<br>
+LexieRage <strong><span style="color:crimson;background-color:">Killed</span></strong> omlxdjr at 3:52 near <strong>GreasyGrove</strong>, with a Shotgun from 1m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 11:43:21 AM-->
+<!--9/16/2022 11:53:03 AM-->
