@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 19:35:01").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 19:55:27").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -44,10 +44,15 @@ Top five <strong>close range</strong> SINGLE eliminations:<br>
 
 Top three most lethal long distance players:<br>
 
+# Game <strong>Two</strong> started @19:37 PM<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 13:47, with a TacticalShotgun from 5m<br>
+LetsGoooBuddy <strong><span style="color:crimson;background-color:">NuKEd</span></strong> CPKkaso at 13:50 near <strong>BigBridge</strong>, with a Shotgun from 9m<br>
+CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Stash'd at 13:50 from 9m (why you pick on NPCs?)<br>
+WalkingDude <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LetsGoooBuddy at 16:57 near <strong>DrillHill</strong>, with a Shotgun from 2m<br>
 # Game <strong>One</strong> started @19:15 PM<br>
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Panther at 3:17, with a HeavyAR from 8m (why you pick on NPCs?)<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 7:29, with a Environment from 40m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Clapped</span></strong> CPKkaso at 7:29, with a Environment from 40m<br>
 WalkingDude <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LetsGoooBuddy at 16:32, with a HeavyAR from 7m<br>
 WalkingDude <strong><span style="color:crimson;background-color:">Smoked</span></strong> CJ-n-wild at 17:17, with a TacticalShotgun from 3m<br>
 <!--CREATED BY CODE-->
-<!--9/16/2022 7:35:01 PM-->
+<!--9/16/2022 7:55:27 PM-->
