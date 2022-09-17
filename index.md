@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Sep 16, 2022 19:32:50").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 16, 2022 19:34:57").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -77,27 +77,27 @@ Click <strong>[HERE FOR CUSTOMS CODE](/CustomsLoadIn.html)</strong> to get the a
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 5 matches with 187 unique people and the biggest lobby had 98 playing. There were 20 people who played every match. The highest XP level was 'MoH Andreaaa' at 389. The lowest XP was 'SikeBiShh91' at 10, welcome to our lobby you GOAT!By the way, 20 people need to turn off ANONYMOUS MODE. 31 people have donkey laugh in their locker emotes, LOL!
+We had 1 matches with 4 unique people and the biggest lobby had 4 playing. There were 4 people who played every match. The highest XP level was 'CJ-n-wild' at 267. The lowest XP was 'Walking_Dude' at 103, welcome to our lobby you GOAT!Thank you everyone for NOT playing on Anonymous mode. 1 people have donkey laugh in their locker emotes, LOL!
 
-* Most common skins: Spider-Man(14), SunStrider(12), Prowler(8)<br>
-* Most common pickaxes: HarleyHitter(9), PowerPole(Nyoibo)(7), StarWand(7)<br>
-* Most common emotes: Steady(61), CrowningAchievement(54), Blowin'Up(36)<br>
+* Most common skins: Hunter(1), Evie(1), Blackheart(1)<br>
+* Most common pickaxes: LeBeau'sBo(1), IdentityDisc(1), All-WeatherExtractor(1)<br>
+* Most common emotes: JumpAround(2), CrowningAchievement(1), CleanSweep(1)<br>
 
-Bot identified 6 error occurances affecting 6 player(s) with a net error balance of 0.00. Only ~5.75 total tournament points are at question due to kill feed data discrepancies. Affected players are: Ag8teFirE, CPK_kaso, LooseClipz-19, MR KC SPAMZ, Nicholas3206, Silent sender. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 1 error occurances affecting 1 player(s) with a net error balance of 1.92. Only ~1.92 total tournament points are at question due to kill feed data discrepancies. Affected players are: Walking_Dude. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 24.1% of all points earned this session and 21.5% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 8.4% of all points earned this session and 8.7% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|2,310|498|1,315|22.6%|-35.0%|37.2%|21.5%|8.7%|24.1%|20.1%|0.8%|
+|23|00|25|74.3%|0.0%|17.0%|8.7%|0.0%|8.4%|0.0%|0.0%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|MoH Makeouthill|52.1|10.0 <1,21,1,10,21>|38 (7.0) <13,8,14,2,1>|0|0|0|0|0%|327|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|2|bitties|ᴍᴏʟꜱᴏɴ|50.0|3.0 <1,5,5,4>|13 (3.0) <5,3,5,0>|0|0|0|0|75%|192|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
-|3|stars|Cal_N_Harps|42.6|16.0 <5,64,6,8,1>|9 (1.0) <3,0,1,2,3>|0|0|0|0|100%|106|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|4|nada!|CPK_kaso|38.5|7.0 <17,5,8,5,4>|4 (0.0) <1,0,2,1,0>|0|0|0|0|80%|166|![](https://media.fortniteapi.io/images/e7de829-056f91d-4744fc8-5009f62/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|1|G^gg|Walking_Dude|9.0|1.0 <1>|2 (2.0) <2>|0|0|0|0|100%|103|![](https://media.fortniteapi.io/images/d0a789e2b1b8860647f07fcfc43e6dce/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a02b9082525370e9088801261a77c3e1/transparent.png){:height="35px"}|
+|2|bitties|CJ-n-wild|5.6|2.0 <2>|0 (0.0) <0>|0|0|0|0|0%|267|![](https://media.fortniteapi.io/images/ddb5dcf96f6154a21e90c80d0661d7a4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/13740ad6d3e279f08b9dbea3fd0f52bc/transparent.png){:height="35px"}|
+|3|stars|LetsGoooBuddy|5.1|3.0 <3>|0 (0.0) <0>|0|0|0|0|0%|241|![](https://media.fortniteapi.io/images/de92b06-8bbfd0f-cae852b-b674681/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb488368dc072c4b4e11f9c7a9dbb08e/transparent.png){:height="35px"}|
+|4|nada!|CPK_kaso|5.0|4.0 <4>|0 (0.0) <0>|0|0|0|0|100%|196|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
 
 
 
