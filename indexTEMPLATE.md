@@ -35,15 +35,11 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active customs code.
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-- Placement: 1st is 5 pts down to 10th = 0.5 pt
+- Placement: 1st = 5 pts down to 10th = 0.5 pt
 - Elims: 1 pt per elim
 - Elim Siphon: 0.5 pt for each of your victim's kill count
 - Survival: 0.15 pt per minute (about 3pts to end game)
 - Bus: 1 pt for thanking bus driver
-- NPCs: 1.5 pt for the first 5 NPCs of the game, 1.0 pt for all others
-- NPC Multipliers: **2.5x** for Vader, **1.5x** for Troopers
-- BONUS: 8 pts first dead down to 2 pts fifth to die...13 pts 13th to die
-- PENALTY: -5 pts first elim, -2.5 second elim (NPC's don't count)
 - PENALTY: -10 pts anon mode
 
 ## Session Overview and Top Results
