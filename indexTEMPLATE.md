@@ -32,7 +32,7 @@ ADDTIMERSCRIPTHERE
 Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually within ~5 minutes after the end of match.
 
 ## Customs Event Running NOW!
-Click <strong>[HERE FOR CUSTOMS CODE](/CustomsLoadIn.html)</strong> to get the active customs code.
+Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active customs code.
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
 - Placement: 1st is 5 pts down to 10th = 0.5 pt
