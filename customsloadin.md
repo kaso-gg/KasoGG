@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="15">
 <script>
-    var countUpdDate = new Date("Sep 24, 2022 18:51:35").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 24, 2022 18:55:03").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -31,13 +31,13 @@ markdown: kramdown
     }, 1000); // Update the count down every 1000 milliseconds
 </script>
 <br>
-<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
 # <strong><span style="color:maroon;background-color:white">Kaso's Customs</span></strong>
+<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong><br>
 Code: <strong><span style="color:black;background-color:white">let's go, peeps</span></strong><br>
 Region: <strong><span style="color:black;background-color:white">Oceana</span></strong><br>
 Mode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
-TeamSize: <strong><span style="color:black;background-color:white">Squads</span></strong><br>
+TeamSize: <strong><span style="color:black;background-color:white">Trios</span></strong><br>
 Fill: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
 
 these are my long rules
