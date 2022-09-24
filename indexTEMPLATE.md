@@ -36,7 +36,7 @@ Click <strong>[HERE FOR CUSTOMS CODE](/CustomsLoadIn.html)</strong> to get the a
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
 - Placement: 1st is 5 pts down to 10th = 0.5 pt
-- Noc/Elim: 1 pt per elim
+- Elims: 1 pt per elim
 - Elim Siphon: 0.5 pt for each of your victim's kill count
 - Survival: 0.15 pt per minute (about 3pts to end game)
 - Bus: 1 pt for thanking bus driver
@@ -48,14 +48,13 @@ Click <strong>[HERE FOR CUSTOMS CODE](/CustomsLoadIn.html)</strong> to get the a
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
+**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
 INSERTSUMMARYRESULTSHERE
 
-
 # Upcoming tournaments and Customs
-
 **October 2022** - CPK's CASH$ tournament. This might be solos, invites will get the custom code first, then we public fill. Something like best 5 of 6 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
