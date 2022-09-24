@@ -13,9 +13,9 @@ Code: <strong><span style="color:black;background-color:white">REPLACECODE</span
 Region: <strong><span style="color:black;background-color:white">REPLACEREGION</span></strong><br>
 Mode: <strong><span style="color:black;background-color:white">REPLACEMODE</span></strong><br>
 TeamSize: <strong><span style="color:black;background-color:white">REPLACETEAMSIZE</span></strong><br>
-Fill: <strong><span style="color:black;background-color:white">REPLACERULESPARAGRAPH</span></strong><br>
+Fill: <strong><span style="color:black;background-color:white">REPLACEFILL</span></strong><br>
 
-myRulesHere
+REPLACERULESPARAGRAPH
 
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
