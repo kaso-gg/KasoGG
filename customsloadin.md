@@ -4,10 +4,16 @@ title: "active customs code"
 excerpt: "All the details to join our customs"
 markdown: kramdown
 ---
+---
+permalink: /customsloadin/
+title: "active customs code"
+excerpt: "All the details to join our customs"
+markdown: kramdown
+---
 <meta http-equiv="refresh" content="15">
 
 <script>
-    var countUpdDate = new Date("Sep 24, 2022 18:43:21").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 24, 2022 18:46:11").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -34,7 +40,7 @@ markdown: kramdown
 
 
 # <strong><span style="color:maroon;background-color:white">Kaso's Customs</span></strong>
-Code: <strong><span style="color:black;background-color:white">template test</span></strong><br>
+Code: <strong><span style="color:black;background-color:white">maybe works</span></strong><br>
 Region: <strong><span style="color:black;background-color:white">NA East</span></strong><br>
 Mode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
 TeamSize: <strong><span style="color:black;background-color:white">Duos</span></strong><br>
