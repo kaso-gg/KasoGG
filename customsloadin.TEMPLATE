@@ -4,8 +4,8 @@ ADDTIMERSCRIPTHERE
 # <strong><span style="color:maroon;background-color:white">Kaso Customs</span></strong><br>
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
-CustomKey: <strong><span style="color:black;background-color:white">REPLACECODE</span></strong><br>
-Region: <strong><span style="color:black;background-color:white">REPLACEREGION</span></strong><br>
+CustmKey: <strong><span style="color:black;background-color:white">REPLACECODE</span></strong><br>
+SvrRegion: <strong><span style="color:black;background-color:white">REPLACEREGION</span></strong><br>
 PlayMode: <strong><span style="color:black;background-color:white">REPLACEMODE</span></strong><br>
 TeamSize: <strong><span style="color:black;background-color:white">REPLACETEAMSIZE</span></strong><br>
 FillMode: <strong><span style="color:black;background-color:white">REPLACEFILL</span></strong><br>
