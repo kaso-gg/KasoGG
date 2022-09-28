@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="15">
 <script>
-    var countUpdDate = new Date("Sep 24, 2022 20:27:18").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 28, 2022 17:32:22").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -35,12 +35,12 @@ markdown: kramdown
 # <strong><span style="color:maroon;background-color:white">Kaso Customs</span></strong><br>
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
-CustmKey: <strong><span style="color:black;background-color:white">popsicle</span></strong><br>
-SvrRegion: <strong><span style="color:black;background-color:white">Europe</span></strong><br>
-PlayMode: <strong><span style="color:black;background-color:white">NO Build</span></strong><br>
-TeamSize: <strong><span style="color:black;background-color:white">Trios</span></strong><br>
-FillMode: <strong><span style="color:black;background-color:white">NO Fill</span></strong><br>
+CustmKey: <strong><span style="color:black;background-color:white">kaso1</span></strong><br>
+SvrRegion: <strong><span style="color:black;background-color:white">NA East</span></strong><br>
+PlayMode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
+TeamSize: <strong><span style="color:black;background-color:white">Duos</span></strong><br>
+FillMode: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
 
-these are my long rules
+Land at GREASY GROVE and stay there until the storm forces you out.
 
 ## [BACK TO MAIN PAGE](https://www.kaso.gg)
