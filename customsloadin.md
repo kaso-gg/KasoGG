@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="15">
 <script>
-    var countUpdDate = new Date("Sep 28, 2022 17:35:59").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 28, 2022 17:44:26").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -33,14 +33,15 @@ markdown: kramdown
 
 
 # <strong><span style="color:maroon;background-color:white">Kaso Customs</span></strong><br>
-<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
-CustmKey: <strong><span style="color:black;background-color:white">kaso13</span></strong><br>
+CustmKey: <strong><span style="color:black;background-color:white">kaso1</span></strong><br>
 SvrRegion: <strong><span style="color:black;background-color:white">NA East</span></strong><br>
 PlayMode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
 TeamSize: <strong><span style="color:black;background-color:white">Duos</span></strong><br>
 FillMode: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
 
-In 2+ team sizes, land on opposite sides of the map and then play your best!
+Land at LOGJAM JUNCTION and stay there until the storm forces you out.
+
+<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
 ## [BACK TO MAIN PAGE](https://www.kaso.gg)
