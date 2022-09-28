@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="15">
 <script>
-    var countUpdDate = new Date("Sep 28, 2022 17:48:38").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 28, 2022 18:28:57").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -40,7 +40,7 @@ PlayMode: <strong><span style="color:black;background-color:white">Build</span><
 TeamSize: <strong><span style="color:black;background-color:white">Duos</span></strong><br>
 FillMode: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
 
-Land at RAVE CAVE and stay there until the storm forces you out.
+Land at GREASY GROVE and stay there until the storm forces you out.
 
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
