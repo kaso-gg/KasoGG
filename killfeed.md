@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Sep 30, 2022 21:39:09").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 30, 2022 21:44:19").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -45,4 +45,4 @@ Top five <strong>close range</strong> SINGLE eliminations:<br>
 Top three most lethal long distance players:<br>
 
 <!--CREATED BY CODE-->
-<!--9/30/2022 9:39:09 PM-->
+<!--9/30/2022 9:44:19 PM-->
