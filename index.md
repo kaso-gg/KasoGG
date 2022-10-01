@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Sep 30, 2022 21:39:06").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Sep 30, 2022 21:47:03").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -73,23 +73,27 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
+We had 4 matches with 46 unique people and the biggest lobby had 39 playing. There were 14 people who played every match. The highest XP level was 'AMYLCx' at 311. The lowest XP was 'butcher709' at 1, welcome to our lobby you GOAT!By the way, 2 people need to turn off ANONYMOUS MODE. 9 people have donkey laugh in their locker emotes, LOL!
 
+* Most common skins: SonGoku(3), Beerus(2), LaraCroft(2)<br>
+* Most common pickaxes: PowerPole(Nyoibo)(4), IceBreaker(3), Driver(2)<br>
+* Most common emotes: Steady(14), Drippin'Flavor(13), CrowningAchievement(11)<br>
 
-* Most common skins: <br>
-* Most common pickaxes: <br>
-* Most common emotes: <br>
+Bot identified 20 error occurances affecting 14 player(s) with a net error balance of -15.33. Only ~21.08 total tournament points are at question due to kill feed data discrepancies. Affected players are: ??????, AMYLCx, Arnellius, Hello_Im_AB, PacManPwnU, DADA20A, F7_clipbot, Jordan1460, Langer123456, LuckySenpai3230, MTM3530, TOP G XYRO, webbion, wee M F. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-No routine scoring errors were detected. Please notify us if you feel anything was missed.
-
-
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 11.2% of all points earned this session and 13.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-
+|739|50|622|48.1%|-3.1%|0.0%|13.0%|14.9%|11.2%|13.6%|0.0%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|1|G^gg|TTV SkiddlySkip|38.5|3.0 <1,1,5,7>|13 (3.0) <4,2,3,4>|0|0|0|0|25%|308|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|2|bitties|AMYLCx|28.8|4.0 <1,4,6,6>|14 (4.0) <3,5,6>|0|0|0|0|25%|311|![](https://media.fortniteapi.io/images/04d7bd3eed40ebe4794958c43e213398/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|3|stars|FBKrazyKeith|27.9|6.0 <7,3,5,11>|5 (2.0) <3,2>|0|0|0|0|75%|99|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|nada!|ᴍᴏʟꜱᴏɴ|27.8|3.0 <7,1,1>|5 (2.0) <3,2>|0|0|0|0|100%|175|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
 
 
 
