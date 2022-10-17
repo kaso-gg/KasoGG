@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 15, 2022 18:38:19").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 16, 2022 20:04:39").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -73,26 +73,26 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 5 matches with 187 unique people and the biggest lobby had 392 playing. There were 22 people who played every match. The highest XP level was 'MoH Makeouthill' at 327. The lowest XP was 'Archivalcash911' at 1, welcome to our lobby you GOAT!By the way, 2 people need to turn off ANONYMOUS MODE. 34 people have donkey laugh in their locker emotes, LOL!
+We had 5 matches with 187 unique people and the biggest lobby had 98 playing. There were 20 people who played every match. The highest XP level was 'MoH Makeouthill' at 327. The lowest XP was 'Archivalcash911' at 1, welcome to our lobby you GOAT!By the way, 1 people need to turn off ANONYMOUS MODE. 31 people have donkey laugh in their locker emotes, LOL!
 
-* Most common skins: Spider-Man(14), SunStrider(12), Prowler(10)<br>
-* Most common pickaxes: HarleyHitter(9), Driver(8), Widow'sPromise(8)<br>
-* Most common emotes: Steady(64), CrowningAchievement(56), Blowin'Up(39)<br>
+* Most common skins: Spider-Man(14), SunStrider(12), Prowler(8)<br>
+* Most common pickaxes: HarleyHitter(9), PowerPole(Nyoibo)(7), StarWand(7)<br>
+* Most common emotes: Steady(61), CrowningAchievement(54), Blowin'Up(36)<br>
 
 Bot identified 174 error occurances affecting 105 player(s) with a net error balance of 411.94. Only ~411.94 total tournament points are at question due to kill feed data discrepancies. Affected players are: MoH Makeouthill, Cal_N_Harps, CheefTuckTTV, Donnydeuce, Krasnog, Toxic_Phantom74, BlakHart318, CPK_kaso, FAZ SLEET2, FuriousLion3158, ??????, MoH Andreaaa, MoH_Otter, mutant_x90, Queenkilla2010, TAYVEA-, Yungdabs710, zZCoDkInGZz, BigJoeee420, CPK_jamieo, DustyCottonball, FritoLay19, jethro50457, JoshxEffect, KoS SillyFawn, littletickler23, MattInTheHat97, mikepal75, MR KC SPAMZ, Nicholas3206, OG Khaleesii, Persicutor, PuppyisEvil, returned_to_zero, smooter33, Soul_of_Shadows, Suckmyforkknife0,. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 69.5% of all points earned this session and 47.8% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 72.2% of all points earned this session and 49.6% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|611|09|1,006|53.8%|-1.5%|0.0%|47.8%|0.0%|69.5%|0.0%|0.0%|
+|591|10|981|52.1%|-1.8%|0.0%|49.6%|0.0%|72.2%|0.0%|0.0%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|Aspen|MoH Makeouthill|46.9|15.3 <1,21,1,10,21,21,21,21,21>|42 (4.7) <13,8,14,2,1,1,1,1,1>|0|0|0|0|0%|145|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|2|Hazel|ᴍᴏʟꜱᴏɴ|30.0|3.9 <1,5,5,4,4,4,4,4>|13 (4.3) <5,3,5,0,0,0,0,0>|0|0|0|0|38%|24|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
-|3|Phineas|Cal_N_Harps|25.6|9.8 <5,64,6,8,1,1,1,1,1>|21 (2.6) <3,0,1,2,3,3,3,3,3>|0|0|0|0|100%|12|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|1|G^gg|MoH Makeouthill|46.9|10.8 <1,21,1,10,21>|38 (7.6) <13,8,14,2,1>|0|0|0|0|0%|261|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|2|bitties|ᴍᴏʟꜱᴏɴ|30.0|3.8 <1,5,5,4>|13 (4.3) <5,3,5,0>|0|0|0|0|75%|48|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
+|3|stars|Cal_N_Harps|25.6|16.8 <5,64,6,8,1>|9 (2.3) <3,0,1,2,3>|0|0|0|0|100%|22|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
 |4|nada!|YourDoody|24.6|6.5 <10,3>|21 (10.5) <11,10>|0|0|0|0|0%|110|![](https://media.fortniteapi.io/images/f7ae64b9937817dcf42e00cb05a36146/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/353476001a41d4b0ad0bb3e6e90ca158/transparent.png){:height="35px"}|
 
 
