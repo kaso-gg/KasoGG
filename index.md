@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 17, 2022 17:37:02").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 17, 2022 22:14:34").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -79,18 +79,18 @@ We had 5 matches with 187 unique people and the biggest lobby had 98 playing. Th
 * Most common pickaxes: HarleyHitter(9), PowerPole(Nyoibo)(7), StarWand(7)<br>
 * Most common emotes: Steady(61), CrowningAchievement(54), Blowin'Up(36)<br>
 
-Bot identified 18 error occurances affecting 16 player(s) with a net error balance of 22.03. Only ~22.03 total tournament points are at question due to kill feed data discrepancies. Affected players are: MR KC SPAMZ, TwoTaps27, Ag8teFirE, CHEVY_gang23, CPK_jamieo, FuriousLion3158, isabelbee22, KoS SillyFawn, Krasnog, MoH Makeouthill, Nicholas3206, Persicutor, Queenkilla2010, returned_to_zero, SmashhNtrashh, TTV kyraluvsyu. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 4 error occurances affecting 4 player(s) with a net error balance of 3.83. Only ~3.83 total tournament points are at question due to kill feed data discrepancies. Affected players are: Ag8teFirE, FuriousLion3158, MoH Makeouthill, MR KC SPAMZ. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 17.3% of all points earned this session and 15.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 16.7% of all points earned this session and 14.8% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|1,978|48|1,904|15.8%|-0.5%|34.1%|15.0%|6.1%|17.3%|12.9%|0.5%|
+|2,005|48|1,913|15.6%|-0.5%|33.6%|14.8%|6.0%|16.7%|13.6%|0.5%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|MoH Makeouthill|55.6|10.8 <1,21,1,10,21>|38 (7.6) <13,8,14,2,1>|0|0|0|0|0%|261|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|1|G^gg|MoH Makeouthill|54.6|10.8 <1,21,1,10,21>|38 (7.6) <13,8,14,2,1>|0|0|0|0|0%|261|![](https://media.fortniteapi.io/images/d96579630a4aa5fc9d427fbeec8ab712/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
 |2|bitties|ᴍᴏʟꜱᴏɴ|50.0|3.8 <1,5,5,4>|13 (4.3) <5,3,5,0>|0|0|0|0|75%|48|![](https://media.fortniteapi.io/images/eacce56d83f7c59f74d3a0ef3e7fce04/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
 |3|stars|Cal_N_Harps|42.7|16.8 <5,64,6,8,1>|9 (2.3) <3,0,1,2,3>|0|0|0|0|100%|22|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
 |4|nada!|Toxic_Phantom74|39.9|19.8 <43,2,10,19,25>|17 (4.3) <3,7,6,0,1>|0|0|0|0|60%|109|![](https://media.fortniteapi.io/images/cd72c4f2e299718009145fd0799cf2da/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d7ea52a6427a5856d262f0a73e0881c/transparent.png){:height="35px"}|
