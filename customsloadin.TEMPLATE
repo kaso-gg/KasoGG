@@ -2,7 +2,6 @@
 ADDTIMERSCRIPTHERE
 
 # <strong><span style="color:maroon;background-color:white">Kaso Customs</span></strong><br>
-<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
 CustmKey: <strong><span style="color:black;background-color:white">REPLACECODE</span></strong><br>
 SvrRegion: <strong><span style="color:black;background-color:white">REPLACEREGION</span></strong><br>
@@ -11,5 +10,7 @@ TeamSize: <strong><span style="color:black;background-color:white">REPLACETEAMSI
 FillMode: <strong><span style="color:black;background-color:white">REPLACEFILL</span></strong><br>
 
 REPLACERULESPARAGRAPH
+
+<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
 ## [BACK TO MAIN PAGE](https://www.kaso.gg)
