@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 21, 2022 15:44:19").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 22, 2022 14:08:49").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -605,4 +605,4 @@ MoHMakeouthill <strong><span style="color:Black;background-color:">Eliminated</s
 MoHMakeouthill <strong><span style="color:Black;background-color:">Eliminated</span></strong> RapidDryFire at 29:12, with a tactical_shotgun from 1m<br>
 MoHMakeouthill <strong><span style="color:Black;background-color:">Eliminated</span></strong> Whitt-ley7 at 29:20, with a CombatAssaultRifle from 4m<br>
 <!--CREATED BY CODE-->
-<!--10/21/2022 3:44:19 PM-->
+<!--10/22/2022 2:08:49 PM-->
