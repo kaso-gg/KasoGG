@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 22, 2022 19:14:20").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 22, 2022 21:00:59").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -73,23 +73,27 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
+We had 7 matches with 71 unique people and the biggest lobby had 54 playing. There were 23 people who played every match. The highest XP level was 'XuntildeathX' at 318. The lowest XP was 'Ben_Toomer' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 4 NPCs, RIP! By the way, 2 people need to turn off ANONYMOUS MODE. 27 people have donkey laugh in their locker emotes, LOL!
 
+* Most common skins: Ocean(5), Aura(4), LaraCroft(4)<br>
+* Most common pickaxes: StarWand(11), IceBreaker(9), Driver(8)<br>
+* Most common emotes: CrowningAchievement(28), LaughItUp(27), Drippin'Flavor(21)<br>
 
-* Most common skins: <br>
-* Most common pickaxes: <br>
-* Most common emotes: <br>
+Bot identified 1 error occurances affecting 1 player(s) with a net error balance of -0.96. Only ~0.96 total tournament points are at question due to kill feed data discrepancies. Affected players are: Críp Wãlkíñ. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-No routine scoring errors were detected. Please notify us if you feel anything was missed.
-
-
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 15.7% of all points earned this session and 12.4% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-
+|1,614|43|1,528|29.9%|-1.3%|18.7%|12.4%|9.7%|15.7%|14.5%|0.3%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|1|G^gg|IamDalight2709|77.4|3.1 <10,2,1,1,3,1,4>|32 (4.6) <6,5,4,5,5,6,1>|1|0|0|0|86%|152|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|bitties|ARMYOFDARKNESS4|66.0|4.8 <5,1,13,1,4,5>|27 (4.5) <8,6,1,3,7,2>|0|1|0|1|100%|220|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|3|stars|xFanaticalx5630|64.1|2.0 <2,1,1,3,1,4>|23 (3.8) <4,6,2,1,9,1>|0|0|1|1|0%|53|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ff2621ab894a8ed348609c3a07c2fd94/transparent.png){:height="35px"}|
+|4|nada!|Frosty_0900|61.2|3.1 <10,2,1,1,3,1,4>|27 (5.4) <0,4,4,9,3,7,0>|0|0|0|0|71%|78|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/5f1a2b1a111b4106cb4ea2f30b76a23d/transparent.png){:height="35px"}|
 
 
 
