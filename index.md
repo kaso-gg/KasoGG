@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 24, 2022 12:20:49").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 24, 2022 16:15:36").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -79,20 +79,20 @@ We had 8 matches with 33 unique people and the biggest lobby had 20 playing. The
 * Most common pickaxes: Reaper(4), BladeoftheWaningMoon(2), Crowbar(2)<br>
 * Most common emotes: CrowningAchievement(8), PumpMeUp(7), GetGriddy(5)<br>
 
-Bot identified 1 error occurances affecting 1 player(s) with a net error balance of 0.96. Only ~0.96 total tournament points are at question due to kill feed data discrepancies. Affected players are: Garciauli747. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 5 error occurances affecting 3 player(s) with a net error balance of -2.87. Only ~4.79 total tournament points are at question due to kill feed data discrepancies. Affected players are: CPK_kaso, Garciauli747, FXTBOII. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 7.2% of all points earned this session and 12.1% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 6.8% of all points earned this session and 12.2% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|904|68|769|39.6%|-3.9%|12.8%|12.1%|23.4%|7.2%|8.3%|0.6%|
+|899|68|761|39.8%|-3.9%|12.9%|12.2%|23.5%|6.8%|8.3%|0.0%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|OFAD_SPECIALIST|49.7|3.2 <1,2,10,2,1>|8 (2.0) <1,5,0,1,1>|0|0|0|0|80%|87|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
 |2|bitties|MghtyBruceLeroy|48.7|6.0 <1,10,4,9,3,5,10>|5 (2.5) <4,0,0,0,1,0,0>|0|0|0|0|100%|107|![](https://media.fortniteapi.io/images/d41a043620a840291e2bb2f754dcfb7b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/375116215fc92197289b5268aea0948b/transparent.png){:height="35px"}|
-|3|stars|Garciauli747|47.5|5.3 <15,4,2,4,5,4,3>|10 (2.5) <0,3,0,1,0,2,4>|1|0|1|0|86%|163|![](https://media.fortniteapi.io/images/eed1dc1709f78c998adf0df066086eed/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|3|stars|Garciauli747|45.5|5.3 <15,4,2,4,5,4,3>|10 (2.5) <0,3,0,1,0,2,4>|0|0|1|0|86%|163|![](https://media.fortniteapi.io/images/eed1dc1709f78c998adf0df066086eed/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
 |4|nada!|FreshUnk|45.5|4.8 <5,6,11,1,5,1>|4 (1.0) <1,0,0,1,1,1>|0|0|1|1|50%|59|![](https://media.fortniteapi.io/images/164b6aad9ac6e84a008d8cb75a03709e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95b9eb8934ad6ae52af0e9ab075207e6/transparent.png){:height="35px"}|
 
 
