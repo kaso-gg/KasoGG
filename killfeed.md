@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 23, 2022 17:26:02").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 24, 2022 09:14:23").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -39,178 +39,121 @@ markdown: kramdown
 
 # Elimination Highlights<br>
 Top five <strong>longest</strong> SINGLE eliminations:<br>
-* Garciauli747 <strong><span style="color:crimson;background-color:">Beamed</span></strong> ITZARTT at 16:34, with a bolt_action_sniper_rifle from 192m<br>
-* patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 25:34 near <strong>LazyLagoon</strong>, with a bolt_action_sniper_rifle from 178m<br>
-* patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 13:27 near <strong>CreamyCrossroads</strong>, with a bolt_action_sniper_rifle from 176m<br>
-* patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> PopPopTaterhead at 10:58, with a bolt_action_sniper_rifle from 168m<br>
-* patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> SBJericho at 10:52 near <strong>ShiftyShafts</strong>, with a bolt_action_sniper_rifle from 156m<br>
+* Raпger <strong><span style="color:crimson;background-color:">Embarassed</span></strong> Repigi at 33:07 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 95m<br>
+* Raпger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> sillyrabbit4218 at 31:50 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 54m<br>
+* PHATNIKKAS <strong><span style="color:crimson;background-color:">Smoked</span></strong> PHATNIKKAS at 32:42, with a 1 from 38m<br>
+* Raпger <strong><span style="color:crimson;background-color:">Beamed</span></strong> LELUK at 33:44 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 29m<br>
+* KIeese <strong><span style="color:crimson;background-color:">Eradicated</span></strong> Chiefs6GamesYT at 33:35, with a 1 from 28m<br>
 
 Top five <strong>close range</strong> SINGLE eliminations:<br>
-* MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MordenBirder at 7:11 near <strong>CreamyCrossroads</strong>, with a PistolRapidFireSMG from 1m<br>
-* GWBRage <strong><span style="color:blue;background-color:">Knocked</span></strong> OFADSPECIALIST at 6:45 near <strong>LogJam</strong>, with a tactical_shotgun from 1m<br>
-* patrickpjscott <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ShadowsniperCLB at 11:29, with a pump_shotgun from 1m<br>
-* patrickpjscott <strong><span style="color:crimson;background-color:">Humiliated</span></strong> Derpgod007 at 11:17, with a pump_shotgun from 2m<br>
-* TwitchDestro <strong><span style="color:crimson;background-color:">Killed</span></strong> ITZARTT at 12:54, with a PistolRapidFireSMG from 2m<br>
+* Pumpgod88 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVxSNACKERx at 34:34 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+* TTVxSNACKERx <strong><span style="color:crimson;background-color:">Melted</span></strong> XRG51SEWY at 34:16 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+* justkingツ <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ThrasherKing331 at 34:38 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+* Dahunter13 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> jadmz at 34:15 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+* CPKkaso <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Vh0xHD at 34:26 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
 
 Top three most lethal long distance players:<br>
-* patrickpjscott averaged 53m kill distance with 32 elims.<br>
-* Garciauli747 averaged 44m kill distance with 11 elims.<br>
-* STsixGAMING averaged 43m kill distance with 1 elims.<br>
+* PHAT_NIKKAS averaged 38m kill distance with 1 elims.<br>
+* Raпger averaged 27m kill distance with 14 elims.<br>
+* KIeese averaged 16m kill distance with 2 elims.<br>
 
-# Game <strong>Eight</strong> started @16:52 PM<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Beamed</span></strong> TwitchDestro at 10:42, with a assault_rifle from 91m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Humiliated</span></strong> Derpgod007 at 11:17, with a pump_shotgun from 2m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ShadowsniperCLB at 11:29, with a pump_shotgun from 1m<br>
-OFADBUDROW <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ツTechnicalLogicツ at 11:38, with a tactical_shotgun from 2m<br>
-Garciauli747 <strong><span style="color:crimson;background-color:">Obliterated</span></strong> OFADBUDROW at 12:02, with a pump_shotgun from 11m<br>
-Garciauli747 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> K9Gizmo at 12:21, with a 12 from 5m<br>
-Garciauli747 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> SBJericho at 13:49, with a tactical_shotgun from 7m<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Garciauli747 at 18:13 near <strong>TheJoneses</strong>, with a pump_shotgun from 4m<br>
-FreshUnk <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 19:10 near <strong>TheJoneses</strong>, with a assault_rifle from 17m<br>
-# Game <strong>Seven</strong> started @16:26 PM<br>
-Garciauli747 <strong><span style="color:blue;background-color:">Knocked</span></strong> MordenBirder at 10:30 near <strong>GreasyGrove</strong>, with a pump_shotgun from 3m<br>
-Garciauli747 <strong><span style="color:crimson;background-color:">Killed</span></strong> PopPopTaterhead at 10:45 near <strong>GreasyGrove</strong>, with a DMR from 5m<br>
-TwitchDestro <strong><span style="color:blue;background-color:">Knocked</span></strong> ƬrickyNicky at 12:35, with a PistolRapidFireSMG from 2m<br>
-ITZARTT <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 12:40, with a tactical_shotgun from 9m<br>
-TwitchDestro <strong><span style="color:crimson;background-color:">Killed</span></strong> ITZARTT at 12:54, with a PistolRapidFireSMG from 2m<br>
-SBJericho <strong><span style="color:blue;background-color:">Knocked</span></strong> PurplChikNik at 13:41, with a SuppressedSMG from 6m<br>
-IsaacEffinStylin <strong><span style="color:blue;background-color:">Knocked</span></strong> SBJericho at 13:51, with a harpoon from 2m<br>
-K9Gizmo <strong><span style="color:crimson;background-color:">Eliminated</span></strong> IsaacEffinStylin at 14:06, with a pump_shotgun from 2m<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> CurdleScreamLeader at 17:13, with a tactical_shotgun from 10m (why you pick on NPCs?)<br>
-ツTechnicalLogicツ <strong><span style="color:blue;background-color:">Knocked</span></strong> Garciauli747 at 18:12, with a pump_shotgun from 6m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> GWBRage at 19:08, with a tactical_shotgun from 4m<br>
-ツTechnicalLogicツ <strong><span style="color:blue;background-color:">Knocked</span></strong> SBJericho at 22:27, with a SuppressedSMG from 11m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> MghtyBruceLeroy at 22:33, with a bolt_action_sniper_rifle from 127m<br>
-GWBRage <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 22:35 near <strong>LazyLagoon</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> assault_rifle from 24m<br>
-GWBRage <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 24:34, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> assault_rifle from 5m<br>
-FreshUnk <strong><span style="color:blue;background-color:">Knocked</span></strong> GWBRage at 24:51, with a SuppressedSMG from 12m<br>
-ツTechnicalLogicツ <strong><span style="color:blue;background-color:">Knocked</span></strong> MghtyBruceLeroy at 24:55, with a pump_shotgun from 5m<br>
-ツTechnicalLogicツ <strong><span style="color:crimson;background-color:">Lasered</span></strong> FreshUnk at 24:58, with a pump_shotgun from 15m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 25:34 near <strong>LazyLagoon</strong>, with a bolt_action_sniper_rifle from 178m<br>
-OFADSPECIALIST <strong><span style="color:crimson;background-color:">Eliminated</span></strong> patrickpjscott at 27:12, with a bolt_action_sniper_rifle from 65m<br>
-ツTechnicalLogicツ <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 27:36, with a pump_shotgun from 5m<br>
-TwitchDestro <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ツTechnicalLogicツ at 27:53, with a heavy_assault_rifle from 3m<br>
-ShadowsniperCLB <strong><span style="color:crimson;background-color:">Humiliated</span></strong> TwitchDestro at 28:23, with a heavy_assault_rifle from 4m<br>
-ShadowsniperCLB <strong><span style="color:crimson;background-color:">Beamed</span></strong> ShadowsniperCLB at 28:39<br>
-OFADSPECIALIST <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OFADSPECIALIST at 28:43<br>
-# Game <strong>Six</strong> started @16:02 PM<br>
-MordenBirder <strong><span style="color:blue;background-color:">Knocked</span></strong> ShadowsniperCLB at 2:16 near <strong>ChonkersSpeedway</strong>, with a DMR from 5m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Eliminated</span></strong> jeniferander929 at 2:25 near <strong>ChonkersSpeedway</strong>, with a pump_shotgun from 2m<br>
-FXTBOII <strong><span style="color:blue;background-color:">Knocked</span></strong> Garciauli747 at 5:58, with a 1 from 48m<br>
-TwitchDestro <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PopPopTaterhead at 7:59, with a heavy_assault_rifle from 2m<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Willow at 10:25, with a heavy_assault_rifle from 2m (why you pick on NPCs?)<br>
-GWBRage <strong><span style="color:blue;background-color:">Knocked</span></strong> MghtyBruceLeroy at 11:30, with a heavy_assault_rifle from 10m<br>
-FXTBOII <strong><span style="color:blue;background-color:">Knocked</span></strong> LePrEcHaUn03 at 11:40, with a PistolRapidFireSMG from 3m<br>
-C3FJack34 <strong><span style="color:blue;background-color:">Knocked</span></strong> OFADSPECIALIST at 11:45, with a heavy_assault_rifle from 6m<br>
-FXTBOII <strong><span style="color:crimson;background-color:">NuKEd</span></strong> C3FJack34 at 11:47, with a heavy_assault_rifle from 3m<br>
-MordenBirder <strong><span style="color:blue;background-color:">Knocked</span></strong> IsaacEffinStylin at 12:20, with a assault_rifle from 35m<br>
-TwitchDestro <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PurplChikNik at 12:22, with a bolt_action_sniper_rifle from 33m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> GWBRage at 12:53, with a bolt_action_sniper_rifle from 54m<br>
-Garciauli747 <strong><span style="color:purple;background-color:">Carded</span></strong> GWBRage at 12:57, with a bolt_action_sniper_rifle from 112m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> TwitchDestro at 13:02, with a bolt_action_sniper_rifle from 66m<br>
-MordenBirder <strong><span style="color:blue;background-color:">Knocked</span></strong> patrickpjscott at 14:54 near <strong>RealityFalls</strong>, with a tactical_shotgun from 4m<br>
-MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Lasered</span></strong> CPKkaso at 15:07 near <strong>RealityFalls</strong>, with a tactical_shotgun from 8m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Beamed</span></strong> Garciauli747 at 16:07 near <strong>RealityFalls</strong>, with a tactical_shotgun from 6m<br>
-OFADSPECIALIST <strong><span style="color:blue;background-color:">Knocked</span></strong> K9Gizmo at 16:50, with a heavy_assault_rifle from 69m<br>
-FXTBOII <strong><span style="color:purple;background-color:">Carded</span></strong> K9Gizmo at 16:56, with a heavy_assault_rifle from 62m<br>
-ITZARTT <strong><span style="color:blue;background-color:">Knocked</span></strong> MghtyBruceLeroy at 17:21 near <strong>RealityFalls</strong>, with a heavy_assault_rifle from 43m<br>
-FXTBOII <strong><span style="color:crimson;background-color:">Lasered</span></strong> Marmalade672 at 17:23, with a PistolRapidFireSMG from 19m<br>
-MordenBirder <strong><span style="color:blue;background-color:">Knocked</span></strong> FreshUnk at 17:42 near <strong>RealityFalls</strong>, with a tactical_shotgun from 3m<br>
-ITZARTT <strong><span style="color:crimson;background-color:">Lasered</span></strong> MordenBirder at 17:44 near <strong>RealityFalls</strong>, with a pump_shotgun from 4m<br>
-FreshUnk <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 18:45 near <strong>RealityFalls</strong>, with a bolt_action_sniper_rifle from 63m<br>
-FXTBOII <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Cryptic at 19:01 from 10m (why you pick on NPCs?)<br>
-ITZARTT <strong><span style="color:crimson;background-color:">Beamed</span></strong> OFADSPECIALIST at 19:04 near <strong>RealityFalls</strong>, with a tactical_shotgun from 6m<br>
-# Game <strong>Five</strong> started @15:38 PM<br>
-FreshUnk <strong><span style="color:blue;background-color:">Knocked</span></strong> GWBRage at 2:50 near <strong>LogJam</strong>, with a heavy_assault_rifle from 28m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FreshUnk at 3:05 near <strong>LogJam</strong>, with a SuppressedSMG from 16m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MordenBirder at 3:24 near <strong>LogJam</strong>, with a SuppressedSMG from 6m<br>
-GWBRage <strong><span style="color:blue;background-color:">Knocked</span></strong> OFADSPECIALIST at 6:45 near <strong>LogJam</strong>, with a tactical_shotgun from 1m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> K9Gizmo at 6:55 near <strong>LogJam</strong>, with a assault_rifle from 23m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> SBJericho at 10:52 near <strong>ShiftyShafts</strong>, with a bolt_action_sniper_rifle from 156m<br>
-IsaacEffinStylin <strong><span style="color:blue;background-color:">Knocked</span></strong> PopPopTaterhead at 12:15 near <strong>ShiftyShafts</strong>, with a DMR from 75m<br>
-IsaacEffinStylin <strong><span style="color:crimson;background-color:">Beamed</span></strong> MghtyBruceLeroy at 12:33 near <strong>ShiftyShafts</strong>, with a DoubleBarrelShotgun from 2m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 13:27 near <strong>CreamyCrossroads</strong>, with a bolt_action_sniper_rifle from 176m<br>
-PopPopTaterhead <strong><span style="color:blue;background-color:">Knocked</span></strong> PurplChikNik at 13:28 near <strong>ShiftyShafts</strong>, with a pistol from 12m<br>
-GhostSniperMLB <strong><span style="color:purple;background-color:">Carded</span></strong> PurplChikNik at 13:34 near <strong>ShiftyShafts</strong>, with a pump_shotgun from 2m<br>
-PopPopTaterhead <strong><span style="color:crimson;background-color:">Eliminated</span></strong> IsaacEffinStylin at 13:40 near <strong>ShiftyShafts</strong>, with a pistol from 2m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Shredded</span></strong> CPKkaso at 16:14, with a 1 from 15m<br>
-Garciauli747 <strong><span style="color:crimson;background-color:">Beamed</span></strong> ITZARTT at 16:34, with a bolt_action_sniper_rifle from 192m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> C3FJack34 at 17:10, with a bolt_action_sniper_rifle from 25m<br>
-GWBRage <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LePrEcHaUn03 at 17:11, with a heavy_assault_rifle from 12m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Garciauli747 at 17:40, with a assault_rifle from 31m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> PopPopTaterhead at 18:12, with a bolt_action_sniper_rifle from 133m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchDestro at 18:43, with a assault_rifle from 16m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Smoked</span></strong> SBJericho at 18:52, with a assault_rifle from 17m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Killed</span></strong> GhostSniperMLB at 19:16, with a tactical_shotgun from 2m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Lasered</span></strong> patrickpjscott at 19:29<br>
-# Game <strong>Four</strong> started @15:13 PM<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Smoked</span></strong> JMANEST1984 at 2:21, with a assault_rifle from 20m<br>
-TwitchDestro <strong><span style="color:blue;background-color:">Knocked</span></strong> MordenBirder at 5:04 near <strong>ChonkersSpeedway</strong>, with a bolt_action_sniper_rifle from 58m<br>
-ITZARTT <strong><span style="color:blue;background-color:">Knocked</span></strong> MghtyBruceLeroy at 5:17 near <strong>ChonkersSpeedway</strong>, with a tactical_shotgun from 2m<br>
-TwitchDestro <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ITZARTT at 5:55 near <strong>ChonkersSpeedway</strong>, with a tactical_shotgun from 4m<br>
-PopPopTaterhead <strong><span style="color:crimson;background-color:">Beamed</span></strong> SBJericho at 6:30, with a PistolRapidFireSMG from 14m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> GhostSniperMLB at 7:46, with a bolt_action_sniper_rifle from 58m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Beamed</span></strong> K9Gizmo at 8:03, with a bolt_action_sniper_rifle from 19m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> PopPopTaterhead at 10:58, with a bolt_action_sniper_rifle from 168m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FXTBOII at 12:20 near <strong>TiltedTowers</strong>, with a bolt_action_sniper_rifle from 63m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Smoked</span></strong> GWBRage at 12:48 near <strong>TiltedTowers</strong>, with a pump_shotgun from 5m<br>
-patrickpjscott <strong><span style="color:blue;background-color:">Knocked</span></strong> FreshUnk at 13:49 near <strong>TiltedTowers</strong>, with a assault_rifle from 25m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Killed</span></strong> PopPopTaterhead at 14:11 near <strong>TiltedTowers</strong>, with a assault_rifle from 38m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> CPKkaso at 15:46, with a bolt_action_sniper_rifle from 46m<br>
-OFADSPECIALIST <strong><span style="color:blue;background-color:">Knocked</span></strong> MghtyBruceLeroy at 15:59, with a tactical_shotgun from 5m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Booted</span></strong> TwitchDestro at 16:36, with a bolt_action_sniper_rifle from 55m<br>
-OFADSPECIALIST <strong><span style="color:blue;background-color:">Knocked</span></strong> patrickpjscott at 17:39, with a tactical_shotgun from 6m<br>
-OFADBUDROW <strong><span style="color:blue;background-color:">Knocked</span></strong> Garciauli747 at 17:41 near <strong>TiltedTowers</strong>, with a 0 from 25m<br>
-OFADSPECIALIST <strong><span style="color:crimson;background-color:">Destroyed</span></strong> OFADBUDROW at 18:34, with a PistolRapidFireSMG from 18m<br>
-PurplChikNik <strong><span style="color:crimson;background-color:">Lasered</span></strong> OFADSPECIALIST at 19:32, with a pump_shotgun from 4m<br>
-OFADSPECIALIST <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PurplChikNik at 19:46<br>
-OFADSPECIALIST <strong><span style="color:crimson;background-color:">Evaporated</span></strong> IsaacEffinStylin at 19:48<br>
-# Game <strong>Three</strong> started @14:51 PM<br>
-MordenBirder <strong><span style="color:blue;background-color:">Knocked</span></strong> JMANEST1984 at 7:10 near <strong>TheJoneses</strong>, with a heavy_assault_rifle from 13m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MghtyBruceLeroy at 7:17 near <strong>TheJoneses</strong>, with a tactical_shotgun from 5m<br>
-Derpgod007 <strong><span style="color:blue;background-color:">Knocked</span></strong> OFADBUDROW at 13:39, with a bolt_action_sniper_rifle from 26m<br>
-Derpgod007 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchDestro at 14:07, with a bolt_action_sniper_rifle from 155m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Booted</span></strong> Brackets132 at 15:32, with a tactical_shotgun from 17m<br>
-Garciauli747 <strong><span style="color:blue;background-color:">Knocked</span></strong> K9Gizmo at 16:39, with a PistolRapidFireSMG from 6m<br>
-Derpgod007 <strong><span style="color:crimson;background-color:">Shredded</span></strong> ITZARTT at 16:42, with a heavy_assault_rifle from 4m<br>
-Garciauli747 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Cryptic at 17:47, with a bolt_action_sniper_rifle from 97m (why you pick on NPCs?)<br>
-Derpgod007 <strong><span style="color:crimson;background-color:">Beamed</span></strong> CPKkaso at 18:20, with a DoubleBarrelShotgun from 3m<br>
-FreshUnk <strong><span style="color:blue;background-color:">Knocked</span></strong> Derpgod007 at 19:17, with a SuppressedSMG from 4m<br>
-Garciauli747 <strong><span style="color:blue;background-color:">Knocked</span></strong> FreshUnk at 19:24, with a 12 from 29m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Humiliated</span></strong> PopPopTaterhead at 19:41, with a assault_rifle from 3m<br>
-Garciauli747 <strong><span style="color:blue;background-color:">Knocked</span></strong> SBJericho at 20:07, with a heavy_assault_rifle from 13m<br>
-patrickpjscott <strong><span style="color:crimson;background-color:">Killed</span></strong> Garciauli747 at 20:45, with a assault_rifle from 31m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Terminated</span></strong> patrickpjscott at 21:26, with a DMR from 56m<br>
-OFADSPECIALIST <strong><span style="color:crimson;background-color:">Eliminated</span></strong> GhostSniperMLB at 22:19, with a tactical_shotgun from 3m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Shredded</span></strong> MordenBirder at 22:32<br>
-# Game <strong>Two</strong> started @14:38 PM<br>
-cintron1981 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Garciauli747 at 3:00 near <strong>CreamyCrossroads</strong>, with a assault_rifle from 6m<br>
-RainbowPlsFan <strong><span style="color:crimson;background-color:">Evaporated</span></strong> ITZARTT at 3:12 near <strong>CreamyCrossroads</strong>, with a tactical_shotgun from 2m<br>
-ITZARTT <strong><span style="color:crimson;background-color:">Terminated</span></strong> K9Gizmo at 3:12 near <strong>CreamyCrossroads</strong>, with a PumpkinLauncher from 3m<br>
-PopPopTaterhead <strong><span style="color:crimson;background-color:">Killed</span></strong> cintron1981 at 3:16 near <strong>CreamyCrossroads</strong>, with a heavy_assault_rifle from 4m<br>
-SBJericho <strong><span style="color:crimson;background-color:">Obliterated</span></strong> JMANEST1984 at 3:24 near <strong>CreamyCrossroads</strong>, with a assault_rifle from 26m<br>
-PopPopTaterhead <strong><span style="color:crimson;background-color:">Killed</span></strong> Brackets132 at 3:27 near <strong>CreamyCrossroads</strong>, with a heavy_assault_rifle from 7m<br>
-MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Obliterated</span></strong> PopPopTaterhead at 3:39 near <strong>CreamyCrossroads</strong>, with a PistolRapidFireSMG from 6m<br>
-Derpgod007 <strong><span style="color:crimson;background-color:">Booted</span></strong> TwitchDestro at 4:17 near <strong>CreamyCrossroads</strong>, with a DoubleBarrelShotgun from 4m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Killed</span></strong> GhostSniperMLB at 4:45 near <strong>CreamyCrossroads</strong>, with a heavy_assault_rifle from 16m<br>
-MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 5:05 near <strong>CreamyCrossroads</strong>, with a PumpkinLauncher from 4m<br>
-SBJericho <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Derpgod007 at 5:27 near <strong>CreamyCrossroads</strong>, with a heavy_assault_rifle from 10m<br>
-Derpgod007 <strong><span style="color:crimson;background-color:">Clapped</span></strong> RainbowPlsFan at 5:27 near <strong>CreamyCrossroads</strong>, with a DoubleBarrelShotgun from 5m<br>
-MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> SBJericho at 6:17 near <strong>CreamyCrossroads</strong>, with a heavy_assault_rifle from 9m<br>
-MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MordenBirder at 7:11 near <strong>CreamyCrossroads</strong>, with a PistolRapidFireSMG from 1m<br>
-MghtyBruceLeroy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MghtyBruceLeroy at 7:24<br>
-# Game <strong>One</strong> started @14:23 PM<br>
-TwitchDestro <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchDestro at 2:50, with a 1 from 35m<br>
-RainbowPlsFan <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ToxicToomernart at 2:51 near <strong>GreasyGrove</strong>, with a PistolRapidFireSMG from 5m<br>
-CPKkaso <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Brackets132 at 3:08 near <strong>GreasyGrove</strong>, with a tactical_shotgun from 2m<br>
-ITZARTT <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 3:13 near <strong>GreasyGrove</strong>, with a assault_rifle from 47m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Beamed</span></strong> cintron1981 at 3:17 near <strong>GreasyGrove</strong>, with a pump_shotgun from 2m<br>
-ITZARTT <strong><span style="color:crimson;background-color:">Killed</span></strong> Derpgod007 at 3:30 near <strong>GreasyGrove</strong>, with a assault_rifle from 10m<br>
-STsixGAMING <strong><span style="color:crimson;background-color:">Eliminated</span></strong> SBJericho at 3:53 near <strong>GreasyGrove</strong>, with a heavy_assault_rifle from 43m<br>
-ITZARTT <strong><span style="color:crimson;background-color:">Eliminated</span></strong> K9Gizmo at 4:11 near <strong>GreasyGrove</strong>, with a pump_shotgun from 4m<br>
-MordenBirder <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ITZARTT at 4:56 near <strong>GreasyGrove</strong>, with a pump_shotgun from 3m<br>
-GhostSniperMLB <strong><span style="color:crimson;background-color:">Evaporated</span></strong> MordenBirder at 5:06 near <strong>GreasyGrove</strong>, with a SuppressedSMG from 6m<br>
-RainbowPlsFan <strong><span style="color:crimson;background-color:">Beamed</span></strong> STsixGAMING at 5:16 near <strong>GreasyGrove</strong>, with a tactical_shotgun from 8m<br>
-RainbowPlsFan <strong><span style="color:crimson;background-color:">Eliminated</span></strong> GhostSniperMLB at 7:09 near <strong>GreasyGrove</strong>, with a tactical_shotgun from 9m<br>
+# Game <strong>One</strong> started @09:01 AM<br>
+Raпger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> sillyrabbit4218 at 31:50 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 54m<br>
+Raпger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mias69life at 32:35 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 10m<br>
+PHATNIKKAS <strong><span style="color:crimson;background-color:">Smoked</span></strong> PHATNIKKAS at 32:42, with a 1 from 38m<br>
+Raпger <strong><span style="color:crimson;background-color:">NuKEd</span></strong> BPMWB121ツ at 32:46 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 10m<br>
+Raпger <strong><span style="color:crimson;background-color:">Embarassed</span></strong> Repigi at 33:07 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 95m<br>
+Raпger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> volcanicgamer12 at 33:25 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 21m<br>
+KIeese <strong><span style="color:crimson;background-color:">Eradicated</span></strong> Chiefs6GamesYT at 33:35, with a 1 from 28m<br>
+Raпger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> KierraJade at 33:38 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 21m<br>
+Dolly-Starfire <strong><span style="color:crimson;background-color:">Destroyed</span></strong> EpikPitbull at 33:42 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+LELUK <strong><span style="color:crimson;background-color:">Killed</span></strong> hazrazor at 33:42 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Raпger <strong><span style="color:crimson;background-color:">Beamed</span></strong> LELUK at 33:44 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 29m<br>
+TTV0hhmocrooo <strong><span style="color:crimson;background-color:">Humiliated</span></strong> Daynky at 34:02 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+Cheleち <strong><span style="color:crimson;background-color:">Lasered</span></strong> Faze.Nikhil at 34:03 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+RACEPAK <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PotatoinTamato at 34:04 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+ShalomEdelman <strong><span style="color:crimson;background-color:">Killed</span></strong> Anthonyt344555 at 34:04 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+ETFaze3300 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Dolly-Starfire at 34:05 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+SGNKINGBULLET <strong><span style="color:crimson;background-color:">Shredded</span></strong> awesome15324978 at 34:05 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+ThrasherKing331 <strong><span style="color:crimson;background-color:">Humiliated</span></strong> Meihlillyxo at 34:06 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+TTV0hhmocrooo <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchKenzieebtw at 34:08 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+RedPirate29 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Cardinaljax1hp at 34:08 near <strong>TiltedTowers</strong>, with a 8 from 4m<br>
+supermoesje <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TomEh30 at 34:09 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+justkingツ <strong><span style="color:crimson;background-color:">Shredded</span></strong> JxstinPl4yzYT at 34:09 near <strong>TiltedTowers</strong>, with a 8 from 5m<br>
+supermoesje <strong><span style="color:crimson;background-color:">Beamed</span></strong> EdgyBoss1 at 34:09 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+RACEPAK <strong><span style="color:crimson;background-color:">Obliterated</span></strong> James19JC at 34:09 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Filgotツ <strong><span style="color:crimson;background-color:">Killed</span></strong> supermoesje at 34:10 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+RedPirate29 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TheZedator at 34:10 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+ETFaze3300 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> αMike at 34:10 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+ShalomEdelman <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TimhotepPK at 34:11 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Killed</span></strong> Slowblow22 at 34:11 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+TheBigGuy420 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DoodleRUDE at 34:12 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Raпger <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> MegaShot1234 at 34:12 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 25m<br>
+arqademinecraft <strong><span style="color:crimson;background-color:">Shredded</span></strong> KINGProLoot at 34:12 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+Filgotツ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ETFaze3300 at 34:12 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Vh0xHD <strong><span style="color:crimson;background-color:">Shredded</span></strong> docXdocc at 34:13 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+RacingOllie1 <strong><span style="color:crimson;background-color:">Clapped</span></strong> CompRAISED at 34:14 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+TTV0hhmocrooo <strong><span style="color:crimson;background-color:">Evaporated</span></strong> arqademinecraft at 34:14 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Evaporated</span></strong> SGNKINGBULLET at 34:14 near <strong>TiltedTowers</strong>, with a 8 from 4m<br>
+ShalomEdelman <strong><span style="color:crimson;background-color:">Killed</span></strong> NOSKILLZZQ at 34:15 near <strong>TiltedTowers</strong>, with a 8 from 4m<br>
+Yokaduri <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Zzebster at 34:15 near <strong>TiltedTowers</strong>, with a 8 from 6m<br>
+K1rbyb0y <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JDOG83103857 at 34:15 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+ShalomEdelman <strong><span style="color:crimson;background-color:">Smoked</span></strong> RACEPAK at 34:15 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Dahunter13 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> jadmz at 34:15 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+TTVxSNACKERx <strong><span style="color:crimson;background-color:">Melted</span></strong> XRG51SEWY at 34:16 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Filgotツ <strong><span style="color:crimson;background-color:">Killed</span></strong> FrikkieFantastic at 34:17 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+K1rbyb0y <strong><span style="color:crimson;background-color:">Eliminated</span></strong> RedPirate29 at 34:18 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+bionicbutton204 <strong><span style="color:crimson;background-color:">Shredded</span></strong> CTPLAYER08 at 34:20 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+TikTokNickSaw <strong><span style="color:crimson;background-color:">Shredded</span></strong> GoofyGorilla999 at 34:21 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Filgotツ <strong><span style="color:crimson;background-color:">Eradicated</span></strong> Sheran6504 at 34:22 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Dahunter13 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OverrArchie at 34:24 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+KZRWillaxe <strong><span style="color:crimson;background-color:">Hugged</span></strong> RacingOllie1 at 34:25 near <strong>TiltedTowers</strong>, with a pickaxe from 4m<br>
+K1rbyb0y <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 34:26 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> YTJonathangoated at 34:26 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+LynxNLツ <strong><span style="color:crimson;background-color:">Evaporated</span></strong> clanmates at 34:26 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+CPKkaso <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Vh0xHD at 34:26 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+clanmates <strong><span style="color:crimson;background-color:">Killed</span></strong> Dahunter13 at 34:29 near <strong>TiltedTowers</strong>, with a Grenade<br>
+Pumpgod88 <strong><span style="color:crimson;background-color:">Lasered</span></strong> sireOzzy at 34:33 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Pumpgod88 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVxSNACKERx at 34:34 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Raпger <strong><span style="color:crimson;background-color:">Booted</span></strong> overlevelsubway at 34:34 near <strong>TiltedTowers</strong>, with a tactical_shotgun from 12m<br>
+SoupSmurfs <strong><span style="color:crimson;background-color:">Embarassed</span></strong> ImNotiEnvy at 34:36 near <strong>TiltedTowers</strong>, with a pickaxe from 1m<br>
+LozWxx <strong><span style="color:crimson;background-color:">NuKEd</span></strong> LynxNLツ at 34:36 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+Yokaduri <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TheBigGuy420 at 34:36 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Twitchasif155 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> bionicbutton204 at 34:37 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+justkingツ <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ThrasherKing331 at 34:38 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Dyllllllllll919 <strong><span style="color:crimson;background-color:">Clapped</span></strong> K1rbyb0y at 34:39 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+TikTokNickSaw <strong><span style="color:crimson;background-color:">Booted</span></strong> boooǃ at 34:42 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+純SENSEISAGEZA <strong><span style="color:crimson;background-color:">Killed</span></strong> LozWxx at 34:43 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+TikTokNickSaw <strong><span style="color:crimson;background-color:">Obliterated</span></strong> TTV0hhmocrooo at 34:44 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+SoupSmurfs <strong><span style="color:crimson;background-color:">Killed</span></strong> TikTokNickSaw at 34:46 near <strong>TiltedTowers</strong>, with a pickaxe from 2m<br>
+純SENSEISAGEZA <strong><span style="color:crimson;background-color:">Eliminated</span></strong> GumbaDURP at 34:48 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+WFRayan神様 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> SoupSmurfs at 34:49 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+KIeese <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> YTcxl1psy at 34:52 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+okitskrystin <strong><span style="color:crimson;background-color:">Beamed</span></strong> WFRayan神様 at 34:57 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Pumpgod88 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Intxgrity3032 at 34:59 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Yokaduri <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Drspace517 at 35:05 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ollielegend27 at 35:23 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Yokaduri <strong><span style="color:crimson;background-color:">Eliminated</span></strong> KITKILLS at 35:33 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Eggcellent. <strong><span style="color:crimson;background-color:">Smoked</span></strong> F2bl at 35:33 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Yokaduri <strong><span style="color:crimson;background-color:">Beamed</span></strong> Dyllllllllll919 at 35:36 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Yokaduri <strong><span style="color:crimson;background-color:">Beamed</span></strong> KZRWillaxe at 35:47 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MintyPS. <strong><span style="color:crimson;background-color:">Killed</span></strong> Eggcellent. at 35:49 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+ShalomEdelman <strong><span style="color:crimson;background-color:">Eliminated</span></strong> okitskrystin at 35:52 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+justkingツ <strong><span style="color:crimson;background-color:">Beamed</span></strong> Cheleち at 36:02 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Smoked</span></strong> ShalomEdelman at 36:03 near <strong>TiltedTowers</strong>, with a 8 from 3m<br>
+MintyPS. <strong><span style="color:crimson;background-color:">Destroyed</span></strong> Yokaduri at 36:09 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Raпger <strong><span style="color:crimson;background-color:">Melted</span></strong> Pumpgod88 at 36:11 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 28m<br>
+純SENSEISAGEZA <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MintyPS. at 36:14 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Killed</span></strong> Twitchasif155 at 36:18 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Filgotツ at 36:33 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Lasered</span></strong> 純SENSEISAGEZA at 36:49 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Killed</span></strong> justkingツ at 37:30 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Raпger <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> ttvKjacobi80 at 37:32 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 12m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ӯоҷгаs.scheeкs at 37:57 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+MYTHIC454545 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Crypt1cDecay at 38:31 near <strong>TiltedTowers</strong>, with a 8 from 2m<br>
+Raпger <strong><span style="color:crimson;background-color:">Clapped</span></strong> MYTHIC454545 at 38:49 near <strong>TiltedTowers</strong>, with a heavy_assault_rifle from 14m<br>
+TTVBoorealg <strong><span style="color:crimson;background-color:">Eliminated</span></strong> KIeese at 39:16 near <strong>TiltedTowers</strong>, with a 8 from 1m<br>
+Raпger <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> TTVBoorealg at 39:26 near <strong>TiltedTowers</strong>, with a tactical_shotgun from 13m<br>
+Raпger <strong><span style="color:crimson;background-color:">Embarassed</span></strong> Raпger at 39:35<br>
 <!--CREATED BY CODE-->
-<!--10/23/2022 5:26:02 PM-->
+<!--10/24/2022 9:14:23 AM-->
