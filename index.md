@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 24, 2022 20:24:18").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 25, 2022 15:54:16").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
