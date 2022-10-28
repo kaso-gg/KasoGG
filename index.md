@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 25, 2022 20:56:26").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 27, 2022 21:15:37").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -73,27 +73,27 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 8 matches with 67 unique people and the biggest lobby had 49 playing. There were 30 people who played every match. The highest XP level was 'RainbowPlsFan' at 252. The lowest XP was 'Marmalade672' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 4 NPCs, RIP! By the way, 2 people need to turn off ANONYMOUS MODE. 3 people have donkey laugh in their locker emotes, LOL!
+We had 3 matches with 73 unique people and the biggest lobby had 57 playing. There were 43 people who played every match. The highest XP level was 'crunkjuice38' at 264. The lowest XP was 'Twitch nahbub' at 1, welcome to our lobby you GOAT!By the way, 3 people need to turn off ANONYMOUS MODE. 17 people have donkey laugh in their locker emotes, LOL!
 
-* Most common skins: Spider-Gwen(3), Bytes(2), DiamondHanz(2)<br>
-* Most common pickaxes: Reaper(4), BladeoftheWaningMoon(2), Crowbar(2)<br>
-* Most common emotes: CrowningAchievement(8), PumpMeUp(7), GetGriddy(5)<br>
+* Most common skins: GhoulTrooper(4), Aura(2), Echo(2)<br>
+* Most common pickaxes: StarWand(8), IceBreaker(4), Vision(4)<br>
+* Most common emotes: LaughItUp(17), CrowningAchievement(12), TakeTheL(11)<br>
 
-Bot identified 1 error occurances affecting 1 player(s) with a net error balance of 0.96. Only ~0.96 total tournament points are at question due to kill feed data discrepancies. Affected players are: Garciauli747. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 7.2% of all points earned this session and 12.1% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|904|68|769|39.6%|-3.9%|12.8%|12.1%|23.4%|7.2%|8.3%|0.6%|
+|00|00|00|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|OFAD_SPECIALIST|49.7|3.2 <1,2,10,2,1>|8 (2.0) <1,5,0,1,1>|0|0|0|0|80%|87|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
-|2|bitties|MghtyBruceLeroy|48.7|6.0 <1,10,4,9,3,5,10>|5 (2.5) <4,0,0,0,1,0,0>|0|0|0|0|100%|107|![](https://media.fortniteapi.io/images/d41a043620a840291e2bb2f754dcfb7b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/375116215fc92197289b5268aea0948b/transparent.png){:height="35px"}|
-|3|stars|Garciauli747|47.5|5.3 <15,4,2,4,5,4,3>|10 (2.5) <0,3,0,1,0,2,4>|1|0|1|0|86%|163|![](https://media.fortniteapi.io/images/eed1dc1709f78c998adf0df066086eed/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|4|nada!|FreshUnk|45.5|4.8 <5,6,11,1,5,1>|4 (1.0) <1,0,0,1,1,1>|0|0|1|1|50%|59|![](https://media.fortniteapi.io/images/164b6aad9ac6e84a008d8cb75a03709e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95b9eb8934ad6ae52af0e9ab075207e6/transparent.png){:height="35px"}|
+|1||Twitch KayohGGs|0.0|8.0 <13,6,5>|1 (1.0) <0,1,0>|0|0|0|0|100%|76|![](https://media.fortniteapi.io/images/0ce7d6cee4fe5a6c90f64d2e2244051c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|2||Jaylunﱞ|0.0|4.0 <3,1,8>|3 (1.5) <2,1,0>|0|0|0|0|100%|145|![](https://media.fortniteapi.io/images/c54d8e5-04f8202-3496995-0826561/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|3||ㄜRamenㄜ|0.0|1.0 <1>|1 (1.0) <1>|0|0|0|0|0%|189|![](https://media.fortniteapi.io/images/e7318a9477d7d31fb14a8e322f151114/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|4||Twitch nafiz_naf|0.0|10.0 <10>|1 (1.0) <1>|0|0|0|0|0%|62|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
 
 
 
