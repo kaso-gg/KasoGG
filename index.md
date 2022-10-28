@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 27, 2022 22:35:10").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 27, 2022 23:03:48").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -73,7 +73,7 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 5 matches with 104 unique people and the biggest lobby had 67 playing. There were 32 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was 'Twitch nahbub' at 1, welcome to our lobby you GOAT!By the way, 3 people need to turn off ANONYMOUS MODE. 28 people have donkey laugh in their locker emotes, LOL!
+We had 5 matches with 71 unique people and the biggest lobby had 37 playing. There were 32 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was 'Twitch nahbub' at 1, welcome to our lobby you GOAT!By the way, 3 people need to turn off ANONYMOUS MODE. 28 people have donkey laugh in their locker emotes, LOL!
 
 * Most common skins: GhoulTrooper(6), Polarity(4), Ava(3)<br>
 * Most common pickaxes: StarWand(16), IceBreaker(9), Reaper(7)<br>
