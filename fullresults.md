@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 27, 2022 23:06:22").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 27, 2022 23:19:42").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -63,7 +63,7 @@ markdown: kramdown
 <br>
 <br>
 
-We had 6 matches with 75 unique people and the biggest lobby had 37 playing. There were 30 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was 'Twitch nahbub' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 1 NPCs, RIP! By the way, 4 people need to turn off ANONYMOUS MODE. 29 people have donkey laugh in their locker emotes, LOL!
+We had 6 matches with 75 unique people and the biggest lobby had 37 playing. There were 3 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was 'Twitch nahbub' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 1 NPCs, RIP! By the way, 4 people need to turn off ANONYMOUS MODE. 29 people have donkey laugh in their locker emotes, LOL!
 
 * Most common skins: GhoulTrooper(6), Polarity(4), Ava(3)<br>
 * Most common pickaxes: StarWand(17), IceBreaker(12), Reaper(8)<br>
