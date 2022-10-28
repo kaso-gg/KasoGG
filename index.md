@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 27, 2022 21:21:03").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 27, 2022 21:42:17").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -81,19 +81,19 @@ We had 3 matches with 73 unique people and the biggest lobby had 57 playing. The
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 8.4% of all points earned this session and 13.5% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|00|00|00|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
+|513|53|400|37.7%|-7.3%|18.8%|13.5%|16.9%|8.4%|12.0%|0.0%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1||Twitch KayohGGs|0.0|8.0 <13,6,5>|1 (1.0) <0,1,0>|0|0|0|0|100%|76|![](https://media.fortniteapi.io/images/0ce7d6cee4fe5a6c90f64d2e2244051c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|2||Jaylunﱞ|0.0|4.0 <3,1,8>|3 (1.5) <2,1,0>|0|0|0|0|100%|145|![](https://media.fortniteapi.io/images/c54d8e5-04f8202-3496995-0826561/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|3||ㄜRamenㄜ|0.0|1.0 <1>|1 (1.0) <1>|0|0|0|0|0%|189|![](https://media.fortniteapi.io/images/e7318a9477d7d31fb14a8e322f151114/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
-|4||Twitch nafiz_naf|0.0|10.0 <10>|1 (1.0) <1>|0|0|0|0|0%|62|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|1|G^gg|TSG Droxz ち|40.2|4.0 <1,9,2>|11 (3.7) <3,1,7>|0|0|0|0|100%|165|![](https://media.fortniteapi.io/images/edbffd61da38e7065d32cf3a9ed4eefd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|bitties|Krхy|25.9|4.0 <1,9,2>|7 (2.3) <5,1,1>|0|0|0|0|100%|115|![](https://media.fortniteapi.io/images/e4ddf1e3c71b9ca5180312e955c904c8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d0ede8f-343a5e4-ca342cf-06f23a6/transparent.png){:height="35px"}|
+|3|stars|crunkjuice38|24.6|3.0 <4,2,3>|1 (1.0) <0,0,1>|0|0|0|0|67%|264|![](https://media.fortniteapi.io/images/1e55a45-cb54ceb-bafa8c9-805b40b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|4|nada!|PinkyツNoSkill彡|22.6|8.0 <7,10,7>|8 (2.7) <3,2,3>|0|0|0|0|100%|88|![](https://media.fortniteapi.io/images/d0a789e2b1b8860647f07fcfc43e6dce/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 
 
 
