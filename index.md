@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 13:57:16").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 14:00:08").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -73,27 +73,27 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 2 matches with 31 unique people and the biggest lobby had 27 playing. There were 17 people who played every match. The highest XP level was 'RainbowPlsFan' at 258. The lowest XP was 'smd056' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 1 NPCs, RIP! By the way, 2 people need to turn off ANONYMOUS MODE. 6 people have donkey laugh in their locker emotes, LOL!
+We had 7 matches with 77 unique people and the biggest lobby had 37 playing. There were 2 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was 'Twitch nahbub' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 1 NPCs, RIP! By the way, 4 people need to turn off ANONYMOUS MODE. 31 people have donkey laugh in their locker emotes, LOL!
 
-* Most common skins: ToyTrooper(2), Ava(1), Aura(1)<br>
-* Most common pickaxes: Reaper(4), HarleyHitter(3), ChewToy(1)<br>
-* Most common emotes: CrowningAchievement(8), Bringitaround(7), PumpMeUp(7)<br>
+* Most common skins: GhoulTrooper(7), Polarity(4), Ava(3)<br>
+* Most common pickaxes: StarWand(17), IceBreaker(13), Reaper(8)<br>
+* Most common emotes: LaughItUp(31), CrowningAchievement(28), TakeTheL(20)<br>
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0 of all points earned this session and 0 of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 9.2% of all points earned this session and 12.7% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|00|00|00|0|0|0|0|0|0|0|0|
+|1,214|93|1,021|34.3%|-3.9%|21.3%|12.7%|15.6%|9.2%|10.6%|0.1%|
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1||CPK_kaso|0.0|7.0 <10,4>||0|0|0|0|100%|74|![](https://media.fortniteapi.io/images/259bbb826124247449be37942a36e80c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|2||Bdingy|0.0|4.0 <4>|2 (2.0) <2>|0|0|0|0|0%|62|![](https://media.fortniteapi.io/images/59eb4f6-e81c036-42fab23-375205c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4f41c1007ad43380a64914d50af8a1fe/transparent.png){:height="35px"}|
-|3||ThaVibeQueen|0.0|6.0 <5,7>|1 (1.0) <1,0>|0|0|0|1|50%|71|![](https://media.fortniteapi.io/images/6fa359bab771370222f46885a6a9dd2c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/05c48936305179b91613cac98be12beb/transparent.png){:height="35px"}|
-|4||tkorice|0.0|4.5 <1,8>|1 (1.0) <1,0>|0|0|0|0|0%|95|![](https://media.fortniteapi.io/images/99cbd3a1026611c1dec075e4c0696d61/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3400255c837c5391e80914934b6362ac/transparent.png){:height="35px"}|
+|1|G^gg|Jaylunﱞ|50.5|3.3 <3,1,8,1,5,2>|11 (2.8) <2,1,0,5,0,3>|0|1|0|1|100%|145|![](https://media.fortniteapi.io/images/c54d8e5-04f8202-3496995-0826561/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|bitties|PinkyツNoSkill彡|48.3|8.2 <7,10,7,7,2,16>|15 (3.0) <3,2,3,4,3,0>|0|0|0|0|83%|88|![](https://media.fortniteapi.io/images/d0a789e2b1b8860647f07fcfc43e6dce/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|3|stars|TSG Droxz ち|40.2|4.0 <1,9,2>|11 (3.7) <3,1,7>|0|0|0|0|100%|165|![](https://media.fortniteapi.io/images/edbffd61da38e7065d32cf3a9ed4eefd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|nada!|Ugwе|39.5|2.3 <1,4,2>|9 (3.0) <3,3,3>|0|0|0|0|67%|126|![](https://media.fortniteapi.io/images/79f850eb568dc732e20d42104492a3af/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 
 
 
