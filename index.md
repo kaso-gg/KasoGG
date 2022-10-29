@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 17:11:29").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 17:43:22").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -71,29 +71,29 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 6 matches with 42 unique people and the biggest lobby had 19 playing. There were 3 people who played every match. The highest XP level was 'Vultun' at 254. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! Guess what, we eliminated 2 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 6 people have donkey laugh in their locker emotes, LOL!
+We had 7 matches with 54 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'Vultun' at 254. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! Guess what, we eliminated 5 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 7 people have donkey laugh in their locker emotes, LOL!
 
-* Most common skins: Bonejamin(2), BlackAdam(2), Guaco(2)<br>
-* Most common pickaxes: SigiloftheEmpire(4), IceBreaker(3), DefaultPickaxe(2)<br>
-* Most common emotes: CrowningAchievement(16), TheDip(7), DirtbikeChallenge(6)<br>
+* Most common skins: Bonejamin(3), LennoxRose(3), BlackAdam(2)<br>
+* Most common pickaxes: SigiloftheEmpire(5), IceBreaker(3), LectrostaticImpactor(3)<br>
+* Most common emotes: CrowningAchievement(20), DirtbikeChallenge(9), TheDip(9)<br>
 
-No routine scoring errors were detected. Please notify us if you feel anything was missed.
+Bot identified 2 error occurances affecting 1 player(s) with a net error balance of 0.00. Only ~1.92 total tournament points are at question due to kill feed data discrepancies. Affected players are: Relaxed Fit Jonesy. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 4.0% of all points earned this session and 10.5% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 4.4% of all points earned this session and 11.5% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|612|55|502|32.8%|-2.0%|17.4%|10.5%|27.5%|4.0%|9.2%|0.6%|
+|752|73|606|31.7%|-3.3%|19.0%|11.5%|26.5%|4.4%|9.0%|1.2%|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|CPK_kaso|37.3|12.7 <6,11,18,18,7,16>||0|0|1|0|83%|74|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|1|G^gg|CPK_kaso|40.9|13.0 <6,11,18,18,7,16,15>||1|0|1|0|86%|74|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
 |2|bitties|ZeroCoolDL|34.0|4.5 <7,2,3,6>|4 (1.3) <1,2,1,0>|1|0|0|0|50%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|3|stars|LtBAM401 TTV|31.4|8.2 <4,6,1,13,14,11>|6 (3.0) <3,0,3,0,0,0>|0|1|1|0|50%|222|![](https://media.fortniteapi.io/images/935187fbe94e1e0f26ac31e8fab60686/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
+|3|stars|LtBAM401 TTV|33.7|8.3 <4,6,1,13,14,11,9>|7 (2.3) <3,0,3,0,0,0,1>|0|1|1|0|43%|222|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
 |4|nada!|TTVLejawon_|30.3|2.8 <5,1,3,2>|17 (4.3) <4,4,3,6>|0|1|0|0|0%|65|![](https://media.fortniteapi.io/images/a4ae8f546570a63acd3d87f50d37bdfc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f5a2fb23fafa18eebe48bf2bb33d3c2c/transparent.png){:height="35px"}|
-|5|bruh?|Johnny the Taco|23.4|10.0 <8,13,9,15,10,5>|5 (1.3) <1,0,2,0,1,1>|0|1|0|0|17%|76|![](https://media.fortniteapi.io/images/58dd2ce5b48859425c4603533946eb02/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
+|5|bruh?|Johnny the Taco|30.1|10.3 <8,13,9,15,10,5,12>|7 (1.4) <1,0,2,0,1,1,2>|0|1|0|0|14%|65|![](https://media.fortniteapi.io/images/58dd2ce5b48859425c4603533946eb02/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
 |6||Sladernader30|23.3|9.7 <1,17,11>|8 (4.0) <7,0,1>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
