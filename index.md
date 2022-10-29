@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 15:14:53").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 15:18:02").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -87,13 +87,15 @@ Here's a breakdown of points allocation across all players and matches. This dat
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
 |194|25|144|38.3%|-7.0%|13.6%|10.4%|32.0%|1.4%|10.2%|1.0%|
 
-
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|ZeroCoolDL|24.1|4.5 <7,2>|3 (1.5) <1,2>|1|0|0|0|100%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
 |2|bitties|MrCrazyMan777|17.1|3.0 <1,5>|3 (3.0) <3,0>|0|0|0|0|50%|56|![](https://media.fortniteapi.io/images/751c452f632a5831b5e0d9abf54192cd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
 |3|stars|Sladernader30|15.1|1.0 <1>|7 (7.0) <7>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
 |4|nada!|twitchsnowman|14.1|10.0 <5,15>||0|0|1|0|100%|78|![](https://media.fortniteapi.io/images/48df52cae09bef25606b1cfd32141ca8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
+|5|bruh?|LtBAM401 TTV|12.7|5.0 <4,6>|3 (3.0) <3,0>|0|0|0|0|50%|222|![](https://media.fortniteapi.io/images/1c47a457188a9dc57e4336eba526a7ea/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
+|6||Mrfishy6968|9.0|10.0 <10>||0|0|1|0|0%|113|![](https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
 
 
 
