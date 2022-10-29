@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 14:43:22").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 15:14:54").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -39,33 +39,50 @@ markdown: kramdown
 
 # Elimination Highlights<br>
 Top five <strong>longest</strong> SINGLE eliminations:<br>
-* LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> twitchsnowman at 14:38, with a heavy assault rifle from 53m<br>
+* LtBAM401TTV <strong><span style="color:crimson;background-color:">Shredded</span></strong> twitchsnowman at 14:38, with a heavy assault rifle from 53m<br>
+* ZeroCoolDL <strong><span style="color:crimson;background-color:">Smoked</span></strong> XLComical at 20:41 near <strong>LazyLagoon</strong>, with a bolt action sniper rifle from 43m<br>
+* Sladernader30 <strong><span style="color:crimson;background-color:">Beamed</span></strong> MrCrazyMan777 at 15:55, with a 08 from 39m<br>
 * MrCrazyMan777 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtBAM401TTV at 18:30 near <strong>RealityFalls</strong>, with a assault rifle from 37m<br>
-* LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 13:23, with a heavy assault rifle from 26m<br>
-* LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ZeroCoolDL at 13:18, with a heavy assault rifle from 19m<br>
-* ZeroCoolDL <strong><span style="color:crimson;background-color:">Killed</span></strong> JohnnytheTaco at 12:52, with a assault rifle from 10m<br>
+* Kamiloxツ <strong><span style="color:crimson;background-color:">Melted</span></strong> twitchsnowman at 4:09 near <strong>CreamyCrossroads</strong>, with a bolt action sniper rifle from 33m<br>
 
 Top five <strong>close range</strong> SINGLE eliminations:<br>
-* MrCrazyMan777 <strong><span style="color:crimson;background-color:">Melted</span></strong> Ttvtuck128 at 21:53, with a DoubleBarrelShotgun from 4m<br>
+* Ttvtuck128 <strong><span style="color:crimson;background-color:">Killed</span></strong> Kamiloxツ at 4:22 near <strong>CreamyCrossroads</strong>, with a pump shotgun from 3m<br>
+* Zacharyon60fps <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JohnnytheTaco at 4:31 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
+* Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ttvtuck128 at 8:48 near <strong>HeraldFortress</strong>, with a assault rifle from 3m<br>
+* MrCrazyMan777 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ttvtuck128 at 21:53, with a DoubleBarrelShotgun from 4m<br>
 * JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mrfishy6968 at 8:51, with a tactical shotgun from 4m<br>
-* Ttvtuck128 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Camocean44813 at 9:34, with a pump shotgun from 5m<br>
-* MrCrazyMan777 <strong><span style="color:crimson;background-color:">Beamed</span></strong> JennTheFierceTTV at 19:37 near <strong>RealityFalls</strong>, with a DoubleBarrelShotgun from 10m<br>
-* ZeroCoolDL <strong><span style="color:crimson;background-color:">Killed</span></strong> JohnnytheTaco at 12:52, with a assault rifle from 10m<br>
 
 Top three most lethal long distance players:<br>
+* Kamilox ツ averaged 33m kill distance with 1 elims.<br>
 * LtBAM401 TTV averaged 33m kill distance with 3 elims.<br>
-* MrCrazyMan777 averaged 17m kill distance with 3 elims.<br>
-* ZeroCoolDL averaged 10m kill distance with 1 elims.<br>
+* ZeroCoolDL averaged 27m kill distance with 3 elims.<br>
 
+# Game <strong>Two</strong> started @14:55 PM<br>
+Kamiloxツ <strong><span style="color:crimson;background-color:">Melted</span></strong> twitchsnowman at 4:09 near <strong>CreamyCrossroads</strong>, with a bolt action sniper rifle from 33m<br>
+Ttvtuck128 <strong><span style="color:crimson;background-color:">Killed</span></strong> Kamiloxツ at 4:22 near <strong>CreamyCrossroads</strong>, with a pump shotgun from 3m<br>
+Zacharyon60fps <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JohnnytheTaco at 4:31 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
+ZeroCoolDL <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Willow at 4:58, with a heavy assault rifle from 1m (why you pick on NPCs?)<br>
+XLComical <strong><span style="color:crimson;background-color:">Smoked</span></strong> Zacharyon60fps at 5:04 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun from 10m<br>
+BigRIBgaming <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> CPKkaso at 5:14 near <strong>HeraldFortress</strong>, with a heavy assault rifle from 16m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ttvtuck128 at 8:48 near <strong>HeraldFortress</strong>, with a assault rifle from 3m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Killed</span></strong> BigRIBgaming at 9:06 near <strong>HeraldFortress</strong>, with a FallDamage from 27m<br>
+XLComical <strong><span style="color:crimson;background-color:">Clapped</span></strong> Shaphilly at 10:02, with a assault rifle from 24m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> StevenxMx at 10:26, with a tactical shotgun from 6m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtBAM401TTV at 14:15, with a assault rifle from 8m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Beamed</span></strong> MrCrazyMan777 at 15:55, with a 08 from 39m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Smashken at 16:09, with a 08 from 19m<br>
+ZeroCoolDL <strong><span style="color:crimson;background-color:">Smoked</span></strong> XLComical at 20:41 near <strong>LazyLagoon</strong>, with a bolt action sniper rifle from 43m<br>
+Sladernader30 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> ZeroCoolDL at 21:03 near <strong>LazyLagoon</strong>, with a 08 from 7m<br>
+ZeroCoolDL won match (and was flexing until 21:23)<br>
 # Game <strong>One</strong> started @14:25 PM<br>
 JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mrfishy6968 at 8:51, with a tactical shotgun from 4m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Camocean44813 at 9:34, with a pump shotgun from 5m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Killed</span></strong> JohnnytheTaco at 12:52, with a assault rifle from 10m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ZeroCoolDL at 13:18, with a heavy assault rifle from 19m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 13:23, with a heavy assault rifle from 26m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> twitchsnowman at 14:38, with a heavy assault rifle from 53m<br>
+Ttvtuck128 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> Camocean44813 at 9:34, with a pump shotgun from 5m<br>
+ZeroCoolDL <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> JohnnytheTaco at 12:52, with a assault rifle from 10m<br>
+LtBAM401TTV <strong><span style="color:crimson;background-color:">Melted</span></strong> ZeroCoolDL at 13:18, with a heavy assault rifle from 19m<br>
+LtBAM401TTV <strong><span style="color:crimson;background-color:">Smoked</span></strong> CPKkaso at 13:23, with a heavy assault rifle from 26m<br>
+LtBAM401TTV <strong><span style="color:crimson;background-color:">Shredded</span></strong> twitchsnowman at 14:38, with a heavy assault rifle from 53m<br>
 MrCrazyMan777 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtBAM401TTV at 18:30 near <strong>RealityFalls</strong>, with a assault rifle from 37m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Beamed</span></strong> JennTheFierceTTV at 19:37 near <strong>RealityFalls</strong>, with a DoubleBarrelShotgun from 10m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Melted</span></strong> Ttvtuck128 at 21:53, with a DoubleBarrelShotgun from 4m<br>
+MrCrazyMan777 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> JennTheFierceTTV at 19:37 near <strong>RealityFalls</strong>, with a DoubleBarrelShotgun from 10m<br>
+MrCrazyMan777 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ttvtuck128 at 21:53, with a DoubleBarrelShotgun from 4m<br>
 <!--CREATED BY CODE-->
-<!--10/29/2022 2:43:22 PM-->
+<!--10/29/2022 3:14:54 PM-->
