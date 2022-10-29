@@ -87,7 +87,9 @@ Here's a breakdown of points allocation across all players and matches. This dat
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
 |194|25|144|38.3%|-7.0%|13.6%|10.4%|32.0%|1.4%|10.2%|1.0%|
 
-**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>
+**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
+
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|ZeroCoolDL|24.1|4.5 <7,2>|3 (1.5) <1,2>|1|0|0|0|100%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
