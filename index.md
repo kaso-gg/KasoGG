@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 15:18:02").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 15:47:30").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -68,37 +68,36 @@ Click <strong>[HERE FOR CUSTOMS CODE](/customsloadin)</strong> to get the active
 - PENALTY: -10 pts anon mode
 
 ## Session Overview and Top Results
-**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**
-**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
 Tune in about 5 minutes after each match tonight to see the standings! Only the top 6 placements are shown, click [full results](https://www.kaso.gg/fullresults) to see the full table. E1 means how many times you got the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
-We had 2 matches with 18 unique people and the biggest lobby had 15 playing. There were 7 people who played every match. The highest XP level was 'JennTheFierceTTV' at 234. The lowest XP was 'MrCrazyMan777' at 56, welcome to our lobby you GOAT! Guess what, we eliminated 1 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 1 people have donkey laugh in their locker emotes, LOL!
+We had 3 matches with 26 unique people and the biggest lobby had 19 playing. There were 5 people who played every match. The highest XP level was 'JennTheFierceTTV' at 234. The lowest XP was 'Unkel Hukun' at 44, welcome to our lobby you GOAT! Guess what, we eliminated 1 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 3 people have donkey laugh in their locker emotes, LOL!
 
-* Most common skins: Guaco(2), DarkRedKnight(1), ChillCount(1)<br>
-* Most common pickaxes: DefaultPickaxe(2), LectrostaticImpactor(2), GravityHammer(1)<br>
-* Most common emotes: CrowningAchievement(5), DanceMoves(4), DirtbikeChallenge(4)<br>
+* Most common skins: BlackAdam(2), Guaco(2), DarkRedKnight(1)<br>
+* Most common pickaxes: DefaultPickaxe(2), IceBreaker(2), LectrostaticImpactor(2)<br>
+* Most common emotes: CrowningAchievement(10), TheDip(5), DanceMoves(4)<br>
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 1.4% of all points earned this session and 10.4% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 3.6% of all points earned this session and 11.5% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|194|25|144|38.3%|-7.0%|13.6%|10.4%|32.0%|1.4%|10.2%|1.0%|
+|299|33|234|35.2%|-4.3%|13.3%|11.5%|29.5%|3.6%|10.5%|0.6%|
 
-**Click here for [FULL TABLE](https://www.kaso.gg/fullresults)**<br>
-**Click here for [FULL KILL FEED](https://www.kaso.gg/killfeed)**<br>
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|ZeroCoolDL|24.1|4.5 <7,2>|3 (1.5) <1,2>|1|0|0|0|100%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|2|bitties|MrCrazyMan777|17.1|3.0 <1,5>|3 (3.0) <3,0>|0|0|0|0|50%|56|![](https://media.fortniteapi.io/images/751c452f632a5831b5e0d9abf54192cd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
-|3|stars|Sladernader30|15.1|1.0 <1>|7 (7.0) <7>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
-|4|nada!|twitchsnowman|14.1|10.0 <5,15>||0|0|1|0|100%|78|![](https://media.fortniteapi.io/images/48df52cae09bef25606b1cfd32141ca8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
-|5|bruh?|LtBAM401 TTV|12.7|5.0 <4,6>|3 (3.0) <3,0>|0|0|0|0|50%|222|![](https://media.fortniteapi.io/images/1c47a457188a9dc57e4336eba526a7ea/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
-|6||Mrfishy6968|9.0|10.0 <10>||0|0|1|0|0%|113|![](https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
+|1|G^gg|ZeroCoolDL|30.2|4.0 <7,2,3>|4 (1.3) <1,2,1>|1|0|0|0|67%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
+|2|bitties|Sladernader30|20.4|9.0 <1,17>|7 (7.0) <7,0>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
+|3|stars|LtBAM401 TTV|19.7|3.7 <4,6,1>|6 (3.0) <3,0,3>|0|1|0|0|67%|222|![](https://media.fortniteapi.io/images/935187fbe94e1e0f26ac31e8fab60686/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
+|4|nada!|BigRIBgaming|19.1|5.5 <9,2>|5 (2.5) <1,4>|0|0|0|0|100%|160|![](https://media.fortniteapi.io/images/279c7ba-f505255-0aa8c77-f84c036/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/05a4b5341b15ee1186be825311d823a4/transparent.png){:height="35px"}|
+|5|bruh?|twitchsnowman|18.5|12.0 <5,15,16>||0|0|1|0|100%|78|![](https://media.fortniteapi.io/images/48df52cae09bef25606b1cfd32141ca8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
+|6||MrCrazyMan777|17.1|3.0 <1,5>|3 (3.0) <3,0>|0|0|0|0|50%|56|![](https://media.fortniteapi.io/images/751c452f632a5831b5e0d9abf54192cd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
 
+**Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
 
 # Upcoming tournaments and Customs
@@ -107,6 +106,8 @@ Here's a breakdown of points allocation across all players and matches. This dat
 <br/>
 
 # Past Events
+
+**2022.09.01** - [RESULTS](https://www.kaso.gg/2022_09_01_NPChunt) I stopped by [SomeSaucy](https://www.twitch.tv/somesaucy) and just for fun logged some duos games.
 
 **2022.09.01** - [RESULTS](https://www.kaso.gg/2022_09_01_NPChunt) We were just goofing around and killing NPCs for fun! We had 2 matches with 7 unique people and the biggest lobby had 6 playing. We had 5 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Castaway Jonesy (1 times), common axe was A.R.G.U.S. Sabre (1 times). Guess what, we eliminated 50 NPCs, RIP!
 
