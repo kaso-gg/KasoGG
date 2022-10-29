@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 16:35:11").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 16:36:25").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -39,90 +39,311 @@ markdown: kramdown
 
 # Elimination Highlights<br>
 Top five <strong>longest</strong> SINGLE eliminations:<br>
-* TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> UnkelHukun at 16:36, with a bolt action sniper rifle from 146m<br>
-* BigRIBgaming <strong><span style="color:crimson;background-color:">Eliminated</span></strong> StevenxMx at 6:03, with a heavy assault rifle from 113m<br>
-* R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Clapped</span></strong> LtBAM401TTV at 14:08, with a OutsideSafeZone from 82m<br>
-* BigRIBgaming <strong><span style="color:crimson;background-color:">Beamed</span></strong> DeafDeal3r at 16:23 near <strong>CondoCanyon</strong>, with a DMR from 63m<br>
-* TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> twitchsnowman at 6:01 near <strong>TiltedTowers</strong>, with a bolt action sniper rifle from 58m<br>
+* NeedsMatts <strong><span style="color:crimson;background-color:">Eliminated</span></strong> UNOEWarrior at 27:20 near <strong>CreamyCrossroads</strong>, with a PumpkinLauncher from 96m<br>
+* Twitch-TobaGirl <strong><span style="color:blue;background-color:">Knocked</span></strong> Jaylunﱞ at 20:33 near <strong>GreasyGrove</strong>, with a assault rifle from 96m<br>
+* Mr.boo〆 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Twitchnafiznaf at 12:44, with a OutsideSafeZone from 84m<br>
+* sHaRpIsHLxgEnDz <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:50, with a heavy assault rifle from 76m<br>
+* MutedFPSᵗᵗᵛ <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicHxrl3y at 10:13, with a bolt action sniper rifle from 68m<br>
 
 Top five <strong>close range</strong> SINGLE eliminations:<br>
-* JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> KickLizard at 6:13, with a tactical shotgun from 1m<br>
-* Kamiloxツ <strong><span style="color:crimson;background-color:">Beamed</span></strong> JohnnytheTaco at 12:23 near <strong>CreamyCrossroads</strong>, with a SuppressedSMG from 2m<br>
-* LtBAM401TTV <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Shaphilly at 7:27, with a tactical shotgun from 2m<br>
-* Ttvtuck128 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Kamiloxツ at 4:22 near <strong>CreamyCrossroads</strong>, with a pump shotgun from 3m<br>
-* LtBAM401TTV <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> BigRIBgaming at 19:42 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
+* PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Killed</span></strong> FncsGordo at 12:20 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+* ghostヅ. <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Cookieᵈᵒʰ at 7:59 near <strong>SleepySound</strong>, with a PistolRapidFireSMG from 1m<br>
+* ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> OneHitWonderful at 25:27, with a PistolRapidFireSMG from 1m<br>
+* TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:57 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+* ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴸᵀSpookyKards at 22:58 near <strong>GreasyGrove</strong>, with a assault rifle from 1m<br>
 
 Top three most lethal long distance players:<br>
-* BigRIBgaming averaged 53m kill distance with 5 elims.<br>
-* TTVLejawon_ averaged 39m kill distance with 8 elims.<br>
-* R1SE C0RRUPT averaged 36m kill distance with 3 elims.<br>
+* Needs Matts averaged 96m kill distance with 1 elims.<br>
+* ㄜWantyㄜ averaged 41m kill distance with 1 elims.<br>
+* Mr.boo〆 averaged 40m kill distance with 3 elims.<br>
 
-# Game <strong>Four</strong> started @15:49 PM<br>
-R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Terminated</span></strong> DeafDeal3r at 8:29 near <strong>RockyReels</strong>, with a PistolRapidFireSMG from 16m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Evaporated</span></strong> CPKkaso at 8:52, with a DoubleBarrelShotgun from 7m<br>
-xXsnazzychipXx <strong><span style="color:crimson;background-color:">Melted</span></strong> pinkrose0007 at 9:12, with a SuppressedSMG from 5m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Eradicated</span></strong> OGfresh777 at 9:42 near <strong>RealityFalls</strong>, with a tactical shotgun from 6m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Beamed</span></strong> JohnnytheTaco at 12:23 near <strong>CreamyCrossroads</strong>, with a SuppressedSMG from 2m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> twitchsnowman at 14:06, with a assault rifle from 27m<br>
-R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Clapped</span></strong> LtBAM401TTV at 14:08, with a OutsideSafeZone from 82m<br>
-Smashken <strong><span style="color:crimson;background-color:">Killed</span></strong> Smashken at 14:40, with a OutsideSafeZone<br>
-Senapmedketchup <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Sladernader30 at 15:05, with a heavy assault rifle from 8m<br>
-R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Shredded</span></strong> Kamiloxツ at 15:58, with a tactical shotgun from 11m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> UnkelHukun at 16:36, with a bolt action sniper rifle from 146m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> R1SEC0RRUPT at 18:18, with a heavy assault rifle from 4m<br>
-Senapmedketchup <strong><span style="color:crimson;background-color:">Hugged</span></strong> mufcmurphy2012 at 21:23 near <strong>CrazyCave</strong>, with a heavy assault rifle from 9m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Killed</span></strong> ZeroCoolDL at 21:29 near <strong>CrazyCave</strong>, with a assault rifle from 6m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Eliminated</span></strong> xXsnazzychipXx at 22:29 near <strong>CrazyCave</strong>, with a bolt action sniper rifle from 48m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Smoked</span></strong> Senapmedketchup at 22:56 near <strong>CrazyCave</strong>, with a bolt action sniper rifle from 53m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Melted</span></strong> KickLizard at 25:33, with a heavy assault rifle from 4m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> ZeroCoolReborn at 25:47, with a tactical shotgun from 5m<br>
-TTVLejawon won match (and was flexing until 26:26)<br>
-# Game <strong>Three</strong> started @15:22 PM<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Beamed</span></strong> Knightscreen at 5:07 near <strong>CreamyCrossroads</strong>, with a heavy assault rifle from 14m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Hugged</span></strong> CPKkaso at 5:21 near <strong>TiltedTowers</strong>, with a heavy assault rifle from 17m<br>
-StevenxMx <strong><span style="color:crimson;background-color:">Terminated</span></strong> Sladernader30 at 5:59, with a tactical shotgun from 3m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> twitchsnowman at 6:01 near <strong>TiltedTowers</strong>, with a bolt action sniper rifle from 58m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Eliminated</span></strong> StevenxMx at 6:03, with a heavy assault rifle from 113m<br>
-Senapmedketchup <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Senapmedketchup at 6:12, with a FallDamage from 17m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> KickLizard at 6:13, with a tactical shotgun from 1m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Shaphilly at 7:27, with a tactical shotgun from 2m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> ZeroCoolReborn at 8:47, with a assault rifle from 19m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Kamiloxツ at 8:55, with a tactical shotgun from 11m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JohnnytheTaco at 8:57, with a GrenadeLauncher<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Clapped</span></strong> OGfresh777 at 9:11, with a bolt action sniper rifle from 55m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Smashken at 10:13, with a assault rifle from 15m<br>
-DeafDeal3r <strong><span style="color:crimson;background-color:">Killed</span></strong> UnkelHukun at 11:02 near <strong>RockyReels</strong>, with a tactical shotgun from 4m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> TTVLejawon at 14:33 near <strong>CondoCanyon</strong>, with a DMR from 57m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Beamed</span></strong> DeafDeal3r at 16:23 near <strong>CondoCanyon</strong>, with a DMR from 63m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Lasered</span></strong> ZeroCoolDL at 19:02 near <strong>CondoCanyon</strong>, with a heavy assault rifle from 16m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> BigRIBgaming at 19:42 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
-LtBAM401TTV won the match (and was flexing until 19:58)<br>
-# Game <strong>Two</strong> started @14:55 PM<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Lasered</span></strong> twitchsnowman at 4:09 near <strong>CreamyCrossroads</strong>, with a bolt action sniper rifle from 33m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Kamiloxツ at 4:22 near <strong>CreamyCrossroads</strong>, with a pump shotgun from 3m<br>
-Zacharyon60fps <strong><span style="color:crimson;background-color:">Smoked</span></strong> JohnnytheTaco at 4:31 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
-ZeroCoolDL <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Willow at 4:58, with a heavy assault rifle from 1m (why you pick on NPCs?)<br>
-XLComical <strong><span style="color:crimson;background-color:">Terminated</span></strong> Zacharyon60fps at 5:04 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun from 10m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 5:14 near <strong>HeraldFortress</strong>, with a heavy assault rifle from 16m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> Ttvtuck128 at 8:48 near <strong>HeraldFortress</strong>, with a assault rifle from 3m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Killed</span></strong> BigRIBgaming at 9:06 near <strong>HeraldFortress</strong>, with a FallDamage from 27m<br>
-XLComical <strong><span style="color:crimson;background-color:">Terminated</span></strong> Shaphilly at 10:02, with a assault rifle from 24m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> StevenxMx at 10:26, with a tactical shotgun from 6m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtBAM401TTV at 14:15, with a assault rifle from 8m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Killed</span></strong> MrCrazyMan777 at 15:55, with a 08 from 39m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Killed</span></strong> Smashken at 16:09, with a 08 from 19m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Eliminated</span></strong> XLComical at 20:41 near <strong>LazyLagoon</strong>, with a bolt action sniper rifle from 43m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ZeroCoolDL at 21:03 near <strong>LazyLagoon</strong>, with a 08 from 7m<br>
-ZeroCoolDL won the match (and was flexing until 21:23)<br>
-# Game <strong>One</strong> started @14:25 PM<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Lasered</span></strong> Mrfishy6968 at 8:51, with a tactical shotgun from 4m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Camocean44813 at 9:34, with a pump shotgun from 5m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JohnnytheTaco at 12:52, with a assault rifle from 10m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ZeroCoolDL at 13:18, with a heavy assault rifle from 19m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 13:23, with a heavy assault rifle from 26m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eliminated</span></strong> twitchsnowman at 14:38, with a heavy assault rifle from 53m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Obliterated</span></strong> LtBAM401TTV at 18:30 near <strong>RealityFalls</strong>, with a assault rifle from 37m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">NuKEd</span></strong> JennTheFierceTTV at 19:37 near <strong>RealityFalls</strong>, with a DoubleBarrelShotgun from 10m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Ttvtuck128 at 21:53, with a DoubleBarrelShotgun from 4m<br>
+# Game <strong>Seven</strong> started @23:33 PM<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">NuKEd</span></strong> TwitchSomeSaucy at 5:27, with a FallDamage from 74m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> Cookieᵈᵒʰ at 15:05, with a DoubleBarrelShotgun from 14m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> Cookieᵈᵒʰ at 15:07, with a DBNOTimeout from 34m<br>
+LTJa1cob <strong><span style="color:crimson;background-color:">Clapped</span></strong> CPKkaso at 15:52, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> heavy assault rifle from 40m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Beamed</span></strong> TwitchKayohGGs at 18:59 near <strong>GreasyGrove</strong>, with a DoubleBarrelShotgun from 6m<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> BrattyBriee at 19:43, with a tactical shotgun from 3m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Killed</span></strong> BrattyBriee at 19:49, with a tactical shotgun from 3m<br>
+Twitch-TobaGirl <strong><span style="color:blue;background-color:">Knocked</span></strong> NeedsMatts at 19:55, with a assault rifle from 1m<br>
+Twitch-TobaGirl <strong><span style="color:purple;background-color:">Carded</span></strong> NeedsMatts at 19:56, with a pump shotgun from 1m<br>
+Twitch-TobaGirl <strong><span style="color:blue;background-color:">Knocked</span></strong> Jaylunﱞ at 20:33 near <strong>GreasyGrove</strong>, with a assault rifle from 96m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Evaporated</span></strong> Twitch-TobaGirl at 20:41, with a bolt action sniper rifle from 38m<br>
+Jaylunﱞ was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 21:25<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴸᵀSpookyKards at 22:58 near <strong>GreasyGrove</strong>, with a assault rifle from 1m<br>
+LTJa1cob <strong><span style="color:blue;background-color:">Knocked</span></strong> ᵀʷᶦᵗᶜʰСhicqnо at 22:59 near <strong>GreasyGrove</strong>, with a tactical shotgun from 5m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LTJa1cob at 23:05 near <strong>GreasyGrove</strong>, with a DoubleBarrelShotgun from 4m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ᴸᵀSpookyKards at 23:05 near <strong>GreasyGrove</strong>, with a assault rifle<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> ᵀʷᶦᵗᶜʰСhicqnо at 24:00 near <strong>GreasyGrove</strong>, with a tactical shotgun<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Smoked</span></strong> Jaylunﱞ at 24:47, with a tactical shotgun from 10m<br>
+# Game <strong>Six</strong> started @22:43 PM<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PinkyツNoSkill彡 at 11:07<br>
+Draculajehhf <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVElectroDeity at 12:39, with a tactical shotgun from 1m<br>
+Draculajehhf <strong><span style="color:purple;background-color:">Carded</span></strong> TTVElectroDeity at 12:43, with a tactical shotgun from 4m<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Killed</span></strong> TwitchSomeSaucy at 12:51, with a FallDamage from 81m<br>
+peisenators <strong><span style="color:blue;background-color:">Knocked</span></strong> peisenators at 13:06, with a PumpkinLauncher<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 13:17 near <strong>LogJam</strong>, with a tactical shotgun from 6m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 13:20 near <strong>LogJam</strong>, with a assault rifle from 4m<br>
+pei_senators was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 13:31<br>
+UNOEWarrior <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchWokasins at 13:39 near <strong>SleepySound</strong>, with a tactical shotgun from 3m<br>
+UNOEWarrior <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchWokasins at 13:42 near <strong>SleepySound</strong>, with a tactical shotgun from 1m<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Eliminated</span></strong> YRGFernando at 13:57 near <strong>SleepySound</strong>, with a tactical shotgun from 7m<br>
+peisenators <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sabina at 14:36 from 18m (why you pick on NPCs?)<br>
+T1swzy <strong><span style="color:blue;background-color:">Knocked</span></strong> princesstyrone at 14:52 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 10m<br>
+T1swzy <strong><span style="color:crimson;background-color:">Lasered</span></strong> princesstyrone at 14:55 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Eliminated</span></strong> VieiraMist at 14:55 near <strong>SleepySound</strong>, with a pump shotgun from 8m<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> CPKkaso at 16:11, with a heavy assault rifle from 63m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> P1X3LN0TT4K3N at 16:24, with a tactical shotgun from 5m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> P1X3LN0TT4K3N at 16:28 from 2m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Eliminated</span></strong> peisenators at 16:46, with a tactical shotgun from 9m<br>
+TTV_ElectroDeity was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 17:49<br>
+SainthoodZamo was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 19:14<br>
+OneHitWonderful <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜRamenㄜ at 19:28, with a heavy assault rifle from 47m<br>
+OneHitWonderful <strong><span style="color:purple;background-color:">Carded</span></strong> ㄜRamenㄜ at 20:18, with a tactical shotgun from 4m<br>
+OneHitWonderful <strong><span style="color:crimson;background-color:">Killed</span></strong> ㄜWantyㄜ at 20:49, with a heavy assault rifle from 3m<br>
+meanlost <strong><span style="color:blue;background-color:">Knocked</span></strong> NeedsMatts at 22:46, with a tactical shotgun from 3m<br>
+ᵀʷᶦᵀᶜʰnafiznaf <strong><span style="color:purple;background-color:">Carded</span></strong> NeedsMatts at 22:49, with a tactical shotgun from 1m<br>
+Spilm <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 23:13, with a heavy assault rifle from 1m<br>
+Spilm <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 23:17, with a tactical shotgun from 4m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Obliterated</span></strong> MikmaqProdigy at 23:24, with a pump shotgun from 4m<br>
+meanlost <strong><span style="color:blue;background-color:">Knocked</span></strong> BrattyBriee at 24:00, with a tactical shotgun from 1m<br>
+ᵀʷᶦᵀᶜʰnafiznaf <strong><span style="color:purple;background-color:">Carded</span></strong> BrattyBriee at 24:04, with a tactical shotgun from 3m<br>
+Draculajehhf <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 24:15, with a PistolRapidFireSMG from 6m<br>
+Draculajehhf <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 24:32, with a tactical shotgun from 1m<br>
+OneHitWonderful <strong><span style="color:blue;background-color:">Knocked</span></strong> Jaylunﱞ at 24:56, with a bolt action sniper rifle from 49m<br>
+schmoneybag <strong><span style="color:purple;background-color:">Carded</span></strong> Jaylunﱞ at 25:13, with a tactical shotgun from 2m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Killed</span></strong> Twitch-TobaGirl at 25:15, with a tactical shotgun from 10m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> OneHitWonderful at 25:27, with a PistolRapidFireSMG from 1m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:purple;background-color:">Carded</span></strong> OneHitWonderful at 26:08, with a PistolRapidFireSMG<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:crimson;background-color:">Eliminated</span></strong> schmoneybag at 26:26, with a PistolRapidFireSMG from 9m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ᵀʷᶦᵀᶜʰnafiznaf at 27:06, with a PistolRapidFireSMG from 2m<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> T1swzy at 30:33, with a bolt action sniper rifle from 61m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Lasered</span></strong> ᵀʷᶦᵗᶜʰСhicqnо at 30:38, with a heavy assault rifle from 2m<br>
+TTVElectroDeity <strong><span style="color:purple;background-color:">Carded</span></strong> T1swzy at 30:43 from 59m<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> Draculajehhf at 31:25, with a bolt action sniper rifle from 37m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> UNOEWarrior at 31:26, with a tactical shotgun from 11m<br>
+Dracula jehhf was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 31:53<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> Draculajehhf at 32:33, with a OutsideSafeZone from 5m<br>
+TTVElectroDeity <strong><span style="color:purple;background-color:">Carded</span></strong> Draculajehhf at 32:39, with a DoubleBarrelShotgun from 6m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVElectroDeity at 32:41, with a OutsideSafeZone from 26m<br>
+Spilm <strong><span style="color:crimson;background-color:">Destroyed</span></strong> Ugwе at 32:57, with a PumpkinLauncher from 13m<br>
+Spilm won match (and was flexing until 33:10)<br>
+Mzzу won match (and was flexing until 33:20)<br>
+# Game <strong>Five</strong> started @22:10 PM<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Lasered</span></strong> TwitchWokasins at 17:58<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> Immuneyoungb at 18:48, with a assault rifle from 30m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Killed</span></strong> FOREVERSITUATED at 19:05, with a PumpkinLauncher from 5m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Lasered</span></strong> Immuneyoungb at 19:05, with a assault rifle<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Destroyed</span></strong> TwitchSomeSaucy at 19:09 near <strong>SleepySound</strong>, with a DMR from 3m<br>
+Ugwе <strong><span style="color:blue;background-color:">Knocked</span></strong> OgD00dleBoB at 20:36 near <strong>TheJoneses</strong>, with a heavy assault rifle from 3m<br>
+Ugwе <strong><span style="color:purple;background-color:">Carded</span></strong> OgD00dleBoB at 20:42 near <strong>TheJoneses</strong>, with a heavy assault rifle from 3m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Killed</span></strong> MikmaqProdigy at 21:00 near <strong>TheJoneses</strong>, with a DoubleBarrelShotgun from 17m<br>
+TwitchƤimpŖico <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 21:16, with a SuppressedSMG from 2m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 21:19, with a tactical shotgun from 2m<br>
+AwokenShadow-- <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchƤimpŖico at 21:36, with a PistolRapidFireSMG from 5m<br>
+TwitchƤimpŖico was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 21:52<br>
+TwitchƤimpŖico <strong><span style="color:crimson;background-color:">Melted</span></strong> AwokenShadow-- at 22:15, with a pump shotgun from 5m<br>
+AwokenShadow-- <strong><span style="color:blue;background-color:">Knocked</span></strong> Mzzу at 22:15, with a PistolRapidFireSMG from 4m<br>
+Mzzу was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 22:28<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> Cookieᵈᵒʰ at 24:05, with a heavy assault rifle from 28m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:purple;background-color:">Carded</span></strong> Cookieᵈᵒʰ at 24:15, with a Melee from 2m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Lasered</span></strong> MutedFPSᵗᵗᵛ at 24:21, with a tactical shotgun from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Mr.boo〆 at 24:21, with a DoubleBarrelShotgun from 2m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchKayohGGs at 25:42, with a assault rifle from 65m<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Beamed</span></strong> YRGFernando at 26:13 near <strong>CreamyCrossroads</strong>, with a tactical shotgun from 3m<br>
+UNOEWarrior <strong><span style="color:blue;background-color:">Knocked</span></strong> peisenators at 26:23 near <strong>CreamyCrossroads</strong>, with a heavy assault rifle from 30m<br>
+UNOEWarrior <strong><span style="color:purple;background-color:">Carded</span></strong> peisenators at 26:27 near <strong>CreamyCrossroads</strong>, with a tactical shotgun from 5m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 26:37 near <strong>TiltedTowers</strong>, with a tactical shotgun from 2m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 26:41 from 2m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> T1swzy at 27:15, with a tactical shotgun from 8m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Lasered</span></strong> T1swzy at 27:19, with a tactical shotgun<br>
+NeedsMatts <strong><span style="color:crimson;background-color:">Eliminated</span></strong> UNOEWarrior at 27:20 near <strong>CreamyCrossroads</strong>, with a PumpkinLauncher from 96m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Killed</span></strong> Twitchnafiznaf at 27:40 near <strong>TiltedTowers</strong>, with a tactical shotgun from 2m<br>
+ㄜWantyㄜ <strong><span style="color:blue;background-color:">Knocked</span></strong> OneHitWonderful at 29:47, with a assault rifle from 41m<br>
+ㄜWantyㄜ <strong><span style="color:crimson;background-color:">Lasered</span></strong> OneHitWonderful at 30:21, with a assault rifle<br>
+ㄜRamenㄜ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> schmoneybag at 30:21, with a heavy assault rifle from 34m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜRamenㄜ at 32:08, with a heavy assault rifle from 20m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ㄜRamenㄜ at 32:18, with a heavy assault rifle<br>
+TwitchƤimpŖico <strong><span style="color:crimson;background-color:">Lasered</span></strong> ㄜWantyㄜ at 32:19, with a pump shotgun from 2m<br>
+Ugwе <strong><span style="color:blue;background-color:">Knocked</span></strong> NeedsMatts at 32:52, with a heavy assault rifle from 2m<br>
+Ugwе <strong><span style="color:purple;background-color:">Carded</span></strong> NeedsMatts at 32:57 from 1m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> CPKkaso at 32:59, with a tactical shotgun from 9m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> BrattyBriee at 33:02, with a tactical shotgun from 1m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> BrattyBriee at 33:06, with a tactical shotgun from 2m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Smoked</span></strong> littlefoxsmokes at 33:49, with a heavy assault rifle from 50m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVElectroDeity at 33:53, with a PistolRapidFireSMG from 2m<br>
+Twitch-TobaGirl <strong><span style="color:crimson;background-color:">Eliminated</span></strong> helpеr at 37:11 near <strong>TiltedTowers</strong>, with a pump shotgun from 4m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> Draculajehhf at 37:59, with a heavy assault rifle from 7m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> Draculajehhf at 38:02 from 3m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchƤimpŖico at 38:17, with a PistolRapidFireSMG from 6m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Beamed</span></strong> Twitch-TobaGirl at 38:18, with a tactical shotgun from 4m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Destroyed</span></strong> Ugwе at 38:24, with a tactical shotgun from 8m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchƤimpŖico at 38:25 near <strong>TiltedTowers</strong>, with a tactical shotgun from 3m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> Kiﱞllﱞuﱞa at 38:53, with a heavy assault rifle from 17m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> Mzzу at 38:58, with a tactical shotgun from 10m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> Kiﱞllﱞuﱞa at 39:02, with a PumpkinLauncher from 15m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> PinkyツNoSkill彡 at 39:04, with a OutsideSafeZone from 16m<br>
+Jaylunﱞ crushed it (and was flexing until 39:17)<br>
+# Game <strong>Four</strong> started @21:35 PM<br>
+Mr.boo〆 <strong><span style="color:blue;background-color:">Knocked</span></strong> OHZ1 at 2:48 near <strong>RockyReels</strong>, with a PistolRapidFireSMG from 30m<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchSomeSaucy at 2:59, with a FallDamage from 88m<br>
+Mr.boo〆 <strong><span style="color:purple;background-color:">Carded</span></strong> OHZ1 at 3:10 near <strong>RockyReels</strong>, with a pump shotgun from 2m<br>
+Iurkys <strong><span style="color:blue;background-color:">Knocked</span></strong> OMVault06 at 3:21, with a assault rifle from 18m<br>
+Iurkys <strong><span style="color:purple;background-color:">Carded</span></strong> OMVault06 at 3:25, with a tactical shotgun from 4m<br>
+Cookieᵈᵒʰ <strong><span style="color:blue;background-color:">Knocked</span></strong> OgD00dleBoB at 3:46 near <strong>SynapseStation</strong>, with a pump shotgun from 2m<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Killed</span></strong> OgD00dleBoB at 3:50 near <strong>SynapseStation</strong>, with a pump shotgun<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Obliterated</span></strong> MikmaqProdigy at 3:50 near <strong>SynapseStation</strong>, with a PistolRapidFireSMG from 2m<br>
+Draculajehhf <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜWantyㄜ at 4:02 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun from 7m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Killed</span></strong> ㄜRamenㄜ at 4:19 near <strong>CondoCanyon</strong>, with a SuppressedSMG from 2m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Killed</span></strong> ㄜWantyㄜ at 4:19 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun<br>
+OHZ1 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 5:22<br>
+TTVxoSofiaa <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 5:35, with a DoubleBarrelShotgun from 18m<br>
+SinatraOcean <strong><span style="color:blue;background-color:">Knocked</span></strong> OHZ1 at 6:11, with a heavy assault rifle from 20m<br>
+AwokenShadow-- <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> Dogon0ping at 6:12, with a heavy assault rifle from 9m<br>
+SinatraOcean <strong><span style="color:crimson;background-color:">Humiliated</span></strong> OHZ1 at 6:14, with a heavy assault rifle<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> Iurkys at 7:48, with a tactical shotgun from 6m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:purple;background-color:">Carded</span></strong> Iurkys at 7:51, with a SuppressedSMG from 2m<br>
+AwokenShadow-- <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 7:56 near <strong>TiltedTowers</strong>, with a PistolRapidFireSMG from 6m<br>
+AwokenShadow-- <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 7:58 near <strong>TiltedTowers</strong>, with a pump shotgun from 4m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Twitch-TobaGirl at 7:58, with a heavy assault rifle from 4m<br>
+SinatraOcean <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVxoSofiaa at 8:20 near <strong>TiltedTowers</strong>, with a heavy assault rifle from 28m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:blue;background-color:">Knocked</span></strong> SinatraOcean at 9:19, with a tactical shotgun from 3m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Eliminated</span></strong> AwokenShadow-- at 9:27, with a heavy assault rifle from 3m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> SinatraOcean at 9:27, with a heavy assault rifle from 1m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 10:05, with a tactical shotgun from 3m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 10:08, with a tactical shotgun from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 10:17, with a FallDamage from 23m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Beamed</span></strong> Twitchnafiznaf at 10:18, with a heavy assault rifle from 2m<br>
+PinkyツNoSkill彡 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 10:34<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> Immuneyoungb at 11:15, with a tactical shotgun from 6m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> Immuneyoungb at 11:25, with a heavy assault rifle from 2m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Killed</span></strong> FOREVERSITUATED at 11:36, with a tactical shotgun from 5m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Terminated</span></strong> V-EGAS at 11:56, with a tactical shotgun from 9m<br>
+YRGFernando <strong><span style="color:blue;background-color:">Knocked</span></strong> Kiﱞllﱞuﱞa at 13:12, with a assault rifle from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> YRGFernando at 13:17, with a tactical shotgun from 12m<br>
+TwitchWokasins <strong><span style="color:purple;background-color:">Carded</span></strong> Kiﱞllﱞuﱞa at 13:19, with a tactical shotgun from 6m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> YRGFernando at 13:20, with a tactical shotgun from 3m<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PinkyツNoSkill彡 at 14:40, with a tactical shotgun from 3m<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Killed</span></strong> helpеr at 19:27, with a heavy assault rifle from 49m<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mr.boo〆 at 19:48, with a heavy assault rifle from 54m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> Ugwе at 20:02, with a heavy assault rifle from 6m<br>
+TwitchWokasins <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchKayohGGs at 20:29, with a OutsideSafeZone from 11m<br>
+TwitchWokasins <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchKayohGGs at 20:45, with a heavy assault rifle from 17m<br>
+Ugwе was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 20:56<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Killed</span></strong> Cookieᵈᵒʰ at 22:33, with a heavy assault rifle from 18m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Killed</span></strong> Mzzу at 22:33, with a tactical shotgun from 3m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Eradicated</span></strong> TwitchWokasins at 22:49, with a assault rifle from 5m<br>
+TwitchWokasins crushed it (and was flexing until 22:54)<br>
+# Game <strong>Three</strong> started @20:49 PM<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Killed</span></strong> TwitchSomeSaucy at 2:27, with a FallDamage from 76m<br>
+Ｔｒｘｌｌ. <strong><span style="color:crimson;background-color:">Smoked</span></strong> TTV-SPIDERHLLP at 4:00, with a tactical shotgun from 7m<br>
+ghostヅ. <strong><span style="color:blue;background-color:">Knocked</span></strong> MariahsMelodyTTV at 5:05 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 1m<br>
+ghostヅ. <strong><span style="color:purple;background-color:">Carded</span></strong> MariahsMelodyTTV at 5:08 from 4m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Destroyed</span></strong> Ｔｒｘｌｌ. at 5:29 near <strong>SleepySound</strong>, with a tactical shotgun from 7m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 6:27, with a Melee from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> xxskully00re at 7:01, with a PumpkinLauncher from 12m<br>
+ghostヅ. <strong><span style="color:purple;background-color:">Carded</span></strong> xxskully00re at 7:05, with a PistolRapidFireSMG from 1m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> OgD00dleBoB at 9:09, with a PistolRapidFireSMG from 43m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> MikmaqProdigy at 9:16, with a tactical shotgun from 2m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> MikmaqProdigy at 9:18 from 2m<br>
+Krхy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> muysexy221 at 9:30, with a PistolRapidFireSMG from 12m<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicHxrl3y at 10:13, with a bolt action sniper rifle from 68m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> OnlySnazzy at 10:42, with a tactical shotgun from 2m<br>
+Krхy <strong><span style="color:purple;background-color:">Carded</span></strong> OnlySnazzy at 10:46, with a PistolRapidFireSMG from 1m<br>
+Cookieᵈᵒʰ <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 11:28, with a pump shotgun from 2m<br>
+TwitchKayohGGs <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 11:31, with a DoubleBarrelShotgun from 4m<br>
+Twitchnafiznaf <strong><span style="color:blue;background-color:">Knocked</span></strong> Cookieᵈᵒʰ at 12:12, with a SuppressedSMG from 4m<br>
+Twitchnafiznaf <strong><span style="color:purple;background-color:">Carded</span></strong> Cookieᵈᵒʰ at 12:13, with a tactical shotgun from 2m<br>
+Mr.boo〆 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Twitchnafiznaf at 12:44, with a OutsideSafeZone from 84m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> TikTokgavin6.6 at 13:31, with a PistolRapidFireSMG from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Melted</span></strong> Jaylunﱞ at 13:43, with a tactical shotgun from 4m<br>
+sHaRpIsHLxgEnDz <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:50, with a heavy assault rifle from 76m<br>
+sHaRpIsHLxgEnDz <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ghostヅ. at 14:07, with a pump shotgun from 4m<br>
+sHaRpIsHLxgEnDz <strong><span style="color:crimson;background-color:">Shredded</span></strong> PinkyツNoSkill彡 at 14:07, with a heavy assault rifle<br>
+Twitch-72Vinny <strong><span style="color:blue;background-color:">Knocked</span></strong> Mr.boo〆 at 18:35, with a heavy assault rifle from 3m<br>
+Mr.boo〆 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 19:12<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:blue;background-color:">Knocked</span></strong> sHaRpIsHLxgEnDz at 20:35, with a heavy assault rifle from 5m<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:purple;background-color:">Carded</span></strong> sHaRpIsHLxgEnDz at 20:36, with a tactical shotgun from 2m<br>
+Mr.boo〆 <strong><span style="color:crimson;background-color:">Killed</span></strong> Twitch-72Vinny at 20:38, with a tactical shotgun from 6m<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜRamenㄜ at 21:29, with a heavy assault rifle from 44m<br>
+ㄜRamenㄜ was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 21:45<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:crimson;background-color:">Shredded</span></strong> TwitchKayohGGs at 22:44, with a tactical shotgun from 3m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> Mr.boo〆 at 22:46, with a PistolRapidFireSMG from 8m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> Mr.boo〆 at 22:59, with a pump shotgun from 2m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MutedFPSᵗᵗᵛ at 23:06, with a pump shotgun from 5m<br>
+crunkjuice38 <strong><span style="color:blue;background-color:">Knocked</span></strong> TSGDroxzち at 23:33, with a heavy assault rifle from 2m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Eliminated</span></strong> crunkjuice38 at 23:34, with a OutsideSafeZone from 3m<br>
+crunkjuice38 <strong><span style="color:purple;background-color:">Carded</span></strong> TSGDroxzち at 23:42, with a DBNOTimeout<br>
+ㄜRamenㄜ <strong><span style="color:crimson;background-color:">Killed</span></strong> Krхy at 23:48, with a OutsideSafeZone from 7m<br>
+# Game <strong>Two</strong> started @20:14 PM<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> CheckWrecks at 8:53 near <strong>TiltedTowers</strong>, with a PistolRapidFireSMG from 2m<br>
+TikTokgavin6.6 <strong><span style="color:purple;background-color:">Carded</span></strong> CheckWrecks at 8:59 near <strong>TiltedTowers</strong>, with a PistolRapidFireSMG from 3m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DrippyNC at 9:00 near <strong>TiltedTowers</strong>, with a tactical shotgun from 2m<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Beamed</span></strong> TwitchSomeSaucy at 9:05, with a FallDamage from 86m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> MutedFPSᵗᵗᵛ at 12:20 near <strong>TiltedTowers</strong>, with a tactical shotgun from 5m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Killed</span></strong> FncsGordo at 12:20 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:57 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Terminated</span></strong> PinkyツNoSkill彡 at 14:00 near <strong>TiltedTowers</strong>, with a tactical shotgun<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Killed</span></strong> ghostヅ. at 14:01 near <strong>TiltedTowers</strong>, with a tactical shotgun from 3m<br>
+Krхy <strong><span style="color:blue;background-color:">Knocked</span></strong> MariahsMelodyTTV at 14:58, with a tactical shotgun from 2m<br>
+Krхy <strong><span style="color:purple;background-color:">Carded</span></strong> MariahsMelodyTTV at 15:01, with a tactical shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> Krхy at 15:39, with a heavy assault rifle from 1m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokgavin6.6 at 15:58, with a PistolRapidFireSMG from 2m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> TikTokgavin6.6 at 16:04, with a pump shotgun from 4m<br>
+TikTokgavin6.6 <strong><span style="color:purple;background-color:">Carded</span></strong> Krхy at 16:23 near <strong>TiltedTowers</strong>, with a DBNOTimeout<br>
+OnlySnazzy <strong><span style="color:crimson;background-color:">Lasered</span></strong> TSGDroxzち at 16:26, with a tactical shotgun from 2m<br>
+ᵀʷᶦᵀᶜʰnafiznaf <strong><span style="color:crimson;background-color:">Shredded</span></strong> CPKkaso at 16:55, with a assault rifle from 39m<br>
+TikTok gavin6.6 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 17:42<br>
+TwitchKayohGGs <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 19:02, with a heavy assault rifle from 12m<br>
+TwitchKayohGGs <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 19:05, with a tactical shotgun from 3m<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Lasered</span></strong> ᵀʷᶦᵀᶜʰnafiznaf at 19:06, with a pump shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchKayohGGs at 22:00, with a resource from 22m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchKayohGGs at 22:16, with a heavy assault rifle from 94m<br>
+OnlySnazzy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Cookieᵈᵒʰ at 22:23, with a PistolRapidFireSMG from 1m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Killed</span></strong> Ｔｒｘｌｌ. at 23:05, with a heavy assault rifle from 3m<br>
+Ｔｒｘｌｌ. <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokgavin6.6 at 23:06, with a assault rifle from 3m<br>
+TikTok gavin6.6 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 23:29<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> JuiceKocher at 23:50, with a FallDamage from 66m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Skaternotbmxer95 at 24:25, with a tactical shotgun from 5m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Beamed</span></strong> JuiceKocher at 24:25, with a DBNOTimeout<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> OnlySnazzy at 25:13, with a assault rifle from 17m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> OnlySnazzy at 25:19, with a assault rifle from 50m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TikTokgavin6.6 at 26:59, with a tactical shotgun from 4m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> xxskully00re at 27:34, with a tactical shotgun from 12m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Beamed</span></strong> crunkjuice38 at 27:40, with a tactical shotgun from 4m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Evaporated</span></strong> xxskully00re at 27:41, with a tactical shotgun<br>
+xxskully00re crushed it (and was flexing until 27:47)<br>
+Jaylunﱞ won match (and was flexing until 27:52)<br>
+# Game <strong>One</strong> started @19:42 PM<br>
+xxskully00re <strong><span style="color:crimson;background-color:">NuKEd</span></strong> TwitchSomeSaucy at 6:08 near <strong>CrazyCave</strong>, with a pistol from 8m<br>
+xxskully00re <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 6:49 near <strong>CrazyCave</strong>, with a assault rifle from 26m<br>
+OnlySnazzy <strong><span style="color:blue;background-color:">Knocked</span></strong> TwistedClamp257 at 7:52, with a DMR from 30m<br>
+ghostヅ. <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchKayohGGs at 7:55 near <strong>SleepySound</strong>, with a tactical shotgun from 5m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchKayohGGs at 7:58 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 2m<br>
+ghostヅ. <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Cookieᵈᵒʰ at 7:59 near <strong>SleepySound</strong>, with a PistolRapidFireSMG from 1m<br>
+OnlySnazzy <strong><span style="color:purple;background-color:">Carded</span></strong> TwistedClamp257 at 8:01, with a DMR<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> NRGNASBO at 8:07 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 5m<br>
+OnlySnazzy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> QuickNyce at 9:16, with a tactical shotgun from 1m<br>
+Krхy <strong><span style="color:crimson;background-color:">Obliterated</span></strong> Twitch-SuxiVT at 11:34, with a tactical shotgun from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokgavin6.6 at 15:37 near <strong>LogJam</strong>, with a heavy assault rifle from 1m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> TikTokgavin6.6 at 15:40 near <strong>LogJam</strong>, with a pump shotgun from 3m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Smoked</span></strong> OnlySnazzy at 16:14, with a pump shotgun from 16m<br>
+Ｔｒｘｌｌ. <strong><span style="color:crimson;background-color:">Eliminated</span></strong> clkg.Ψ at 20:46, with a pump shotgun from 2m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> ghostヅ. at 20:54, with a PistolRapidFireSMG from 1m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> ghostヅ. at 20:57, with a Melee from 2m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Lasered</span></strong> PinkyツNoSkill彡 at 21:11, with a tactical shotgun from 2m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> Ｔｒｘｌｌ. at 21:47, with a tactical shotgun from 3m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> Ｔｒｘｌｌ. at 21:53, with a heavy assault rifle from 2m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Killed</span></strong> MariahsMelodyTTV at 22:19, with a tactical shotgun from 8m<br>
+Krхy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MutedFPSᵗᵗᵛ at 25:49, with a tactical shotgun from 9m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> xxskully00re at 26:08, with a PistolRapidFireSMG from 5m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> xxskully00re at 26:28, with a DBNOTimeout from 28m<br>
+Krхy <strong><span style="color:crimson;background-color:">Terminated</span></strong> crunkjuice38 at 26:29, with a FallDamage from 29m<br>
+Krхy <strong><span style="color:blue;background-color:">Knocked</span></strong> DrippyNC at 26:45, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PistolRapidFireSMG from 23m<br>
+CheckWrecks <strong><span style="color:crimson;background-color:">Lasered</span></strong> Jaylunﱞ at 26:48, with a tactical shotgun from 3m<br>
+Krхy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CheckWrecks at 26:59, with a tactical shotgun from 5m<br>
+Krхy <strong><span style="color:crimson;background-color:">Killed</span></strong> DrippyNC at 27:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PistolRapidFireSMG<br>
+CheckWrecks won the match (and was flexing until 27:07)<br>
+Krхy won the match (and was flexing until 27:11)<br>
 <!--CREATED BY CODE-->
-<!--10/29/2022 4:35:11 PM-->
+<!--10/29/2022 4:36:25 PM-->
