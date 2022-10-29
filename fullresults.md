@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 29, 2022 17:05:09").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 29, 2022 17:11:29").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -63,7 +63,7 @@ markdown: kramdown
 <br>
 <br>
 
-We had 6 matches with 42 unique people and the biggest lobby had 19 playing. There were 3 people who played every match. The highest XP level was 'Vultun' at 254. The lowest XP was 'mufcmurphy2012' at 1, welcome to our lobby you GOAT! Guess what, we eliminated 2 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 6 people have donkey laugh in their locker emotes, LOL!
+We had 6 matches with 42 unique people and the biggest lobby had 19 playing. There were 3 people who played every match. The highest XP level was 'Vultun' at 254. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! Guess what, we eliminated 2 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 6 people have donkey laugh in their locker emotes, LOL!
 
 * Most common skins: Bonejamin(2), BlackAdam(2), Guaco(2)<br>
 * Most common pickaxes: SigiloftheEmpire(4), IceBreaker(3), DefaultPickaxe(2)<br>
