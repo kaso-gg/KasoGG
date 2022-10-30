@@ -6,7 +6,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="15">
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 11:14:14").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 11:17:38").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -34,13 +34,13 @@ markdown: kramdown
 
 # <strong><span style="color:maroon;background-color:white">Kaso Customs</span></strong><br>
 
-CustmKey: <strong><span style="color:black;background-color:white">just testing</span></strong><br>
+CustmKey: <strong><span style="color:black;background-color:white">just testing, peeps</span></strong><br>
 SvrRegion: <strong><span style="color:black;background-color:white">NA East</span></strong><br>
 PlayMode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
 TeamSize: <strong><span style="color:black;background-color:white">Duos</span></strong><br>
 FillMode: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
 
-Land at CLOUDY CONDOS and stay there until the storm forces you out.
+Land at TILTED TOWERS and stay there until the storm forces you out.
 
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
@@ -52,7 +52,7 @@ markdown: kramdown
 ---
 <meta http-equiv="refresh" content="15">
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 11:14:14").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 11:17:38").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -80,13 +80,13 @@ markdown: kramdown
 
 # <strong><span style="color:maroon;background-color:white">Kaso Customs</span></strong><br>
 
-CustmKey: <strong><span style="color:black;background-color:white">just testing</span></strong><br>
+CustmKey: <strong><span style="color:black;background-color:white">just testing, peeps</span></strong><br>
 SvrRegion: <strong><span style="color:black;background-color:white">NA East</span></strong><br>
 PlayMode: <strong><span style="color:black;background-color:white">Build</span></strong><br>
 TeamSize: <strong><span style="color:black;background-color:white">Duos</span></strong><br>
 FillMode: <strong><span style="color:black;background-color:white">Fill</span></strong><br>
 
-Land at CLOUDY CONDOS and stay there until the storm forces you out.
+Land at TILTED TOWERS and stay there until the storm forces you out.
 
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 
