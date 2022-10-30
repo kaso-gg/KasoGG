@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 17:46:01").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 17:49:08").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -85,6 +85,8 @@ This table shows placement result sorted by points. Bold **player name** means t
 <br/>
 
 # Past Events
+
+**2022.10.29* - [RESULTS](https://www.kaso.gg/2022_10_29_JohnnyTaco) Just happened to see [JohnnyTaco](https://www.twitch.tv/johnny_the_taco) doing customs so I logged a couple hours of games. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
 
 **2022.09.01** - [RESULTS](https://www.kaso.gg/2022_09_01_NPChunt) I stopped by [SomeSaucy](https://www.twitch.tv/somesaucy) and just for fun logged some duos games.
 
