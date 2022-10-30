@@ -57,13 +57,12 @@ Top three most lethal long distance players:<br>
 * Smashken averaged 75m kill distance with 1 elims.<br>
 * BigRIBgaming averaged 53m kill distance with 5 elims.<br>
 
-# Game <strong>Nine</strong> started @18:34 PM<br>
-## 20 people, NO build Solo<br>
-K9Gizmo <strong><span style="color:crimson;background-color:">Clapped</span></strong> DYNTrashyTastic at 3:32, with a SuppressedSMG from 2m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> L3SBI4N2004 at 3:56, with a DMR from 50m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Evaporated</span></strong> Dr1pMGK2105 at 4:25 near <strong>SynapseStation</strong>, with a PistolRapidFireSMG from 1m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNGanjaGamer at 5:12, with a heavy assault rifle from 21m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LonelyCamel731 at 5:19, with a heavy assault rifle from 23m<br>
+# Game <strong>Nine</strong> started @18:34 PM20 people, NO build Solo
+- K9Gizmo <strong><span style="color:crimson;background-color:">Clapped</span></strong> DYNTrashyTastic at 3:32, with a SuppressedSMG from 2m<br>
+- Ttvtuck128 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> L3SBI4N2004 at 3:56, with a DMR from 50m<br>
+- JohnnytheTaco <strong><span style="color:crimson;background-color:">Evaporated</span></strong> Dr1pMGK2105 at 4:25 near <strong>SynapseStation</strong>, with a PistolRapidFireSMG from 1m<br>
+- fazevoid2459 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNGanjaGamer at 5:12, with a heavy assault rifle from 21m<br>
+- fazevoid2459 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LonelyCamel731 at 5:19, with a heavy assault rifle from 23m<br>
 K9Gizmo <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 5:21, with a DMR from 25m<br>
 StormCuddles21 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> JohnnytheTaco at 6:28 near <strong>SynapseStation</strong>, with a tactical shotgun from 4m<br>
 Bigpapito420 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVoneshotallday at 8:20, with a assault rifle from 1m<br>
@@ -95,6 +94,7 @@ LtBAM401TTV <strong><span style="color:crimson;background-color:">Beamed</span><
 DYNGanjaGamer <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNTrashyTastic at 18:57, with a bolt action sniper rifle from 129m<br>
 LtBAM401TTV <strong><span style="color:crimson;background-color:">Evaporated</span></strong> DYNGanjaGamer at 19:55, with a bolt action sniper rifle from 77m<br>
 LtBAM401TTV won the match (and was flexing until 20:09)<br>
+<br>
 # Game <strong>Seven</strong> started @17:23 PM<br>
 ## 25 people, NO build Solo<br>
 XLComical <strong><span style="color:crimson;background-color:">Melted</span></strong> GAHHHBIGE at 11:47 near <strong>TheJoneses</strong>, with a assault rifle from 18m<br>
