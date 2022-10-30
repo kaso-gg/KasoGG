@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 11:11:07").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 11:14:42").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -57,7 +57,65 @@ markdown: kramdown
 </style>
 
 <strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
+---
+permalink: /fullresults/
+title: "full score results"
+excerpt: "Full score results all on one page!"
+markdown: kramdown
+---
+<meta http-equiv="refresh" content="30">
 
+<script>
+    var countUpdDate = new Date("Oct 30, 2022 11:14:42").getTime(); // Set the date we're counting down to
+    var x = setInterval(function () {
+        var timeNow = new Date().getTime(); // Get today's date and time
+        var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        var minutesString = minutes.toString();
+        var secondsString = seconds.toString();
+        if (minutesString.length < 2) {
+            minutesString = "0" + minutesString;
+        }
+        if (secondsString.length < 2) {
+            secondsString = "0" + secondsString;
+        }
+        document.getElementById("countUpTimer").innerHTML = minutesString + ":" + secondsString + " since updt"; // Display the result in the element with id="demo"
+        // If the count down is finished, write some text
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("countUpTimer").innerHTML = "EXPIRED";
+        }
+    }, 1000); // Update the count down every 1000 milliseconds
+</script>
+
+
+<style>
+      .tableFixHead {
+        overflow-y: auto;
+        height: 195px;
+      }
+      .tableFixHead thead th {
+        position: sticky;
+        top: 0;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      th,
+      td {
+        padding: 2px 2x;
+        border: 1px solid #ccc;
+      }
+      th {
+        background: #eee;
+      }
+</style>
+
+<strong><span id="countUpTimer" style="color:red;background-color:white;font-size:add_size"></span></strong>
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
 Data updates within 5 minutes after each match. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! People used 49.0% girl skins. Guess what, we eliminated 5 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 9 people have donkey laugh in their locker emotes, HEE HAW!
@@ -144,7 +202,5 @@ E1 is how many times you scored the first elim of the game, K1 is for first knoc
 |63||K9Gizmo|-0.7|8.0 <8>|2 (2.0) <2>|0|1|0|0|100%|131|![](https://media.fortniteapi.io/images/cbaf183-df5cac3-77c44c6-9ec36ca/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/34763944b590d7d08ffa89ec66ce1dde/transparent.png){:height="35px"}|
 |64||Zachary_on60fps|-14.0|18.0 <12,24>|1 (1.0) <1,0>|0|0|0|0|50%|176|![](https://media.fortniteapi.io/images/4a4736af1b7de98fbbc2f53aa1af2848/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 |65||FoxyThePirateAU||17.0 <17>||0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/ecac1ede2b9d0eb9282c41054e5afebb/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-
-
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
