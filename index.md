@@ -24,7 +24,7 @@
 </style>
 
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 15:23:37").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 15:29:20").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -89,6 +89,7 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
+
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |1|G^gg|LtBAM401 TTV|60.8|6.7 <4,6,1,13,14,11,9,1,1>|14 (2.8) <3,0,3,0,0,0,1,3,4>|0|1|1|0|33%|222|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
