@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 16:20:05").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 16:21:44").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -48,4 +48,4 @@ Top three most lethal long distance players:<br>
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
 <!--CREATED BY CODE-->
-<!--10/30/2022 4:20:05 PM-->
+<!--10/30/2022 4:21:44 PM-->
