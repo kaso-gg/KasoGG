@@ -1,5 +1,5 @@
 ---
-permalink: /REPLACEPERMALINKHERE/
+permalink: /2022_10_27_SomeSaucy/
 title: "full score results"
 excerpt: "Full score results all on one page!"
 markdown: kramdown
