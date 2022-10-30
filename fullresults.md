@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 09:37:58").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 09:44:28").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -60,7 +60,7 @@ markdown: kramdown
 
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
-We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! People used 49.0% girl skins. Guess what, we eliminated 5 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 9 people have donkey laugh in their locker emotes, HEE HAW!
+Data updates within 5 minutes after each match. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! People used 49.0% girl skins. Guess what, we eliminated 5 NPCs, RIP! By the way, 1 people need to turn off ANONYMOUS MODE. 9 people have donkey laugh in their locker emotes, HEE HAW!
 
 * Most common skins: Bonejamin(4), LennoxRose(4), MeowSkulls(4)<br>
 * Most common pickaxes: SigiloftheEmpire(5), LectrostaticImpactor(4), RoseLightDaggers(4)<br>
@@ -73,6 +73,9 @@ Here's a breakdown of points allocation across all players and matches. This dat
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
 |959|88|783|31.6%|-2.6%|17.7%|12.0%|26.4%|4.8%|9.2%|0.9%|
+
+E1 is how many times you scored the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
+
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
