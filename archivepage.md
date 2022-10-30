@@ -6,278 +6,413 @@ markdown: kramdown
 ---
 ## [GO BACK](https://www.kaso.gg)
 
-Data updates ~5 minutes after each match. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
+Data updates ~5 minutes after each match. We had 7 matches with 77 unique people and the biggest lobby had 37 playing. There were 2 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was '?? Tw?tch Ugw? ?' at 7, welcome to our lobby you GOAT! About 81.8% of us used girl skins. Guess what, we eliminated one NPCs, they will be back next game though. By the way, Four people need to turn off ANONYMOUS MODE. 31 people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: Bonejamin(4), LennoxRose(4), MeowSkulls(4)<br>
-* Most common pickaxes: SigiloftheEmpire(5), LectrostaticImpactor(4), RoseLightDaggers(4)<br>
-* Most common emotes: CrowningAchievement(21), TheDip(13), Steady(10)<br>
+* Most common skins: GhoulTrooper(7), Polarity(4), Ava(3)<br>
+* Most common pickaxes: StarWand(17), IceBreaker(13), Reaper(8)<br>
+* Most common emotes: LaughItUp(31), CrowningAchievement(28), TakeTheL(20)<br>
 
-Bot identified 2 error occurances affecting 1 player(s) with a net error balance of 0.00. Only ~1.92 total tournament points are at question due to kill feed data discrepancies. Affected players are: Relaxed Fit Jonesy. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 4.8% of all points earned this session and 12.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 9.2% of all points earned this session and 12.7% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|959|88|783|31.6%|-2.6%|17.7%|12.0%|26.4%|4.8%|9.2%|0.9%|
+|1,214|93|1,021|34.3%|-3.9%|21.3%|12.7%|15.6%|9.2%|10.6%|0.1%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|G^gg|LtBAM401 TTV|60.8|6.7 <4,6,1,13,14,11,9,1,1>|14 (2.8) <3,0,3,0,0,0,1,3,4>|0|1|1|0|33%|222|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
-|2|bitties|CPK_kaso|47.6|13.2 <6,11,18,18,7,16,15,13,15>||1|0|1|0|67%|74|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|3|stars|Johnny the Taco|34.9|10.8 <8,13,9,15,10,5,12,11,14>|8 (1.3) <1,0,2,0,1,1,2,0,1>|0|1|0|0|11%|67|![](https://media.fortniteapi.io/images/58dd2ce5b48859425c4603533946eb02/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
-|4|nada!|ZeroCoolDL|34.0|4.5 <7,2,3,6>|4 (1.3) <1,2,1,0>|1|0|0|0|50%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|5|bruh?|TTVLejawon_|30.3|2.8 <5,1,3,2>|17 (4.3) <4,4,3,6>|0|1|0|0|0%|65|![](https://media.fortniteapi.io/images/a4ae8f546570a63acd3d87f50d37bdfc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f5a2fb23fafa18eebe48bf2bb33d3c2c/transparent.png){:height="35px"}|
-|6||Kamilox ツ|28.1|10.6 <14,10,10,12,17,6,5>|9 (1.8) <1,1,2,0,0,2,3>|1|1|0|0|100%|73|![](https://media.fortniteapi.io/images/563d1ba1d0a8f2b9cf438c3c06c985d4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a2cc22d2f7dc9b3133be728e06948897/transparent.png){:height="35px"}|
-|7||OGfresh777|23.7|9.7 <8,16,13,8,3,10>||0|0|0|0|0%|49|![](https://media.fortniteapi.io/images/b954f412518352259111c2813f90e2b4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|8||Sladernader30|23.3|9.7 <1,17,11>|8 (4.0) <7,0,1>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
-|9||LonelyCamel731|23.2|13.0 <8,15,19,7,16>|2 (1.0) <1,0,0,1,0>|0|0|0|0|100%|68|![](https://media.fortniteapi.io/images/eed1dc1709f78c998adf0df066086eed/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|10|zen|xXsnazzychipXx|23.0|3.3 <5,2,3>|2 (1.0) <1,1,0>|0|0|0|0|100%|93|![](https://media.fortniteapi.io/images/a7357a2339f39bf2e76b3ddfa5b84ef8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e3e9d16-9aca214-c82eed9-b398cdc/transparent.png){:height="35px"}|
-|11||L3SBI4N2004|20.5|17.7 <20,14,19>||0|0|1|0|100%|97|![](https://media.fortniteapi.io/images/cb7f23c5bb967f8618d51fa143d27fb2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9f01bb71d4127b4d54fdfa89b647e2bf/transparent.png){:height="35px"}|
-|12||twitchsnowman|20.3|12.5 <5,15,16,14>||0|0|1|0|100%|78|![](https://media.fortniteapi.io/images/48df52cae09bef25606b1cfd32141ca8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
-|13||TTV bluflyingfox|19.9|6.0 <4,1,13>|9 (3.0) <1,6,2>|0|1|0|0|100%|208|![](https://media.fortniteapi.io/images/c159c82-32d838a-e4f5c75-b021dab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|14||DYN TrashyTastic|19.5|8.3 <2,3,20>||0|0|1|0|0%|116|![](https://media.fortniteapi.io/images/a40ba1726d5029ab566aed545e7c6493/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3917968ae81f78c6032a317de3730b4e/transparent.png){:height="35px"}|
-|15||BigRIBgaming|19.1|5.5 <9,2>|5 (2.5) <1,4>|0|0|0|0|100%|160|![](https://media.fortniteapi.io/images/279c7ba-f505255-0aa8c77-f84c036/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/05a4b5341b15ee1186be825311d823a4/transparent.png){:height="35px"}|
-|16|sweet|MrCrazyMan777|17.1|3.0 <1,5>|3 (3.0) <3,0>|0|0|0|0|50%|56|![](https://media.fortniteapi.io/images/751c452f632a5831b5e0d9abf54192cd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
-|17||GeltonasBananas2|15.5|1.0 <1>|10 (10.0) <10>|0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/8f227905f8f190434750999cd3b10fe9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/081600676f0a2ac62e8db6b2aa93a519/transparent.png){:height="35px"}|
-|18||DYN GanjaGamer|15.1|9.5 <2,17>|2 (2.0) <2,0>|0|0|0|0|100%|119|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|19||GAHHHBIGE|14.8|14.5 <4,25>|1 (1.0) <1,0>|0|0|1|0|0%|77|![](https://media.fortniteapi.io/images/68d7d82375c1ae97e5ef7b7c7d833565/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a555187baf26263c4da7f71bfc0650cd/transparent.png){:height="35px"}|
-|20||FuzzyForever|13.4|4.7 <4,8,2>|3 (3.0) <0,3,0>|0|1|0|0|100%|51|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b9ef8159c41c70190910adb40ced2ced/transparent.png){:height="35px"}|
-|21|cheers!|faze_void2459|13.1|3.0 <3>|5 (5.0) <5>|0|0|0|0|100%|188|![](https://media.fortniteapi.io/images/8e14ac6adc717dc0b137c9b5484ee3e6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/398bcab523d22e365ca26fb1bb2d8e66/transparent.png){:height="35px"}|
-|22||DeafDeal3r|13.0|11.5 <4,19>|1 (1.0) <1,0>|0|0|1|0|0%|47|![](https://media.fortniteapi.io/images/4ba24f5-e9fb6bd-74785b3-3f6b25f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/839c000b65b0d7d47a158725b273cfb6/transparent.png){:height="35px"}|
-|23||ZeroCoolReborn|12.7|6.5 <11,2>|4 (4.0) <0,4>|0|0|0|0|50%|85|![](https://media.fortniteapi.io/images/1c47a457188a9dc57e4336eba526a7ea/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/081600676f0a2ac62e8db6b2aa93a519/transparent.png){:height="35px"}|
-|24||Smashken|12.5|7.3 <4,7,12,6>|1 (1.0) <0,0,0,1>|0|0|0|0|0%|78|![](https://media.fortniteapi.io/images/0bd4a367acec6dba8426309fdc35b564/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8a4adf355b9635be82c75bbe8bb37e75/transparent.png){:height="35px"}|
-|25||Steven x M x|11.7|11.8 <7,15,16,9>|5 (1.7) <0,1,3,1>|0|0|0|0|50%|103|![](https://media.fortniteapi.io/images/58dd2ce5b48859425c4603533946eb02/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1b797f7325f705c4eaec66c91dde5e4e/transparent.png){:height="35px"}|
-|26||Nitro_clapz_ttv|11.6|1.0 <1>|4 (4.0) <4>|0|0|0|0|0%|145|![](https://media.fortniteapi.io/images/10152349852b512cf59d93156e451ca7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|27||XL Comical|11.3|13.0 <3,23>|3 (1.5) <2,1>|1|1|0|0|0%|63|![](https://media.fortniteapi.io/images/c0b107b18754af4906abf2ca3a3c6661/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
-|28||Vultun|10.9|8.7 <9,11,6>|1 (1.0) <1,0,0>|0|0|0|0|100%|169|![](https://media.fortniteapi.io/images/744f37053c7e060b143a797abc630b9c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/903041685a1e4b9bd6b807c8d998f4a3/transparent.png){:height="35px"}|
-|29||Senapmedketchup|9.9|9.0 <14,4>|2 (2.0) <0,2>|0|0|0|0|100%|171|![](https://media.fortniteapi.io/images/9b15c8118fe22fae1819c88bdd149c76/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|30||MomzAdvice|9.6|8.5 <12,5>||0|0|0|0|100%|57|![](https://media.fortniteapi.io/images/f62eac592baed20007df92c81ac4b1f1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
-|31||Knightscreen|9.3|19.0 <19>||0|0|1|0|100%|74|![](https://media.fortniteapi.io/images/864da97a1d158188c461f8f248467721/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87324c24d74a69eabf39a8a1e59b49c6/transparent.png){:height="35px"}|
-|32||Mrfishy6968|9.0|10.0 <10>||0|0|1|0|0%|113|![](https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/241b1764d67963c5ded8f147c57527a2/transparent.png){:height="35px"}|
-|33||User-6a88da4e46|8.9|14.0 <18,12,12>||0|0|0|0|100%|103|![](https://media.fortniteapi.io/images/b57c9b58faaea1e7bd18095245de42b4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/875dc73d63a7b7ab59fc6d5a72039ca6/transparent.png){:height="35px"}|
-|34||Camocean44813|8.6|9.0 <9>||0|0|0|0|100%|210|![](){:height="35px"}|![](){:height="35px"}|
-|35||KinDingaling898|8.2|4.0 <4>|2 (2.0) <2>|0|0|0|0|100%|75|![](https://media.fortniteapi.io/images/744f37053c7e060b143a797abc630b9c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a7367c31bc7ac6483d7b7a0596d6cc97/transparent.png){:height="35px"}|
-|36||lucasr4495|8.1|10.5 <11,10>||1|0|0|0|50%|79|![](https://media.fortniteapi.io/images/706d89f3b32e8f99d15300be5400e53e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/71a79f113c3956ade63047bb34464717/transparent.png){:height="35px"}|
-|37||BROCKNCHEEZE455|7.9|7.0 <4,10>||0|0|0|0|100%|57|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/981eda5d964b80653594f6068b9b215b/transparent.png){:height="35px"}|
-|38||mufcmurphy2012|7.4|6.0 <7,5>||0|0|0|0|0%|1|![](https://media.fortniteapi.io/images/0c3ea68-65c83bb-6a93e44-0939ee3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d0ede8f-343a5e4-ca342cf-06f23a6/transparent.png){:height="35px"}|
-|39||KickLizard|6.9|8.0 <13,3>||0|0|0|0|50%|50|![](https://media.fortniteapi.io/images/addacc3-e8cc989-58770ab-49e6656/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9f9742a8c232fcab89a5942bc6e48fc1/transparent.png){:height="35px"}|
-|40||Ttvtuck128|6.9|6.3 <2,10,7>|4 (1.3) <1,1,2>|0|0|0|0|100%|85|![](https://media.fortniteapi.io/images/6ee85e0f8e42c3ce4040928bc580e03b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
-|41||Jazzeon9914|6.7|7.0 <7>|1 (1.0) <1>|0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/ddb5dcf96f6154a21e90c80d0661d7a4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/570a2564cf556477a6f124d522f3d7b2/transparent.png){:height="35px"}|
-|42||sunshinehanne|6.6|5.0 <5>|1 (1.0) <1>|0|0|0|0|100%|295|![](https://media.fortniteapi.io/images/d82392c-22671dc-f3bd5fe-90f0892/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e0223a3fe685ff4cd8e936ef4e5b9d91/transparent.png){:height="35px"}|
-|43||JennTheFierceTTV|6.2|3.0 <3>||0|0|0|0|100%|234|![](https://media.fortniteapi.io/images/398ff504ae8deedd35f35022a820c2c5/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/3b0592f38af43c3107953c3b077e5660/transparent.png){:height="35px"}|
-|44||boskololez ttv|6.0|14.0 <14>||0|0|0|0|100%|2|![](https://media.fortniteapi.io/images/4c5542e-6f3676d-6a54bd7-19b4d9d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|45||pinkrose0007|5.6|17.0 <17>||0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/89566b85647e0e8f9b331c6cb653f957/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/486ec6860e21fa074efff7c5aa7f0ea9/transparent.png){:height="35px"}|
-|46||Dr1p MGK2105|5.3|18.0 <18>||0|0|0|0|100%|62|![](https://media.fortniteapi.io/images/921bcff-7a6474b-20912b8-ed4f78a/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7254e4d-91416f1-5ff1068-3713203/transparent.png){:height="35px"}|
-|47||MSkaliwags|5.2|13.0 <13>||0|0|0|0|100%|232|![](https://media.fortniteapi.io/images/0961782-0c80ab5-6fbbc33-69160f0/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|48||Unkel Hukun|5.2|7.5 <6,9>||0|0|0|0|0%|44|![](https://media.fortniteapi.io/images/e8987d971e156d9000f2c3596bc3b603/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb46e47da50c22a3ef2e7fec4c4bca2e/transparent.png){:height="35px"}|
-|49||TurtleBrigade|5.0|21.0 <21>||0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/0a0911a-51ea32f-08d6334-52338f4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54b5fbafce2723d3198106a3131623ff/transparent.png){:height="35px"}|
-|50||GodlyAxis|4.9|22.0 <22>||0|0|0|0|0%|1|![](){:height="35px"}|![](){:height="35px"}|
-|51||GFAMZ TTV|4.9|6.0 <6>||0|0|0|0|100%|22|![](https://media.fortniteapi.io/images/6ee85e0f8e42c3ce4040928bc580e03b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
-|52||Dino_nuggets645|4.6|9.0 <9>|1 (1.0) <1>|0|0|0|0|100%|107|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|53||kathybrito|4.4|6.0 <6>||0|0|0|0|100%|65|![](https://media.fortniteapi.io/images/d0a789e2b1b8860647f07fcfc43e6dce/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/71a79f113c3956ade63047bb34464717/transparent.png){:height="35px"}|
-|54||Twitch EllaGoofy|4.3|7.0 <7>||0|0|0|0|100%|60|![](https://media.fortniteapi.io/images/fa8b038efb78a4c5b25d3d6301aca046/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
-|55||BenjiLikesCake|3.8|8.0 <8>||0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/6ee85e0f8e42c3ce4040928bc580e03b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1470afcef74ebc3e9f96b52fd1320466/transparent.png){:height="35px"}|
-|56||Bigpapito420|3.8|9.0 <9>|1 (1.0) <1>|0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/8e5194a7a80141a1723ee25e8a4d00b3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a2cc22d2f7dc9b3133be728e06948897/transparent.png){:height="35px"}|
-|57||Shaphilly|3.6|10.0 <8,12>||0|0|0|0|50%|82|![](https://media.fortniteapi.io/images/f320a80614e848de2b2f97edb63786dd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e263dbdc1ca3b4d6175e24912693f00b/transparent.png){:height="35px"}|
-|58||StormCuddles21|3.6|13.0 <15,11>|1 (1.0) <0,1>|0|0|0|0|50%|79|![](https://media.fortniteapi.io/images/d0a789e2b1b8860647f07fcfc43e6dce/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0d37cb24e1ac0102361de0b4c0df269f/transparent.png){:height="35px"}|
-|59||fortnitepasd|2.7|10.0 <10>||0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/48df52cae09bef25606b1cfd32141ca8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|60||BakedPotato2421|2.2|14.0 <14>||0|0|0|0|100%|75|![](https://media.fortniteapi.io/images/48df52cae09bef25606b1cfd32141ca8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/71a79f113c3956ade63047bb34464717/transparent.png){:height="35px"}|
-|61||R1SE C0RRUPT|1.0|8.0 <8>|3 (3.0) <3>|0|1|0|0|0%|73|![](https://media.fortniteapi.io/images/3f3824cdbbe5ff412907572724f8fd5a/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e3940162064053d5f1e6096fc2c9d031/transparent.png){:height="35px"}|
-|62||TTVoneshotallday|0.5|13.0 <13>||0|0|0|0|0%|143|![](https://media.fortniteapi.io/images/6ee85e0f8e42c3ce4040928bc580e03b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
-|63||K9Gizmo|-0.7|8.0 <8>|2 (2.0) <2>|0|1|0|0|100%|131|![](https://media.fortniteapi.io/images/cbaf183-df5cac3-77c44c6-9ec36ca/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/34763944b590d7d08ffa89ec66ce1dde/transparent.png){:height="35px"}|
-|64||Zachary_on60fps|-14.0|18.0 <12,24>|1 (1.0) <1,0>|0|0|0|0|50%|176|![](https://media.fortniteapi.io/images/4a4736af1b7de98fbbc2f53aa1af2848/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|65||FoxyThePirateAU||17.0 <17>||0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/ecac1ede2b9d0eb9282c41054e5afebb/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
+|1|G^gg|Jaylunﱞ|50.5|3.3 <3,1,8,1,5,2>|11 (2.8) <2,1,0,5,0,3>|0|1|0|1|100%|145|![](https://media.fortniteapi.io/images/c54d8e5-04f8202-3496995-0826561/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|bitties|PinkyツNoSkill彡|48.3|8.2 <7,10,7,7,2,16>|15 (3.0) <3,2,3,4,3,0>|0|0|0|0|83%|88|![](https://media.fortniteapi.io/images/d0a789e2b1b8860647f07fcfc43e6dce/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|3|stars|TSG Droxz ち|40.2|4.0 <1,9,2>|11 (3.7) <3,1,7>|0|0|0|0|100%|165|![](https://media.fortniteapi.io/images/edbffd61da38e7065d32cf3a9ed4eefd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|nada!|Ugwе|39.5|2.3 <1,4,2>|9 (3.0) <3,3,3>|0|0|0|0|67%|126|![](https://media.fortniteapi.io/images/79f850eb568dc732e20d42104492a3af/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|5|bruh?|Cookieᵈᵒʰ|38.2|7.8 <13,6,5,3,15,5>|5 (1.7) <0,1,1,3,0,0>|0|0|1|0|67%|70|![](https://media.fortniteapi.io/images/0ce7d6cee4fe5a6c90f64d2e2244051c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/890fed5-625a443-274afd6-82af64c/transparent.png){:height="35px"}|
+|6||Twitch KayohGGs|33.6|7.8 <13,6,5,3,15,5>|1 (1.0) <0,1,0,0,0,0>|0|0|0|0|100%|76|![](https://media.fortniteapi.io/images/0ce7d6cee4fe5a6c90f64d2e2244051c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|7||CPK_kaso|31.1|11.1 <14,8,14,15,9,12,6>||0|0|0|0|71%|74|![](https://media.fortniteapi.io/images/f0f2cc5d85040c437d55217f7f18fd34/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
+|8||TTV_ElectroDeity|30.6|3.7 <7,3,1>|7 (2.3) <2,2,3>|0|1|1|1|100%|122|![](https://media.fortniteapi.io/images/f62eac592baed20007df92c81ac4b1f1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/14a375486863d7f10ed120bcf50ec5b2/transparent.png){:height="35px"}|
+|9||ᵀʷᶦᵗᶜʰСhicqnо|30.3|2.7 <1,5,2>|6 (2.0) <2,3,1>|0|0|0|0|67%|264|![](https://media.fortniteapi.io/images/5c25ad9-965d973-1ecd1c9-4a06e53/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1c432ada4a32eb8e52774014785040ab/transparent.png){:height="35px"}|
+|10|zen|Mzzу|28.8|2.7 <4,3,1>|10 (3.3) <2,4,4>|0|0|0|0|67%|145|![](https://media.fortniteapi.io/images/956018371300988c78970a99c8f7ac89/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|11||Dracula jehhf|26.6|2.3 <1,4,2>|6 (2.0) <1,2,3>|0|1|0|1|33%|195|![](https://media.fortniteapi.io/images/79f850eb568dc732e20d42104492a3af/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|12||Krхy|25.9|4.0 <1,9,2>|7 (2.3) <5,1,1>|0|0|0|0|100%|115|![](https://media.fortniteapi.io/images/e4ddf1e3c71b9ca5180312e955c904c8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d0ede8f-343a5e4-ca342cf-06f23a6/transparent.png){:height="35px"}|
+|13||Twitch Wokasins|25.8|10.0 <2,14,14>|5 (5.0) <5,0,0>|0|0|0|0|67%|310|![](https://media.fortniteapi.io/images/1e55a45-cb54ceb-bafa8c9-805b40b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/14a375486863d7f10ed120bcf50ec5b2/transparent.png){:height="35px"}|
+|14||crunkjuice38|24.6|3.0 <4,2,3>|1 (1.0) <0,0,1>|0|0|0|0|67%|264|![](https://media.fortniteapi.io/images/1e55a45-cb54ceb-bafa8c9-805b40b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|15||Needs Matts|23.6|3.7 <7,3,1>|1 (1.0) <1,0,0>|0|0|0|0|100%|57|![](https://media.fortniteapi.io/images/ecac1ede2b9d0eb9282c41054e5afebb/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|16|sweet|Twitch SomeSaucy|22.5|14.7 <15,12,17,18,19,15,7>||0|0|1|0|71%|151|![](https://media.fortniteapi.io/images/590b5a9-415ce17-718100d-e331c0e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2b73b01-5d8bfc9-470f416-7c5e253/transparent.png){:height="35px"}|
+|17||Check Wrecks|21.2|7.5 <2,13>|2 (2.0) <2,0>|0|0|1|0|50%|108|![](https://media.fortniteapi.io/images/d5150ad-b8b9bd7-06bfc3f-af952df/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2a2ab11ff80aa6f65b0e8b3d0c627c31/transparent.png){:height="35px"}|
+|18||MutedFPS ᵗᵗᵛ|21.0|9.0 <5,11,4,16>|3 (3.0) <0,0,3,0>|0|0|0|0|25%|103|![](https://media.fortniteapi.io/images/c33374569550d49e99dc699e5d1747c5/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6c713c090223cb2e8478dbfe6d5fd649/transparent.png){:height="35px"}|
+|19||Kiﱞllﱞuﱞa|20.4|4.5 <7,2>|7 (3.5) <4,3>|0|0|0|0|50%|171|![](https://media.fortniteapi.io/images/879e63f5d12ee7502735ff285a74b5dd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|20||Twitch-TobaGirl|19.5|7.5 <13,5,8,4>|2 (1.0) <0,1,0,1>|0|0|0|0|100%|131|![](https://media.fortniteapi.io/images/9873376-84e54dd-54c54dd-9ce5a82/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|21|cheers!|ﱞט Twіtch Ugwе ﱞ|19.0|1.0 <1>|5 (5.0) <5>|0|0|0|0|100%|7|![](https://media.fortniteapi.io/images/1e55a45-cb54ceb-bafa8c9-805b40b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|22||xxskully00re|17.7|3.0 <4,2,3>|3 (1.5) <2,1,0>|0|1|0|0|100%|116|![](https://media.fortniteapi.io/images/0e9288e13d44f090232c5d47ba40fea1/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|23||MariahsMelodyTTV|17.1|8.7 <6,5,15>||0|0|0|0|100%|219|![](https://media.fortniteapi.io/images/6b780520e4b82814611bf1d504ff9d23/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|24||OnlySnazzy|16.5|7.0 <9,3,9>|4 (2.0) <2,2,0>|0|0|0|1|67%|113|![](https://media.fortniteapi.io/images/d213259c4aeefe525b759fb3f3d573b7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
+|25||YRG Fernando|16.5|10.0 <2,14,14>|1 (1.0) <1,0,0>|0|0|0|0|67%|96|![](https://media.fortniteapi.io/images/8717e25029bc883ed4eed7ae90400e8a/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b29bb55390db3f9584ad55c09752b328/transparent.png){:height="35px"}|
+|26||ㄜRamenㄜ|16.4|9.3 <1,16,10,10>|2 (1.0) <1,0,1,0>|0|0|0|0|75%|189|![](https://media.fortniteapi.io/images/e7318a9477d7d31fb14a8e322f151114/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|27||BrattyBriee|15.6|5.7 <5,8,4>||0|0|0|0|0%|77|![](https://media.fortniteapi.io/images/1e55a45-cb54ceb-bafa8c9-805b40b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9157c23-456079b-432ab35-ab64fb4/transparent.png){:height="35px"}|
+|28||UNOE Warrior|15.0|8.5 <13,4>|7 (3.5) <3,4>|0|0|0|0|100%|137|![](https://media.fortniteapi.io/images/5c25ad9-965d973-1ecd1c9-4a06e53/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a02b9082525370e9088801261a77c3e1/transparent.png){:height="35px"}|
+|29||mean lost|14.0|9.0 <7,10,10,12,6>|2 (2.0) <0,0,0,0,2>|0|0|0|0|20%|117|![](https://media.fortniteapi.io/images/90283196e9baff14ed1ba93943d5710b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
+|30||DrippyNC|13.7|7.5 <2,13>||0|0|0|0|50%|139|![](https://media.fortniteapi.io/images/9303938aacd6c7f187768b971c50770b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
+|31||Immuneyoungb|12.8|14.5 <9,20>||0|0|1|0|100%|143|![](https://media.fortniteapi.io/images/4baa0a9074e438b355679af1198ed556/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|32||Mikmaq Prodigy|12.5|14.0 <12,17,18,9>||0|0|0|0|75%|64|![](https://media.fortniteapi.io/images/f154ad1a24b0815edd5d4223c8c792a2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9157c23-456079b-432ab35-ab64fb4/transparent.png){:height="35px"}|
+|33||SainthoodZamo|12.2|12.7 <12,17,9>||0|0|0|0|67%|89|![](https://media.fortniteapi.io/images/e7318a9477d7d31fb14a8e322f151114/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
+|34||TikTok gavin6.6|11.7|7.0 <9,3,9>|8 (4.0) <0,7,1>|0|1|0|1|100%|141|![](https://media.fortniteapi.io/images/4baa0a9074e438b355679af1198ed556/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
+|35||Ｔｒｘｌｌ.|11.5|8.7 <6,5,15>|2 (1.0) <1,0,1>|0|1|0|0|100%|147|![](https://media.fortniteapi.io/images/935187fbe94e1e0f26ac31e8fab60686/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95adc91a4b22ee71c16f5e854b71acec/transparent.png){:height="35px"}|
+|36||Spilm|11.1|1.0 <1>|2 (2.0) <2>|0|0|0|0|100%|159|![](https://media.fortniteapi.io/images/956018371300988c78970a99c8f7ac89/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|37||TwitchƤimpŖico|11.0|3.0 <3>|3 (3.0) <3>|0|0|0|0|100%|266|![](https://media.fortniteapi.io/images/4385d03-bfd6a83-19f8c85-52c9fc8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/890fed5-625a443-274afd6-82af64c/transparent.png){:height="35px"}|
+|38||OneHitWonderful_|10.4|9.0 <11,7>|3 (3.0) <0,3>|0|0|0|0|100%|209|![](https://media.fortniteapi.io/images/f55bcfbbab7ac7749e6f4b4bbd7b301f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7ca1c9bec0e166a8ab4045db06f307fc/transparent.png){:height="35px"}|
+|39||FOREVER_SITUATED|9.8|14.5 <9,20>||0|0|0|0|50%|255|![](https://media.fortniteapi.io/images/6ee85e0f8e42c3ce4040928bc580e03b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dc2226d-4b7e29d-1701957-210f352/transparent.png){:height="35px"}|
+|40||sHaRpIsH LxgEnDz|9.5|6.0 <6>|2 (2.0) <2>|0|0|0|0|100%|117|![](https://media.fortniteapi.io/images/865f1d1045ad6ae96ec4c7ce0e7cdbab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|41||helpеr|9.4|6.0 <6,6>||0|0|0|0|50%|79|![](https://media.fortniteapi.io/images/fe959e1e4f2e3f3c16c5dc9fb09765d6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|42||ᵀʷᶦᵀᶜʰ nafiz_naf|9.3|6.5 <7,6>|1 (1.0) <1,0>|0|0|0|0|50%|100|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
+|43||TTV-SPIDERHLLP|9.2|16.0 <16>||0|0|1|0|100%|157|![](https://media.fortniteapi.io/images/79f850eb568dc732e20d42104492a3af/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
+|44||T1 swzy|9.0|8.5 <13,4>|1 (1.0) <0,1>|0|0|0|0|50%|97|![](https://media.fortniteapi.io/images/b8cdf946a491265e134c081b96c6679b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|45||OMVault06|8.7|6.0 <6>||0|0|0|0|0%|22|![](https://media.fortniteapi.io/images/021475605eaa0a166f7851b13054b522/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
+|46||OHZ1|8.4|14.0 <14>||0|0|1|0|0%|89|![](https://media.fortniteapi.io/images/cdf088a-4996487-9450643-af54ce6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|47||pei_senators|8.1|8.5 <6,11>||1|0|0|0|100%|110|![](https://media.fortniteapi.io/images/cee5d13-0f76fe4-e583286-6a39a17/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d37da7642848be3f562806dd2247eeb5/transparent.png){:height="35px"}|
+|48||ㄜWantyㄜ|7.4|9.3 <1,16,10,10>|1 (1.0) <0,0,1,0>|0|0|0|0|25%|147|![](https://media.fortniteapi.io/images/b80232a24d16c48333a63a8bf9d4717b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/890fed5-625a443-274afd6-82af64c/transparent.png){:height="35px"}|
+|49||schmoneybag_|7.4|9.0 <11,7>||0|0|0|0|100%|254|![](https://media.fortniteapi.io/images/c33374569550d49e99dc699e5d1747c5/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a4166a6498e089366e78637f9aff0367/transparent.png){:height="35px"}|
+|50||Mr.boo〆|7.2|8.3 <4,5,16>|3 (1.5) <2,1,0>|0|1|0|1|0%|108|![](https://media.fortniteapi.io/images/b5c05e27736ff99ff547e6a9e847dc6b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|51||Juice Kocher|6.0|4.0 <4>||0|0|0|0|100%|189|![](https://media.fortniteapi.io/images/edbffd61da38e7065d32cf3a9ed4eefd/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
+|52||Skaternotbmxer95|6.0|4.0 <4>||0|0|0|0|100%|134|![](https://media.fortniteapi.io/images/4a4736af1b7de98fbbc2f53aa1af2848/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/570a2564cf556477a6f124d522f3d7b2/transparent.png){:height="35px"}|
+|53||AwokenShadow--|5.9|14.0 <11,17>|2 (2.0) <2,0>|0|0|0|0|100%|249|![](https://media.fortniteapi.io/images/935187fbe94e1e0f26ac31e8fab60686/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|54||LT_Ja1cob|5.6|3.0 <3>|2 (2.0) <2>|0|0|0|0|100%|250|![](https://media.fortniteapi.io/images/0b9007f34d267c28ab0cc8190b3aa046/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|55||ᴸᵀ Spooky Kards|5.4|3.0 <3>||0|0|0|0|0%|182|![](https://media.fortniteapi.io/images/1e55a45-cb54ceb-bafa8c9-805b40b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/transparent.png){:height="35px"}|
+|56||FncsGordo|4.7|11.0 <11>||0|0|0|0|100%|263|![](https://media.fortniteapi.io/images/010c85b69c5ad333ef9ee534a9cfccf0/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1c432ada4a32eb8e52774014785040ab/transparent.png){:height="35px"}|
+|57||Twitch-72Vinny|4.7|6.0 <6>||0|0|0|0|100%|248|![](https://media.fortniteapi.io/images/6b780520e4b82814611bf1d504ff9d23/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
+|58||littlefoxsmokes|4.5|8.0 <8>||0|0|0|0|100%|64|![](https://media.fortniteapi.io/images/142913526bf1b32ba9433bf5de83e010/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|59||TwistedClamp257|4.5|12.0 <12>||0|0|0|0|0%|142|![](https://media.fortniteapi.io/images/43351bc685621b3ed2a66fce93484d00/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9f01bb71d4127b4d54fdfa89b647e2bf/transparent.png){:height="35px"}|
+|60||princesstyrone|3.9|13.0 <13>||0|0|0|0|100%|135|![](https://media.fortniteapi.io/images/9a7e445da51edd02923a72d8056f89a7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|61||Sinatra Ocean|3.3|11.0 <11>|2 (2.0) <2>|0|0|0|0|100%|102|![](https://media.fortniteapi.io/images/7e7ec6a-0ec6229-5b3667d-f7c2d49/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6c713c090223cb2e8478dbfe6d5fd649/transparent.png){:height="35px"}|
+|62||V-EGAS|3.2|8.0 <8>||0|0|0|0|100%|92|![](https://media.fortniteapi.io/images/f0cf3bff4b98dc0e130f3359fb96e375/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|63||clkg.Ψ|2.7|8.0 <8>||0|0|0|0|0%|179|![](https://media.fortniteapi.io/images/07429fa12a5f6a7f8e8f1db85656950f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|64||TTV xoSofiaa|2.5|12.0 <12>|1 (1.0) <1>|0|0|0|0|100%|152|![](https://media.fortniteapi.io/images/15ec30ef7243253f918c8c21c6559eb9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|65||Twitch-SuxiVT|2.2|10.0 <10>||0|0|0|0|100%|103|![](https://media.fortniteapi.io/images/8a8f97e1b4e940746c5372bbb643a5dc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4b6e37a8de2ac6d5a40e7f48dc810bdd/transparent.png){:height="35px"}|
+|66||OgD00dleBoB|2.0|16.0 <13,17,18>||0|0|0|0|100%|96|![](https://media.fortniteapi.io/images/59eb4f6-e81c036-42fab23-375205c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9157c23-456079b-432ab35-ab64fb4/transparent.png){:height="35px"}|
+|67||P1X3L_N0T_T4K3N|2.0|11.0 <11>||0|0|0|0|100%|77|![](https://media.fortniteapi.io/images/968c416fb9a893d38edcacfd812a72db/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f94b2e3221b1482efe8b2f1191a40afd/transparent.png){:height="35px"}|
+|68||ToxicHxrl3y|1.6|11.0 <11>||0|0|0|0|100%|199|![](https://media.fortniteapi.io/images/2dca62c6025b897f7548d89eb4ce0681/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/87948baf6a85abc91a14ef622d1bc4e0/transparent.png){:height="35px"}|
+|69||muysexy221|1.6|12.0 <12>||0|0|0|0|100%|147|![](https://media.fortniteapi.io/images/50880d15eb86d414d6752e5c1664c4a3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|70||NRG NASBO|1.5|12.0 <12>||0|0|0|0|100%|235|![](https://media.fortniteapi.io/images/744f37053c7e060b143a797abc630b9c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/1b797f7325f705c4eaec66c91dde5e4e/transparent.png){:height="35px"}|
+|71||Dog_on_0ping|1.4|14.0 <14>||0|0|0|0|100%|99|![](https://media.fortniteapi.io/images/8e14ac6adc717dc0b137c9b5484ee3e6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|72||Quick_Nyce|0.6|11.0 <11>||0|0|0|0|0%|55|![](https://media.fortniteapi.io/images/0a83daf-2c55699-594c1f0-43170f4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/dd690be-dacba62-13998ad-a50a04c/transparent.png){:height="35px"}|
+|73||Iurkys|-2.0|13.0 <13>|1 (1.0) <1>|0|0|0|0|0%|68|![](https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|74||Twitch nafiz_naf|-2.3|10.7 <10,10,12>|1 (1.0) <1,0,0>|0|0|0|0|67%|62|![](https://media.fortniteapi.io/images/e83314d413b431750a710f7968bf46ee/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|75||ghostヅ.|-3.1|8.0 <7,10,7>|3 (1.5) <2,0,1>|0|0|0|1|0%|126|![](https://media.fortniteapi.io/images/a4d65abbcbfd6e5786bcc78eb49ed17b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2a2ab11ff80aa6f65b0e8b3d0c627c31/transparent.png){:height="35px"}|
+|76||Vieira_Mist|-8.1|13.0 <13>||0|0|0|0|100%|156|![](https://media.fortniteapi.io/images/dedb120-e2b25e0-681ad2a-50f237d/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
+|77||Twitch nahbub||9.0 <9>||0|0|0|0|0%|1|![](https://media.fortniteapi.io/images/86da499-f41aa44-6696faf-408b001/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
 
 
 
 # Elimination Highlights<br>
 Top five <strong>longest</strong> SINGLE eliminations:<br>
-* LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> Vultun at 20:25 near <strong>CondoCanyon</strong>, with a bolt action sniper rifle from 224m<br>
-* GeltonasBananas2 <strong><span style="color:crimson;background-color:">Killed</span></strong> LtBAM401TTV at 20:45, with a bolt action sniper rifle from 172m<br>
-* TTVLejawon <strong><span style="color:crimson;background-color:">Embarassed</span></strong> UnkelHukun at 16:36, with a bolt action sniper rifle from 146m<br>
-* DYNGanjaGamer <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNTrashyTastic at 18:57, with a bolt action sniper rifle from 129m<br>
-* BigRIBgaming <strong><span style="color:crimson;background-color:">NuKEd</span></strong> StevenxMx at 6:03, with a heavy assault rifle from 113m<br>
+* NeedsMatts <strong><span style="color:crimson;background-color:">Eradicated</span></strong> UNOEWarrior at 27:20 near <strong>CreamyCrossroads</strong>, with a PumpkinLauncher from 96m<br>
+* Twitch-TobaGirl <strong><span style="color:blue;background-color:">Knocked</span></strong> Jaylunﱞ at 20:33 near <strong>GreasyGrove</strong>, with a assault rifle from 96m<br>
+* Mr.boo〆 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Twitchnafiznaf at 12:44, with a OutsideSafeZone from 84m<br>
+* sHaRpIsHLxgEnDz <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:50, with a heavy assault rifle from 76m<br>
+* MutedFPSᵗᵗᵛ <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicHxrl3y at 10:13, with a bolt action sniper rifle from 68m<br>
 
 Top five <strong>close range</strong> SINGLE eliminations:<br>
-* JohnnytheTaco <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Dr1pMGK2105 at 4:25 near <strong>SynapseStation</strong>, with a PistolRapidFireSMG from 1m<br>
-* JohnnytheTaco <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> KickLizard at 6:13, with a tactical shotgun from 1m<br>
-* Kamiloxツ <strong><span style="color:crimson;background-color:">Lasered</span></strong> CPKkaso at 5:27, with a PistolRapidFireSMG from 1m<br>
-* Bigpapito420 <strong><span style="color:crimson;background-color:">Lasered</span></strong> TTVoneshotallday at 8:20, with a assault rifle from 1m<br>
-* Kamiloxツ <strong><span style="color:crimson;background-color:">Smoked</span></strong> JohnnytheTaco at 12:23 near <strong>CreamyCrossroads</strong>, with a SuppressedSMG from 2m<br>
+* PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> FncsGordo at 12:20 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+* ghostヅ. <strong><span style="color:crimson;background-color:">Beamed</span></strong> Cookieᵈᵒʰ at 7:59 near <strong>SleepySound</strong>, with a PistolRapidFireSMG from 1m<br>
+* ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> OneHitWonderful at 25:27, with a PistolRapidFireSMG from 1m<br>
+* TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:57 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+* ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴸᵀSpookyKards at 22:58 near <strong>GreasyGrove</strong>, with a assault rifle from 1m<br>
 
 Top three most lethal long distance players:<br>
-* DYN GanjaGamer averaged 106m kill distance with 2 elims.<br>
-* Smashken averaged 75m kill distance with 1 elims.<br>
-* BigRIBgaming averaged 53m kill distance with 5 elims.<br>
+* Needs Matts averaged 96m kill distance with 1 elims.<br>
+* ㄜWantyㄜ averaged 41m kill distance with 1 elims.<br>
+* Mr.boo〆 averaged 40m kill distance with 3 elims.<br>
 
-# Game <strong>Nine</strong> started @18:34 PM -> 20 people, NO build Solo<br>
-K9Gizmo <strong><span style="color:crimson;background-color:">Beamed</span></strong> DYNTrashyTastic at 3:32, with a SuppressedSMG from 2m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Killed</span></strong> L3SBI4N2004 at 3:56, with a DMR from 50m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Dr1pMGK2105 at 4:25 near <strong>SynapseStation</strong>, with a PistolRapidFireSMG from 1m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNGanjaGamer at 5:12, with a heavy assault rifle from 21m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> LonelyCamel731 at 5:19, with a heavy assault rifle from 23m<br>
-K9Gizmo <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 5:21, with a DMR from 25m<br>
-StormCuddles21 <strong><span style="color:crimson;background-color:">Hugged</span></strong> JohnnytheTaco at 6:28 near <strong>SynapseStation</strong>, with a tactical shotgun from 4m<br>
-Bigpapito420 <strong><span style="color:crimson;background-color:">Lasered</span></strong> TTVoneshotallday at 8:20, with a assault rifle from 1m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Killed</span></strong> User-6a88da4e46 at 8:56 near <strong>LogJam</strong>, with a SuppressedSMG from 9m<br>
-sunshinehanne <strong><span style="color:crimson;background-color:">Beamed</span></strong> StormCuddles21 at 10:54, with a pump shotgun from 3m<br>
-KinDingaling898 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> BROCKNCHEEZE455 at 12:02, with a assault rifle from 22m<br>
-KinDingaling898 <strong><span style="color:crimson;background-color:">Killed</span></strong> Bigpapito420 at 12:35, with a heavy assault rifle from 13m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> K9Gizmo at 13:35, with a tactical shotgun from 2m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Ttvtuck128 at 14:22, with a heavy assault rifle from 37m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Terminated</span></strong> kathybrito at 14:58, with a pump shotgun from 4m<br>
-fazevoid2459 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> sunshinehanne at 15:10, with a heavy assault rifle from 27m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">NuKEd</span></strong> KinDingaling898 at 16:41 near <strong>CrazyCave</strong>, with a pistol from 18m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> fazevoid2459 at 17:16 near <strong>CrazyCave</strong>, with a pistol from 6m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Evaporated</span></strong> FuzzyForever at 18:43 near <strong>CrazyCave</strong>, with a pistol from 8m<br>
-# Game <strong>Eight</strong> started @17:51 PM -> 15 people, NO build Solo<br>
-StormCuddles21 <strong><span style="color:crimson;background-color:">Smoked</span></strong> StormCuddles21 at 3:15<br>
-FuzzyForever <strong><span style="color:crimson;background-color:">Lasered</span></strong> L3SBI4N2004 at 5:16 near <strong>GreasyGrove</strong>, with a SuppressedSMG from 5m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Lasered</span></strong> CPKkaso at 5:27, with a PistolRapidFireSMG from 1m<br>
-FuzzyForever <strong><span style="color:crimson;background-color:">Smoked</span></strong> User-6a88da4e46 at 6:06, with a DMR from 16m<br>
-LonelyCamel731 <strong><span style="color:crimson;background-color:">Smoked</span></strong> JohnnytheTaco at 6:11 near <strong>HeraldFortress</strong>, with a tactical shotgun from 4m<br>
-StevenxMx <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> OGfresh777 at 6:30 near <strong>GreasyGrove</strong>, with a assault rifle from 35m<br>
-FuzzyForever <strong><span style="color:crimson;background-color:">Lasered</span></strong> StevenxMx at 7:08 near <strong>GreasyGrove</strong>, with a SuppressedSMG from 4m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> FuzzyForever at 10:30, with a heavy assault rifle from 39m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Shredded</span></strong> LonelyCamel731 at 12:24, with a tactical shotgun from 6m<br>
-DYNGanjaGamer <strong><span style="color:crimson;background-color:">Lasered</span></strong> Kamiloxツ at 14:37 near <strong>HeraldFortress</strong>, with a bolt action sniper rifle from 82m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Lasered</span></strong> Vultun at 14:37 near <strong>HeraldFortress</strong>, with a heavy assault rifle from 52m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> BROCKNCHEEZE455 at 18:56, with a heavy assault rifle from 51m<br>
-DYNGanjaGamer <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNTrashyTastic at 18:57, with a bolt action sniper rifle from 129m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Eradicated</span></strong> DYNGanjaGamer at 19:55, with a bolt action sniper rifle from 77m<br>
-LtBAM401TTV won match (and was flexing until 20:09)<br>
-# Game <strong>Seven</strong> started @17:23 PM -> 25 people, NO build Solo<br>
-XLComical <strong><span style="color:crimson;background-color:">Clapped</span></strong> GAHHHBIGE at 11:47 near <strong>TheJoneses</strong>, with a assault rifle from 18m<br>
-RelaxedFitJonesy <strong><span style="color:crimson;background-color:">Terminated</span></strong> Zacharyon60fps at 11:50 near <strong>TheJoneses</strong>, with a pump shotgun from 2m<br>
-CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> GAHHHBIGE at 13:03 near <strong>TiltedTowers</strong>, with a DoubleBarrelShotgun from 14m (why you pick on NPCs?)<br>
-XLComical <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> RelaxedFitJonesy at 13:08 near <strong>TheJoneses</strong>, with a assault rifle from 10m (why you pick on NPCs?)<br>
-StevenxMx <strong><span style="color:crimson;background-color:">Lasered</span></strong> XLComical at 14:36, with a tactical shotgun from 6m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Eliminated</span></strong> GodlyAxis at 15:35 near <strong>ChonkersSpeedway</strong>, with a pump shotgun from 4m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Lasered</span></strong> TurtleBrigade at 16:02 near <strong>HeraldFortress</strong>, with a PistolRapidFireSMG from 4m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Smoked</span></strong> L3SBI4N2004 at 16:35 near <strong>RockyReels</strong>, with a bolt action sniper rifle from 4m<br>
-StevenxMx <strong><span style="color:crimson;background-color:">Evaporated</span></strong> LonelyCamel731 at 17:03 near <strong>ShuffledShrines</strong>, with a heavy assault rifle from 6m<br>
-Kamiloxツ <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Herald at 17:10 near <strong>HeraldFortress</strong>, with a assault rifle from 25m (why you pick on NPCs?)<br>
-StevenxMx <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> User-6a88da4e46 at 17:12 near <strong>ShuffledShrines</strong>, with a heavy assault rifle from 14m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">NuKEd</span></strong> StevenxMx at 17:38, with a heavy assault rifle from 10m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 18:26, with a heavy assault rifle from 9m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Killed</span></strong> BakedPotato2421 at 19:52, with a tactical shotgun from 9m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVbluflyingfox at 20:10, with a heavy assault rifle from 50m<br>
-Jazzeon9914 <strong><span style="color:crimson;background-color:">Destroyed</span></strong> JohnnytheTaco at 20:17, with a tactical shotgun from 8m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Killed</span></strong> Vultun at 20:25 near <strong>CondoCanyon</strong>, with a bolt action sniper rifle from 224m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> fortnitepasd at 20:38, with a heavy assault rifle from 30m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Killed</span></strong> LtBAM401TTV at 20:45, with a bolt action sniper rifle from 172m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> BenjiLikesCake at 21:21 near <strong>TheJoneses</strong>, with a bolt action sniper rifle from 62m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Obliterated</span></strong> Jazzeon9914 at 21:47, with a heavy assault rifle from 47m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Kamiloxツ at 22:08 near <strong>TheJoneses</strong>, with a tactical shotgun from 6m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Killed</span></strong> MomzAdvice at 23:21, with a heavy assault rifle from 40m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> FuzzyForever at 24:28, with a bolt action sniper rifle from 33m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Smoked</span></strong> OGfresh777 at 26:37, with a heavy assault rifle from 23m<br>
-GeltonasBananas2 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DYNTrashyTastic at 27:02, with a tactical shotgun from 6m<br>
-GeltonasBananas2 won the match (and was flexing until 27:41)<br>
-# Game <strong>Six</strong> started @16:44 PM -> 17 people, NO build Solo<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Kamiloxツ at 12:38, with a FallDamage from 27m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Lasered</span></strong> CPKkaso at 14:24 near <strong>CreamyCrossroads</strong>, with a heavy assault rifle from 76m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LonelyCamel731 at 16:34, with a heavy assault rifle from 28m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> boskololezttv at 16:36 near <strong>TiltedTowers</strong>, with a bolt action sniper rifle from 46m<br>
-Vultun <strong><span style="color:crimson;background-color:">Killed</span></strong> MSkaliwags at 19:30, with a DMR from 35m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MomzAdvice at 19:53, with a PistolRapidFireSMG from 9m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> LtBAM401TTV at 20:01 near <strong>TiltedTowers</strong>, with a bolt action sniper rifle from 61m<br>
-GAHHHBIGE <strong><span style="color:crimson;background-color:">Eradicated</span></strong> lucasr4495 at 21:10, with a PistolRapidFireSMG from 7m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">NuKEd</span></strong> Vultun at 21:14, with a heavy assault rifle from 41m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Terminated</span></strong> OGfresh777 at 22:05, with a bolt action sniper rifle from 82m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> TwitchEllaGoofy at 22:29, with a heavy assault rifle from 27m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Terminated</span></strong> GFAMZTTV at 23:41, with a heavy assault rifle from 33m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Lasered</span></strong> JohnnytheTaco at 25:31 near <strong>ShuffledShrines</strong>, with a heavy assault rifle from 23m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> GAHHHBIGE at 26:49, with a heavy assault rifle from 16m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> xXsnazzychipXx at 27:07, with a bolt action sniper rifle from 40m<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVLejawon at 30:31, with a heavy assault rifle from 5m<br>
-TTVbluflyingfox won match (and was flexing until 30:48)<br>
-# Game <strong>Five</strong> started @16:20 PM -> 14 people, NO build Solo<br>
-TTVbluflyingfox <strong><span style="color:crimson;background-color:">Melted</span></strong> LtBAM401TTV at 12:09 near <strong>SynapseStation</strong>, with a tactical shotgun from 5m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> OGfresh777 at 12:33 near <strong>TiltedTowers</strong>, with a DMR from 37m<br>
-lucasr4495 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Herald at 12:50 near <strong>HeraldFortress</strong>, with a GrenadeLauncher from 15m (why you pick on NPCs?)<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Kamiloxツ at 12:59 near <strong>TiltedTowers</strong>, with a tactical shotgun from 3m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eradicated</span></strong> lucasr4495 at 14:26, with a tactical shotgun from 5m<br>
-Dinonuggets645 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JohnnytheTaco at 14:34, with a DMR from 36m<br>
-LonelyCamel731 <strong><span style="color:crimson;background-color:">Killed</span></strong> Dinonuggets645 at 14:39, with a SuppressedSMG from 5m<br>
-Nitroclapzttv <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LonelyCamel731 at 15:06, with a heavy assault rifle from 14m<br>
-Smashken <strong><span style="color:crimson;background-color:">Embarassed</span></strong> CPKkaso at 15:59, with a assault rifle from 75m<br>
-Nitroclapzttv <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Smashken at 16:52, with a heavy assault rifle from 33m<br>
-Nitroclapzttv <strong><span style="color:crimson;background-color:">Melted</span></strong> mufcmurphy2012 at 18:39, with a heavy assault rifle from 5m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Clapped</span></strong> TTVbluflyingfox at 20:19 near <strong>CrazyCave</strong>, with a heavy assault rifle from 9m<br>
-xXsnazzychipXx <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVLejawon at 20:31 near <strong>CrazyCave</strong>, with a assault rifle from 4m<br>
-Nitroclapzttv <strong><span style="color:crimson;background-color:">Eliminated</span></strong> xXsnazzychipXx at 24:20 near <strong>CrazyCave</strong>, with a heavy assault rifle from 2m<br>
-Nitroclapzttv won the match (and was flexing until 24:32)<br>
-# Game <strong>Four</strong> started @15:49 PM -> 19 people, NO build Solo<br>
-R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Clapped</span></strong> DeafDeal3r at 8:29 near <strong>RockyReels</strong>, with a PistolRapidFireSMG from 16m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Terminated</span></strong> CPKkaso at 8:52, with a DoubleBarrelShotgun from 7m<br>
-xXsnazzychipXx <strong><span style="color:crimson;background-color:">Terminated</span></strong> pinkrose0007 at 9:12, with a SuppressedSMG from 5m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Killed</span></strong> OGfresh777 at 9:42 near <strong>RealityFalls</strong>, with a tactical shotgun from 6m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Smoked</span></strong> JohnnytheTaco at 12:23 near <strong>CreamyCrossroads</strong>, with a SuppressedSMG from 2m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> twitchsnowman at 14:06, with a assault rifle from 27m<br>
-R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> LtBAM401TTV at 14:08, with a OutsideSafeZone from 82m<br>
-Smashken <strong><span style="color:crimson;background-color:">Killed</span></strong> Smashken at 14:40, with a OutsideSafeZone<br>
-Senapmedketchup <strong><span style="color:crimson;background-color:">Killed</span></strong> Sladernader30 at 15:05, with a heavy assault rifle from 8m<br>
-R1SEC0RRUPT <strong><span style="color:crimson;background-color:">Beamed</span></strong> Kamiloxツ at 15:58, with a tactical shotgun from 11m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Embarassed</span></strong> UnkelHukun at 16:36, with a bolt action sniper rifle from 146m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Killed</span></strong> R1SEC0RRUPT at 18:18, with a heavy assault rifle from 4m<br>
-Senapmedketchup <strong><span style="color:crimson;background-color:">Smoked</span></strong> mufcmurphy2012 at 21:23 near <strong>CrazyCave</strong>, with a heavy assault rifle from 9m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> ZeroCoolDL at 21:29 near <strong>CrazyCave</strong>, with a assault rifle from 6m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Smoked</span></strong> xXsnazzychipXx at 22:29 near <strong>CrazyCave</strong>, with a bolt action sniper rifle from 48m<br>
-ZeroCoolReborn <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Senapmedketchup at 22:56 near <strong>CrazyCave</strong>, with a bolt action sniper rifle from 53m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Eliminated</span></strong> KickLizard at 25:33, with a heavy assault rifle from 4m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Smoked</span></strong> ZeroCoolReborn at 25:47, with a tactical shotgun from 5m<br>
-TTVLejawon was there at the end (and was flexing until 26:26)<br>
-# Game <strong>Three</strong> started @15:22 PM -> 19 people, NO build Solo<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Lasered</span></strong> Knightscreen at 5:07 near <strong>CreamyCrossroads</strong>, with a heavy assault rifle from 14m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Shredded</span></strong> CPKkaso at 5:21 near <strong>TiltedTowers</strong>, with a heavy assault rifle from 17m<br>
-StevenxMx <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Sladernader30 at 5:59, with a tactical shotgun from 3m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Lasered</span></strong> twitchsnowman at 6:01 near <strong>TiltedTowers</strong>, with a bolt action sniper rifle from 58m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">NuKEd</span></strong> StevenxMx at 6:03, with a heavy assault rifle from 113m<br>
-Senapmedketchup <strong><span style="color:crimson;background-color:">Lasered</span></strong> Senapmedketchup at 6:12, with a FallDamage from 17m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> KickLizard at 6:13, with a tactical shotgun from 1m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Shaphilly at 7:27, with a tactical shotgun from 2m<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Beamed</span></strong> ZeroCoolReborn at 8:47, with a assault rifle from 19m<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Kamiloxツ at 8:55, with a tactical shotgun from 11m<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Killed</span></strong> JohnnytheTaco at 8:57, with a GrenadeLauncher<br>
-TTVLejawon <strong><span style="color:crimson;background-color:">Terminated</span></strong> OGfresh777 at 9:11, with a bolt action sniper rifle from 55m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Terminated</span></strong> Smashken at 10:13, with a assault rifle from 15m<br>
-DeafDeal3r <strong><span style="color:crimson;background-color:">Killed</span></strong> UnkelHukun at 11:02 near <strong>RockyReels</strong>, with a tactical shotgun from 4m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Clapped</span></strong> TTVLejawon at 14:33 near <strong>CondoCanyon</strong>, with a DMR from 57m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Evaporated</span></strong> DeafDeal3r at 16:23 near <strong>CondoCanyon</strong>, with a DMR from 63m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ZeroCoolDL at 19:02 near <strong>CondoCanyon</strong>, with a heavy assault rifle from 16m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Obliterated</span></strong> BigRIBgaming at 19:42 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
-LtBAM401TTV won match (and was flexing until 19:58)<br>
-# Game <strong>Two</strong> started @14:55 PM -> 15 people, NO build Solo<br>
-Kamiloxツ <strong><span style="color:crimson;background-color:">Beamed</span></strong> twitchsnowman at 4:09 near <strong>CreamyCrossroads</strong>, with a bolt action sniper rifle from 33m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Killed</span></strong> Kamiloxツ at 4:22 near <strong>CreamyCrossroads</strong>, with a pump shotgun from 3m<br>
-Zacharyon60fps <strong><span style="color:crimson;background-color:">Smoked</span></strong> JohnnytheTaco at 4:31 near <strong>CondoCanyon</strong>, with a pump shotgun from 3m<br>
-ZeroCoolDL <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Willow at 4:58, with a heavy assault rifle from 1m (why you pick on NPCs?)<br>
-XLComical <strong><span style="color:crimson;background-color:">Killed</span></strong> Zacharyon60fps at 5:04 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun from 10m<br>
-BigRIBgaming <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 5:14 near <strong>HeraldFortress</strong>, with a heavy assault rifle from 16m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ttvtuck128 at 8:48 near <strong>HeraldFortress</strong>, with a assault rifle from 3m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> BigRIBgaming at 9:06 near <strong>HeraldFortress</strong>, with a FallDamage from 27m<br>
-XLComical <strong><span style="color:crimson;background-color:">Beamed</span></strong> Shaphilly at 10:02, with a assault rifle from 24m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> StevenxMx at 10:26, with a tactical shotgun from 6m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtBAM401TTV at 14:15, with a assault rifle from 8m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MrCrazyMan777 at 15:55, with a 08 from 39m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">Evaporated</span></strong> Smashken at 16:09, with a 08 from 19m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Eradicated</span></strong> XLComical at 20:41 near <strong>LazyLagoon</strong>, with a bolt action sniper rifle from 43m<br>
-Sladernader30 <strong><span style="color:crimson;background-color:">NuKEd</span></strong> ZeroCoolDL at 21:03 near <strong>LazyLagoon</strong>, with a 08 from 7m<br>
-ZeroCoolDL won match (and was flexing until 21:23)<br>
-# Game <strong>One</strong> started @14:25 PM -> 10 people, NO build Solo<br>
-JohnnytheTaco <strong><span style="color:crimson;background-color:">Beamed</span></strong> Mrfishy6968 at 8:51, with a tactical shotgun from 4m<br>
-Ttvtuck128 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Camocean44813 at 9:34, with a pump shotgun from 5m<br>
-ZeroCoolDL <strong><span style="color:crimson;background-color:">Eliminated</span></strong> JohnnytheTaco at 12:52, with a assault rifle from 10m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> ZeroCoolDL at 13:18, with a heavy assault rifle from 19m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Evaporated</span></strong> CPKkaso at 13:23, with a heavy assault rifle from 26m<br>
-LtBAM401TTV <strong><span style="color:crimson;background-color:">Lasered</span></strong> twitchsnowman at 14:38, with a heavy assault rifle from 53m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Smoked</span></strong> LtBAM401TTV at 18:30 near <strong>RealityFalls</strong>, with a assault rifle from 37m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Terminated</span></strong> JennTheFierceTTV at 19:37 near <strong>RealityFalls</strong>, with a DoubleBarrelShotgun from 10m<br>
-MrCrazyMan777 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Ttvtuck128 at 21:53, with a DoubleBarrelShotgun from 4m<br>
+# Game <strong>Seven</strong> started @23:33 PM -> 12 people, build Duo<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Beamed</span></strong> TwitchSomeSaucy at 5:27, with a FallDamage from 74m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> Cookieᵈᵒʰ at 15:05, with a DoubleBarrelShotgun from 14m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> Cookieᵈᵒʰ at 15:07, with a DBNOTimeout from 34m<br>
+LTJa1cob <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 15:52, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> heavy assault rifle from 40m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Hugged</span></strong> TwitchKayohGGs at 18:59 near <strong>GreasyGrove</strong>, with a DoubleBarrelShotgun from 6m<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> BrattyBriee at 19:43, with a tactical shotgun from 3m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Eliminated</span></strong> BrattyBriee at 19:49, with a tactical shotgun from 3m<br>
+Twitch-TobaGirl <strong><span style="color:blue;background-color:">Knocked</span></strong> NeedsMatts at 19:55, with a assault rifle from 1m<br>
+Twitch-TobaGirl <strong><span style="color:purple;background-color:">Carded</span></strong> NeedsMatts at 19:56, with a pump shotgun from 1m<br>
+Twitch-TobaGirl <strong><span style="color:blue;background-color:">Knocked</span></strong> Jaylunﱞ at 20:33 near <strong>GreasyGrove</strong>, with a assault rifle from 96m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Evaporated</span></strong> Twitch-TobaGirl at 20:41, with a bolt action sniper rifle from 38m<br>
+Jaylunﱞ was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 21:25<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴸᵀSpookyKards at 22:58 near <strong>GreasyGrove</strong>, with a assault rifle from 1m<br>
+LTJa1cob <strong><span style="color:blue;background-color:">Knocked</span></strong> ᵀʷᶦᵗᶜʰСhicqnо at 22:59 near <strong>GreasyGrove</strong>, with a tactical shotgun from 5m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Lasered</span></strong> LTJa1cob at 23:05 near <strong>GreasyGrove</strong>, with a DoubleBarrelShotgun from 4m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:crimson;background-color:">Clapped</span></strong> ᴸᵀSpookyKards at 23:05 near <strong>GreasyGrove</strong>, with a assault rifle<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> ᵀʷᶦᵗᶜʰСhicqnо at 24:00 near <strong>GreasyGrove</strong>, with a tactical shotgun<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Jaylunﱞ at 24:47, with a tactical shotgun from 10m<br>
+# Game <strong>Six</strong> started @22:43 PM -> 29 people, build Duo<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Terminated</span></strong> PinkyツNoSkill彡 at 11:07<br>
+Draculajehhf <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVElectroDeity at 12:39, with a tactical shotgun from 1m<br>
+Draculajehhf <strong><span style="color:purple;background-color:">Carded</span></strong> TTVElectroDeity at 12:43, with a tactical shotgun from 4m<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Shredded</span></strong> TwitchSomeSaucy at 12:51, with a FallDamage from 81m<br>
+peisenators <strong><span style="color:blue;background-color:">Knocked</span></strong> peisenators at 13:06, with a PumpkinLauncher<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 13:17 near <strong>LogJam</strong>, with a tactical shotgun from 6m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 13:20 near <strong>LogJam</strong>, with a assault rifle from 4m<br>
+pei_senators was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 13:31<br>
+UNOEWarrior <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchWokasins at 13:39 near <strong>SleepySound</strong>, with a tactical shotgun from 3m<br>
+UNOEWarrior <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchWokasins at 13:42 near <strong>SleepySound</strong>, with a tactical shotgun from 1m<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Shredded</span></strong> YRGFernando at 13:57 near <strong>SleepySound</strong>, with a tactical shotgun from 7m<br>
+peisenators <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sabina at 14:36 from 18m (why you pick on NPCs?)<br>
+T1swzy <strong><span style="color:blue;background-color:">Knocked</span></strong> princesstyrone at 14:52 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 10m<br>
+T1swzy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> princesstyrone at 14:55 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Eliminated</span></strong> VieiraMist at 14:55 near <strong>SleepySound</strong>, with a pump shotgun from 8m<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 16:11, with a heavy assault rifle from 63m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> P1X3LN0TT4K3N at 16:24, with a tactical shotgun from 5m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> P1X3LN0TT4K3N at 16:28 from 2m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Embarassed</span></strong> peisenators at 16:46, with a tactical shotgun from 9m<br>
+TTV_ElectroDeity was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 17:49<br>
+SainthoodZamo was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 19:14<br>
+OneHitWonderful <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜRamenㄜ at 19:28, with a heavy assault rifle from 47m<br>
+OneHitWonderful <strong><span style="color:purple;background-color:">Carded</span></strong> ㄜRamenㄜ at 20:18, with a tactical shotgun from 4m<br>
+OneHitWonderful <strong><span style="color:crimson;background-color:">Beamed</span></strong> ㄜWantyㄜ at 20:49, with a heavy assault rifle from 3m<br>
+meanlost <strong><span style="color:blue;background-color:">Knocked</span></strong> NeedsMatts at 22:46, with a tactical shotgun from 3m<br>
+ᵀʷᶦᵀᶜʰnafiznaf <strong><span style="color:purple;background-color:">Carded</span></strong> NeedsMatts at 22:49, with a tactical shotgun from 1m<br>
+Spilm <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 23:13, with a heavy assault rifle from 1m<br>
+Spilm <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 23:17, with a tactical shotgun from 4m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Evaporated</span></strong> MikmaqProdigy at 23:24, with a pump shotgun from 4m<br>
+meanlost <strong><span style="color:blue;background-color:">Knocked</span></strong> BrattyBriee at 24:00, with a tactical shotgun from 1m<br>
+ᵀʷᶦᵀᶜʰnafiznaf <strong><span style="color:purple;background-color:">Carded</span></strong> BrattyBriee at 24:04, with a tactical shotgun from 3m<br>
+Draculajehhf <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 24:15, with a PistolRapidFireSMG from 6m<br>
+Draculajehhf <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 24:32, with a tactical shotgun from 1m<br>
+OneHitWonderful <strong><span style="color:blue;background-color:">Knocked</span></strong> Jaylunﱞ at 24:56, with a bolt action sniper rifle from 49m<br>
+schmoneybag <strong><span style="color:purple;background-color:">Carded</span></strong> Jaylunﱞ at 25:13, with a tactical shotgun from 2m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Killed</span></strong> Twitch-TobaGirl at 25:15, with a tactical shotgun from 10m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> OneHitWonderful at 25:27, with a PistolRapidFireSMG from 1m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:purple;background-color:">Carded</span></strong> OneHitWonderful at 26:08, with a PistolRapidFireSMG<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:crimson;background-color:">Eliminated</span></strong> schmoneybag at 26:26, with a PistolRapidFireSMG from 9m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:crimson;background-color:">Beamed</span></strong> ᵀʷᶦᵀᶜʰnafiznaf at 27:06, with a PistolRapidFireSMG from 2m<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> T1swzy at 30:33, with a bolt action sniper rifle from 61m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Hugged</span></strong> ᵀʷᶦᵗᶜʰСhicqnо at 30:38, with a heavy assault rifle from 2m<br>
+TTVElectroDeity <strong><span style="color:purple;background-color:">Carded</span></strong> T1swzy at 30:43 from 59m<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> Draculajehhf at 31:25, with a bolt action sniper rifle from 37m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Melted</span></strong> UNOEWarrior at 31:26, with a tactical shotgun from 11m<br>
+Dracula jehhf was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 31:53<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> Draculajehhf at 32:33, with a OutsideSafeZone from 5m<br>
+TTVElectroDeity <strong><span style="color:purple;background-color:">Carded</span></strong> Draculajehhf at 32:39, with a DoubleBarrelShotgun from 6m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVElectroDeity at 32:41, with a OutsideSafeZone from 26m<br>
+Spilm <strong><span style="color:crimson;background-color:">Shredded</span></strong> Ugwе at 32:57, with a PumpkinLauncher from 13m<br>
+Spilm won match (and was flexing until 33:10)<br>
+Mzzу won match (and was flexing until 33:20)<br>
+# Game <strong>Five</strong> started @22:10 PM -> 37 people, build Duo<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchWokasins at 17:58<br>
+TTVElectroDeity <strong><span style="color:blue;background-color:">Knocked</span></strong> Immuneyoungb at 18:48, with a assault rifle from 30m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Melted</span></strong> FOREVERSITUATED at 19:05, with a PumpkinLauncher from 5m<br>
+TTVElectroDeity <strong><span style="color:crimson;background-color:">Killed</span></strong> Immuneyoungb at 19:05, with a assault rifle<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Eradicated</span></strong> TwitchSomeSaucy at 19:09 near <strong>SleepySound</strong>, with a DMR from 3m<br>
+Ugwе <strong><span style="color:blue;background-color:">Knocked</span></strong> OgD00dleBoB at 20:36 near <strong>TheJoneses</strong>, with a heavy assault rifle from 3m<br>
+Ugwе <strong><span style="color:purple;background-color:">Carded</span></strong> OgD00dleBoB at 20:42 near <strong>TheJoneses</strong>, with a heavy assault rifle from 3m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> MikmaqProdigy at 21:00 near <strong>TheJoneses</strong>, with a DoubleBarrelShotgun from 17m<br>
+TwitchƤimpŖico <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 21:16, with a SuppressedSMG from 2m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 21:19, with a tactical shotgun from 2m<br>
+AwokenShadow-- <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchƤimpŖico at 21:36, with a PistolRapidFireSMG from 5m<br>
+TwitchƤimpŖico was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 21:52<br>
+TwitchƤimpŖico <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> AwokenShadow-- at 22:15, with a pump shotgun from 5m<br>
+AwokenShadow-- <strong><span style="color:blue;background-color:">Knocked</span></strong> Mzzу at 22:15, with a PistolRapidFireSMG from 4m<br>
+Mzzу was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 22:28<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> Cookieᵈᵒʰ at 24:05, with a heavy assault rifle from 28m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:purple;background-color:">Carded</span></strong> Cookieᵈᵒʰ at 24:15, with a Melee from 2m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Destroyed</span></strong> MutedFPSᵗᵗᵛ at 24:21, with a tactical shotgun from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mr.boo〆 at 24:21, with a DoubleBarrelShotgun from 2m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Obliterated</span></strong> TwitchKayohGGs at 25:42, with a assault rifle from 65m<br>
+UNOEWarrior <strong><span style="color:crimson;background-color:">Eliminated</span></strong> YRGFernando at 26:13 near <strong>CreamyCrossroads</strong>, with a tactical shotgun from 3m<br>
+UNOEWarrior <strong><span style="color:blue;background-color:">Knocked</span></strong> peisenators at 26:23 near <strong>CreamyCrossroads</strong>, with a heavy assault rifle from 30m<br>
+UNOEWarrior <strong><span style="color:purple;background-color:">Carded</span></strong> peisenators at 26:27 near <strong>CreamyCrossroads</strong>, with a tactical shotgun from 5m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 26:37 near <strong>TiltedTowers</strong>, with a tactical shotgun from 2m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 26:41 from 2m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> T1swzy at 27:15, with a tactical shotgun from 8m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> T1swzy at 27:19, with a tactical shotgun<br>
+NeedsMatts <strong><span style="color:crimson;background-color:">Eradicated</span></strong> UNOEWarrior at 27:20 near <strong>CreamyCrossroads</strong>, with a PumpkinLauncher from 96m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Twitchnafiznaf at 27:40 near <strong>TiltedTowers</strong>, with a tactical shotgun from 2m<br>
+ㄜWantyㄜ <strong><span style="color:blue;background-color:">Knocked</span></strong> OneHitWonderful at 29:47, with a assault rifle from 41m<br>
+ㄜWantyㄜ <strong><span style="color:crimson;background-color:">NuKEd</span></strong> OneHitWonderful at 30:21, with a assault rifle<br>
+ㄜRamenㄜ <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> schmoneybag at 30:21, with a heavy assault rifle from 34m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜRamenㄜ at 32:08, with a heavy assault rifle from 20m<br>
+Mzzу <strong><span style="color:crimson;background-color:">NuKEd</span></strong> ㄜRamenㄜ at 32:18, with a heavy assault rifle<br>
+TwitchƤimpŖico <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ㄜWantyㄜ at 32:19, with a pump shotgun from 2m<br>
+Ugwе <strong><span style="color:blue;background-color:">Knocked</span></strong> NeedsMatts at 32:52, with a heavy assault rifle from 2m<br>
+Ugwе <strong><span style="color:purple;background-color:">Carded</span></strong> NeedsMatts at 32:57 from 1m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Clapped</span></strong> CPKkaso at 32:59, with a tactical shotgun from 9m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> BrattyBriee at 33:02, with a tactical shotgun from 1m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> BrattyBriee at 33:06, with a tactical shotgun from 2m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Eliminated</span></strong> littlefoxsmokes at 33:49, with a heavy assault rifle from 50m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVElectroDeity at 33:53, with a PistolRapidFireSMG from 2m<br>
+Twitch-TobaGirl <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> helpеr at 37:11 near <strong>TiltedTowers</strong>, with a pump shotgun from 4m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> Draculajehhf at 37:59, with a heavy assault rifle from 7m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> Draculajehhf at 38:02 from 3m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchƤimpŖico at 38:17, with a PistolRapidFireSMG from 6m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Beamed</span></strong> Twitch-TobaGirl at 38:18, with a tactical shotgun from 4m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ugwе at 38:24, with a tactical shotgun from 8m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchƤimpŖico at 38:25 near <strong>TiltedTowers</strong>, with a tactical shotgun from 3m<br>
+ᵀʷᶦᵗᶜʰСhicqnо <strong><span style="color:blue;background-color:">Knocked</span></strong> Kiﱞllﱞuﱞa at 38:53, with a heavy assault rifle from 17m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Killed</span></strong> Mzzу at 38:58, with a tactical shotgun from 10m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> Kiﱞllﱞuﱞa at 39:02, with a PumpkinLauncher from 15m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Killed</span></strong> PinkyツNoSkill彡 at 39:04, with a OutsideSafeZone from 16m<br>
+Jaylunﱞ won match (and was flexing until 39:17)<br>
+# Game <strong>Four</strong> started @21:35 PM -> 31 people, build Duo<br>
+Mr.boo〆 <strong><span style="color:blue;background-color:">Knocked</span></strong> OHZ1 at 2:48 near <strong>RockyReels</strong>, with a PistolRapidFireSMG from 30m<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Killed</span></strong> TwitchSomeSaucy at 2:59, with a FallDamage from 88m<br>
+Mr.boo〆 <strong><span style="color:purple;background-color:">Carded</span></strong> OHZ1 at 3:10 near <strong>RockyReels</strong>, with a pump shotgun from 2m<br>
+Iurkys <strong><span style="color:blue;background-color:">Knocked</span></strong> OMVault06 at 3:21, with a assault rifle from 18m<br>
+Iurkys <strong><span style="color:purple;background-color:">Carded</span></strong> OMVault06 at 3:25, with a tactical shotgun from 4m<br>
+Cookieᵈᵒʰ <strong><span style="color:blue;background-color:">Knocked</span></strong> OgD00dleBoB at 3:46 near <strong>SynapseStation</strong>, with a pump shotgun from 2m<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> OgD00dleBoB at 3:50 near <strong>SynapseStation</strong>, with a pump shotgun<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MikmaqProdigy at 3:50 near <strong>SynapseStation</strong>, with a PistolRapidFireSMG from 2m<br>
+Draculajehhf <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜWantyㄜ at 4:02 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun from 7m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> ㄜRamenㄜ at 4:19 near <strong>CondoCanyon</strong>, with a SuppressedSMG from 2m<br>
+Draculajehhf <strong><span style="color:crimson;background-color:">Killed</span></strong> ㄜWantyㄜ at 4:19 near <strong>CondoCanyon</strong>, with a DoubleBarrelShotgun<br>
+OHZ1 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 5:22<br>
+TTVxoSofiaa <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 5:35, with a DoubleBarrelShotgun from 18m<br>
+SinatraOcean <strong><span style="color:blue;background-color:">Knocked</span></strong> OHZ1 at 6:11, with a heavy assault rifle from 20m<br>
+AwokenShadow-- <strong><span style="color:crimson;background-color:">Killed</span></strong> Dogon0ping at 6:12, with a heavy assault rifle from 9m<br>
+SinatraOcean <strong><span style="color:crimson;background-color:">Melted</span></strong> OHZ1 at 6:14, with a heavy assault rifle<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> Iurkys at 7:48, with a tactical shotgun from 6m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:purple;background-color:">Carded</span></strong> Iurkys at 7:51, with a SuppressedSMG from 2m<br>
+AwokenShadow-- <strong><span style="color:blue;background-color:">Knocked</span></strong> SainthoodZamo at 7:56 near <strong>TiltedTowers</strong>, with a PistolRapidFireSMG from 6m<br>
+AwokenShadow-- <strong><span style="color:purple;background-color:">Carded</span></strong> SainthoodZamo at 7:58 near <strong>TiltedTowers</strong>, with a pump shotgun from 4m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Shredded</span></strong> Twitch-TobaGirl at 7:58, with a heavy assault rifle from 4m<br>
+SinatraOcean <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVxoSofiaa at 8:20 near <strong>TiltedTowers</strong>, with a heavy assault rifle from 28m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:blue;background-color:">Knocked</span></strong> SinatraOcean at 9:19, with a tactical shotgun from 3m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> AwokenShadow-- at 9:27, with a heavy assault rifle from 3m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Destroyed</span></strong> SinatraOcean at 9:27, with a heavy assault rifle from 1m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 10:05, with a tactical shotgun from 3m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 10:08, with a tactical shotgun from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 10:17, with a FallDamage from 23m<br>
+Kiﱞllﱞuﱞa <strong><span style="color:crimson;background-color:">Humiliated</span></strong> Twitchnafiznaf at 10:18, with a heavy assault rifle from 2m<br>
+PinkyツNoSkill彡 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 10:34<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> Immuneyoungb at 11:15, with a tactical shotgun from 6m<br>
+Mzzу <strong><span style="color:purple;background-color:">Carded</span></strong> Immuneyoungb at 11:25, with a heavy assault rifle from 2m<br>
+Mzzу <strong><span style="color:crimson;background-color:">Killed</span></strong> FOREVERSITUATED at 11:36, with a tactical shotgun from 5m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> V-EGAS at 11:56, with a tactical shotgun from 9m<br>
+YRGFernando <strong><span style="color:blue;background-color:">Knocked</span></strong> Kiﱞllﱞuﱞa at 13:12, with a assault rifle from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> YRGFernando at 13:17, with a tactical shotgun from 12m<br>
+TwitchWokasins <strong><span style="color:purple;background-color:">Carded</span></strong> Kiﱞllﱞuﱞa at 13:19, with a tactical shotgun from 6m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> YRGFernando at 13:20, with a tactical shotgun from 3m<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Beamed</span></strong> PinkyツNoSkill彡 at 14:40, with a tactical shotgun from 3m<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Beamed</span></strong> helpеr at 19:27, with a heavy assault rifle from 49m<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mr.boo〆 at 19:48, with a heavy assault rifle from 54m<br>
+Mzzу <strong><span style="color:blue;background-color:">Knocked</span></strong> Ugwе at 20:02, with a heavy assault rifle from 6m<br>
+TwitchWokasins <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchKayohGGs at 20:29, with a OutsideSafeZone from 11m<br>
+TwitchWokasins <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchKayohGGs at 20:45, with a heavy assault rifle from 17m<br>
+Ugwе was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 20:56<br>
+TwitchWokasins <strong><span style="color:crimson;background-color:">Terminated</span></strong> Cookieᵈᵒʰ at 22:33, with a heavy assault rifle from 18m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Mzzу at 22:33, with a tactical shotgun from 3m<br>
+Ugwе <strong><span style="color:crimson;background-color:">Eradicated</span></strong> TwitchWokasins at 22:49, with a assault rifle from 5m<br>
+TwitchWokasins was happy to win (and was flexing until 22:54)<br>
+# Game <strong>Three</strong> started @20:49 PM -> 28 people, build Duo<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Terminated</span></strong> TwitchSomeSaucy at 2:27, with a FallDamage from 76m<br>
+Ｔｒｘｌｌ. <strong><span style="color:crimson;background-color:">Terminated</span></strong> TTV-SPIDERHLLP at 4:00, with a tactical shotgun from 7m<br>
+ghostヅ. <strong><span style="color:blue;background-color:">Knocked</span></strong> MariahsMelodyTTV at 5:05 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 1m<br>
+ghostヅ. <strong><span style="color:purple;background-color:">Carded</span></strong> MariahsMelodyTTV at 5:08 from 4m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ｔｒｘｌｌ. at 5:29 near <strong>SleepySound</strong>, with a tactical shotgun from 7m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 6:27, with a Melee from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> xxskully00re at 7:01, with a PumpkinLauncher from 12m<br>
+ghostヅ. <strong><span style="color:purple;background-color:">Carded</span></strong> xxskully00re at 7:05, with a PistolRapidFireSMG from 1m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Smoked</span></strong> OgD00dleBoB at 9:09, with a PistolRapidFireSMG from 43m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> MikmaqProdigy at 9:16, with a tactical shotgun from 2m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> MikmaqProdigy at 9:18 from 2m<br>
+Krхy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> muysexy221 at 9:30, with a PistolRapidFireSMG from 12m<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:crimson;background-color:">Killed</span></strong> ToxicHxrl3y at 10:13, with a bolt action sniper rifle from 68m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> OnlySnazzy at 10:42, with a tactical shotgun from 2m<br>
+Krхy <strong><span style="color:purple;background-color:">Carded</span></strong> OnlySnazzy at 10:46, with a PistolRapidFireSMG from 1m<br>
+Cookieᵈᵒʰ <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 11:28, with a pump shotgun from 2m<br>
+TwitchKayohGGs <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 11:31, with a DoubleBarrelShotgun from 4m<br>
+Twitchnafiznaf <strong><span style="color:blue;background-color:">Knocked</span></strong> Cookieᵈᵒʰ at 12:12, with a SuppressedSMG from 4m<br>
+Twitchnafiznaf <strong><span style="color:purple;background-color:">Carded</span></strong> Cookieᵈᵒʰ at 12:13, with a tactical shotgun from 2m<br>
+Mr.boo〆 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> Twitchnafiznaf at 12:44, with a OutsideSafeZone from 84m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TikTokgavin6.6 at 13:31, with a PistolRapidFireSMG from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Killed</span></strong> Jaylunﱞ at 13:43, with a tactical shotgun from 4m<br>
+sHaRpIsHLxgEnDz <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:50, with a heavy assault rifle from 76m<br>
+sHaRpIsHLxgEnDz <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ghostヅ. at 14:07, with a pump shotgun from 4m<br>
+sHaRpIsHLxgEnDz <strong><span style="color:crimson;background-color:">Terminated</span></strong> PinkyツNoSkill彡 at 14:07, with a heavy assault rifle<br>
+Twitch-72Vinny <strong><span style="color:blue;background-color:">Knocked</span></strong> Mr.boo〆 at 18:35, with a heavy assault rifle from 3m<br>
+Mr.boo〆 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 19:12<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:blue;background-color:">Knocked</span></strong> sHaRpIsHLxgEnDz at 20:35, with a heavy assault rifle from 5m<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:purple;background-color:">Carded</span></strong> sHaRpIsHLxgEnDz at 20:36, with a tactical shotgun from 2m<br>
+Mr.boo〆 <strong><span style="color:crimson;background-color:">Terminated</span></strong> Twitch-72Vinny at 20:38, with a tactical shotgun from 6m<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:blue;background-color:">Knocked</span></strong> ㄜRamenㄜ at 21:29, with a heavy assault rifle from 44m<br>
+ㄜRamenㄜ was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 21:45<br>
+MutedFPSᵗᵗᵛ <strong><span style="color:crimson;background-color:">Melted</span></strong> TwitchKayohGGs at 22:44, with a tactical shotgun from 3m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> Mr.boo〆 at 22:46, with a PistolRapidFireSMG from 8m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> Mr.boo〆 at 22:59, with a pump shotgun from 2m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> MutedFPSᵗᵗᵛ at 23:06, with a pump shotgun from 5m<br>
+crunkjuice38 <strong><span style="color:blue;background-color:">Knocked</span></strong> TSGDroxzち at 23:33, with a heavy assault rifle from 2m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Beamed</span></strong> crunkjuice38 at 23:34, with a OutsideSafeZone from 3m<br>
+crunkjuice38 <strong><span style="color:purple;background-color:">Carded</span></strong> TSGDroxzち at 23:42, with a DBNOTimeout<br>
+ㄜRamenㄜ <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> Krхy at 23:48, with a OutsideSafeZone from 7m<br>
+# Game <strong>Two</strong> started @20:14 PM -> 24 people, build Duo<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> CheckWrecks at 8:53 near <strong>TiltedTowers</strong>, with a PistolRapidFireSMG from 2m<br>
+TikTokgavin6.6 <strong><span style="color:purple;background-color:">Carded</span></strong> CheckWrecks at 8:59 near <strong>TiltedTowers</strong>, with a PistolRapidFireSMG from 3m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DrippyNC at 9:00 near <strong>TiltedTowers</strong>, with a tactical shotgun from 2m<br>
+TwitchSomeSaucy <strong><span style="color:crimson;background-color:">Killed</span></strong> TwitchSomeSaucy at 9:05, with a FallDamage from 86m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Smoked</span></strong> MutedFPSᵗᵗᵛ at 12:20 near <strong>TiltedTowers</strong>, with a tactical shotgun from 5m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> FncsGordo at 12:20 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> PinkyツNoSkill彡 at 13:57 near <strong>TiltedTowers</strong>, with a tactical shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Killed</span></strong> PinkyツNoSkill彡 at 14:00 near <strong>TiltedTowers</strong>, with a tactical shotgun<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Beamed</span></strong> ghostヅ. at 14:01 near <strong>TiltedTowers</strong>, with a tactical shotgun from 3m<br>
+Krхy <strong><span style="color:blue;background-color:">Knocked</span></strong> MariahsMelodyTTV at 14:58, with a tactical shotgun from 2m<br>
+Krхy <strong><span style="color:purple;background-color:">Carded</span></strong> MariahsMelodyTTV at 15:01, with a tactical shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> Krхy at 15:39, with a heavy assault rifle from 1m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokgavin6.6 at 15:58, with a PistolRapidFireSMG from 2m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> TikTokgavin6.6 at 16:04, with a pump shotgun from 4m<br>
+TikTokgavin6.6 <strong><span style="color:purple;background-color:">Carded</span></strong> Krхy at 16:23 near <strong>TiltedTowers</strong>, with a DBNOTimeout<br>
+OnlySnazzy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TSGDroxzち at 16:26, with a tactical shotgun from 2m<br>
+ᵀʷᶦᵀᶜʰnafiznaf <strong><span style="color:crimson;background-color:">Beamed</span></strong> CPKkaso at 16:55, with a assault rifle from 39m<br>
+TikTok gavin6.6 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 17:42<br>
+TwitchKayohGGs <strong><span style="color:blue;background-color:">Knocked</span></strong> meanlost at 19:02, with a heavy assault rifle from 12m<br>
+TwitchKayohGGs <strong><span style="color:purple;background-color:">Carded</span></strong> meanlost at 19:05, with a tactical shotgun from 3m<br>
+Cookieᵈᵒʰ <strong><span style="color:crimson;background-color:">Shredded</span></strong> ᵀʷᶦᵀᶜʰnafiznaf at 19:06, with a pump shotgun from 1m<br>
+TikTokgavin6.6 <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchKayohGGs at 22:00, with a resource from 22m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchKayohGGs at 22:16, with a heavy assault rifle from 94m<br>
+OnlySnazzy <strong><span style="color:crimson;background-color:">Killed</span></strong> Cookieᵈᵒʰ at 22:23, with a PistolRapidFireSMG from 1m<br>
+TikTokgavin6.6 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ｔｒｘｌｌ. at 23:05, with a heavy assault rifle from 3m<br>
+Ｔｒｘｌｌ. <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokgavin6.6 at 23:06, with a assault rifle from 3m<br>
+TikTok gavin6.6 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 23:29<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> JuiceKocher at 23:50, with a FallDamage from 66m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Killed</span></strong> Skaternotbmxer95 at 24:25, with a tactical shotgun from 5m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Melted</span></strong> JuiceKocher at 24:25, with a DBNOTimeout<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> OnlySnazzy at 25:13, with a assault rifle from 17m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> OnlySnazzy at 25:19, with a assault rifle from 50m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Killed</span></strong> TikTokgavin6.6 at 26:59, with a tactical shotgun from 4m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> xxskully00re at 27:34, with a tactical shotgun from 12m<br>
+ﱞטTwіtchUgwеﱞ <strong><span style="color:crimson;background-color:">Beamed</span></strong> crunkjuice38 at 27:40, with a tactical shotgun from 4m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> xxskully00re at 27:41, with a tactical shotgun<br>
+xxskully00re won match (and was flexing until 27:47)<br>
+Jaylunﱞ won the match (and was flexing until 27:52)<br>
+# Game <strong>One</strong> started @19:42 PM -> 24 people, build Duo<br>
+xxskully00re <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchSomeSaucy at 6:08 near <strong>CrazyCave</strong>, with a pistol from 8m<br>
+xxskully00re <strong><span style="color:crimson;background-color:">Hugged</span></strong> CPKkaso at 6:49 near <strong>CrazyCave</strong>, with a assault rifle from 26m<br>
+OnlySnazzy <strong><span style="color:blue;background-color:">Knocked</span></strong> TwistedClamp257 at 7:52, with a DMR from 30m<br>
+ghostヅ. <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchKayohGGs at 7:55 near <strong>SleepySound</strong>, with a tactical shotgun from 5m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> TwitchKayohGGs at 7:58 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 2m<br>
+ghostヅ. <strong><span style="color:crimson;background-color:">Beamed</span></strong> Cookieᵈᵒʰ at 7:59 near <strong>SleepySound</strong>, with a PistolRapidFireSMG from 1m<br>
+OnlySnazzy <strong><span style="color:purple;background-color:">Carded</span></strong> TwistedClamp257 at 8:01, with a DMR<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> NRGNASBO at 8:07 near <strong>SleepySound</strong>, with a DoubleBarrelShotgun from 5m<br>
+OnlySnazzy <strong><span style="color:crimson;background-color:">Destroyed</span></strong> QuickNyce at 9:16, with a tactical shotgun from 1m<br>
+Krхy <strong><span style="color:crimson;background-color:">Evaporated</span></strong> Twitch-SuxiVT at 11:34, with a tactical shotgun from 2m<br>
+PinkyツNoSkill彡 <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokgavin6.6 at 15:37 near <strong>LogJam</strong>, with a heavy assault rifle from 1m<br>
+PinkyツNoSkill彡 <strong><span style="color:purple;background-color:">Carded</span></strong> TikTokgavin6.6 at 15:40 near <strong>LogJam</strong>, with a pump shotgun from 3m<br>
+PinkyツNoSkill彡 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OnlySnazzy at 16:14, with a pump shotgun from 16m<br>
+Ｔｒｘｌｌ. <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> clkg.Ψ at 20:46, with a pump shotgun from 2m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> ghostヅ. at 20:54, with a PistolRapidFireSMG from 1m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> ghostヅ. at 20:57, with a Melee from 2m<br>
+TSGDroxzち <strong><span style="color:crimson;background-color:">Eradicated</span></strong> PinkyツNoSkill彡 at 21:11, with a tactical shotgun from 2m<br>
+Jaylunﱞ <strong><span style="color:blue;background-color:">Knocked</span></strong> Ｔｒｘｌｌ. at 21:47, with a tactical shotgun from 3m<br>
+Jaylunﱞ <strong><span style="color:purple;background-color:">Carded</span></strong> Ｔｒｘｌｌ. at 21:53, with a heavy assault rifle from 2m<br>
+Jaylunﱞ <strong><span style="color:crimson;background-color:">Terminated</span></strong> MariahsMelodyTTV at 22:19, with a tactical shotgun from 8m<br>
+Krхy <strong><span style="color:crimson;background-color:">Killed</span></strong> MutedFPSᵗᵗᵛ at 25:49, with a tactical shotgun from 9m<br>
+TSGDroxzち <strong><span style="color:blue;background-color:">Knocked</span></strong> xxskully00re at 26:08, with a PistolRapidFireSMG from 5m<br>
+TSGDroxzち <strong><span style="color:purple;background-color:">Carded</span></strong> xxskully00re at 26:28, with a DBNOTimeout from 28m<br>
+Krхy <strong><span style="color:crimson;background-color:">Smoked</span></strong> crunkjuice38 at 26:29, with a FallDamage from 29m<br>
+Krхy <strong><span style="color:blue;background-color:">Knocked</span></strong> DrippyNC at 26:45, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PistolRapidFireSMG from 23m<br>
+CheckWrecks <strong><span style="color:crimson;background-color:">Humiliated</span></strong> Jaylunﱞ at 26:48, with a tactical shotgun from 3m<br>
+Krхy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CheckWrecks at 26:59, with a tactical shotgun from 5m<br>
+Krхy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DrippyNC at 27:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PistolRapidFireSMG<br>
+CheckWrecks crushed it (and was flexing until 27:07)<br>
+Krхy was lucky :p (and was flexing until 27:11)<br>
 
 
 ## [GO BACK](https://www.kaso.gg)
