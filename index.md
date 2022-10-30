@@ -1,30 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
-<style>
-      .tableFixHead {
-        overflow-y: auto;
-        height: 195px;
-      }
-      .tableFixHead thead th {
-        position: sticky;
-        top: 0;
-      }
-      table {
-        border-collapse: collapse;
-        width: 100%;
-      }
-      th,
-      td {
-        padding: 0px 0x;
-        border: 0px solid #ccc;
-      }
-      th {
-        background: #eee;
-      }
-</style>
-
 <script>
-    var countUpdDate = new Date("Oct 30, 2022 15:31:10").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 30, 2022 16:05:02").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -85,7 +62,7 @@ Here's a breakdown of points allocation across all players and matches. This dat
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
 |959|88|783|31.6%|-2.6%|17.7%|12.0%|26.4%|4.8%|9.2%|0.9%|
 
-This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in \<brackets\>. All prize information and data is subject to a final review before "payout". E1 is how many times you scored the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
+This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
