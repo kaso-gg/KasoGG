@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 31, 2022 13:04:19").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Oct 31, 2022 13:07:01").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -56,11 +56,11 @@ Data updates ~5 minutes after each match. We had 9 matches with 65 unique people
 
 Bot identified 2 error occurances affecting 1 player(s) with a net error balance of 0.00. Only ~30.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: Relaxed Fit Jonesy. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 14.4% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 15.5% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|14,595|00|14,535|85.6%|0.0%|0.0%|0.0%|0.0%|14.4%|0.0%|0.0%|
+|12,330|00|12,270|84.5%|0.0%|0.0%|0.0%|0.0%|15.5%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -69,12 +69,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|Obiwon|LtBAM401 TTV|1185.0|6.7 <4,6,1,13,14,11,9,1,1>|14 (2.8) <3,0,3,0,0,0,1,3,4>|0|1|1|0|33%|222|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
-|2|FirstLoser|TTVLejawon_|775.0|2.8 <5,1,3,2>|17 (4.3) <4,4,3,6>|0|1|0|0|0%|65|![](https://media.fortniteapi.io/images/a4ae8f546570a63acd3d87f50d37bdfc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f5a2fb23fafa18eebe48bf2bb33d3c2c/transparent.png){:height="35px"}|
-|3|Turd|Johnny the Taco|720.0|10.8 <8,13,9,15,10,5,12,11,14>|8 (1.3) <1,0,2,0,1,1,2,0,1>|0|1|0|0|11%|67|![](https://media.fortniteapi.io/images/58dd2ce5b48859425c4603533946eb02/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png){:height="35px"}|
-|4|Fourth|Kamilox ツ|615.0|10.6 <14,10,10,12,17,6,5>|9 (1.8) <1,1,2,0,0,2,3>|1|1|0|0|100%|73|![](https://media.fortniteapi.io/images/563d1ba1d0a8f2b9cf438c3c06c985d4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a2cc22d2f7dc9b3133be728e06948897/transparent.png){:height="35px"}|
-|5|Jive|CPK_kaso|560.0|13.2 <6,11,18,18,7,16,15,13,15>||1|0|1|0|67%|74|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/eb390e0a1e7ff085ff8c1e7a5a3afa53/transparent.png){:height="35px"}|
-|6||TTV bluflyingfox|480.0|6.0 <4,1,13>|9 (3.0) <1,6,2>|0|1|0|0|100%|208|![](https://media.fortniteapi.io/images/c159c82-32d838a-e4f5c75-b021dab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|1|Obiwon|LtBAM401 TTV|705.0|6.7 <4,6,1,13,14,11,9,1,1>|14 (2.8) <3,0,3,0,0,0,1,3,4>|0|1|0|0|33%|222|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
+|2|FirstLoser|TTVLejawon_|625.0|2.8 <5,1,3,2>|17 (4.3) <4,4,3,6>|0|1|0|0|0%|65|![](https://media.fortniteapi.io/images/a4ae8f546570a63acd3d87f50d37bdfc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f5a2fb23fafa18eebe48bf2bb33d3c2c/transparent.png){:height="35px"}|
+|3|Turd|TTV bluflyingfox|480.0|6.0 <4,1,13>|9 (3.0) <1,6,2>|0|1|0|0|100%|208|![](https://media.fortniteapi.io/images/c159c82-32d838a-e4f5c75-b021dab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|4|Fourth|Sladernader30|425.0|9.7 <1,17,11>|8 (4.0) <7,0,1>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
+|5|Jive|ZeroCoolDL|375.0|4.5 <7,2,3,6>|4 (1.3) <1,2,1,0>|1|0|0|0|50%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
+|6||xXsnazzychipXx|365.0|3.3 <5,2,3>|2 (1.0) <1,1,0>|0|0|0|0|100%|93|![](https://media.fortniteapi.io/images/a7357a2339f39bf2e76b3ddfa5b84ef8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e3e9d16-9aca214-c82eed9-b398cdc/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
