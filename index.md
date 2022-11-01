@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Oct 31, 2022 14:24:44").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 01, 2022 18:34:49").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -48,19 +48,19 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-Data updates ~5 minutes after each match. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
+Data updates ~5 minutes after each match. We had 4 matches with 46 unique people and the biggest lobby had 39 playing. There were 14 people who played every match. The highest XP level was 'AMYLCx' at 311. The lowest XP was 'MTM3530' at 57, welcome to our lobby you GOAT! About 55.6% of us used girl skins. Guess what, we eliminated two NPCs, they will be back next game though. By the way, Two people need to turn off ANONYMOUS MODE. Nine people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: Bonejamin(4), LennoxRose(4), MeowSkulls(4)<br>
-* Most common pickaxes: SigiloftheEmpire(5), LectrostaticImpactor(4), RoseLightDaggers(4)<br>
-* Most common emotes: CrowningAchievement(21), TheDip(13), Steady(10)<br>
+* Most common skins: SonGoku(3), Beerus(2), LaraCroft(2)<br>
+* Most common pickaxes: PowerPole(Nyoibo)(4), IceBreaker(3), Driver(2)<br>
+* Most common emotes: Steady(14), Drippin'Flavor(13), CrowningAchievement(11)<br>
 
-Bot identified 2 error occurances affecting 1 player(s) with a net error balance of 0.00. Only ~10.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: Relaxed Fit Jonesy. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 2 error occurances affecting 1 player(s) with a net error balance of 0.00. Only ~1.92 total tournament points are at question due to kill feed data discrepancies. Affected players are: Stash'd. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 3.4% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 10.2% of all points earned this session and 11.7% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|18,390|00|18,270|50.2%|0.0%|0.0%|0.0%|0.0%|3.4%|0.0%|0.0%|
+|808|50|707|43.3%|-2.8%|14.3%|11.7%|13.0%|10.2%|9.9%|0.4%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -69,12 +69,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|Obiwon|LtBAM401 TTV|785.0|6.7 <4,6,1,13,14,11,9,1,1>|14 (2.8) <3,0,3,0,0,0,1,3,4>|0|1|0|0|33%|222|![](https://media.fortniteapi.io/images/a5a44c839f7779f43da1942d430ba3de/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png){:height="35px"}|
-|2|FirstLoser|TTVLejawon_|675.0|2.8 <5,1,3,2>|17 (4.3) <4,4,3,6>|0|1|0|0|0%|65|![](https://media.fortniteapi.io/images/a4ae8f546570a63acd3d87f50d37bdfc/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f5a2fb23fafa18eebe48bf2bb33d3c2c/transparent.png){:height="35px"}|
-|3|Turd|TTV bluflyingfox|570.0|6.0 <4,1,13>|9 (3.0) <1,6,2>|0|1|0|0|100%|208|![](https://media.fortniteapi.io/images/c159c82-32d838a-e4f5c75-b021dab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|4|Fourth|xXsnazzychipXx|525.0|3.3 <5,2,3>|2 (1.0) <1,1,0>|0|0|0|0|100%|93|![](https://media.fortniteapi.io/images/a7357a2339f39bf2e76b3ddfa5b84ef8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e3e9d16-9aca214-c82eed9-b398cdc/transparent.png){:height="35px"}|
-|5|Jive|Sladernader30|525.0|9.7 <1,17,11>|8 (4.0) <7,0,1>|0|0|0|0|100%|144|![](https://media.fortniteapi.io/images/4c883d5-fae2066-25c7cc8-daefe01/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/39dd730-6b8a44c-c53ec7e-d19fa45/transparent.png){:height="35px"}|
-|6||ZeroCoolDL|515.0|4.5 <7,2,3,6>|4 (1.3) <1,2,1,0>|1|0|0|0|50%|113|![](https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7c9afa14cbc3d768fe4caabfeed34867/transparent.png){:height="35px"}|
+|1|G^gg|TTV SkiddlySkip|42.3|3.5 <1,1,5,7>|13 (3.3) <4,2,3,4>|0|0|0|0|25%|308|![](https://media.fortniteapi.io/images/a0cf0eb956aa5483a9ae4394d1157ff3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/895655a-7f0c2ad-e3a4aa8-983ef5e/transparent.png){:height="35px"}|
+|2|bitties|AMYLCx|32.2|4.3 <1,4,6,6>|14 (4.7) <3,5,6,0>|0|0|0|0|25%|311|![](https://media.fortniteapi.io/images/04d7bd3eed40ebe4794958c43e213398/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|3|stars|FBKrazyKeith|31.1|6.5 <7,3,5,11>|5 (2.5) <0,3,2,0>|0|0|0|0|75%|99|![](https://media.fortniteapi.io/images/c765c24d97490acabfe948bbac2318bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|nada!|webbion|29.5|5.0 <5,7,4,4>|4 (2.0) <1,0,0,3>|0|0|0|1|75%|72|![](https://media.fortniteapi.io/images/72531e5d4799c8fa519ff719e473fdf9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/transparent.png){:height="35px"}|
+|5|bruh?|xxxWIGGLES35xxx|29.1|4.0 <1,2,9>|5 (2.5) <3,2,0>|0|0|0|0|100%|88|![](https://media.fortniteapi.io/images/17489d8dc4858bfe76f96537f85110ec/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/29bb311ca8def3abb5e485a31c68a32d/transparent.png){:height="35px"}|
+|6||ᴍᴏʟꜱᴏɴ|28.6|3.0 <7,1,1>|5 (2.5) <3,0,2>|1|0|0|0|100%|175|![](https://media.fortniteapi.io/images/a97caf0bd36ab4c7fa271683ddb78c8c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
@@ -88,7 +88,7 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 **2022.10.29** - [RESULTS](https://www.kaso.gg/2022_10_29_JohnnyTaco) Just happened to see [JohnnyTaco](https://www.twitch.tv/johnny_the_taco) doing customs so I logged a couple hours of games. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
 
-**2022.09.01** - [RESULTS](https://www.kaso.gg/2022_10_27_SomeSaucy) I stopped by [SomeSaucy](https://www.twitch.tv/somesaucy) and just for fun logged some duos games. We had 7 matches with 77 unique people and the biggest lobby had 37 playing. There were 2 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was '?? Tw?tch Ugw? ?' at 7, welcome to our lobby you GOAT! About 81.8% of us used girl skins. Guess what, we eliminated one NPCs, they will be back next game though. By the way, Four people need to turn off ANONYMOUS MODE. 31 people have donkey laugh in their locker emotes, HEE HAW!
+**2022.10.27** - [RESULTS](https://www.kaso.gg/2022_10_27_SomeSaucy) I stopped by [SomeSaucy](https://www.twitch.tv/somesaucy) and just for fun logged some duos games. We had 7 matches with 77 unique people and the biggest lobby had 37 playing. There were 2 people who played every match. The highest XP level was 'Twitch Wokasins' at 310. The lowest XP was '?? Tw?tch Ugw? ?' at 7, welcome to our lobby you GOAT! About 81.8% of us used girl skins. Guess what, we eliminated one NPCs, they will be back next game though. By the way, Four people need to turn off ANONYMOUS MODE. 31 people have donkey laugh in their locker emotes, HEE HAW!
 
 **2022.09.01** - [RESULTS](https://www.kaso.gg/2022_09_01_NPChunt) We were just goofing around and killing NPCs for fun! We had 2 matches with 7 unique people and the biggest lobby had 6 playing. We had 5 people who played every match. The highest XP level was 'CPK_jamieo' at 225! The lowest XP was 'Swando Gaming' at 158, welcome to our lobby, friend. Most common skin was Castaway Jonesy (1 times), common axe was A.R.G.U.S. Sabre (1 times). Guess what, we eliminated 50 NPCs, RIP!
 
