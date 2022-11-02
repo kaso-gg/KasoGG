@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 02, 2022 07:06:17").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 02, 2022 07:07:20").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -75,7 +75,7 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 
 # Upcoming tournaments and Customs
-**November 2022** - CPK's CASH$ tournament. Invites will get the custom code first, then we public fill. Something like best 5 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
+**November 2022** - Kaso CASH$ tournament. Invites will get the custom code first, then we public fill. Something like best 5 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
 
