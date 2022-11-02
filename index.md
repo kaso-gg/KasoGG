@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 02, 2022 06:58:02").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 02, 2022 07:06:17").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,7 +38,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm tweaking this to "scale" for lobbies that aren't full (if you have 25 teams, you can't score on a 100 team scale!). I have full control over scoring based on placement. We can give poitns for being the 18th person eliminated, or take away points for the first kills of the game, and so forth.
+Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm tweaking this to "scale" for lobbies that aren't full (if you have 25 teams, you can't score on a 100 team scale!). I have full control over scoring based on placement. We can give points for being the 18th person eliminated, or take away points for the first kills of the game, and so forth. We can also do points for NPC kills and other fun stuff.
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
@@ -80,6 +80,8 @@ This table shows placement result sorted by points. Bold **player name** means t
 <br/>
 
 # Past Events
+
+**2022.11.01** - [RESULTS](https://www.kaso.gg/2022_11_01_Squads) [Skip][https://www.facebook.com/skiddlyskip], [Mojo][https://www.facebook.com/MojoBigStick], [Nicko][https://www.facebook.com/NickoGames], and [Rip Dilly](https://www.facebook.com/RipDilly) hosted squads.
 
 **2022.10.29** - [RESULTS](https://www.kaso.gg/2022_10_29_JohnnyTaco) Just happened to see [JohnnyTaco](https://www.twitch.tv/johnny_the_taco) doing customs so I logged a couple hours of games. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
 
