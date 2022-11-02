@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 01, 2022 19:25:23").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 01, 2022 19:27:19").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -33,17 +33,12 @@
 
 ![Doggo](/images/dogs/chalkboardDog1.png){:height="150px"}
 # Doggo is cALcuLaTINg...
-Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Updates happen usually within ~5 minutes after the end of match.
+Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event.
 
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-- Placement: 1st = 5 pts down to 10th = 0.5 pt
-- Elims: 1 pt per elim
-- Elim Siphon: 0.5 pt for each of your victim's kill count
-- Survival: 0.15 pt per minute (about 3pts to end game)
-- Bus: 1 pt for thanking bus driver
-- PENALTY: -10 pts anon mode
+Scoring is based on Chapter 3 Season 3 Arena points system for Division 7.
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
