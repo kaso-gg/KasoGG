@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 02, 2022 07:07:20").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 02, 2022 07:30:15").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -33,7 +33,7 @@
 
 ![Doggo](/images/dogs/chalkboardDog1.png){:height="150px"}
 # Doggo is cALcuLaTINg...
-Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event.
+Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page. The most recent scoring results will be on this page during the event. Data updates ~5 minutes after each match.
 
 
 
