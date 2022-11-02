@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 02, 2022 07:30:15").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 02, 2022 08:02:06").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,7 +43,7 @@ Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm t
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-Data updates ~5 minutes after each match. We had 7 matches with 120 unique people and the biggest lobby had 64 playing. There were 17 people who played every match. The highest XP level was 'CanadianFactorTV' at 308. The lowest XP was 'Rage-Baby' at 27, welcome to our lobby you GOAT! About 63.8% of us used girl skins. Guess what, we eliminated thirteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. 22 people have donkey laugh in their locker emotes, HEE HAW!
+We had 7 matches with 120 unique people and the biggest lobby had 64 playing. There were 17 people who played every match. The highest XP level was 'CanadianFactorTV' at 308. The lowest XP was 'Rage-Baby' at 27, welcome to our lobby you GOAT! About 63.8% of us used girl skins. Guess what, we eliminated thirteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. 22 people have donkey laugh in their locker emotes, HEE HAW!
 
 * Most common skins: PoisedPlaymaker(6), Bytes(4), Polarity(4)<br>
 * Most common pickaxes: StarWand(8), Reaper(7), Driver(6)<br>
