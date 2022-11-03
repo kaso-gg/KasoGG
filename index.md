@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 02, 2022 18:48:28").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 02, 2022 21:23:58").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -69,7 +69,7 @@ This table shows placement result sorted by points. Bold **player name** means t
 |3|Turd|F7 RipDillyOnFB|675.0|2.7 <1,1,1,3,3,8,2>|35 (5.8) <6,6,3,6,6,0,8>|0|0|0|0|100%|225|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
 |4|Fourth|SkiddlySkip|655.0|2.7 <1,1,1,3,3,8,2>|32 (4.6) <4,3,6,6,8,2,3>|0|0|0|1|43%|261|![](https://media.fortniteapi.io/images/ba1335e162101ae22b982180360d34c3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
 |5|Jive|ᵀʷⁱᵗᶜʰ ZayBae1x|575.0|5.1 <6,2,4,15,7,1,1>|17 (4.3) <0,1,3,0,0,4,9>|0|1|0|1|71%|104|![](https://media.fortniteapi.io/images/90283196e9baff14ed1ba93943d5710b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/778966daaa0a95313dd9fdd3488ba0e2/transparent.png){:height="35px"}|
-|6||CanadianFactorTV|505.0|5.1 <6,2,4,15,7,1,1>|12 (3.0) <2,0,1,0,0,8,1>|0|0|0|0|14%|308|![](https://media.fortniteapi.io/images/9ee2208-af767e3-3e46637-4918a3f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d0ede8f-343a5e4-ca342cf-06f23a6/transparent.png){:height="35px"}|
+|6||ARMYOFDARKNESS4|505.0|5.1 <6,2,4,15,7,1,1>|11 (2.2) <0,1,3,1,0,5,1>|0|0|0|0|100%|171|![](https://media.fortniteapi.io/images/e9d61c4a4aae593fbac8d72182da83f2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
@@ -81,7 +81,7 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 # Past Events
 
-**2022.11.01** - [RESULTS](https://www.kaso.gg/2022_11_01_Squads) [Skip][https://www.facebook.com/skiddlyskip], [Mojo][https://www.facebook.com/MojoBigStick], [Nicko][https://www.facebook.com/NickoGames], and [Rip Dilly](https://www.facebook.com/RipDilly) hosted squads. We had 7 matches with 120 unique people and the biggest lobby had 64 playing. There were 17 people who played every match. The highest XP level was 'CanadianFactorTV' at 308. The lowest XP was 'Rage-Baby' at 27, welcome to our lobby you GOAT! About 63.8% of us used girl skins. Guess what, we eliminated thirteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. 22 people have donkey laugh in their locker emotes, HEE HAW!
+**2022.11.01** - [RESULTS](https://www.kaso.gg/2022_11_01_Squads) [Skip](https://www.facebook.com/skiddlyskip), [Mojo](https://www.facebook.com/MojoBigStick), [Nicko](https://www.facebook.com/NickoGames), and [Rip Dilly](https://www.facebook.com/RipDilly) hosted squads. We had 7 matches with 120 unique people and the biggest lobby had 64 playing. There were 17 people who played every match. The highest XP level was 'CanadianFactorTV' at 308. The lowest XP was 'Rage-Baby' at 27, welcome to our lobby you GOAT! About 63.8% of us used girl skins. Guess what, we eliminated thirteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. 22 people have donkey laugh in their locker emotes, HEE HAW!
 
 **2022.10.29** - [RESULTS](https://www.kaso.gg/2022_10_29_JohnnyTaco) Just happened to see [JohnnyTaco](https://www.twitch.tv/johnny_the_taco) doing customs so I logged a couple hours of games. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
 
