@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 02, 2022 21:23:58").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 03, 2022 20:04:08").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,19 +43,19 @@ Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm t
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 7 matches with 120 unique people and the biggest lobby had 64 playing. There were 17 people who played every match. The highest XP level was 'CanadianFactorTV' at 308. The lowest XP was 'Rage-Baby' at 27, welcome to our lobby you GOAT! About 63.8% of us used girl skins. Guess what, we eliminated thirteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. 22 people have donkey laugh in their locker emotes, HEE HAW!
+We had 1 matches with 50 unique people and the biggest lobby had 50 playing. There were 50 people who played every match. The highest XP level was 'L2 Bin Laden' at 262. The lowest XP was 'nmehra54' at 12, welcome to our lobby you GOAT! About 91.3% of us used girl skins. Nobody killed an NPC, what gives? By the way, Four people need to turn off ANONYMOUS MODE. Twelve people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: PoisedPlaymaker(6), Bytes(4), Polarity(4)<br>
-* Most common pickaxes: StarWand(8), Reaper(7), Driver(6)<br>
-* Most common emotes: CrowningAchievement(50), LaughItUp(22), TheDip(20)<br>
+* Most common skins: Joltara(4), Bytes(1), Bullseye(1)<br>
+* Most common pickaxes: IceBreaker(9), StarWand(4), HarleyHitter(3)<br>
+* Most common emotes: LaughItUp(12), GetGriddy(10), Bringitaround(4)<br>
 
-Bot identified 4 error occurances affecting 4 player(s) with a net error balance of 20.00. Only ~40.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: F7 FURNESTO, johnmc2005, MordenBirder, NICKO on FB. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 1 error occurances affecting 1 player(s) with a net error balance of -250.00. Only ~250.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: . Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 21.8% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for -15.8% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|46,755|15,650|15,465|179.6%|0.0%|0.0%|0.0%|0.0%|21.8%|0.0%|0.0%|
+|5,485|3,500|-1,515|-115.2%|0.0%|0.0%|0.0%|0.0%|-15.8%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,12 +64,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|Obiwon|NICKO on FB|755.0|2.7 <1,1,1,3,3,8,2>|37 (5.3) <7,6,4,12,4,1,3>|0|1|0|0|29%|140|![](https://media.fortniteapi.io/images/d0ad8b2-38849f8-abef5ea-20bbefa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/c5cdb7a-bd19cd0-84ca6e1-f9ea485/transparent.png){:height="35px"}|
-|2|FirstLoser|TMojo Yurrr|695.0|2.7 <1,1,1,3,3,8,2>|27 (4.5) <6,6,8,3,2,0,2>|1|0|0|0|43%|140|![](https://media.fortniteapi.io/images/ed75411b50d130c08420a4599bc11a3c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f16d1a556ab61acad847dfef5f3c56a0/transparent.png){:height="35px"}|
-|3|Turd|F7 RipDillyOnFB|675.0|2.7 <1,1,1,3,3,8,2>|35 (5.8) <6,6,3,6,6,0,8>|0|0|0|0|100%|225|![](https://media.fortniteapi.io/images/ea4a5d0-7c1cd4a-7a9e792-7d981d2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|4|Fourth|SkiddlySkip|655.0|2.7 <1,1,1,3,3,8,2>|32 (4.6) <4,3,6,6,8,2,3>|0|0|0|1|43%|261|![](https://media.fortniteapi.io/images/ba1335e162101ae22b982180360d34c3/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6e445da8c2b47cf6cf54d554d126ef12/transparent.png){:height="35px"}|
-|5|Jive|ᵀʷⁱᵗᶜʰ ZayBae1x|575.0|5.1 <6,2,4,15,7,1,1>|17 (4.3) <0,1,3,0,0,4,9>|0|1|0|1|71%|104|![](https://media.fortniteapi.io/images/90283196e9baff14ed1ba93943d5710b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/778966daaa0a95313dd9fdd3488ba0e2/transparent.png){:height="35px"}|
-|6||ARMYOFDARKNESS4|505.0|5.1 <6,2,4,15,7,1,1>|11 (2.2) <0,1,3,1,0,5,1>|0|0|0|0|100%|171|![](https://media.fortniteapi.io/images/e9d61c4a4aae593fbac8d72182da83f2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|1|Obiwon|Twitch Scratdog|120.0|1.0 <1>|3 (3.0) <3>|0|0|0|0|0%|65|![](){:height="35px"}|![](){:height="35px"}|
+|2|FirstLoser|twitch braydz|75.0|2.0 <2>|4 (4.0) <4>|0|0|0|0|0%|158|![](){:height="35px"}|![](){:height="35px"}|
+|3|Turd|onyx kyn|40.0|4.0 <4>|4 (4.0) <4>|0|0|0|0|0%|127|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|4|Fourth|L2 Bin Laden|40.0|3.0 <3>|2 (2.0) <2>|0|0|0|0|0%|262|![](){:height="35px"}|![](){:height="35px"}|
+|5|Jive|Wiji 小|15.0|7.0 <7>|5 (5.0) <5>|0|0|0|0|0%|213|![](https://media.fortniteapi.io/images/04d7bd3eed40ebe4794958c43e213398/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|6||Prime Jimbo|15.0|5.0 <5>|1 (1.0) <1>|0|0|0|0|0%|30|![](){:height="35px"}|![](){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
