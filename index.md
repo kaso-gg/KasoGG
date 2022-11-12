@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 12, 2022 15:15:40").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 12, 2022 15:21:57").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,19 +43,19 @@ Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm t
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
+We had 1 matches with 100 unique people and the biggest lobby had 100 playing. There were 100 people who played every match. The highest XP level was 'SEN Bugha' at 295. The lowest XP was 'GUILD Hen 75' at 82, welcome to our lobby you GOAT! About 98.0% of us used girl skins. Nobody killed an NPC, what gives? One person was ANON mode, big sad. Fifteen people have donkey laugh in their locker emotes, HEE HAW!
 
+* Most common skins: Kor(18), SurfWitch(11), Focus(9)<br>
+* Most common pickaxes: IceBreaker(34), StuddedAxe(13), StarWand(12)<br>
+* Most common emotes: GetGriddy(31), TakeTheL(23), Bringitaround(21)<br>
 
-* Most common skins: <br>
-* Most common pickaxes: <br>
-* Most common emotes: <br>
+Bot identified 6 error occurances affecting 6 player(s) with a net error balance of 30.00. Only ~30.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: [FNCS] FS on1, [FNCS] GXR Queasy, [FNCS] WAVE VADEAL, Baily, BL Kami, Guild Anas. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-No routine scoring errors were detected. Please notify us if you feel anything was missed.
-
-
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for -16.4% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-
+|10,960|7,000|-3,010|-114.8%|0.0%|0.0%|0.0%|0.0%|-16.4%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,6 +64,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|1|Obiwon|BL Kami|125.0|1.0 <1>|4 (4.0) <4>|0|0|0|0|0%|1|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|FirstLoser|[FNCS] BL Settyz 8|115.0|1.0 <1>|2 (2.0) <2>|0|0|0|0|0%|1|![](https://media.fortniteapi.io/images/90283196e9baff14ed1ba93943d5710b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|3|Turd|Acorn|75.0|2.0 <2>|4 (4.0) <4>|0|0|0|0|0%|99|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|4|Fourth|[FNCS] FS Edgey|55.0|2.0 <2>||0|0|0|0|0%|1|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|5|Jive|[FNCS] PSG TNA KEWL|50.0|3.0 <3>|4 (4.0) <4>|0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
+|6||PSG TNA Yumi|45.0|3.0 <3>|3 (3.0) <3>|0|0|0|0|100%|93|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
