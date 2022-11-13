@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 13, 2022 16:34:51").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 13, 2022 16:49:47").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,19 +43,19 @@ Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm t
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 9 matches with 200 unique people and the biggest lobby had 100 playing. There were 0 people who played every match. The highest XP level was 'SEN Bugha' at 297. The lowest XP was 'Falconer' at 57, welcome to our lobby you GOAT! About 97.6% of us used girl skins. Nobody killed an NPC, what gives? By the way, Three people need to turn off ANONYMOUS MODE. Sixteen people have donkey laugh in their locker emotes, HEE HAW!
+We had 10 matches with 200 unique people and the biggest lobby had 100 playing. There were 0 people who played every match. The highest XP level was 'SEN Bugha' at 297. The lowest XP was 'Falconer' at 57, welcome to our lobby you GOAT! About 97.5% of us used girl skins. Nobody killed an NPC, what gives? By the way, Three people need to turn off ANONYMOUS MODE. Sixteen people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: SurfWitch(34), Kor(32), Tigeress(25)<br>
-* Most common pickaxes: IceBreaker(65), StarWand(31), StuddedAxe(26)<br>
-* Most common emotes: GetGriddy(33), Bringitaround(23), TakeTheL(23)<br>
+* Most common skins: Kor(37), SurfWitch(36), Tigeress(27)<br>
+* Most common pickaxes: IceBreaker(68), StarWand(32), StuddedAxe(29)<br>
+* Most common emotes: GetGriddy(33), TakeTheL(25), Bringitaround(24)<br>
 
-Bot identified 35 error occurances affecting 31 player(s) with a net error balance of 56.00. Only ~72.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: [FNCS] WAVE VADEAL, Falcon TaySon, ManCity Hellf, WAVE JannisZ, [FNCS] alex, [FNCS] Bravado FKS, [FNCS] cold, [FNCS] Cuhmmandment, [FNCS] FS Edgey, [FNCS] FS on1, [FNCS] GUILD Hen 75, [FNCS] GXR Queasy, [FNCS] J?efn, [FNCS] WAVE NOAHREYL, alex, Baily, BL Kami, EdRoadToGlory, Falcon Spy, favs3x, FS Edgey, Guild Anas, Jamper, kitoz, ManCity Threa, Mikson, trulex 381, TT9 Chico, vic0, WAVE NOAHREYL, Yousrixd. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 37 error occurances affecting 30 player(s) with a net error balance of 60.00. Only ~76.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: alex, Falcon TaySon, FS Edgey, ManCity Hellf, WAVE JannisZ, WAVE NOAHREYL, WAVE VADEAL, Baily, bifrost klown, BL Kami, Bravado FKS, cold, Cuhmmandment, EdRoadToGlory, Falcon Spy, favs3x, FS on1, Guild Anas, GUILD Hen 75, GXR Queasy, Jamper, J?efn, kitoz, ManCity Threa, Mikson, trulex 381, TT9 Chico, tundra pinquk, vic0, Yousrixd. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
 Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 15.4% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|11,526|00|11,582|85.1%|0.0%|0.0%|0.0%|0.0%|15.4%|0.0%|0.0%|
+|12,812|00|12,872|85.1%|0.0%|0.0%|0.0%|0.0%|15.4%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,12 +64,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|$100k|Tundra Veno|266.0|9.3 <5,4,21,32,1,2,1,14,4>|25 (3.1) <3,4,3,0,7,2,2,3,1>|0|0|0|0|22%|60|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|2|$100k|GXR Queasy|246.0|9.3 <5,4,21,32,1,2,1,14,4>|15 (2.1) <1,2,1,0,4,1,2,0,4>|0|0|0|0|11%|25|![](https://media.fortniteapi.io/images/c5ee0db8f7bdc6bfa2b925ab5eb8c7b9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ad66c8fb852a29ebdb4167c0562bf30f/transparent.png){:height="35px"}|
-|3|$70k|BL Settyz 8|246.0|10.6 <1,6,34,2,32,1,14,4,1>|18 (2.3) <2,1,1,3,0,4,2,2,3>|0|0|0|0|56%|55|![](https://media.fortniteapi.io/images/90283196e9baff14ed1ba93943d5710b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|4|$70k|AST Th0masHD|243.0|11.4 <11,15,8,7,4,4,7,13,34>|22 (2.8) <3,3,3,2,3,4,3,1,0>|0|0|0|0|0%|11|![](https://media.fortniteapi.io/images/d369130-9e518e8-cc5bfb6-a52d7c6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|5|$60k|BL Kami|242.0|10.6 <1,6,34,2,32,1,14,4,1>|16 (2.7) <4,3,0,1,1,4,0,0,3>|0|0|0|0|22%|77|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|6|$60k|cold|222.0|14.7 <47,1,6,17,3,40,11,5,2>|18 (3.0) <0,6,0,1,1,0,3,2,5>|0|0|0|0|100%|11|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|1|$100k|Tundra Veno|304.0|9.3 <5,4,21,32,1,2,1,14,4,9>|32 (3.6) <3,4,3,0,7,2,2,3,1,7>|0|0|0|0|20%|54|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|$100k|BL Settyz 8|280.0|10.0 <1,6,34,2,32,1,14,4,1,5>|21 (2.3) <2,1,1,3,0,4,2,2,3,3>|0|1|0|1|50%|50|![](https://media.fortniteapi.io/images/90283196e9baff14ed1ba93943d5710b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|3|$70k|BL Kami|276.0|10.0 <1,6,34,2,32,1,14,4,1,5>|19 (2.7) <4,3,0,1,1,4,0,0,3,3>|0|0|0|0|20%|86|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|$70k|AST Th0masHD|272.0|10.9 <11,15,8,7,4,4,7,13,34,6>|23 (2.6) <3,3,3,2,3,4,3,1,0,1>|0|0|0|0|0%|19|![](https://media.fortniteapi.io/images/d369130-9e518e8-cc5bfb6-a52d7c6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
+|5|$60k|GXR Queasy|270.0|9.3 <5,4,21,32,1,2,1,14,4,9>|15 (2.1) <1,2,1,0,4,1,2,0,4,0>|0|0|0|0|20%|45|![](https://media.fortniteapi.io/images/c5ee0db8f7bdc6bfa2b925ab5eb8c7b9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ad66c8fb852a29ebdb4167c0562bf30f/transparent.png){:height="35px"}|
+|6|$60k|cold|258.0|13.5 <47,1,6,17,3,40,11,5,2,3>|21 (3.0) <0,6,0,1,1,0,3,2,5,3>|0|0|0|0|100%|20|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
