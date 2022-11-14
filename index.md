@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 13, 2022 18:39:52").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 13, 2022 19:04:00").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,13 +43,13 @@ Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm t
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 12 matches with 200 unique people and the biggest lobby had 100 playing. There were 0 people who played every match. The highest XP level was 'SEN Bugha' at 297. The lowest XP was 'Falconer' at 57, welcome to our lobby you GOAT! About 97.1% of us used girl skins. Nobody killed an NPC, what gives? By the way, Three people need to turn off ANONYMOUS MODE. Sixteen people have donkey laugh in their locker emotes, HEE HAW!
+We had 12 matches with 100 unique people and the biggest lobby had 100 playing. There were 100 people who played every match. The highest XP level was 'SEN Bugha' at 297. The lowest XP was 'Falconer' at 57, welcome to our lobby you GOAT! About 97.1% of us used girl skins. Nobody killed an NPC, what gives? By the way, Three people need to turn off ANONYMOUS MODE. Sixteen people have donkey laugh in their locker emotes, HEE HAW!
 
 * Most common skins: SurfWitch(40), Kor(37), Focus(29)<br>
 * Most common pickaxes: IceBreaker(70), StarWand(35), StuddedAxe(31)<br>
 * Most common emotes: GetGriddy(33), TakeTheL(26), Bringitaround(24)<br>
 
-Bot identified 45 error occurances affecting 35 player(s) with a net error balance of 68.00. Only ~92.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: WAVE VADEAL, alex, Baily, Falcon TaySon, FS Edgey, ManCity Hellf, WAVE JannisZ, WAVE NOAHREYL, Yousrixd, basil, bifrost klown, BL Kami, Bravado FKS, cold, Cuhmmandment, EdRoadToGlory, Falcon Spy, favs3x, FS on1, Guild Anas, GUILD Hen 75, GXR Queasy, Jamper, J?efn, kitoz, ManCity Threa, Mikson, Peterbot ?, Phzin ?, PSG TNA Yumi, re?ake, trulex 381, TT9 Chico, tundra pinquk, vic0. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+Bot identified 45 error occurances affecting 40 player(s) with a net error balance of 68.00. Only ~92.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: [FNCS] WAVE VADEAL, Falcon TaySon, ManCity Hellf, WAVE JannisZ, Yousrixd, [FNCS] alex, [FNCS] Baily, [FNCS] Bravado FKS, [FNCS] cold, [FNCS] Cuhmmandment, [FNCS] FS Edgey, [FNCS] FS on1, [FNCS] GUILD Hen 75, [FNCS] GXR Queasy, [FNCS] J?efn, [FNCS] tundra pinquk, [FNCS] WAVE NOAHREYL, alex, Baily, basil, bifrost klown, BL Kami, EdRoadToGlory, Falcon Spy, favs3x, FS Edgey, Guild Anas, Jamper, kitoz, ManCity Threa, Mikson, Peterbot ?, Phzin ?, PSG TNA Yumi, re?ake, trulex 381, TT9 Chico, vic0, WAV. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
 Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 15.5% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
