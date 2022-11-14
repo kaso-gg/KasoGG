@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Nov 14, 2022 09:12:16").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Nov 14, 2022 09:37:02").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -64,12 +64,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|$100k|Tundra Veno|332.0|12.9 <5,4,21,32,1,2,1,14,4,9,13,49>|36 (3.6) <3,4,3,0,7,2,2,3,1,7,4,0>|0|0|0|0|25%|45|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|1|$70k|Tundra Veno|332.0|12.9 <5,4,21,32,1,2,1,14,4,9,13,49>|36 (3.6) <3,4,3,0,7,2,2,3,1,7,4,0>|0|0|0|0|25%|45|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
 |2|$100k|BL Settyz 8|328.0|11.3 <1,6,34,2,32,1,14,4,1,5,1,34>|27 (2.7) <2,1,1,3,0,4,2,2,3,3,6,0>|0|1|0|1|42%|42|![](https://media.fortniteapi.io/images/eddc5c06c11c4826d698b4bfcdce74fa/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|3|$70k|BL Kami|324.0|11.3 <1,6,34,2,32,1,14,4,1,5,1,34>|25 (2.8) <4,3,0,1,1,4,0,0,3,3,4,2>|0|0|0|0|17%|86|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|4|$70k|cold|294.0|14.1 <47,1,6,17,3,40,11,5,2,3,15,19>|23 (2.6) <0,6,0,1,1,0,3,2,5,3,1,1>|0|0|0|0|100%|33|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|5|$60k|GXR Queasy|292.0|12.9 <5,4,21,32,1,2,1,14,4,9,13,49>|16 (2.0) <1,2,1,0,4,1,2,0,4,0,1,0>|0|0|0|0|17%|56|![](https://media.fortniteapi.io/images/c5ee0db8f7bdc6bfa2b925ab5eb8c7b9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ad66c8fb852a29ebdb4167c0562bf30f/transparent.png){:height="35px"}|
-|6|$60k|AST Th0masHD|282.0|13.8 <11,15,8,7,4,4,7,13,34,6,30,27>|23 (2.6) <3,3,3,2,3,4,3,1,0,1,0,0>|0|0|0|0|0%|31|![](https://media.fortniteapi.io/images/d369130-9e518e8-cc5bfb6-a52d7c6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
+|3|$100k|BL Kami|324.0|11.3 <1,6,34,2,32,1,14,4,1,5,1,34>|25 (2.8) <4,3,0,1,1,4,0,0,3,3,4,2>|0|0|0|0|17%|86|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|$60k|cold|294.0|14.1 <47,1,6,17,3,40,11,5,2,3,15,19>|23 (2.6) <0,6,0,1,1,0,3,2,5,3,1,1>|0|0|0|0|100%|33|![](https://media.fortniteapi.io/images/f80a6e5ef23990f7d04e0ffb9a8d1640/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|5|$70k|GXR Queasy|292.0|12.9 <5,4,21,32,1,2,1,14,4,9,13,49>|16 (2.0) <1,2,1,0,4,1,2,0,4,0,1,0>|0|0|0|0|17%|56|![](https://media.fortniteapi.io/images/c5ee0db8f7bdc6bfa2b925ab5eb8c7b9/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ad66c8fb852a29ebdb4167c0562bf30f/transparent.png){:height="35px"}|
+|6|$45k|AST Th0masHD|282.0|13.8 <11,15,8,7,4,4,7,13,34,6,30,27>|23 (2.6) <3,3,3,2,3,4,3,1,0,1,0,0>|0|0|0|0|0%|31|![](https://media.fortniteapi.io/images/d369130-9e518e8-cc5bfb6-a52d7c6/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
