@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Feb 16, 2023 17:36:19").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Feb 16, 2023 17:36:58").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,9 +43,9 @@ Scoring is based on C3S3 Arena points system for Division 7. It's going to be a 
 [Kimmell Gaming](https://www.facebook.com/kimmellgaming)<br>
 [Uncle Frank](https://www.facebook.com/unclefranksfactory)<br>
 [OutKastLive](https://www.facebook.com/OutKastLive)<br>
-https://www.facebook.com/AllTimePrime(https://www.facebook.com/AllTimePrime)<br>
-https://www.facebook.com/NickoGames/(https://www.facebook.com/NickoGames/)<br>
-https://www.twitch.tv/twitchdestro_(https://www.twitch.tv/twitchdestro_)<br>
+[AllTimePrime](https://www.facebook.com/AllTimePrime)<br>
+[Nicko](https://www.facebook.com/NickoGames/)<br>
+[Destro](https://www.twitch.tv/twitchdestro_)<br>
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
