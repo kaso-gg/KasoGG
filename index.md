@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Feb 16, 2023 16:53:12").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Feb 16, 2023 17:28:21").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,24 +38,30 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. It's going to be a ton of fun and we've got some serious players. Who's going to be on top?.
+Scoring is based on C3S3 Arena points system for Division 7. It's going to be a ton of fun and we've got some serious players. Who's going to be on top?. Today's streamers:
+https://www.facebook.com/skiddlyskip
+https://www.twitch.tv/twitchdestro_
+https://www.facebook.com/kimmellgaming
+
+
+
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 8 matches with 33 unique people and the biggest lobby had 20 playing. There were 4 people who played every match. The highest XP level was 'RainbowPlsFan' at 252. The lowest XP was 'D3buff' at 11, welcome to our lobby you GOAT! About 60.4% of us used girl skins. Guess what, we eliminated four NPCs, they will be back next game though. By the way, Two people need to turn off ANONYMOUS MODE. Three people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: Spider-Gwen(3), Bytes(2), DiamondHanz(2)<br>
-* Most common pickaxes: Reaper(4), BladeoftheWaningMoon(2), Crowbar(2)<br>
-* Most common emotes: CrowningAchievement(8), PumpMeUp(7), GetGriddy(5)<br>
 
-Bot identified 1 error occurances affecting 1 player(s) with a net error balance of 0.96. Only ~0.96 total tournament points are at question due to kill feed data discrepancies. Affected players are: Garciauli747. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+* Most common skins: <br>
+* Most common pickaxes: <br>
+* Most common emotes: <br>
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 7.1% of all points earned this session and 11.9% of the points were given out for thanking the bus driver, LOL.
+No routine scoring errors were detected. Please notify us if you feel anything was missed.
+
+
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|883|68|748|39.3%|-4.0%|12.9%|11.9%|23.8%|7.1%|8.5%|0.6%|
+
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,18 +70,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|bruh?|OFAD_SPECIALIST|49.7|3.2 <1,2,10,2,1>|8 (2.0) <1,5,0,1,1>|0|0|0|0|80%|87|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/65e15ffba968b03d600a5411704876e4/transparent.png){:height="35px"}|
-|2|nada!|MghtyBruceLeroy|48.7|6.0 <1,10,4,9,3,5,10>|5 (2.5) <4,0,0,0,1,0,0>|0|0|0|0|100%|107|![](https://media.fortniteapi.io/images/d41a043620a840291e2bb2f754dcfb7b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/375116215fc92197289b5268aea0948b/transparent.png){:height="35px"}|
-|3|G^gg|Garciauli747|47.5|5.3 <15,4,2,4,5,4,3>|10 (2.5) <0,3,0,1,0,2,4>|1|0|1|0|86%|163|![](https://media.fortniteapi.io/images/eed1dc1709f78c998adf0df066086eed/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|4|stars|FreshUnk|45.5|4.8 <5,6,11,1,5,1>|4 (1.0) <1,0,0,1,1,1>|0|0|1|1|50%|59|![](https://media.fortniteapi.io/images/164b6aad9ac6e84a008d8cb75a03709e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/95b9eb8934ad6ae52af0e9ab075207e6/transparent.png){:height="35px"}|
-|5|bitties|TwitchDestro|43.5|7.6 <14,8,9,4,3,7,2,14>|7 (2.3) <0,0,0,2,0,2,3,0>|0|0|1|1|38%|85|![](https://media.fortniteapi.io/images/b4ef9b1bac7fbf1f507478cddb8fcd0a/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|6||patrickpjscott|40.4|3.8 <3,3,1,5,4,7>|29 (4.8) <2,9,12,2,1,3>|0|2|0|0|83%|133|![](https://media.fortniteapi.io/images/7e7ec6a-0ec6229-5b3667d-f7c2d49/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f33b9ce-7202975-6778b2d-3fc30e2/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
 
 # Upcoming tournaments and Customs
-**November 2022** - Kaso CASH$ tournament. Invites will get the custom code first, then we public fill. Something like best 5 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
+**May 2023** - Kaso CASH$ tournament. Invites will get the custom code first, then we public fill. Something like best 5 games scoring or possibly a two-day thing? Maybe $200 to win, $100 2nd, $100 viewers choice, $100 to the coolest bot. (working on an algorithm, but we're gonna make it fun even if you don't dominate). Streamers welcome, everyone gets promoted on the tournament page and we'll do live scoring at the end of each game including analytics on kill feed and other cool stuff.
 <br/>
 <br/>
 
