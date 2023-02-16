@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Feb 16, 2023 16:45:18").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Feb 16, 2023 16:51:50").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,7 +38,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. I'm tweaking this to "scale" for lobbies that aren't full (if you have 25 teams, you can't score on a 100 team scale!). I have full control over scoring based on placement. We can give points for being the 18th person eliminated, or take away points for the first kills of the game, and so forth. We can also do points for NPC kills and other fun stuff.
+Scoring is based on Chapter 3 Season 3 Arena points system for Division 7. It's going to be a ton of fun and we've got some serious players. Who's going to be on top?.
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
