@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Feb 16, 2023 17:31:54").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Feb 16, 2023 17:33:40").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -39,14 +39,13 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
 Scoring is based on C3S3 Arena points system for Division 7. It's going to be a ton of fun and we've got some serious players. Who's going to be on top?. Today's streamers:
-https://www.facebook.com/skiddlyskip
-https://www.twitch.tv/twitchdestro_
-https://www.facebook.com/kimmellgaming
-https://www.facebook.com/NickoGames/
-https://www.facebook.com/unclefranksfactory
-https://www.facebook.com/OutKastLive
-https://www.facebook.com/AllTimePrime
-https://www.facebook.com/NickoGames/
+https://www.facebook.com/skiddlyskip(https://www.facebook.com/skiddlyskip)
+https://www.facebook.com/kimmellgaming(https://www.facebook.com/kimmellgaming)
+https://www.facebook.com/unclefranksfactory(https://www.facebook.com/unclefranksfactory)
+https://www.facebook.com/OutKastLive(https://www.facebook.com/OutKastLive)
+https://www.facebook.com/AllTimePrime(https://www.facebook.com/AllTimePrime)
+https://www.facebook.com/NickoGames/(https://www.facebook.com/NickoGames/)
+https://www.twitch.tv/twitchdestro_(https://www.twitch.tv/twitchdestro_)
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
