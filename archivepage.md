@@ -142,13 +142,13 @@ This table shows placement result sorted by points. Bold **player name** means t
 Top five <strong>longest</strong> SINGLE eliminations:<br>
 * SickPlaysFB <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokGreed.GGs at 8:27 near <strong>LightCastle</strong>, with a HeavySniper from 241m<br>
 * SickPlaysFB <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokGreed.GGs at 8:27 near <strong>LightCastle</strong>, with a HeavySniper from 241m<br>
-* NICKOonFB <strong><span style="color:crimson;background-color:">Terminated</span></strong> OutofNowhereGirl at 17:30, with a assault rifle from 216m<br>
+* NICKOonFB <strong><span style="color:crimson;background-color:">Killed</span></strong> OutofNowhereGirl at 17:30, with a assault rifle from 216m<br>
 * ObeyRealPrince <strong><span style="color:blue;background-color:">Knocked</span></strong> KingOfCaffeine at 14:46 near <strong>MedievalTown</strong>, with a HeavySniper from 181m<br>
 * SkiddlySkip <strong><span style="color:blue;background-color:">Knocked</span></strong> Muttdogs at 17:02 near <strong>FortaniumQuarry</strong>, with a assault rifle from 167m<br>
 
 Top five <strong>close range</strong> SINGLE eliminations:<br>
-* SleeplessREM-GG <strong><span style="color:crimson;background-color:">Terminated</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
-* SleeplessREM-GG <strong><span style="color:crimson;background-color:">Eradicated</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
+* SleeplessREM-GG <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
+* SleeplessREM-GG <strong><span style="color:crimson;background-color:">Eliminated</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
 * LtothaBeezyttv <strong><span style="color:blue;background-color:">Knocked</span></strong> FBUncleFrank at 17:24, with a tactical shotgun from 1m<br>
 * FBUncleFrank <strong><span style="color:blue;background-color:">Knocked</span></strong> YiKESFL at 10:10 near <strong>FortaniumQuarry</strong>, with a assault rifle from 1m<br>
 * FBUncleFrank <strong><span style="color:blue;background-color:">Knocked</span></strong> YiKESFL at 10:10 near <strong>FortaniumQuarry</strong>, with a assault rifle from 1m<br>
@@ -160,8 +160,8 @@ Top three most lethal long distance players:<br>
 
 MDNTSwoley <strong><span style="color:blue;background-color:">Knocked</span></strong> MattyOnGameBoy at 2:40 near <strong>SplitTown</strong>, with a tactical shotgun from 4m<br>
 MDNTSwoley <strong><span style="color:blue;background-color:">Knocked</span></strong> MattyOnGameBoy at 2:41 near <strong>SplitTown</strong>, with a tactical shotgun from 4m<br>
-MR-AFK- <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MR-AFK- at 2:41<br>
-MR-AFK- <strong><span style="color:crimson;background-color:">Terminated</span></strong> MR-AFK- at 2:41<br>
+MR-AFK- <strong><span style="color:crimson;background-color:">Eradicated</span></strong> MR-AFK- at 2:41<br>
+MR-AFK- <strong><span style="color:crimson;background-color:">Killed</span></strong> MR-AFK- at 2:41<br>
 MDNTSwoley <strong><span style="color:purple;background-color:">Carded</span></strong> MattyOnGameBoy at 2:45 from 2m<br>
 MDNTKimmell <strong><span style="color:blue;background-color:">Knocked</span></strong> FBClassy at 3:10 near <strong>SplitTown</strong>, with a assault rifle from 8m<br>
 MDNTKimmell <strong><span style="color:blue;background-color:">Knocked</span></strong> ReadyUpJeffHaHa at 3:15 near <strong>SplitTown</strong>, with a assault rifle from 4m<br>
@@ -178,7 +178,8 @@ MDNTSwoley <strong><span style="color:blue;background-color:">Knocked</span></st
 smidster1256 <strong><span style="color:blue;background-color:">Knocked</span></strong> FNCSEthan17 at 3:21, with a HeavySniper from 47m<br>
 MDNT-Stiles <strong><span style="color:blue;background-color:">Knocked</span></strong> SleeplessREM-GG at 3:30 near <strong>SplitTown</strong>, with a burst assault rifle from 4m<br>
 Nadroj1987 <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNT-Stiles at 3:31 near <strong>SplitTown</strong>, with a smg from 45m<br>
-FNCSEthan17 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> YiKESFL at 3:32, with a HandCannon<br>
+FNCSEthan17 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> YiKESFL at 3:32, with a HandCannon<br>
+FNCSEthan17 <strong><span style="color:crimson;background-color:">Shredded</span></strong> YiKESFL at 3:32, with a HandCannon<br>
 Theprinciple465 <strong><span style="color:purple;background-color:">Carded</span></strong> Tshel5190 at 3:32, with a burst assault rifle from 4m<br>
 OutKastOnFB <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 3:39 near <strong>FortaniumQuarry</strong>, with a assault rifle from 9m (why you pick on NPCs?)<br>
 Nadroj1987 <strong><span style="color:purple;background-color:">Carded</span></strong> MDNT-Stiles at 3:41 near <strong>SplitTown</strong>, with a Grenade from 68m<br>
@@ -197,8 +198,8 @@ FBAllTimePrime <strong><span style="color:dodgerblue;background-color:yellow">BU
 OutKastOnFB <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ChaosDoubleAgent at 4:10 near <strong>FortaniumQuarry</strong>, with a pump shotgun from 4m (why you pick on NPCs?)<br>
 Cold Blooded Suit was <strong><span style="color:dodgerblue;background-color:yellow">revived</span></strong>  at 4:11<br>
 Cold Blooded Suit was <strong><span style="color:dodgerblue;background-color:yellow">revived</span></strong>  at 4:12<br>
-MDNTSwoley <strong><span style="color:crimson;background-color:">Eliminated</span></strong> SleeplessREM-GG at 4:12 near <strong>SplitTown</strong>, with a assault rifle from 57m<br>
-MDNTSwoley <strong><span style="color:crimson;background-color:">Shredded</span></strong> SleeplessREM-GG at 4:13 near <strong>SplitTown</strong>, with a assault rifle from 57m<br>
+MDNTSwoley <strong><span style="color:crimson;background-color:">Clapped</span></strong> SleeplessREM-GG at 4:12 near <strong>SplitTown</strong>, with a assault rifle from 57m<br>
+MDNTSwoley <strong><span style="color:crimson;background-color:">Smoked</span></strong> SleeplessREM-GG at 4:13 near <strong>SplitTown</strong>, with a assault rifle from 57m<br>
 FBAllTimePrime <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 4:20 near <strong>NorthHarbor</strong>, with a assault rifle from 20m (why you pick on NPCs?)<br>
 TTVSickProdigy <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 4:20 near <strong>LightCastle</strong>, with a smg from 2m (why you pick on NPCs?)<br>
 MDNTSwoley <strong><span style="color:purple;background-color:">Carded</span></strong> Liliypad at 4:22 near <strong>SplitTown</strong>, with a tactical shotgun<br>
@@ -266,13 +267,13 @@ SleeplessREM-GG <strong><span style="color:purple;background-color:">Carded</spa
 Youtube-Jaay-Tee <strong><span style="color:blue;background-color:">Knocked</span></strong> PaPiHUDSHY at 7:14 near <strong>Farm</strong>, with a smg from 21m<br>
 FNCS Ethan17 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 7:15<br>
 ImBuiltDiferent1 <strong><span style="color:blue;background-color:">Knocked</span></strong> Waifumeplease at 7:19 near <strong>Farm</strong>, with a burst assault rifle from 13m<br>
-Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Terminated</span></strong> ImBuiltDiferent1 at 7:19 near <strong>Farm</strong>, with a smg from 18m<br>
+Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ImBuiltDiferent1 at 7:19 near <strong>Farm</strong>, with a smg from 18m<br>
 ImBuiltDiferent1 <strong><span style="color:blue;background-color:">Knocked</span></strong> Waifumeplease at 7:20 near <strong>Farm</strong>, with a burst assault rifle from 13m<br>
-Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Melted</span></strong> PaPiHUDSHY at 7:20 near <strong>Farm</strong>, with a smg<br>
-Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ImBuiltDiferent1 at 7:20 near <strong>Farm</strong>, with a smg from 18m<br>
-Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PaPiHUDSHY at 7:20 near <strong>Farm</strong>, with a smg<br>
-twitchtigerwyd <strong><span style="color:crimson;background-color:">Killed</span></strong> MDNT-AlltheLight at 7:25 near <strong>SplitTown</strong>, with a assault rifle from 3m<br>
-twitchtigerwyd <strong><span style="color:crimson;background-color:">Smoked</span></strong> MDNT-AlltheLight at 7:23 near <strong>SplitTown</strong>, with a assault rifle from 3m<br>
+Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">NuKEd</span></strong> PaPiHUDSHY at 7:20 near <strong>Farm</strong>, with a smg<br>
+Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> PaPiHUDSHY at 7:20 near <strong>Farm</strong>, with a smg<br>
+Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Beamed</span></strong> ImBuiltDiferent1 at 7:20 near <strong>Farm</strong>, with a smg from 18m<br>
+twitchtigerwyd <strong><span style="color:crimson;background-color:">Clapped</span></strong> MDNT-AlltheLight at 7:23 near <strong>SplitTown</strong>, with a assault rifle from 3m<br>
+twitchtigerwyd <strong><span style="color:crimson;background-color:">Obliterated</span></strong> MDNT-AlltheLight at 7:25 near <strong>SplitTown</strong>, with a assault rifle from 3m<br>
 NastalG <strong><span style="color:blue;background-color:">Knocked</span></strong> OwlPacino96 at 7:41 near <strong>SplitTown</strong>, with a assault rifle from 14m<br>
 Waifu me please was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 7:41<br>
 Waifu me please was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 7:42<br>
@@ -293,10 +294,10 @@ Bouliebeans was <strong><span style="color:black;background-color:lime">REBOOTED
 LtothaBeezyttv <strong><span style="color:blue;background-color:">Knocked</span></strong> giantamongst at 7:55 near <strong>SplitTown</strong>, with a assault rifle from 60m<br>
 LtothaBeezyttv <strong><span style="color:blue;background-color:">Knocked</span></strong> giantamongst at 7:55 near <strong>SplitTown</strong>, with a assault rifle from 60m<br>
 triqulify <strong><span style="color:purple;background-color:">Carded</span></strong> GRafAaliyah at 7:55 near <strong>SplitTown</strong>, with a SuppressedPistol from 10m<br>
-Cowboyz1119415 <strong><span style="color:crimson;background-color:">Killed</span></strong> hurley7324 at 7:59 near <strong>SplitTown</strong>, with a assault rifle<br>
-twitchtigerwyd <strong><span style="color:crimson;background-color:">Killed</span></strong> NastalG at 7:59 near <strong>SplitTown</strong>, with a assault rifle from 81m<br>
-Cowboyz1119415 <strong><span style="color:crimson;background-color:">Beamed</span></strong> hurley7324 at 7:59 near <strong>SplitTown</strong>, with a assault rifle<br>
-twitchtigerwyd <strong><span style="color:crimson;background-color:">Shredded</span></strong> NastalG at 8:00 near <strong>SplitTown</strong>, with a assault rifle from 81m<br>
+Cowboyz1119415 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> hurley7324 at 7:59 near <strong>SplitTown</strong>, with a assault rifle<br>
+twitchtigerwyd <strong><span style="color:crimson;background-color:">Eliminated</span></strong> NastalG at 7:59 near <strong>SplitTown</strong>, with a assault rifle from 81m<br>
+Cowboyz1119415 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> hurley7324 at 7:59 near <strong>SplitTown</strong>, with a assault rifle<br>
+twitchtigerwyd <strong><span style="color:crimson;background-color:">Eliminated</span></strong> NastalG at 8:00 near <strong>SplitTown</strong>, with a assault rifle from 81m<br>
 Youtube-Jaay-Tee <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 8:01 near <strong>Farm</strong>, with a pump shotgun from 4m (why you pick on NPCs?)<br>
 PurplChikNik <strong><span style="color:blue;background-color:">Knocked</span></strong> MattyOnGameBoy at 8:16, with a smg from 3m<br>
 PurplChikNik <strong><span style="color:blue;background-color:">Knocked</span></strong> MattyOnGameBoy at 8:17, with a smg from 3m<br>
@@ -305,9 +306,9 @@ FBClassy <strong><span style="color:blue;background-color:">Knocked</span></stro
 HDRtiger <strong><span style="color:purple;background-color:">Carded</span></strong> Theprinciple465 at 8:21, with a tactical shotgun from 3m<br>
 SleeplessREM-GG <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PurplChikNik at 8:21, with a pump shotgun from 11m<br>
 HDRtiger <strong><span style="color:purple;background-color:">Carded</span></strong> Theprinciple465 at 8:21, with a tactical shotgun from 3m<br>
-SleeplessREM-GG <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PurplChikNik at 8:21, with a pump shotgun from 11m<br>
-SleeplessREM-GG <strong><span style="color:crimson;background-color:">Eradicated</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
-SleeplessREM-GG <strong><span style="color:crimson;background-color:">Terminated</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
+SleeplessREM-GG <strong><span style="color:crimson;background-color:">Killed</span></strong> PurplChikNik at 8:21, with a pump shotgun from 11m<br>
+SleeplessREM-GG <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
+SleeplessREM-GG <strong><span style="color:crimson;background-color:">Eliminated</span></strong> IsaacEffinStylin at 8:23, with a smg from 1m<br>
 giantamongst was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 8:25<br>
 SickPlaysFB <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokGreed.GGs at 8:27 near <strong>LightCastle</strong>, with a HeavySniper from 241m<br>
 Matty_On_GameBoy was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 8:37<br>
@@ -322,7 +323,6 @@ CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</
 twitchtigerwyd <strong><span style="color:purple;background-color:">Carded</span></strong> giantamongst at 9:29 near <strong>SplitTown</strong>, with a ShotgunBreach from 4m<br>
 twitchtigerwyd <strong><span style="color:purple;background-color:">Carded</span></strong> giantamongst at 9:30 near <strong>SplitTown</strong>, with a ShotgunBreach from 4m<br>
 HDRtiger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Jquest77 at 9:34, with a pistol from 31m<br>
-HDRtiger <strong><span style="color:crimson;background-color:">Killed</span></strong> Jquest77 at 9:34, with a pistol from 31m<br>
 TTVSickProdigy <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 9:59 near <strong>LightCastle</strong>, with a tactical shotgun from 1m (why you pick on NPCs?)<br>
 TikTokGreed.GGs <strong><span style="color:blue;background-color:">Knocked</span></strong> Muttdogs at 10:04 near <strong>LightCastle</strong>, with a tactical shotgun from 6m<br>
 FAIR2YOU <strong><span style="color:blue;background-color:">Knocked</span></strong> FAIR2YOU at 10:04, with a FallDamage from 23m<br>
@@ -331,8 +331,8 @@ FBUncleFrank <strong><span style="color:blue;background-color:">Knocked</span></
 TikTokGreed.GGs <strong><span style="color:purple;background-color:">Carded</span></strong> Muttdogs at 10:12 near <strong>LightCastle</strong>, with a assault rifle from 1m<br>
 ReadyUpJeffHaHa was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 10:17<br>
 FBUncleFrank <strong><span style="color:purple;background-color:">Carded</span></strong> YiKESFL at 10:18 near <strong>FortaniumQuarry</strong>, with a smg from 8m<br>
-twitchtigerwyd <strong><span style="color:crimson;background-color:">Eliminated</span></strong> triqulify at 10:25, with a assault rifle from 41m<br>
-twitchtigerwyd <strong><span style="color:crimson;background-color:">Killed</span></strong> triqulify at 10:25, with a assault rifle from 41m<br>
+twitchtigerwyd <strong><span style="color:crimson;background-color:">Melted</span></strong> triqulify at 10:25, with a assault rifle from 41m<br>
+twitchtigerwyd <strong><span style="color:crimson;background-color:">Terminated</span></strong> triqulify at 10:25, with a assault rifle from 41m<br>
 NICKOonFB <strong><span style="color:purple;background-color:">Carded</span></strong> sniperkid-GGs at 10:35, with a assault rifle from 8m<br>
 Twitchelee <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNTAshley at 10:35, with a assault rifle from 49m<br>
 fifa-hotsauce <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNT-Linkfuzzbal at 10:38, with a assault rifle from 26m<br>
@@ -344,12 +344,12 @@ SkiddlySkip <strong><span style="color:blue;background-color:">Knocked</span></s
 FAIR2YOU was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 10:45<br>
 FBAllTimePrime <strong><span style="color:purple;background-color:">Carded</span></strong> Megasauras97 at 10:46, with a pump shotgun from 2m<br>
 FBAllTimePrime <strong><span style="color:purple;background-color:">Carded</span></strong> Megasauras97 at 10:47, with a pump shotgun from 2m<br>
-FBClassy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Bouliebeans at 10:50, with a assault rifle from 101m<br>
+FBClassy <strong><span style="color:crimson;background-color:">Killed</span></strong> Bouliebeans at 10:50, with a assault rifle from 101m<br>
+Twitchelee <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MDNTAshley at 10:50, with a assault rifle<br>
+CHELOWRD <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Tshel5190 at 10:50, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
+CHELOWRD <strong><span style="color:crimson;background-color:">Killed</span></strong> Tshel5190 at 10:50, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
+FBClassy <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> Bouliebeans at 10:51, with a assault rifle from 101m<br>
 Twitchelee <strong><span style="color:crimson;background-color:">Terminated</span></strong> MDNTAshley at 10:50, with a assault rifle<br>
-CHELOWRD <strong><span style="color:crimson;background-color:">Beamed</span></strong> Tshel5190 at 10:50, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-CHELOWRD <strong><span style="color:crimson;background-color:">Melted</span></strong> Tshel5190 at 10:50, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-FBClassy <strong><span style="color:crimson;background-color:">Killed</span></strong> Bouliebeans at 10:51, with a assault rifle from 101m<br>
-Twitchelee <strong><span style="color:crimson;background-color:">Killed</span></strong> MDNTAshley at 10:50, with a assault rifle<br>
 Guttedheart1444 <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokGreed.GGs at 11:05 near <strong>LightCastle</strong>, with a HandCannon from 7m<br>
 Guttedheart1444 <strong><span style="color:purple;background-color:">Carded</span></strong> TikTokGreed.GGs at 11:09 near <strong>LightCastle</strong>, with a pump shotgun from 2m<br>
 smidster1256 <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchDestro at 11:19, with a HeavySniper from 131m<br>
@@ -360,11 +360,12 @@ FBClassy <strong><span style="color:purple;background-color:">Carded</span></str
 FBClassy <strong><span style="color:purple;background-color:">Carded</span></strong> TTVbellasnipes at 11:54, with a pistol<br>
 CHELOWRD <strong><span style="color:blue;background-color:">Knocked</span></strong> Twitchelee at 11:59, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 16m<br>
 CHELOWRD <strong><span style="color:blue;background-color:">Knocked</span></strong> fifa-hotsauce at 12:05, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 43m<br>
-FBClassy <strong><span style="color:crimson;background-color:">Melted</span></strong> fifa-hotsauce at 12:09, with a rocket launcher from 7m<br>
-CHELOWRD <strong><span style="color:crimson;background-color:">Obliterated</span></strong> Twitchelee at 12:10, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-CHELOWRD <strong><span style="color:crimson;background-color:">Shredded</span></strong> Twitchelee at 12:10, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-FBClassy <strong><span style="color:crimson;background-color:">Destroyed</span></strong> jickyron at 12:11, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 7m<br>
-FBClassy <strong><span style="color:crimson;background-color:">NuKEd</span></strong> jickyron at 12:10, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 7m<br>
+FBClassy <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> fifa-hotsauce at 12:09, with a rocket launcher from 7m<br>
+FBClassy <strong><span style="color:crimson;background-color:">Obliterated</span></strong> fifa-hotsauce at 12:09, with a rocket launcher from 7m<br>
+CHELOWRD <strong><span style="color:crimson;background-color:">Clapped</span></strong> Twitchelee at 12:10, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
+CHELOWRD <strong><span style="color:crimson;background-color:">Smoked</span></strong> Twitchelee at 12:10, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
+FBClassy <strong><span style="color:crimson;background-color:">Killed</span></strong> jickyron at 12:10, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 7m<br>
+FBClassy <strong><span style="color:crimson;background-color:">Smoked</span></strong> jickyron at 12:11, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 7m<br>
 FAIR2YOU <strong><span style="color:blue;background-color:">Knocked</span></strong> Guttedheart1444 at 12:50, with a OutsideSafeZone from 44m<br>
 FAIR2YOU <strong><span style="color:blue;background-color:">Knocked</span></strong> Guttedheart1444 at 12:51, with a OutsideSafeZone from 44m<br>
 Spartanᵒⁿᶠᵇ <strong><span style="color:purple;background-color:">Carded</span></strong> Guttedheart1444 at 12:54 near <strong>LightCastle</strong>, with a DBNOTimeout from 24m<br>
@@ -387,27 +388,27 @@ ImAlabamaWorley <strong><span style="color:blue;background-color:">Knocked</span
 OutKastOnFB <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 13:44 near <strong>Farm</strong>, with a tactical shotgun from 6m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Rebel at 13:47, with a burst assault rifle from 7m (why you pick on NPCs?)<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Rebel at 13:47, with a burst assault rifle from 7m (why you pick on NPCs?)<br>
-OutKastOnFB <strong><span style="color:crimson;background-color:">Beamed</span></strong> ITZARTT at 13:48 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
+OutKastOnFB <strong><span style="color:crimson;background-color:">Lasered</span></strong> ITZARTT at 13:48 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
+OutKastOnFB <strong><span style="color:crimson;background-color:">Smoked</span></strong> ᴍᴏʟꜱᴏɴ at 13:48 near <strong>Farm</strong>, with a tactical shotgun<br>
+NICKOonFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> GhostSniperMLB at 13:48 near <strong>Farm</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
+OutKastOnFB <strong><span style="color:crimson;background-color:">Smoked</span></strong> SGfour at 13:48 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
+NICKOonFB <strong><span style="color:crimson;background-color:">Eradicated</span></strong> GhostSniperMLB at 13:48 near <strong>Farm</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
 OutKastOnFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ᴍᴏʟꜱᴏɴ at 13:48 near <strong>Farm</strong>, with a tactical shotgun<br>
-NICKOonFB <strong><span style="color:crimson;background-color:">Beamed</span></strong> GhostSniperMLB at 13:48 near <strong>Farm</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-OutKastOnFB <strong><span style="color:crimson;background-color:">Beamed</span></strong> SGfour at 13:48 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
-NICKOonFB <strong><span style="color:crimson;background-color:">Hugged</span></strong> GhostSniperMLB at 13:48 near <strong>Farm</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-OutKastOnFB <strong><span style="color:crimson;background-color:">Melted</span></strong> ᴍᴏʟꜱᴏɴ at 13:48 near <strong>Farm</strong>, with a tactical shotgun<br>
-OutKastOnFB <strong><span style="color:crimson;background-color:">Beamed</span></strong> ITZARTT at 13:49 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
+OutKastOnFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ITZARTT at 13:49 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
 OutKastOnFB <strong><span style="color:crimson;background-color:">Smoked</span></strong> SGfour at 13:48 near <strong>Farm</strong>, with a tactical shotgun from 7m<br>
 FBClassy <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVP3psiDad at 13:51, with a assault rifle from 157m<br>
 FBClassy <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVP3psiDad at 13:51, with a assault rifle from 157m<br>
 FBClassy <strong><span style="color:purple;background-color:">Carded</span></strong> TTVP3psiDad at 13:55, with a assault rifle from 143m<br>
-LtothaBeezyttv <strong><span style="color:crimson;background-color:">Beamed</span></strong> H3cticJapJim at 13:59, with a assault rifle from 52m<br>
-LtothaBeezyttv <strong><span style="color:crimson;background-color:">Shredded</span></strong> H3cticJapJim at 13:58, with a assault rifle from 52m<br>
+LtothaBeezyttv <strong><span style="color:crimson;background-color:">Eradicated</span></strong> H3cticJapJim at 13:58, with a assault rifle from 52m<br>
+LtothaBeezyttv <strong><span style="color:crimson;background-color:">Killed</span></strong> H3cticJapJim at 13:59, with a assault rifle from 52m<br>
 FutureGlide <strong><span style="color:purple;background-color:">Carded</span></strong> CPKjamieo at 13:59, with a assault rifle from 94m<br>
 FutureGlide <strong><span style="color:purple;background-color:">Carded</span></strong> CPKjamieo at 14:01, with a assault rifle from 94m<br>
 lightice <strong><span style="color:blue;background-color:">Knocked</span></strong> lightice at 14:19 near <strong>LightCastle</strong>, with a OutsideSafeZone<br>
 lightice <strong><span style="color:blue;background-color:">Knocked</span></strong> lightice at 14:20 near <strong>LightCastle</strong>, with a OutsideSafeZone<br>
 MDNTDANK <strong><span style="color:blue;background-color:">Knocked</span></strong> dracoflames30 at 14:19, with a assault rifle from 112m<br>
 MDNTDANK <strong><span style="color:blue;background-color:">Knocked</span></strong> dracoflames30 at 14:20, with a assault rifle from 112m<br>
-KingOfCaffeine <strong><span style="color:crimson;background-color:">Beamed</span></strong> CPKkaso at 14:21 from 16m<br>
-KingOfCaffeine <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> CPKkaso at 14:21 from 16m<br>
+KingOfCaffeine <strong><span style="color:crimson;background-color:">Evaporated</span></strong> CPKkaso at 14:21 from 16m<br>
+KingOfCaffeine <strong><span style="color:crimson;background-color:">Lasered</span></strong> CPKkaso at 14:21 from 16m<br>
 ItzzKaiden4 <strong><span style="color:blue;background-color:">Knocked</span></strong> ItzzKaiden4 at 14:23 near <strong>LightCastle</strong>, with a OutsideSafeZone<br>
 TikTok Greed.GGs was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 14:27<br>
 TikTok Greed.GGs was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 14:27<br>
@@ -417,9 +418,9 @@ smidster1256 <strong><span style="color:blue;background-color:">Knocked</span></
 lightice <strong><span style="color:purple;background-color:">Carded</span></strong> lightice at 14:50 near <strong>LightCastle</strong>, with a DBNOTimeout<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 14:55, with a OutsideSafeZone<br>
 KingOfCaffeine was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 15:09<br>
-smidster1256 <strong><span style="color:crimson;background-color:">Eradicated</span></strong> UnholyDabs at 15:14, with a pump shotgun from 6m<br>
-smidster1256 <strong><span style="color:crimson;background-color:">Embarassed</span></strong> FBBLAST215 at 15:15, with a pump shotgun<br>
-ItzzKaiden4 <strong><span style="color:crimson;background-color:">Lasered</span></strong> ItzzKaiden4 at 15:16 near <strong>LightCastle</strong>, with a DBNOTimeout<br>
+smidster1256 <strong><span style="color:crimson;background-color:">Beamed</span></strong> UnholyDabs at 15:14, with a pump shotgun from 6m<br>
+smidster1256 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> FBBLAST215 at 15:15, with a pump shotgun<br>
+ItzzKaiden4 <strong><span style="color:crimson;background-color:">Killed</span></strong> ItzzKaiden4 at 15:16 near <strong>LightCastle</strong>, with a DBNOTimeout<br>
 ᵀʷⁱᵗᶜʰ ZayBae1x was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 15:23<br>
 Youtube-Jaay-Tee <strong><span style="color:blue;background-color:">Knocked</span></strong> Nadroj1987 at 15:23, with a pump shotgun from 5m<br>
 Youtube-Jaay-Tee <strong><span style="color:purple;background-color:">Carded</span></strong> Nadroj1987 at 15:26, with a smg from 4m<br>
@@ -432,8 +433,8 @@ MDNTDANK <strong><span style="color:blue;background-color:">Knocked</span></stro
 smidster1256 <strong><span style="color:blue;background-color:">Knocked</span></strong> TikTokGreed.GGs at 15:46, with a HeavySniper from 26m<br>
 Waifu me please was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 15:50<br>
 MDNTDANK <strong><span style="color:purple;background-color:">Carded</span></strong> VIPERMOMRPS at 15:54, with a DBNOTimeout from 80m<br>
-Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Destroyed</span></strong> SleeplessREM-GG at 15:57, with a smg<br>
-Waifumeplease <strong><span style="color:crimson;background-color:">Killed</span></strong> MattyOnGameBoy at 15:58, with a pump shotgun from 4m<br>
+Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Obliterated</span></strong> SleeplessREM-GG at 15:57, with a smg<br>
+Waifumeplease <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MattyOnGameBoy at 15:58, with a pump shotgun from 4m<br>
 TikTok Greed.GGs was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 16:10<br>
 ReadyUpJeffHaHa <strong><span style="color:blue;background-color:">Knocked</span></strong> Snacky1x私 at 16:12, with a assault rifle from 48m<br>
 NICKOonFB <strong><span style="color:blue;background-color:">Knocked</span></strong> BaseballRob89 at 16:19, with a assault rifle from 26m<br>
@@ -442,12 +443,12 @@ NICKOonFB <strong><span style="color:blue;background-color:">Knocked</span></str
 Spartanᵒⁿᶠᵇ <strong><span style="color:blue;background-color:">Knocked</span></strong> FNCSEthan17 at 16:38, with a pump shotgun from 1m<br>
 NICKOonFB <strong><span style="color:purple;background-color:">Carded</span></strong> BaseballBoy42555 at 16:38, with a pump shotgun from 3m<br>
 FBClassy <strong><span style="color:purple;background-color:">Carded</span></strong> FutureGlide at 16:39, with a assault rifle from 100m<br>
-MDNTCassie7 <strong><span style="color:crimson;background-color:">Killed</span></strong> antsee22 at 16:39, with a smg from 4m<br>
+MDNTCassie7 <strong><span style="color:crimson;background-color:">Terminated</span></strong> antsee22 at 16:39, with a smg from 4m<br>
 TwitchDestro <strong><span style="color:blue;background-color:">Knocked</span></strong> ReadyUpJeffHaHa at 16:41, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 5m<br>
-jeriel02 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Joedirte32 at 16:45, with a HeavySniper from 55m<br>
-NICKOonFB <strong><span style="color:crimson;background-color:">Killed</span></strong> BaseballRob89 at 16:47, with a assault rifle<br>
+jeriel02 <strong><span style="color:crimson;background-color:">Beamed</span></strong> Joedirte32 at 16:45, with a HeavySniper from 55m<br>
+NICKOonFB <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> BaseballRob89 at 16:47, with a assault rifle<br>
 Spartanᵒⁿᶠᵇ <strong><span style="color:purple;background-color:">Carded</span></strong> FNCSEthan17 at 16:48, with a pump shotgun from 7m<br>
-OutKastOnFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> BaseballMom2114 at 16:50, with a OutsideSafeZone from 117m<br>
+OutKastOnFB <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> BaseballMom2114 at 16:50, with a OutsideSafeZone from 117m<br>
 XxRETROGAMERxX80 <strong><span style="color:blue;background-color:">Knocked</span></strong> Spartanᵒⁿᶠᵇ at 16:51, with a smg from 7m<br>
 OutKastOnFB <strong><span style="color:blue;background-color:">Knocked</span></strong> Qswin87THF at 16:56, with a tactical shotgun from 7m<br>
 TikTokGreed.GGs <strong><span style="color:blue;background-color:">Knocked</span></strong> XxRETROGAMERxX80 at 16:57, with a pistol from 7m<br>
@@ -463,26 +464,26 @@ Youtube-Jaay-Tee <strong><span style="color:purple;background-color:">Carded</sp
 Youtube-Jaay-Tee <strong><span style="color:purple;background-color:">Carded</span></strong> Spartanᵒⁿᶠᵇ at 17:37, with a pump shotgun from 3m<br>
 SkiddlySkip <strong><span style="color:purple;background-color:">Carded</span></strong> Qswin87THF at 17:43, with a assault rifle from 62m<br>
 Waifumeplease <strong><span style="color:blue;background-color:">Knocked</span></strong> KingOfCaffeine at 17:46, with a HeavySniper from 148m<br>
-Beefʕᵒᴥᵒʔ <strong><span style="color:crimson;background-color:">Killed</span></strong> TikTokGreed.GGs at 17:53, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 39m<br>
+Beefʕᵒᴥᵒʔ <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> TikTokGreed.GGs at 17:53, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 39m<br>
 jeriel02 <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNTCassie7 at 18:09, with a HeavySniper from 67m<br>
 KingOfCaffeine was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 18:11<br>
 OutKast On FB was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 18:14<br>
 FBAllTimePrime <strong><span style="color:blue;background-color:">Knocked</span></strong> LtothaBeezyttv at 18:23, with a assault rifle from 52m<br>
 Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Beamed</span></strong> twitchtigerwyd at 18:24, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 21m<br>
-FBAllTimePrime <strong><span style="color:crimson;background-color:">Terminated</span></strong> LtothaBeezyttv at 18:25, with a assault rifle<br>
+FBAllTimePrime <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtothaBeezyttv at 18:25, with a assault rifle<br>
 CHELOWRD <strong><span style="color:blue;background-color:">Knocked</span></strong> GusRDU at 18:27, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 45m<br>
 FBClassy <strong><span style="color:purple;background-color:">Carded</span></strong> GusRDU at 18:34, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 24m<br>
 MDNTDANK <strong><span style="color:blue;background-color:">Knocked</span></strong> KingOfCaffeine at 18:43, with a SuppressedPistol from 1m<br>
-HDRtiger <strong><span style="color:crimson;background-color:">Beamed</span></strong> MDNTDANK at 18:45, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 5m<br>
-jeriel02 <strong><span style="color:crimson;background-color:">Killed</span></strong> MDNTCassie7 at 18:45, with a HeavySniper<br>
+HDRtiger <strong><span style="color:crimson;background-color:">Lasered</span></strong> MDNTDANK at 18:45, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 5m<br>
+jeriel02 <strong><span style="color:crimson;background-color:">Terminated</span></strong> MDNTCassie7 at 18:45, with a HeavySniper<br>
 CosmicEclispe04 <strong><span style="color:purple;background-color:">Carded</span></strong> KingOfCaffeine at 18:51, with a assault rifle from 46m<br>
 FBClassy <strong><span style="color:blue;background-color:">Knocked</span></strong> ObeyRealPrince at 19:03, with a assault rifle from 60m<br>
 Goya--16 <strong><span style="color:blue;background-color:">Knocked</span></strong> SickPlaysFB at 19:05, with a assault rifle from 30m<br>
 FBAllTimePrime <strong><span style="color:blue;background-color:">Knocked</span></strong> jeriel02 at 19:25, with a smg from 4m<br>
 FBClassy <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchDestro at 19:31, with a assault rifle from 43m<br>
 HDRtiger <strong><span style="color:purple;background-color:">Carded</span></strong> SickPlaysFB at 19:33, with a tactical shotgun from 5m<br>
-FBClassy <strong><span style="color:crimson;background-color:">Smoked</span></strong> TwitchDestro at 19:33, with a assault rifle<br>
-FBClassy <strong><span style="color:crimson;background-color:">Melted</span></strong> OutKastOnFB at 19:33, with a assault rifle from 24m<br>
+FBClassy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TwitchDestro at 19:33, with a assault rifle<br>
+FBClassy <strong><span style="color:crimson;background-color:">Killed</span></strong> OutKastOnFB at 19:33, with a assault rifle from 24m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:purple;background-color:">Carded</span></strong> jeriel02 at 19:33, with a pump shotgun from 2m<br>
 Beefʕᵒᴥᵒʔ <strong><span style="color:blue;background-color:">Knocked</span></strong> FBAllTimePrime at 19:35, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 8m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Beefʕᵒᴥᵒʔ at 19:38, with a pump shotgun from 3m<br>
@@ -491,22 +492,22 @@ FB AllTimePrime was <strong><span style="color:white;background-color:blue">revi
 FBClassy <strong><span style="color:blue;background-color:">Knocked</span></strong> FBAllTimePrime at 19:54, with a assault rifle from 55m<br>
 Youtube-Jaay-Tee <strong><span style="color:blue;background-color:">Knocked</span></strong> SkiddlySkip at 20:01, with a HeavySniper from 82m<br>
 Youtube-Jaay-Tee <strong><span style="color:purple;background-color:">Carded</span></strong> FBAllTimePrime at 20:02, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 84m<br>
-FBClassy <strong><span style="color:crimson;background-color:">Killed</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 20:07, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 8m<br>
-Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Terminated</span></strong> SkiddlySkip at 20:08, with a HeavySniper<br>
+FBClassy <strong><span style="color:crimson;background-color:">Eradicated</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 20:07, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 8m<br>
+Youtube-Jaay-Tee <strong><span style="color:crimson;background-color:">Killed</span></strong> SkiddlySkip at 20:08, with a HeavySniper<br>
 smidster1256 <strong><span style="color:blue;background-color:">Knocked</span></strong> Youtube-Jaay-Tee at 20:28, with a pump shotgun from 6m<br>
 smidster1256 <strong><span style="color:purple;background-color:">Carded</span></strong> Youtube-Jaay-Tee at 20:30, with a pump shotgun from 5m<br>
 Waifumeplease <strong><span style="color:blue;background-color:">Knocked</span></strong> CHELOWRD at 20:41, with a assault rifle from 7m<br>
 Goya--16 <strong><span style="color:blue;background-color:">Knocked</span></strong> Waifumeplease at 20:43, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 4m<br>
 CHELOW RD was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 20:48<br>
 Goya--16 <strong><span style="color:purple;background-color:">Carded</span></strong> Waifumeplease at 20:58, with a DBNOTimeout from 27m<br>
-TTVSickProdigy <strong><span style="color:crimson;background-color:">Obliterated</span></strong> ImAlabamaWorley at 21:00, with a tactical shotgun from 12m<br>
-HDRtiger <strong><span style="color:crimson;background-color:">Eliminated</span></strong> NewfoundLander at 21:14, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 7m<br>
+TTVSickProdigy <strong><span style="color:crimson;background-color:">Terminated</span></strong> ImAlabamaWorley at 21:00, with a tactical shotgun from 12m<br>
+HDRtiger <strong><span style="color:crimson;background-color:">Killed</span></strong> NewfoundLander at 21:14, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 7m<br>
 HDRtiger <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVSickProdigy at 21:25, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 44m<br>
-HDRtiger <strong><span style="color:crimson;background-color:">Killed</span></strong> TTVSickProdigy at 21:49, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
-Goya--16 <strong><span style="color:crimson;background-color:">Lasered</span></strong> CosmicEclispe04 at 21:51, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 49m<br>
-CHELOWRD <strong><span style="color:crimson;background-color:">Killed</span></strong> smidster1256 at 22:05, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 26m<br>
+HDRtiger <strong><span style="color:crimson;background-color:">Beamed</span></strong> TTVSickProdigy at 21:49, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol<br>
+Goya--16 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> CosmicEclispe04 at 21:51, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 49m<br>
+CHELOWRD <strong><span style="color:crimson;background-color:">Eliminated</span></strong> smidster1256 at 22:05, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 26m<br>
 HDRtiger won match (and was flexing until 22:08)<br>
-Goya--16 was there at the end (and was flexing until 22:17)<br>
+Goya--16 won match, duh! (and was flexing until 22:17)<br>
 CHELOWRD won match (and was flexing until 22:19)<br>
 # Game <strong>Two</strong> started @18:05 PM -> 62 people, NO build Squad<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> ImBuiltDiferent1 at 3:51 near <strong>NorthHarbor</strong>, with a pistol from 6m<br>
@@ -533,8 +534,8 @@ MDNT-Stiles <strong><span style="color:dodgerblue;background-color:yellow">BULLI
 FBUncleFrank <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ChaosDoubleAgent at 6:22 near <strong>FortaniumQuarry</strong>, with a assault rifle from 10m (why you pick on NPCs?)<br>
 LyRiCaLgVa <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 6:29 near <strong>MedievalTown</strong>, with a pump shotgun from 6m (why you pick on NPCs?)<br>
 UnholyDabs <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 6:31 near <strong>SplitTown</strong>, with a CombatShotgun from 7m (why you pick on NPCs?)<br>
-ColdBloodedSuit <strong><span style="color:crimson;background-color:">Killed</span></strong> Nadroj1987 at 6:36 near <strong>NorthHarbor</strong>, with a pump shotgun<br>
-smidster1256 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 6:36 near <strong>NorthHarbor</strong>, with a tactical shotgun from 1m<br>
+ColdBloodedSuit <strong><span style="color:crimson;background-color:">Shredded</span></strong> Nadroj1987 at 6:36 near <strong>NorthHarbor</strong>, with a pump shotgun<br>
+smidster1256 <strong><span style="color:crimson;background-color:">Evaporated</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 6:36 near <strong>NorthHarbor</strong>, with a tactical shotgun from 1m<br>
 sniperkid-GGs <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 6:41 near <strong>MedievalTown</strong>, with a assault rifle from 1m (why you pick on NPCs?)<br>
 FBBLAST215 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> DoubleAgentHush at 6:43 near <strong>SplitTown</strong>, with a tactical shotgun from 4m (why you pick on NPCs?)<br>
 SkiddlySkip <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> ColdBloodedSuit at 6:45 near <strong>SplitTown</strong>, with a tactical shotgun from 4m (why you pick on NPCs?)<br>
@@ -569,17 +570,17 @@ Ya-I-GotSkillz <strong><span style="color:purple;background-color:">Carded</span
 Beefʕᵒᴥᵒʔ <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNTSwoley at 10:16 near <strong>SplitTown</strong>, with a HeavySniper from 91m<br>
 BaseballRob89 <strong><span style="color:blue;background-color:">Knocked</span></strong> fifa-hotsauce at 10:28, with a assault rifle from 12m<br>
 Twitchelee <strong><span style="color:blue;background-color:">Knocked</span></strong> SamazyM09 at 10:31, with a smg from 4m<br>
-H4SHA77ACk <strong><span style="color:crimson;background-color:">Eliminated</span></strong> H4SHA77ACk at 10:35, with a OutsideSafeZone<br>
+H4SHA77ACk <strong><span style="color:crimson;background-color:">Killed</span></strong> H4SHA77ACk at 10:35, with a OutsideSafeZone<br>
 TTVbellasnipes <strong><span style="color:blue;background-color:">Knocked</span></strong> BaseballRob89 at 10:38, with a pistol from 6m<br>
 MDNT Swoley was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 10:40<br>
 TTVbellasnipes <strong><span style="color:purple;background-color:">Carded</span></strong> BaseballRob89 at 10:42, with a TacticalAR from 4m<br>
 BaseballBoy42555 <strong><span style="color:blue;background-color:">Knocked</span></strong> TTVbellasnipes at 11:05, with a pistol from 11m<br>
 smidster1256 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 11:05<br>
 BaseballMom2114 <strong><span style="color:purple;background-color:">Carded</span></strong> fifa-hotsauce at 11:07, with a pump shotgun from 4m<br>
-ZeroFoxtrot6124 <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> princepillar at 11:08, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 1m<br>
-BaseballBoy42555 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TTVbellasnipes at 11:09, with a pistol<br>
+ZeroFoxtrot6124 <strong><span style="color:crimson;background-color:">Destroyed</span></strong> princepillar at 11:08, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> pistol from 1m<br>
+BaseballBoy42555 <strong><span style="color:crimson;background-color:">NuKEd</span></strong> TTVbellasnipes at 11:09, with a pistol<br>
 Sfragida <strong><span style="color:blue;background-color:">Knocked</span></strong> MR-AFK- at 11:09, with a assault rifle from 59m<br>
-BaseballBoy42555 <strong><span style="color:crimson;background-color:">Melted</span></strong> Twitchelee at 11:09, with a pump shotgun from 8m<br>
+BaseballBoy42555 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Twitchelee at 11:09, with a pump shotgun from 8m<br>
 dracoflames30 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 11:13<br>
 ObeyRealPrince was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 11:15<br>
 ReadyUpJeffHaHa was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 11:18<br>
@@ -596,7 +597,7 @@ dracoflames30 <strong><span style="color:blue;background-color:">Knocked</span><
 FBIAMpassano <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 12:21, with a pump shotgun from 2m<br>
 FBIAMpassano <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 12:25, with a pump shotgun<br>
 FBIAMpassano <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKjamieo at 12:27, with a assault rifle from 2m<br>
-FBIAMpassano <strong><span style="color:crimson;background-color:">Terminated</span></strong> JoleeKnoxTTV at 12:27, with a smg<br>
+FBIAMpassano <strong><span style="color:crimson;background-color:">NuKEd</span></strong> JoleeKnoxTTV at 12:27, with a smg<br>
 dracoflames30 <strong><span style="color:blue;background-color:">Knocked</span></strong> BaseballBoy42555 at 12:29, with a Melee from 2m<br>
 Muttdogs <strong><span style="color:purple;background-color:">Carded</span></strong> BaseballBoy42555 at 12:34, with a assault rifle from 50m<br>
 ObeyRealPrince was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 12:45<br>
@@ -611,19 +612,19 @@ Muttdogs <strong><span style="color:blue;background-color:">Knocked</span></stro
 Ya-I-GotSkillz <strong><span style="color:blue;background-color:">Knocked</span></strong> ImBuiltDiferent1 at 13:47, with a pump shotgun from 5m<br>
 Ya-I-GotSkillz <strong><span style="color:purple;background-color:">Carded</span></strong> ImBuiltDiferent1 at 13:52, with a pump shotgun from 3m<br>
 Guttedheart1444 <strong><span style="color:purple;background-color:">Carded</span></strong> Yukashika at 13:52, with a pump shotgun from 3m<br>
-LtothaBeezyttv <strong><span style="color:crimson;background-color:">Killed</span></strong> BaseballMom2114 at 13:54, with a TacticalAR from 62m<br>
+LtothaBeezyttv <strong><span style="color:crimson;background-color:">Lasered</span></strong> BaseballMom2114 at 13:54, with a TacticalAR from 62m<br>
 smidster1256 <strong><span style="color:purple;background-color:">Carded</span></strong> trippinbro596 at 13:58, with a tactical shotgun from 1m<br>
 NICKOonFB <strong><span style="color:blue;background-color:">Knocked</span></strong> Ttvpaparugzzz at 13:58, with a assault rifle from 154m<br>
 ObeyRealPrince was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 14:13<br>
 Quinz543 <strong><span style="color:blue;background-color:">Knocked</span></strong> Crystal3477 at 14:17, with a pistol from 7m<br>
 Quinz543 <strong><span style="color:purple;background-color:">Carded</span></strong> Crystal3477 at 14:21, with a pistol from 6m<br>
 NICKOonFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ttvpaparugzzz at 14:21, with a assault rifle<br>
-NICKOonFB <strong><span style="color:crimson;background-color:">Clapped</span></strong> sniperkid-GGs at 14:22, with a smg from 2m<br>
+NICKOonFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> sniperkid-GGs at 14:22, with a smg from 2m<br>
 smidster1256 <strong><span style="color:blue;background-color:">Knocked</span></strong> Quinz543 at 14:23, with a assault rifle from 56m<br>
 ReadyUpJeffHaHa <strong><span style="color:blue;background-color:">Knocked</span></strong> Spartanᵒⁿᶠᵇ at 14:29, with a tactical shotgun from 4m<br>
 ReadyUpJeffHaHa <strong><span style="color:purple;background-color:">Carded</span></strong> Spartanᵒⁿᶠᵇ at 14:32, with a tactical shotgun from 3m<br>
 Guttedheart1444 <strong><span style="color:purple;background-color:">Carded</span></strong> Quinz543 at 14:36, with a pump shotgun from 3m<br>
-Ya-I-GotSkillz <strong><span style="color:crimson;background-color:">Eliminated</span></strong> LtothaBeezyttv at 14:41, with a smg from 6m<br>
+Ya-I-GotSkillz <strong><span style="color:crimson;background-color:">Lasered</span></strong> LtothaBeezyttv at 14:41, with a smg from 6m<br>
 FB_BLAST215 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 15:00<br>
 FB AllTimePrime was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 15:03<br>
 Unholy Dabs was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 15:06<br>
@@ -645,16 +646,16 @@ SkiddlySkip <strong><span style="color:blue;background-color:">Knocked</span></s
 FBAllTimePrime <strong><span style="color:purple;background-color:">Carded</span></strong> Muttdogs at 17:06 near <strong>FortaniumQuarry</strong>, with a assault rifle from 171m<br>
 FBUncleFrank <strong><span style="color:blue;background-color:">Knocked</span></strong> KingOfCaffeine at 17:12, with a smg from 13m<br>
 OutKastOnFB <strong><span style="color:purple;background-color:">Carded</span></strong> KingOfCaffeine at 17:16, with a ShotgunBreach from 15m<br>
-OutKastOnFB <strong><span style="color:crimson;background-color:">Eradicated</span></strong> Beefʕᵒᴥᵒʔ at 17:20, with a ShotgunBreach from 20m<br>
-NICKOonFB <strong><span style="color:crimson;background-color:">Terminated</span></strong> OutofNowhereGirl at 17:30, with a assault rifle from 216m<br>
+OutKastOnFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Beefʕᵒᴥᵒʔ at 17:20, with a ShotgunBreach from 20m<br>
+NICKOonFB <strong><span style="color:crimson;background-color:">Killed</span></strong> OutofNowhereGirl at 17:30, with a assault rifle from 216m<br>
 FBUncleFrank <strong><span style="color:crimson;background-color:">Killed</span></strong> Guttedheart1444 at 18:09, with a HeavySniper from 91m<br>
 MDNTKimmell <strong><span style="color:blue;background-color:">Knocked</span></strong> OutKastOnFB at 19:05, with a HeavySniper from 104m<br>
 OutKast On FB was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 19:16<br>
 NICKOonFB <strong><span style="color:blue;background-color:">Knocked</span></strong> dracoflames30 at 19:30, with a assault rifle from 34m<br>
 MDNTKimmell <strong><span style="color:purple;background-color:">Carded</span></strong> dracoflames30 at 19:32, with a HeavySniper from 140m<br>
 MDNTKimmell <strong><span style="color:blue;background-color:">Knocked</span></strong> ZeroFoxtrot6124 at 19:40, with a pump shotgun from 4m<br>
-FBAllTimePrime <strong><span style="color:crimson;background-color:">Terminated</span></strong> ObeyRealPrince at 19:40, with a assault rifle from 112m<br>
-MDNTKimmell <strong><span style="color:crimson;background-color:">Obliterated</span></strong> ZeroFoxtrot6124 at 19:48, with a pump shotgun<br>
+FBAllTimePrime <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ObeyRealPrince at 19:40, with a assault rifle from 112m<br>
+MDNTKimmell <strong><span style="color:crimson;background-color:">Terminated</span></strong> ZeroFoxtrot6124 at 19:48, with a pump shotgun<br>
 MDNT-AlltheLight <strong><span style="color:crimson;background-color:">Eliminated</span></strong> FBIAMpassano at 19:48, with a pump shotgun from 8m<br>
 SkiddlySkip <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNT-AlltheLight at 20:13, with a tactical shotgun from 3m<br>
 OutKastOnFB <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNT-Stiles at 20:13, with a assault rifle from 152m<br>
@@ -662,18 +663,18 @@ UnholyDabs <strong><span style="color:purple;background-color:">Carded</span></s
 SkiddlySkip <strong><span style="color:blue;background-color:">Knocked</span></strong> MDNTSwoley at 20:16, with a tactical shotgun from 6m<br>
 FBAllTimePrime <strong><span style="color:purple;background-color:">Carded</span></strong> MDNTSwoley at 20:20, with a pump shotgun from 5m<br>
 OutKastOnFB <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MDNT-Stiles at 20:23, with a assault rifle<br>
-Joedirte32 <strong><span style="color:crimson;background-color:">Smoked</span></strong> MDNTKimmell at 20:23, with a pump shotgun from 3m<br>
+Joedirte32 <strong><span style="color:crimson;background-color:">Hugged</span></strong> MDNTKimmell at 20:23, with a pump shotgun from 3m<br>
 UnholyDabs <strong><span style="color:blue;background-color:">Knocked</span></strong> OutKastOnFB at 21:32, with a pistol from 16m<br>
 SkiddlySkip <strong><span style="color:blue;background-color:">Knocked</span></strong> TwitchDestro at 21:33, with a tactical shotgun from 7m<br>
-NICKOonFB <strong><span style="color:crimson;background-color:">Melted</span></strong> Joedirte32 at 21:41, with a tactical shotgun from 2m<br>
+NICKOonFB <strong><span style="color:crimson;background-color:">Clapped</span></strong> Joedirte32 at 21:41, with a tactical shotgun from 2m<br>
 FBAllTimePrime <strong><span style="color:blue;background-color:">Knocked</span></strong> FBUncleFrank at 21:49, with a smg from 28m<br>
 NICKOonFB <strong><span style="color:blue;background-color:">Knocked</span></strong> FBBLAST215 at 21:49, with a assault rifle from 52m<br>
 SkiddlySkip <strong><span style="color:purple;background-color:">Carded</span></strong> FBUncleFrank at 21:56, with a smg<br>
 NICKOonFB <strong><span style="color:blue;background-color:">Knocked</span></strong> UnholyDabs at 21:58, with a assault rifle from 63m<br>
 FB_BLAST215 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 22:15<br>
-UnholyDabs <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OutKastOnFB at 22:16, with a pistol<br>
-SkiddlySkip <strong><span style="color:crimson;background-color:">Eliminated</span></strong> NICKOonFB at 22:16, with a tactical shotgun from 27m<br>
-SkiddlySkip <strong><span style="color:crimson;background-color:">Shredded</span></strong> TwitchDestro at 22:16, with a tactical shotgun<br>
+UnholyDabs <strong><span style="color:crimson;background-color:">Humiliated</span></strong> OutKastOnFB at 22:16, with a pistol<br>
+SkiddlySkip <strong><span style="color:crimson;background-color:">Killed</span></strong> NICKOonFB at 22:16, with a tactical shotgun from 27m<br>
+SkiddlySkip <strong><span style="color:crimson;background-color:">Killed</span></strong> TwitchDestro at 22:16, with a tactical shotgun<br>
 Unholy Dabs was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 22:16<br>
 
 
