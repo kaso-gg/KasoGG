@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Mar 24, 2023 16:28:34").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Mar 24, 2023 16:32:32").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -63,4 +63,4 @@ CPKkaso won match (and was flexing until 0:00)<br>
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
 <!--CREATED BY CODE-->
-<!--3/24/2023 4:28:34 PM-->
+<!--3/24/2023 4:32:32 PM-->
