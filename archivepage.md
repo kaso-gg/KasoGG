@@ -50,7 +50,7 @@ CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> GHOSTHenchman at 0:00, with a smg from 11m (why you pick on NPCs?)<br>
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> CRZ-8 at 0:00, with a smg from 24m (why you pick on NPCs?)<br>
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> NEURALYNX at 0:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 2m (why you pick on NPCs?)<br>
-CPKkaso won match (and was flexing until 0:00)<br>
+CPKkaso was there at the end (and was flexing until 0:00)<br>
 
 
 ## [GO BACK](https://www.kaso.gg)
