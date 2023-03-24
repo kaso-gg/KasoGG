@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Mar 24, 2023 16:34:28").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Mar 24, 2023 16:37:16").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -58,9 +58,9 @@ CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> GHOSTHenchman at 0:00, with a smg from 11m (why you pick on NPCs?)<br>
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> CRZ-8 at 0:00, with a smg from 24m (why you pick on NPCs?)<br>
 CPKkaso <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> NEURALYNX at 0:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 2m (why you pick on NPCs?)<br>
-CPKkaso was there at the end (and was flexing until 0:00)<br>
+CPKkaso won match (and was flexing until 0:00)<br>
 
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
 <!--CREATED BY CODE-->
-<!--3/24/2023 4:34:28 PM-->
+<!--3/24/2023 4:37:16 PM-->
