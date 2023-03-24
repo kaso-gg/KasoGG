@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Mar 24, 2023 16:37:16").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Mar 24, 2023 16:39:02").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,7 +38,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-Scoring is Old School's format starting with 15pts for 1st, then 9pts for 2nd place down to 1 point for 10th place. Many folks will be streaming including [CPK_Jamieo](http://www.twitch.tv/cpk_jamieo), possibly myself, and of course the majority of the tournament flow will be handled on [Old School's YouTube](https://www.youtube.com/@oldschool2.0)
+We're playing in Old School's zero build squad league today. This is Week 3 of a 6 week "league". He draws names and squads are assigned randomly. There will be VBuck giveaways. Scoring is Old School's format starting with 15pts for 1st, then 9pts for 2nd place down to 1 point for 10th place. Many folks will be streaming including [CPK_Jamieo](http://www.twitch.tv/cpk_jamieo), possibly myself, and of course the majority of the tournament flow will be handled on [Old School's YouTube](https://www.youtube.com/@oldschool2.0)
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
