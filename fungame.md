@@ -1,4 +1,7 @@
 ---
+permalink: /fungame/
+title: "a 43 bomb game!"
+excerpt: "these peeps are cracked!"
 markdown: kramdown
 ---
 
