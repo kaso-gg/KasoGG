@@ -1,3 +1,7 @@
+---
+markdown: kramdown
+---
+
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
 ClairdeLune295 <strong><span style="color:blue;background-color:">Knocked</span></strong> WarriorOmadon at 0:00, with a pump shotgun from 20m<br>
