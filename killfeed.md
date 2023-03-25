@@ -7,7 +7,7 @@ markdown: kramdown
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Mar 25, 2023 11:19:01").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Mar 25, 2023 11:47:38").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -41,22 +41,151 @@ markdown: kramdown
 Top five <strong>longest</strong> SINGLE eliminations:<br>
 * PANDAGAMINGRD448 <strong><span style="color:blue;background-color:">Knocked</span></strong> HippieRach at 0:00, with a HeavySniper from 250m<br>
 * BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> MarioFromNY at 0:00, with a HeavySniper from 247m<br>
+* OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> Schmeee76 at 0:00, with a HeavySniper from 217m<br>
 * HippieRach <strong><span style="color:blue;background-color:">Knocked</span></strong> skinnydog55 at 0:00, with a DMR from 192m<br>
 * cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> Grizzel at 0:00 near <strong>LightCastle</strong>, with a assault rifle from 184m<br>
-* OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> FourAll2See at 0:00, with a HeavySniper from 180m<br>
 
 Top five <strong>close range</strong> SINGLE eliminations:<br>
 * ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> cece1234677655 at 0:00 near <strong>MountainDojo</strong>, with a CombatShotgun from 1m<br>
-* OldSchool2.0 <strong><span style="color:crimson;background-color:">Smoked</span></strong> OldSniper69 at 0:00, with a pistol from 1m<br>
+* fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></strong> SaberCodeRedYT at 0:00 near <strong>Farm</strong>, with a pump shotgun from 1m<br>
+* OldSchool2.0 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OldSniper69 at 0:00, with a pistol from 1m<br>
+* OldSniper69 <strong><span style="color:blue;background-color:">Knocked</span></strong> DeathBYsociety at 0:00, with a pump shotgun from 1m<br>
 * fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></strong> PANDAGAMINGRD448 at 0:00 from 1m<br>
-* VincentDaGoatt <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> WildCardSuit at 0:00 near <strong>RealityFortress</strong>, with a tactical shotgun from 1m (why you pick on NPCs?)<br>
-* OldSniper69 <strong><span style="color:blue;background-color:">Knocked</span></strong> Brackets132 at 0:00, with a pistol from 1m<br>
 
 Top three most lethal long distance players:<br>
 * TYLER_MOREAU_YT averaged 82m kill distance with 1 elims.<br>
-* HippieRach averaged 78m kill distance with 6 elims.<br>
-* RealQueen420 averaged 49m kill distance with 3 elims.<br>
+* HippieRach averaged 72m kill distance with 8 elims.<br>
+* DocsGamesYouTube averaged 47m kill distance with 15 elims.<br>
 
+# Game <strong>Five</strong> started @11:22 AM -> 47 people, NO build Squad<br>
+buckeyeyoyo <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> CRZ-8 at 0:00, with a smg from 3m (why you pick on NPCs?)<br>
+DeathBYsociety <strong><span style="color:blue;background-color:">Knocked</span></strong> coachcoble at 0:00, with a tactical shotgun from 3m<br>
+coachcoble was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+RealQueen420 <strong><span style="color:blue;background-color:">Knocked</span></strong> FourAll2See at 0:00, with a assault rifle from 8m<br>
+BigPilisos <strong><span style="color:purple;background-color:">Carded</span></strong> FourAll2See at 0:00, with a assault rifle from 165m<br>
+OldSniper69 <strong><span style="color:blue;background-color:">Knocked</span></strong> DeathBYsociety at 0:00, with a pump shotgun from 1m<br>
+OldSniper69 <strong><span style="color:purple;background-color:">Carded</span></strong> DeathBYsociety at 0:00, with a pump shotgun from 4m<br>
+SaberCodeRedYT <strong><span style="color:blue;background-color:">Knocked</span></strong> coachcoble at 0:00, with a HeavySniper from 80m<br>
+NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> SfromO at 0:00, with a assault rifle from 82m<br>
+SaberCodeRedYT <strong><span style="color:purple;background-color:">Carded</span></strong> coachcoble at 0:00, with a HeavySniper from 72m<br>
+NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> SfromO at 0:00 from 94m<br>
+BuckeyeBunny <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OldSniper69 at 0:00, with a tactical shotgun from 3m<br>
+HippieRach <strong><span style="color:blue;background-color:">Knocked</span></strong> SaberCodeRedYT at 0:00, with a assault rifle from 42m<br>
+JiggaG4PF <strong><span style="color:purple;background-color:">Carded</span></strong> SaberCodeRedYT at 0:00, with a pump shotgun from 1m<br>
+Schmeee76 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Highcard at 0:00 near <strong>NeonCity</strong>, with a assault rifle from 50m (why you pick on NPCs?)<br>
+Schmeee76 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> WildCardSuit at 0:00 near <strong>NeonCity</strong>, with a assault rifle from 48m (why you pick on NPCs?)<br>
+badCorpsman <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> WildCardSuit at 0:00 near <strong>NeonCity</strong>, with a HeavySniper from 38m (why you pick on NPCs?)<br>
+SuPpLyDrAwP13 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Highcard at 0:00 near <strong>FortaniumQuarry</strong>, with a DMR from 26m (why you pick on NPCs?)<br>
+SuPpLyDrAwP13 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> WildCardSuit at 0:00 near <strong>FortaniumQuarry</strong>, with a pistol from 6m (why you pick on NPCs?)<br>
+Wild Card Suit was <strong><span style="color:dodgerblue;background-color:yellow">revived</span></strong>  at 0:00<br>
+SuPpLyDrAwP13 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> WildCardSuit at 0:00 near <strong>FortaniumQuarry</strong>, with a tactical shotgun from 3m (why you pick on NPCs?)<br>
+JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> MarioFromNY at 0:00, with a pump shotgun from 3m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> TOMMYOFTROY at 0:00, with a assault rifle from 60m<br>
+JiggaG4PF <strong><span style="color:purple;background-color:">Carded</span></strong> MarioFromNY at 0:00, with a smg from 5m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> PANDAGAMINGRD448 at 0:00, with a smg from 72m<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Destroyed</span></strong> TOMMYOFTROY at 0:00, with a assault rifle<br>
+BigPilisos <strong><span style="color:crimson;background-color:">NuKEd</span></strong> PANDAGAMINGRD448 at 0:00, with a smg<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Melted</span></strong> skinnydog55 at 0:00, with a assault rifle from 61m<br>
+TYLERMOREAUYT <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sunflower at 0:00 near <strong>Farm</strong>, with a assault rifle from 11m (why you pick on NPCs?)<br>
+SaberCodeRedYT was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
+DeathBYsociety was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
+fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></strong> SaberCodeRedYT at 0:00 near <strong>Farm</strong>, with a pump shotgun from 1m<br>
+fanzypantzy <strong><span style="color:purple;background-color:">Carded</span></strong> SaberCodeRedYT at 0:00 near <strong>Farm</strong>, with a smg from 7m<br>
+Ted302 <strong><span style="color:blue;background-color:">Knocked</span></strong> BuckeyeBunny at 0:00 near <strong>Farm</strong>, with a smg from 1m<br>
+Ted302 <strong><span style="color:purple;background-color:">Carded</span></strong> BuckeyeBunny at 0:00 near <strong>Farm</strong>, with a tactical shotgun from 3m<br>
+BigPilisos <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Dire at 0:00, with a smg from 29m (why you pick on NPCs?)<br>
+cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> V1kingofNorway at 0:00, with a assault rifle from 93m<br>
+gupi6 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 0:00, with a HeavySniper from 61m<br>
+CPKkaso <strong><span style="color:purple;background-color:">Carded</span></strong> V1kingofNorway at 0:00, with a DMR from 32m<br>
+SaberCodeRedYT was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
+CPK_kaso was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> BfromO at 0:00 near <strong>Farm</strong>, with a assault rifle from 51m<br>
+fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></strong> ASGRtad2002 at 0:00 near <strong>Farm</strong>, with a HeavySniper from 74m<br>
+cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> SuPpLyDrAwP13 at 0:00, with a assault rifle from 64m<br>
+JiggaG4PF <strong><span style="color:purple;background-color:">Carded</span></strong> BfromO at 0:00 near <strong>Farm</strong>, with a assault rifle from 53m<br>
+fanzypantzy <strong><span style="color:purple;background-color:">Carded</span></strong> ASGRtad2002 at 0:00 from 81m<br>
+ConJoGaming <strong><span style="color:purple;background-color:">Carded</span></strong> SuPpLyDrAwP13 at 0:00, with a assault rifle<br>
+Grizzel <strong><span style="color:blue;background-color:">Knocked</span></strong> DocsGamesYouTube at 0:00, with a HeavySniper from 60m<br>
+QBall693971 <strong><span style="color:blue;background-color:">Knocked</span></strong> cece1234677655 at 0:00, with a DMR from 54m<br>
+OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> QBall693971 at 0:00, with a HeavySniper from 50m<br>
+Grizzel <strong><span style="color:blue;background-color:">Knocked</span></strong> DadNoBuild at 0:00, with a pistol from 13m<br>
+donzerelli76 <strong><span style="color:blue;background-color:">Knocked</span></strong> Ted302 at 0:00 near <strong>Farm</strong>, with a pistol from 3m<br>
+donzerelli76 <strong><span style="color:purple;background-color:">Carded</span></strong> Ted302 at 0:00 near <strong>Farm</strong>, with a tactical shotgun from 2m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> OldManJersey at 0:00 near <strong>Farm</strong>, with a tactical shotgun from 6m<br>
+Grizzel <strong><span style="color:purple;background-color:">Carded</span></strong> QBall693971 at 0:00, with a pistol from 8m<br>
+BigPilisos <strong><span style="color:purple;background-color:">Carded</span></strong> OldManJersey at 0:00 near <strong>Farm</strong>, with a tactical shotgun from 6m<br>
+gupi6 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 0:00, with a pump shotgun from 4m<br>
+cmon. <strong><span style="color:crimson;background-color:">Lasered</span></strong> gupi6 at 0:00, with a assault rifle from 33m<br>
+cece1234677655 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+Grizzel <strong><span style="color:purple;background-color:">Carded</span></strong> DocsGamesYouTube at 0:00, with a HeavySniper<br>
+CPK_kaso was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+Grizzel <strong><span style="color:purple;background-color:">Carded</span></strong> DadNoBuild at 0:00 from 1m<br>
+Schmeee76 <strong><span style="color:blue;background-color:">Knocked</span></strong> VincentDaGoatt at 0:00 near <strong>NeonCity</strong>, with a assault rifle from 153m<br>
+VincentDaGoatt was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> Schmeee76 at 0:00, with a HeavySniper from 217m<br>
+Schmeee76 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+DocsGamesYouTube was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
+QBall693971 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
+DadNoBuild was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
+cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> DocsGamesYouTube at 0:00 near <strong>CherryBlossomForest</strong>, with a pump shotgun from 13m<br>
+CPKkaso <strong><span style="color:purple;background-color:">Carded</span></strong> DocsGamesYouTube at 0:00 near <strong>CherryBlossomForest</strong>, with a tactical shotgun from 5m<br>
+ConJoGaming <strong><span style="color:blue;background-color:">Knocked</span></strong> QBall693971 at 0:00 near <strong>CherryBlossomForest</strong>, with a CombatShotgun from 14m<br>
+DeathBYsociety <strong><span style="color:blue;background-color:">Knocked</span></strong> RLMSherry at 0:00, with a CombatShotgun from 14m<br>
+fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></strong> DeathBYsociety at 0:00, with a pump shotgun from 5m<br>
+DadNoBuild <strong><span style="color:blue;background-color:">Knocked</span></strong> ConJoGaming at 0:00 near <strong>CherryBlossomForest</strong>, with a tactical shotgun from 4m<br>
+fanzypantzy <strong><span style="color:purple;background-color:">Carded</span></strong> DeathBYsociety at 0:00, with a smg from 4m<br>
+DadNoBuild <strong><span style="color:purple;background-color:">Carded</span></strong> ConJoGaming at 0:00 near <strong>CherryBlossomForest</strong>, with a tactical shotgun from 2m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> Brackets132 at 0:00, with a assault rifle from 66m<br>
+RLM Sherry was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+ConJoGaming <strong><span style="color:purple;background-color:">Carded</span></strong> QBall693971 at 0:00 near <strong>CherryBlossomForest</strong>, with a CombatShotgun<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> DadNoBuild at 0:00, with a assault rifle from 81m<br>
+HippieRach <strong><span style="color:purple;background-color:">Carded</span></strong> Brackets132 at 0:00 near <strong>CherryBlossomForest</strong>, with a assault rifle<br>
+BigPilisos <strong><span style="color:purple;background-color:">Carded</span></strong> DadNoBuild at 0:00, with a assault rifle from 48m<br>
+cmon. <strong><span style="color:crimson;background-color:">Beamed</span></strong> buckeyeyoyo at 0:00, with a assault rifle from 24m<br>
+iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> RealQueen420 at 0:00 near <strong>MountainDojo</strong>, with a tactical shotgun from 4m<br>
+iUsedKamui <strong><span style="color:purple;background-color:">Carded</span></strong> RealQueen420 at 0:00 from 2m<br>
+donzerelli76 <strong><span style="color:crimson;background-color:">Killed</span></strong> SaberCodeRedYT at 0:00, with a pistol from 24m<br>
+SaberCodeRedYT <strong><span style="color:blue;background-color:">Knocked</span></strong> RLMSherry at 0:00, with a OutsideSafeZone<br>
+RLM Sherry was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> donzerelli76 at 0:00, with a tactical shotgun from 13m<br>
+NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> cmon. at 0:00, with a pump shotgun from 2m<br>
+NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> cmon. at 0:00, with a pump shotgun from 2m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00, with a tactical shotgun from 4m<br>
+NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> Schmeee76 at 0:00, with a smg from 6m<br>
+HippieRach <strong><span style="color:purple;background-color:">Carded</span></strong> Schmeee76 at 0:00, with a tactical shotgun from 2m<br>
+donzerelli76 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00, with a pump shotgun from 2m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> donzerelli76 at 0:00, with a HeavySniper from 135m<br>
+RickAshtray <strong><span style="color:blue;background-color:">Knocked</span></strong> badCorpsman at 0:00, with a pump shotgun from 2m<br>
+OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> RickAshtray at 0:00, with a HeavySniper from 58m<br>
+cece1234677655 <strong><span style="color:blue;background-color:">Knocked</span></strong> cece1234677655 at 0:00, with a OutsideSafeZone<br>
+Grizzel <strong><span style="color:purple;background-color:">Carded</span></strong> badCorpsman at 0:00, with a pump shotgun from 4m<br>
+fanzypantzy <strong><span style="color:crimson;background-color:">Eliminated</span></strong> WatCKa007 at 0:00, with a pump shotgun from 8m<br>
+OldSchool2.0 <strong><span style="color:purple;background-color:">Carded</span></strong> RickAshtray at 0:00, with a pump shotgun from 10m<br>
+BigPilisos <strong><span style="color:purple;background-color:">Carded</span></strong> cece1234677655 at 0:00, with a HeavySniper from 150m<br>
+iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> VincentDaGoatt at 0:00, with a tactical shotgun from 8m<br>
+OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 0:00, with a smg from 2m<br>
+OldSchool2.0 <strong><span style="color:purple;background-color:">Carded</span></strong> CPKjamieo at 0:00, with a pump shotgun from 1m<br>
+iUsedKamui <strong><span style="color:purple;background-color:">Carded</span></strong> VincentDaGoatt at 0:00 from 2m<br>
+donzerelli76 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+JiggaG4PF <strong><span style="color:crimson;background-color:">Killed</span></strong> TYLERMOREAUYT at 0:00, with a pump shotgun from 8m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> fanzypantzy at 0:00, with a tactical shotgun from 6m<br>
+BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> donzerelli76 at 0:00, with a tactical shotgun from 4m<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Shredded</span></strong> fanzypantzy at 0:00, with a tactical shotgun<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Terminated</span></strong> RLMSherry at 0:00, with a pump shotgun from 10m<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Killed</span></strong> donzerelli76 at 0:00, with a tactical shotgun<br>
+OldSchool2.0 <strong><span style="color:crimson;background-color:">Clapped</span></strong> CPKkaso at 0:00, with a smg from 26m<br>
+HippieRach <strong><span style="color:blue;background-color:">Knocked</span></strong> iUsedKamui at 0:00, with a assault rifle from 64m<br>
+HippieRach <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> iUsedKamui at 0:00, with a assault rifle<br>
+OldSchool2.0 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a smg from 2m<br>
+OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> BigPilisos at 0:00, with a pump shotgun from 8m<br>
+NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> OldSchool2.0 at 0:00, with a smg from 4m<br>
+JiggaG4PF <strong><span style="color:purple;background-color:">Carded</span></strong> OldSchool2.0 at 0:00, with a pump shotgun from 3m<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Killed</span></strong> Grizzel at 0:00, with a pump shotgun from 6m<br>
+BigPilisos was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
+HippieRach won the match (and was flexing until 0:00)<br>
+Grizzel won the match (and was flexing until 0:00)<br>
+Grizzel won match (and was flexing until 0:00)<br>
 # Game <strong>Four</strong> started @10:52 AM -> 46 people, NO build Squad<br>
 DocsGamesYouTube <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> CRZ-8 at 0:00 from 1m (why you pick on NPCs?)<br>
 Schmeee76 <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Madcap at 0:00 near <strong>NeonCity</strong>, with a assault rifle from 38m (why you pick on NPCs?)<br>
@@ -90,8 +219,8 @@ BuckeyeBunny <strong><span style="color:purple;background-color:">Carded</span><
 BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> BuckeyeBunny at 0:00, with a tactical shotgun from 6m<br>
 ᴍᴏʟꜱᴏɴ <strong><span style="color:purple;background-color:">Carded</span></strong> SaberCodeRedYT at 0:00, with a HeavySniper<br>
 cmon . was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
-BigPilisos <strong><span style="color:crimson;background-color:">Smoked</span></strong> RealQueen420 at 0:00, with a assault rifle from 24m<br>
-BigPilisos <strong><span style="color:crimson;background-color:">Shredded</span></strong> BuckeyeBunny at 0:00, with a tactical shotgun<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Evaporated</span></strong> RealQueen420 at 0:00, with a assault rifle from 24m<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Eliminated</span></strong> BuckeyeBunny at 0:00, with a tactical shotgun<br>
 QBall693971 <strong><span style="color:blue;background-color:">Knocked</span></strong> QBall693971 at 0:00 near <strong>NeonCity</strong>, with a OutsideSafeZone<br>
 Ted302 <strong><span style="color:blue;background-color:">Knocked</span></strong> Ted302 at 0:00, with a OutsideSafeZone<br>
 badCorpsman <strong><span style="color:blue;background-color:">Knocked</span></strong> RickAshtray at 0:00, with a HeavySniper from 59m<br>
@@ -103,9 +232,9 @@ DocsGamesYouTube <strong><span style="color:blue;background-color:">Knocked</spa
 BigPilisos <strong><span style="color:purple;background-color:">Carded</span></strong> DadNoBuild at 0:00, with a HeavySniper from 91m<br>
 Ted302 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 RickAshtray was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
-RLMSherry <strong><span style="color:crimson;background-color:">Evaporated</span></strong> JiggaG4PF at 0:00, with a HeavySniper from 132m<br>
+RLMSherry <strong><span style="color:crimson;background-color:">Shredded</span></strong> JiggaG4PF at 0:00, with a HeavySniper from 132m<br>
 NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> buckeyeyoyo at 0:00, with a pump shotgun from 3m<br>
-fanzypantzy <strong><span style="color:crimson;background-color:">Killed</span></strong> DocsGamesYouTube at 0:00, with a HeavySniper from 86m<br>
+fanzypantzy <strong><span style="color:crimson;background-color:">Eradicated</span></strong> DocsGamesYouTube at 0:00, with a HeavySniper from 86m<br>
 NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> V1kingofNorway at 0:00, with a smg from 3m<br>
 Ted302 <strong><span style="color:blue;background-color:">Knocked</span></strong> Ted302 at 0:00, with a OutsideSafeZone<br>
 fanzypantzy <strong><span style="color:purple;background-color:">Carded</span></strong> SuPpLyDrAwP13 at 0:00, with a DBNOTimeout from 91m<br>
@@ -115,10 +244,10 @@ Ted302 <strong><span style="color:blue;background-color:">Knocked</span></strong
 Brackets132 <strong><span style="color:blue;background-color:">Knocked</span></strong> Brackets132 at 0:00, with a OutsideSafeZone<br>
 cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> cmon. at 0:00 near <strong>RealityFortress</strong>, with a OutsideSafeZone<br>
 Ted302 <strong><span style="color:purple;background-color:">Carded</span></strong> Ted302 at 0:00, with a DBNOTimeout<br>
-TYLERMOREAUYT <strong><span style="color:crimson;background-color:">Eradicated</span></strong> TYLERMOREAUYT at 0:00, with a OutsideSafeZone<br>
+TYLERMOREAUYT <strong><span style="color:crimson;background-color:">Embarassed</span></strong> TYLERMOREAUYT at 0:00, with a OutsideSafeZone<br>
 Brackets132 <strong><span style="color:purple;background-color:">Carded</span></strong> Brackets132 at 0:00, with a DBNOTimeout<br>
 cmon. <strong><span style="color:purple;background-color:">Carded</span></strong> cmon. at 0:00 near <strong>RealityFortress</strong>, with a DBNOTimeout<br>
-iUsedKamui <strong><span style="color:crimson;background-color:">Smoked</span></strong> ConJoGaming at 0:00, with a tactical shotgun from 7m<br>
+iUsedKamui <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ConJoGaming at 0:00, with a tactical shotgun from 7m<br>
 BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a assault rifle from 53m<br>
 ᴍᴏʟꜱᴏɴ was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> donzerelli76 at 0:00, with a pump shotgun from 6m<br>
@@ -135,9 +264,9 @@ iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></st
 ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> SfromO at 0:00, with a smg from 6m<br>
 BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> RickAshtray at 0:00, with a assault rifle from 32m<br>
 CPKjamieo <strong><span style="color:purple;background-color:">Carded</span></strong> SfromO at 0:00, with a smg from 5m<br>
-iUsedKamui <strong><span style="color:crimson;background-color:">Eliminated</span></strong> coachcoble at 0:00, with a tactical shotgun from 2m<br>
-ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Terminated</span></strong> OldSniper69 at 0:00, with a pump shotgun<br>
-OldSchool2.0 <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> TOMMYOFTROY at 0:00, with a HeavySniper from 30m<br>
+iUsedKamui <strong><span style="color:crimson;background-color:">Terminated</span></strong> coachcoble at 0:00, with a tactical shotgun from 2m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OldSniper69 at 0:00, with a pump shotgun<br>
+OldSchool2.0 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> TOMMYOFTROY at 0:00, with a HeavySniper from 30m<br>
 RickAshtray was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Killed</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00, with a OutsideSafeZone<br>
 NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 0:00, with a smg from 4m<br>
@@ -152,8 +281,8 @@ fanzypantzy <strong><span style="color:purple;background-color:">Carded</span></
 ᴍᴏʟꜱᴏɴ was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 NaCole69 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> fanzypantzy at 0:00, with a pump shotgun from 4m<br>
 VincentDaGoatt <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a tactical shotgun from 2m<br>
-VincentDaGoatt <strong><span style="color:crimson;background-color:">Beamed</span></strong> RickAshtray at 0:00, with a assault rifle from 2m<br>
-VincentDaGoatt <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a assault rifle from 2m<br>
+VincentDaGoatt <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> RickAshtray at 0:00, with a assault rifle from 2m<br>
+VincentDaGoatt <strong><span style="color:crimson;background-color:">Killed</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a assault rifle from 2m<br>
 NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> cece1234677655 at 0:00, with a smg from 2m<br>
 OldManJersey <strong><span style="color:crimson;background-color:">Smoked</span></strong> NaCole69 at 0:00, with a tactical shotgun from 2m<br>
 gupi6 <strong><span style="color:blue;background-color:">Knocked</span></strong> VincentDaGoatt at 0:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 2m<br>
@@ -161,7 +290,7 @@ OldManJersey <strong><span style="color:purple;background-color:">Carded</span><
 OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> OldManJersey at 0:00, with a pump shotgun from 3m<br>
 OldSchool2.0 <strong><span style="color:purple;background-color:">Carded</span></strong> OldManJersey at 0:00, with a pump shotgun from 3m<br>
 VincentDaGoatt was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
-Grizzel <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> gupi6 at 0:00, with a pistol from 4m<br>
+Grizzel <strong><span style="color:crimson;background-color:">Killed</span></strong> gupi6 at 0:00, with a pistol from 4m<br>
 # Game <strong>Three</strong> started @10:11 AM -> 47 people, NO build Squad<br>
 donzerelli76 <strong><span style="color:blue;background-color:">Knocked</span></strong> V1kingofNorway at 0:00, with a smg from 4m<br>
 donzerelli76 <strong><span style="color:purple;background-color:">Carded</span></strong> V1kingofNorway at 0:00, with a smg from 2m<br>
@@ -238,9 +367,9 @@ DadNoBuild <strong><span style="color:blue;background-color:">Knocked</span></st
 PANDAGAMINGRD448 <strong><span style="color:blue;background-color:">Knocked</span></strong> DadNoBuild at 0:00, with a pump shotgun from 6m<br>
 fanzypantzy was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
 RLM Sherry was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
-DadNoBuild <strong><span style="color:crimson;background-color:">Smoked</span></strong> skinnydog55 at 0:00, with a DMR<br>
+DadNoBuild <strong><span style="color:crimson;background-color:">Eliminated</span></strong> skinnydog55 at 0:00, with a DMR<br>
 buckeyeyoyo <strong><span style="color:crimson;background-color:">Eliminated</span></strong> MarioFromNY at 0:00, with a CombatShotgun<br>
-DocsGamesYouTube <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PANDAGAMINGRD448 at 0:00, with a tactical shotgun from 3m<br>
+DocsGamesYouTube <strong><span style="color:crimson;background-color:">Beamed</span></strong> PANDAGAMINGRD448 at 0:00, with a tactical shotgun from 3m<br>
 MarioFromNY <strong><span style="color:purple;background-color:">Carded</span></strong> QBall693971 at 0:00<br>
 buckeyeyoyo was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 DadNoBuild was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
@@ -286,8 +415,8 @@ Ted302 <strong><span style="color:blue;background-color:">Knocked</span></strong
 iUsedKamui <strong><span style="color:purple;background-color:">Carded</span></strong> fanzypantzy at 0:00, with a assault rifle from 2m<br>
 cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> Ted302 at 0:00, with a pump shotgun from 16m<br>
 cmon. <strong><span style="color:purple;background-color:">Carded</span></strong> TYLERMOREAUYT at 0:00, with a pump shotgun<br>
-Brackets132 <strong><span style="color:crimson;background-color:">Terminated</span></strong> ASGRtad2002 at 0:00, with a pump shotgun from 8m<br>
-cmon. <strong><span style="color:crimson;background-color:">Terminated</span></strong> Ted302 at 0:00, with a pump shotgun<br>
+Brackets132 <strong><span style="color:crimson;background-color:">Evaporated</span></strong> ASGRtad2002 at 0:00, with a pump shotgun from 8m<br>
+cmon. <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Ted302 at 0:00, with a pump shotgun<br>
 OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> Brackets132 at 0:00, with a HeavySniper from 132m<br>
 iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> donzerelli76 at 0:00, with a pump shotgun from 3m<br>
 iUsedKamui <strong><span style="color:purple;background-color:">Carded</span></strong> donzerelli76 at 0:00 from 2m<br>
@@ -304,10 +433,10 @@ RealQueen420 <strong><span style="color:purple;background-color:">Carded</span><
 DocsGamesYouTube <strong><span style="color:purple;background-color:">Carded</span></strong> JiggaG4PF at 0:00, with a pump shotgun from 12m<br>
 DadNoBuild <strong><span style="color:blue;background-color:">Knocked</span></strong> Brackets132 at 0:00, with a HeavySniper from 75m<br>
 Grizzel <strong><span style="color:purple;background-color:">Carded</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00 near <strong>NeonCity</strong>, with a DBNOTimeout from 73m<br>
-WatCKa007 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> RLMSherry at 0:00, with a pump shotgun from 7m<br>
+WatCKa007 <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> RLMSherry at 0:00, with a pump shotgun from 7m<br>
 OldSchool2.0 <strong><span style="color:purple;background-color:">Carded</span></strong> Schmeee76 at 0:00, with a HeavySniper<br>
 DadNoBuild <strong><span style="color:blue;background-color:">Knocked</span></strong> ConJoGaming at 0:00, with a DMR from 35m<br>
-WatCKa007 <strong><span style="color:crimson;background-color:">Terminated</span></strong> WatCKa007 at 0:00, with a OutsideSafeZone<br>
+WatCKa007 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> WatCKa007 at 0:00, with a OutsideSafeZone<br>
 RealQueen420 <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a tactical shotgun from 4m<br>
 DocsGamesYouTube <strong><span style="color:purple;background-color:">Carded</span></strong> ConJoGaming at 0:00, with a assault rifle from 22m<br>
 DocsGamesYouTube <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 0:00, with a assault rifle from 36m<br>
@@ -320,24 +449,24 @@ SaberCodeRedYT <strong><span style="color:purple;background-color:">Carded</span
 Grizzel <strong><span style="color:blue;background-color:">Knocked</span></strong> DeathBYsociety at 0:00, with a pistol from 5m<br>
 cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> buckeyeyoyo at 0:00, with a pistol from 17m<br>
 OldSchool2.0 <strong><span style="color:purple;background-color:">Carded</span></strong> DeathBYsociety at 0:00, with a pump shotgun from 3m<br>
-DocsGamesYouTube <strong><span style="color:crimson;background-color:">NuKEd</span></strong> NaCole69 at 0:00, with a pump shotgun from 2m<br>
+DocsGamesYouTube <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> NaCole69 at 0:00, with a pump shotgun from 2m<br>
 cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> DadNoBuild at 0:00, with a pump shotgun from 13m<br>
 cmon. <strong><span style="color:purple;background-color:">Carded</span></strong> buckeyeyoyo at 0:00, with a pump shotgun from 9m<br>
-RealQueen420 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a tactical shotgun<br>
-DocsGamesYouTube <strong><span style="color:crimson;background-color:">Eliminated</span></strong> iUsedKamui at 0:00, with a pump shotgun from 5m<br>
+RealQueen420 <strong><span style="color:crimson;background-color:">Beamed</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a tactical shotgun<br>
+DocsGamesYouTube <strong><span style="color:crimson;background-color:">Beamed</span></strong> iUsedKamui at 0:00, with a pump shotgun from 5m<br>
 cmon. <strong><span style="color:purple;background-color:">Carded</span></strong> DadNoBuild at 0:00, with a pump shotgun from 3m<br>
-DadNoBuild won match (and was flexing until 0:00)<br>
-OldSchool2.0 <strong><span style="color:crimson;background-color:">Smoked</span></strong> OldSniper69 at 0:00, with a pistol from 1m<br>
+DadNoBuild crushed it (and was flexing until 0:00)<br>
+OldSchool2.0 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OldSniper69 at 0:00, with a pistol from 1m<br>
 DocsGamesYouTube <strong><span style="color:purple;background-color:">Carded</span></strong> CPKkaso at 0:00, with a assault rifle<br>
 DocsGamesYouTube <strong><span style="color:blue;background-color:">Knocked</span></strong> OldSchool2.0 at 0:00, with a HeavySniper from 38m<br>
 DocsGamesYouTube <strong><span style="color:purple;background-color:">Carded</span></strong> OldSchool2.0 at 0:00, with a assault rifle from 34m<br>
-SaberCodeRedYT <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> Grizzel at 0:00, with a pump shotgun from 10m<br>
-cmon. <strong><span style="color:crimson;background-color:">Humiliated</span></strong> DocsGamesYouTube at 0:00, with a pump shotgun from 21m<br>
+SaberCodeRedYT <strong><span style="color:crimson;background-color:">Melted</span></strong> Grizzel at 0:00, with a pump shotgun from 10m<br>
+cmon. <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DocsGamesYouTube at 0:00, with a pump shotgun from 21m<br>
 SaberCodeRedYT <strong><span style="color:blue;background-color:">Knocked</span></strong> SaberCodeRedYT at 0:00, with a OutsideSafeZone<br>
 SaberCodeRedYT <strong><span style="color:purple;background-color:">Carded</span></strong> SaberCodeRedYT at 0:00, with a DBNOTimeout<br>
-cmon. <strong><span style="color:crimson;background-color:">Eliminated</span></strong> gupi6 at 0:00, with a smg from 22m<br>
-gupi6 <strong><span style="color:crimson;background-color:">Evaporated</span></strong> BuckeyeBunny at 0:00, with a OutsideSafeZone<br>
-cmon. was there at the end (and was flexing until 0:00)<br>
+cmon. <strong><span style="color:crimson;background-color:">Lasered</span></strong> gupi6 at 0:00, with a smg from 22m<br>
+gupi6 <strong><span style="color:crimson;background-color:">Killed</span></strong> BuckeyeBunny at 0:00, with a OutsideSafeZone<br>
+cmon. won match (and was flexing until 0:00)<br>
 # Game <strong>Two</strong> started @09:40 AM -> 46 people, NO build Squad<br>
 TriarchNox <strong><span style="color:blue;background-color:">Knocked</span></strong> BfromO at 0:00, with a katana from 2m<br>
 TriarchNox <strong><span style="color:purple;background-color:">Carded</span></strong> BfromO at 0:00, with a katana<br>
@@ -351,7 +480,7 @@ Grizzel <strong><span style="color:purple;background-color:">Carded</span></stro
 badCorpsman <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Sgt.GreenClover at 0:00 near <strong>NeonCity</strong>, with a pistol from 6m (why you pick on NPCs?)<br>
 OldSchool2.0 <strong><span style="color:purple;background-color:">Carded</span></strong> SfromO at 0:00 near <strong>FortaniumQuarry</strong>, with a pistol from 10m<br>
 ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> Brackets132 at 0:00, with a assault rifle from 117m<br>
-Grizzel <strong><span style="color:crimson;background-color:">Killed</span></strong> coachcoble at 0:00 near <strong>FortaniumQuarry</strong>, with a assault rifle from 8m<br>
+Grizzel <strong><span style="color:crimson;background-color:">Eliminated</span></strong> coachcoble at 0:00 near <strong>FortaniumQuarry</strong>, with a assault rifle from 8m<br>
 ᴍᴏʟꜱᴏɴ <strong><span style="color:purple;background-color:">Carded</span></strong> Brackets132 at 0:00 near <strong>NeonCity</strong>, with a DBNOTimeout from 117m<br>
 BfromO was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
 Grizzel <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Highcard at 0:00 near <strong>FortaniumQuarry</strong>, with a tactical shotgun from 7m (why you pick on NPCs?)<br>
@@ -400,23 +529,23 @@ cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong>
 cmon. <strong><span style="color:purple;background-color:">Carded</span></strong> RLMSherry at 0:00 from 47m<br>
 NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> PANDAGAMINGRD448 at 0:00, with a assault rifle from 169m<br>
 PANDAGAMINGRD448 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
-cmon. <strong><span style="color:crimson;background-color:">Beamed</span></strong> DocsGamesYouTube at 0:00 near <strong>LightCastle</strong>, with a assault rifle from 70m<br>
+cmon. <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> DocsGamesYouTube at 0:00 near <strong>LightCastle</strong>, with a assault rifle from 70m<br>
 HippieRach <strong><span style="color:dodgerblue;background-color:yellow">BULLIED</span></strong> Longshot at 0:00, with a pistol from 13m (why you pick on NPCs?)<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> donzerelli76 at 0:00, with a pump shotgun from 5m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:purple;background-color:">Carded</span></strong> donzerelli76 at 0:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 7m<br>
 RickAshtray <strong><span style="color:blue;background-color:">Knocked</span></strong> SaberCodeRedYT at 0:00 near <strong>RealityFortress</strong>, with a OutsideSafeZone from 23m<br>
 HippieRach <strong><span style="color:blue;background-color:">Knocked</span></strong> skinnydog55 at 0:00, with a DMR from 192m<br>
-BuckeyeBunny <strong><span style="color:crimson;background-color:">Smoked</span></strong> BuckeyeBunny at 0:00 near <strong>RealityFortress</strong>, with a OutsideSafeZone<br>
-RickAshtray <strong><span style="color:crimson;background-color:">Smoked</span></strong> SaberCodeRedYT at 0:00 near <strong>RealityFortress</strong>, with a DBNOTimeout<br>
+BuckeyeBunny <strong><span style="color:crimson;background-color:">Destroyed</span></strong> BuckeyeBunny at 0:00 near <strong>RealityFortress</strong>, with a OutsideSafeZone<br>
+RickAshtray <strong><span style="color:crimson;background-color:">Beamed</span></strong> SaberCodeRedYT at 0:00 near <strong>RealityFortress</strong>, with a DBNOTimeout<br>
 HippieRach <strong><span style="color:purple;background-color:">Carded</span></strong> skinnydog55 at 0:00, with a DBNOTimeout from 215m<br>
 iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> TOMMYOFTROY at 0:00, with a tactical shotgun from 7m<br>
 cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> Grizzel at 0:00 near <strong>LightCastle</strong>, with a assault rifle from 184m<br>
 RickAshtray <strong><span style="color:purple;background-color:">Carded</span></strong> TOMMYOFTROY at 0:00, with a assault rifle from 13m<br>
 iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> MarioFromNY at 0:00, with a tactical shotgun from 9m<br>
 iUsedKamui <strong><span style="color:purple;background-color:">Carded</span></strong> MarioFromNY at 0:00, with a tactical shotgun from 5m<br>
-ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Melted</span></strong> PANDAGAMINGRD448 at 0:00, with a pump shotgun from 5m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> PANDAGAMINGRD448 at 0:00, with a pump shotgun from 5m<br>
 TYLERMOREAUYT <strong><span style="color:purple;background-color:">Carded</span></strong> Grizzel at 0:00 near <strong>LightCastle</strong>, with a tactical shotgun from 7m<br>
-badCorpsman <strong><span style="color:crimson;background-color:">Eliminated</span></strong> fanzypantzy at 0:00 near <strong>LightCastle</strong>, with a pistol from 6m<br>
+badCorpsman <strong><span style="color:crimson;background-color:">Beamed</span></strong> fanzypantzy at 0:00 near <strong>LightCastle</strong>, with a pistol from 6m<br>
 ASGRtad2002 <strong><span style="color:blue;background-color:">Knocked</span></strong> ASGRtad2002 at 0:00 near <strong>NeonCity</strong>, with a OutsideSafeZone<br>
 HippieRach <strong><span style="color:blue;background-color:">Knocked</span></strong> ConJoGaming at 0:00, with a DMR from 78m<br>
 Schmeee76 <strong><span style="color:purple;background-color:">Carded</span></strong> ASGRtad2002 at 0:00 near <strong>LightCastle</strong>, with a DBNOTimeout from 6m<br>
@@ -424,23 +553,23 @@ NaCole69 <strong><span style="color:purple;background-color:">Carded</span></str
 cmon. <strong><span style="color:blue;background-color:">Knocked</span></strong> HippieRach at 0:00, with a assault rifle from 73m<br>
 HippieRach was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 Schmeee76 <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKkaso at 0:00, with a tactical shotgun from 13m<br>
-Schmeee76 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKkaso at 0:00, with a tactical shotgun<br>
-ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Eviscerated</span></strong> cmon. at 0:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 11m<br>
+Schmeee76 <strong><span style="color:crimson;background-color:">Killed</span></strong> CPKkaso at 0:00, with a tactical shotgun<br>
+ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Eliminated</span></strong> cmon. at 0:00, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 11m<br>
 BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> RickAshtray at 0:00, with a assault rifle from 54m<br>
 NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> RickAshtray at 0:00, with a assault rifle from 26m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 5m<br>
 JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> WatCKa007 at 0:00, with a pump shotgun from 4m<br>
 JiggaG4PF <strong><span style="color:purple;background-color:">Carded</span></strong> WatCKa007 at 0:00, with a pump shotgun from 2m<br>
-ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Shredded</span></strong> gupi6 at 0:00 near <strong>LightCastle</strong>, with a pump shotgun from 6m<br>
-ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Killed</span></strong> TYLERMOREAUYT at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 5m<br>
+ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Killed</span></strong> gupi6 at 0:00 near <strong>LightCastle</strong>, with a pump shotgun from 6m<br>
+ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Shredded</span></strong> TYLERMOREAUYT at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 5m<br>
 JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> badCorpsman at 0:00, with a pump shotgun from 3m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a FallDamage from 19m<br>
 NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> badCorpsman at 0:00, with a pump shotgun from 2m<br>
-Schmeee76 <strong><span style="color:crimson;background-color:">Killed</span></strong> iUsedKamui at 0:00 near <strong>LightCastle</strong>, with a tactical shotgun from 7m<br>
-ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Killed</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a DBNOTimeout<br>
-ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKjamieo at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper<br>
+Schmeee76 <strong><span style="color:crimson;background-color:">Dumbfounded</span></strong> iUsedKamui at 0:00 near <strong>LightCastle</strong>, with a tactical shotgun from 7m<br>
+ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> ᴍᴏʟꜱᴏɴ at 0:00, with a DBNOTimeout<br>
+ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:crimson;background-color:">Bamboozled</span></strong> CPKjamieo at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> BigPilisos at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 55m<br>
-NaCole69 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OldSchool2.0 at 0:00, with a pump shotgun from 12m<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Lasered</span></strong> OldSchool2.0 at 0:00, with a pump shotgun from 12m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> HippieRach at 0:00 near <strong>LightCastle</strong>, with a <strong><span style="color:black;background-color:gold">MYTHIC</span></strong> PastaRipper from 3m<br>
 JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> Schmeee76 at 0:00 near <strong>LightCastle</strong>, with a pump shotgun from 6m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> JiggaG4PF at 0:00 near <strong>LightCastle</strong>, with a pump shotgun from 2m<br>
@@ -448,7 +577,7 @@ NaCole69 <strong><span style="color:purple;background-color:">Carded</span></str
 JiggaG_4PF was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 BigPilisos was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 HippieRach was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
-NaCole69 <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00 near <strong>LightCastle</strong>, with a pump shotgun from 8m<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Killed</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00 near <strong>LightCastle</strong>, with a pump shotgun from 8m<br>
 # Game <strong>One</strong> started @09:08 AM -> 46 people, NO build Squad<br>
 fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></strong> PANDAGAMINGRD448 at 0:00 from 1m<br>
 ᵀʷⁱᵗᶜʰZayBae1x <strong><span style="color:blue;background-color:">Knocked</span></strong> Grizzel at 0:00 near <strong>MountainDojo</strong>, with a assault rifle from 8m<br>
@@ -504,9 +633,9 @@ fanzypantzy <strong><span style="color:blue;background-color:">Knocked</span></s
 Brackets132 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 OldSchool2.0 <strong><span style="color:blue;background-color:">Knocked</span></strong> FourAll2See at 0:00, with a HeavySniper from 180m<br>
 RealQueen420 was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
-coachcoble <strong><span style="color:crimson;background-color:">Beamed</span></strong> skinnydog55 at 0:00, with a assault rifle from 31m<br>
+coachcoble <strong><span style="color:crimson;background-color:">Evaporated</span></strong> skinnydog55 at 0:00, with a assault rifle from 31m<br>
 MarioFromNY <strong><span style="color:crimson;background-color:">Clapped</span></strong> MarioFromNY at 0:00, with a DBNOTimeout<br>
-JiggaG4PF <strong><span style="color:crimson;background-color:">Killed</span></strong> OldManJersey at 0:00 near <strong>IndustrialTown</strong>, with a assault rifle from 111m<br>
+JiggaG4PF <strong><span style="color:crimson;background-color:">Eliminated</span></strong> OldManJersey at 0:00 near <strong>IndustrialTown</strong>, with a assault rifle from 111m<br>
 FourAll2See was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 Ted302 was <strong><span style="color:black;background-color:lime">REBOOTED</span></strong>  at 0:00<br>
 JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> ConJoGaming at 0:00 near <strong>IndustrialTown</strong>, with a assault rifle from 144m<br>
@@ -545,18 +674,18 @@ CPKjamieo <strong><span style="color:purple;background-color:">Carded</span></st
 HippieRach <strong><span style="color:blue;background-color:">Knocked</span></strong> OldSniper69 at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 159m<br>
 HippieRach <strong><span style="color:purple;background-color:">Carded</span></strong> OldSniper69 at 0:00, with a DBNOTimeout from 146m<br>
 DocsGamesYouTube <strong><span style="color:purple;background-color:">Carded</span></strong> coachcoble at 0:00, with a DBNOTimeout from 107m<br>
-ASGRtad2002 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ASGRtad2002 at 0:00, with a OutsideSafeZone<br>
+ASGRtad2002 <strong><span style="color:crimson;background-color:">Destroyed</span></strong> ASGRtad2002 at 0:00, with a OutsideSafeZone<br>
 DocsGamesYouTube <strong><span style="color:blue;background-color:">Knocked</span></strong> SfromO at 0:00, with a OutsideSafeZone from 106m<br>
 DocsGamesYouTube <strong><span style="color:crimson;background-color:">Eliminated</span></strong> SfromO at 0:00, with a DBNOTimeout<br>
-NaCole69 <strong><span style="color:crimson;background-color:">Lasered</span></strong> FourAll2See at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 131m<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Obliterated</span></strong> FourAll2See at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 131m<br>
 SaberCodeRedYT <strong><span style="color:blue;background-color:">Knocked</span></strong> QBall693971 at 0:00 near <strong>FishingVillageIsland</strong>, with a DMR from 95m<br>
 SaberCodeRedYT <strong><span style="color:purple;background-color:">Carded</span></strong> QBall693971 at 0:00 near <strong>FishingVillageIsland</strong>, with a DMR from 105m<br>
 iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> WatCKa007 at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 3m<br>
 iUsedKamui <strong><span style="color:purple;background-color:">Carded</span></strong> WatCKa007 at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 2m<br>
-ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Melted</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 61m<br>
+ᴍᴏʟꜱᴏɴ <strong><span style="color:crimson;background-color:">Eliminated</span></strong> ᵀʷⁱᵗᶜʰZayBae1x at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 61m<br>
 buckeyeyoyo <strong><span style="color:blue;background-color:">Knocked</span></strong> RickAshtray at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 9m<br>
 buckeyeyoyo <strong><span style="color:purple;background-color:">Carded</span></strong> RickAshtray at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 2m<br>
-HippieRach <strong><span style="color:crimson;background-color:">Shredded</span></strong> Brackets132 at 0:00 near <strong>FishingVillageIsland</strong>, with a pistol from 7m<br>
+HippieRach <strong><span style="color:crimson;background-color:">Eliminated</span></strong> Brackets132 at 0:00 near <strong>FishingVillageIsland</strong>, with a pistol from 7m<br>
 RealQueen420 <strong><span style="color:blue;background-color:">Knocked</span></strong> HippieRach at 0:00 near <strong>FishingVillageIsland</strong>, with a smg from 1m<br>
 NaCole69 <strong><span style="color:blue;background-color:">Knocked</span></strong> RealQueen420 at 0:00 near <strong>FishingVillageIsland</strong>, with a smg from 3m<br>
 NaCole69 <strong><span style="color:purple;background-color:">Carded</span></strong> RealQueen420 at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 3m<br>
@@ -567,23 +696,23 @@ HippieRach was <strong><span style="color:white;background-color:blue">revived</
 BuckeyeBunny <strong><span style="color:blue;background-color:">Knocked</span></strong> buckeyeyoyo at 0:00 near <strong>FishingVillageIsland</strong>, with a DMR from 30m<br>
 DocsGamesYouTube <strong><span style="color:blue;background-color:">Knocked</span></strong> BuckeyeBunny at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 31m<br>
 DocsGamesYouTube <strong><span style="color:crimson;background-color:">Eliminated</span></strong> BuckeyeBunny at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle<br>
-NaCole69 <strong><span style="color:crimson;background-color:">Beamed</span></strong> SaberCodeRedYT at 0:00 near <strong>FishingVillageIsland</strong>, with a smg from 2m<br>
+NaCole69 <strong><span style="color:crimson;background-color:">Eliminated</span></strong> SaberCodeRedYT at 0:00 near <strong>FishingVillageIsland</strong>, with a smg from 2m<br>
 buckeyeyoyo was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> buckeyeyoyo at 0:00 near <strong>FishingVillageIsland</strong>, with a HeavySniper from 37m<br>
 ᴍᴏʟꜱᴏɴ <strong><span style="color:purple;background-color:">Carded</span></strong> buckeyeyoyo at 0:00 near <strong>FishingVillageIsland</strong>, with a assault rifle from 38m<br>
-BigPilisos <strong><span style="color:crimson;background-color:">Beamed</span></strong> DocsGamesYouTube at 0:00 near <strong>FishingVillageIsland</strong>, with a Grenade from 27m<br>
-BigPilisos <strong><span style="color:crimson;background-color:">Eliminated</span></strong> DadNoBuild at 0:00 near <strong>FishingVillageIsland</strong>, with a Grenade from 28m<br>
+BigPilisos <strong><span style="color:crimson;background-color:">NuKEd</span></strong> DocsGamesYouTube at 0:00 near <strong>FishingVillageIsland</strong>, with a Grenade from 27m<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Obliterated</span></strong> DadNoBuild at 0:00 near <strong>FishingVillageIsland</strong>, with a Grenade from 28m<br>
 iUsedKamui <strong><span style="color:blue;background-color:">Knocked</span></strong> BigPilisos at 0:00 near <strong>FishingVillageIsland</strong>, with a HeavySniper from 39m<br>
 BigPilisos was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
 BigPilisos <strong><span style="color:blue;background-color:">Knocked</span></strong> CPKjamieo at 0:00 near <strong>FishingVillageIsland</strong>, with a HeavySniper from 23m<br>
 JiggaG4PF <strong><span style="color:blue;background-color:">Knocked</span></strong> iUsedKamui at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 2m<br>
 ᴍᴏʟꜱᴏɴ <strong><span style="color:blue;background-color:">Knocked</span></strong> JiggaG4PF at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 14m<br>
 JiggaG_4PF was <strong><span style="color:white;background-color:blue">revived</span></strong>  at 0:00<br>
-BigPilisos <strong><span style="color:crimson;background-color:">Lasered</span></strong> CPKjamieo at 0:00 near <strong>FishingVillageIsland</strong>, with a HeavySniper<br>
-HippieRach <strong><span style="color:crimson;background-color:">Terminated</span></strong> ᴍᴏʟꜱᴏɴ at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 7m<br>
-JiggaG4PF <strong><span style="color:crimson;background-color:">Melted</span></strong> iUsedKamui at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun<br>
+BigPilisos <strong><span style="color:crimson;background-color:">Eliminated</span></strong> CPKjamieo at 0:00 near <strong>FishingVillageIsland</strong>, with a HeavySniper<br>
+HippieRach <strong><span style="color:crimson;background-color:">Killed</span></strong> ᴍᴏʟꜱᴏɴ at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun from 7m<br>
+JiggaG4PF <strong><span style="color:crimson;background-color:">Beamed</span></strong> iUsedKamui at 0:00 near <strong>FishingVillageIsland</strong>, with a pump shotgun<br>
 
 ## Click for >[HOME](https://www.kaso.gg) >[TABLE](https://www.kaso.gg/fullresults) >[KILL FEED](https://www.kaso.gg/killfeed)<br>
 
 <!--CREATED BY CODE-->
-<!--3/25/2023 11:19:01 AM-->
+<!--3/25/2023 11:47:38 AM-->
