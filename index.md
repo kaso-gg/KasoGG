@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Apr 01, 2023 11:44:32").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 01, 2023 18:16:12").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -80,6 +80,8 @@ This table shows placement result sorted by points. Bold **player name** means t
 <br/>
 
 # Past Events
+
+**2023.04.01** - [RESULTS](https://www.kaso.gg/2023_04_01_OSW_ZBS_Week4) This was WEEK 4 of Old School's Zero Build Squad League, still super fun!
 
 **2023.03.25** - [RESULTS](https://www.kaso.gg/2023_03_25_OSW_ZBS_Week3) This was WEEK 3 of Old School's Zero Build Squad League and it's some of the best people and most fun you can have in customs.
 
