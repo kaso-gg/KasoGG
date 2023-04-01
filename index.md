@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Apr 01, 2023 07:21:59").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 01, 2023 09:35:40").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,19 +43,19 @@ We're playing in Old School's zero build squad league today. This is Week 4 of a
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
+We had 1 matches with 44 unique people and the biggest lobby had 44 playing. There were 44 people who played every match. The highest XP level was 'iUsedKamui' at 123. The lowest XP was 'cece1234677655' at 24, welcome to our lobby you GOAT! About 61.5% of us used girl skins. Guess what, we eliminated four NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. Four people have donkey laugh in their locker emotes, HEE HAW!
 
-
-* Most common skins: <br>
-* Most common pickaxes: <br>
-* Most common emotes: <br>
+* Most common skins: Character_VitalPsych(3), ToyTrooper(3), Glitch(2)<br>
+* Most common pickaxes: Pickaxe_CrowbarSleek(4), Driver(3), AC/DC(2)<br>
+* Most common emotes: CrowningAchievement(13), BearHug(8), EID_Inferno(7)<br>
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-
+|240|00|240|100.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,6 +64,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|1|GG|cmon .|15.0|1.0 <1>|4 (4.0) <4>|0|0|0|0|100%|121|![](){:height="35px"}|![](){:height="35px"}|
+|2|ggz|ᵀʷⁱᵗᶜʰ ZayBae1x|15.0|1.0 <1>|4 (4.0) <4>|0|0|0|0|100%|53|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|![](){:height="35px"}|
+|3|good job|TOMMY OF TROY|15.0|1.0 <1>|2 (2.0) <2>|1|0|0|0|100%|87|![](){:height="35px"}|![](){:height="35px"}|
+|4|goat|TYLER_MOREAU_YT|15.0|1.0 <1>|1 (1.0) <1>|0|0|0|0|100%|1|![](https://media.fortniteapi.io/images/d54d10e4c617f6b45625e95536d15422/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/5f1a2b1a111b4106cb4ea2f30b76a23d/transparent.png){:height="35px"}|
+|5|high five|iUsedKamui|9.0|2.0 <2>|7 (7.0) <7>|0|1|0|1|0%|123|![](https://media.fortniteapi.io/images/dc92a8a8b9fa9819cb69db78bc916084/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/4b6e37a8de2ac6d5a40e7f48dc810bdd/transparent.png){:height="35px"}|
+|6||SfromO|9.0|2.0 <2>|1 (1.0) <1>|0|0|0|0|100%|48|![](https://media.fortniteapi.io/images/d8f36a018fe77330bf83edc1967b6e70/transparent.png){:height="35px"}|![](){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
