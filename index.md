@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Apr 01, 2023 07:10:46").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 01, 2023 07:21:59").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -43,19 +43,19 @@ We're playing in Old School's zero build squad league today. This is Week 4 of a
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 5 matches with 47 unique people and the biggest lobby had 47 playing. There were 45 people who played every match. The highest XP level was 'fanzypantzy' at 108. The lowest XP was 'Brackets132' at 6, welcome to our lobby you GOAT! About 68.3% of us used girl skins. Guess what, we eliminated nineteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. Four people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: Aura(4), Adira(4), Dusty(3)<br>
-* Most common pickaxes: Pickaxe_CrowbarSleek(5), DesignatedHitters(4), DefaultPickaxe(2)<br>
-* Most common emotes: CrowningAchievement(22), EID_Inferno(9), LunarParty(9)<br>
 
-Bot identified 6 error occurances affecting 5 player(s) with a net error balance of 0.00. Only ~0.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: Triarch Nox, BigPilisos, OldSniper69, RealQueen420, Schmeee76. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
+* Most common skins: <br>
+* Most common pickaxes: <br>
+* Most common emotes: <br>
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
+No routine scoring errors were detected. Please notify us if you feel anything was missed.
+
+
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|1,171|00|1,171|100.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
+
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,12 +64,6 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|GG|NaCole_69|56.0|2.8 <1,1,8,3,1>|20 (5.0) <4,4,0,5,7>|0|0|0|0|100%|33|![](https://media.fortniteapi.io/images/f154ad1a24b0815edd5d4223c8c792a2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/e3e9d16-9aca214-c82eed9-b398cdc/transparent.png){:height="35px"}|
-|2|ggz|BigPilisos|56.0|2.8 <1,1,8,3,1>|17 (4.3) <4,1,0,3,9>|1|0|0|0|40%|56|![](https://media.fortniteapi.io/images/e084b05-b7132a4-3318158-114e7c0/transparent.png){:height="35px"}|![](){:height="35px"}|
-|3|good job|JiggaG_4PF|56.0|2.8 <1,1,8,3,1>|12 (3.0) <3,3,0,3,3>|0|0|0|0|100%|38|![](https://media.fortniteapi.io/images/b5c05e27736ff99ff547e6a9e847dc6b/transparent.png){:height="35px"}|![](){:height="35px"}|
-|4|goat|HippieRach|56.0|2.8 <1,1,8,3,1>|8 (2.0) <3,2,0,1,2>|1|0|0|0|100%|46|![](https://media.fortniteapi.io/images/6af5fb0c4127ab98be084d6ec5ed499c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/d2e8284-fb06feb-ea3fbe3-c41fd8b/transparent.png){:height="35px"}|
-|5|high five|Old School 2.0|44.0|3.2 <5,3,5,1,2>|15 (3.0) <3,3,2,2,5>|2|1|0|1|40%|61|![](https://media.fortniteapi.io/images/97cecc17672237f13bfbc5cee17ae18f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
-|6||Grizzel|44.0|3.2 <5,3,5,1,2>|11 (2.2) <2,1,3,1,4>|1|0|1|0|80%|77|![](){:height="35px"}|![](https://media.fortniteapi.io/images/9293e8e2a91396e03e3153b5b0c72f6a/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
