@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Mar 25, 2023 15:35:07").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 01, 2023 07:10:46").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,7 +38,7 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-We're playing in Old School's zero build squad league today. This is Week 3 of a 6 week "league". He draws names and squads are assigned randomly. There will be VBuck giveaways. Scoring is Old School's format starting with 15pts for 1st, then 9pts for 2nd place down to 1 point for 10th place. Many folks will be streaming including [CPK_Jamieo](http://www.twitch.tv/cpk_jamieo), possibly myself, and of course the majority of the tournament flow will be handled on [Old School's YouTube](https://www.youtube.com/@oldschool2.0)
+We're playing in Old School's zero build squad league today. This is Week 4 of a 6 week "league". He draws names and squads are assigned randomly. There will be VBuck giveaways. Scoring is Old School's format starting with 15pts for 1st, then 9pts for 2nd place down to 1 point for 10th place. Many folks will be streaming including [CPK_Jamieo](http://www.twitch.tv/cpk_jamieo), possibly myself, and of course the majority of the tournament flow will be handled on [Old School's YouTube](https://www.youtube.com/@oldschool2.0)
 
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
@@ -81,6 +81,8 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 # Past Events
 
+**2023.03.25** - [RESULTS](https://www.kaso.gg/2023_03_25_OSW_ZBS_Week3) This was WEEK 3 of Old School's Zero Build Squad League and it's some of the best people and most fun you can have in customs.
+
 **2022.11.01** - [RESULTS](https://www.kaso.gg/2022_11_01_Squads) [Skip](https://www.facebook.com/skiddlyskip), [Mojo](https://www.facebook.com/MojoBigStick), [Nicko](https://www.facebook.com/NickoGames), and [Rip Dilly](https://www.facebook.com/RipDilly) hosted squads. We had 7 matches with 120 unique people and the biggest lobby had 64 playing. There were 17 people who played every match. The highest XP level was 'CanadianFactorTV' at 308. The lowest XP was 'Rage-Baby' at 27, welcome to our lobby you GOAT! About 63.8% of us used girl skins. Guess what, we eliminated thirteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. 22 people have donkey laugh in their locker emotes, HEE HAW!
 
 **2022.10.29** - [RESULTS](https://www.kaso.gg/2022_10_29_JohnnyTaco) Just happened to see [JohnnyTaco](https://www.twitch.tv/johnny_the_taco) doing customs so I logged a couple hours of games. We had 9 matches with 65 unique people and the biggest lobby had 25 playing. There were 3 people who played every match. The highest XP level was 'sunshinehanne' at 295. The lowest XP was 'boskololez ttv' at 2, welcome to our lobby you GOAT! About 49.0% of us used girl skins. Guess what, we eliminated five NPCs, they will be back next game though. One person was ANON mode, big sad. Nine people have donkey laugh in their locker emotes, HEE HAW!
@@ -95,7 +97,7 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 **2022.08.19** - [RESULTS](https://www.kaso.gg/2022_08_19_SkipSolos) Skip's informal customs. Solos no build, just goofing around and having fun. Livestreamed by [Skiddly Skip!](https://www.facebook.com/skiddlyskip). 5 matches played. 51 unique players and biggest lobby was 36. 10 players played every match tonight. The highest level player was TTV SkiddlySkip at 303! The lowest level player is SHAT.0N.BY.DJC at 1. Common skin: Son Goku, common axe: Power Pole (Nyoibo).
 
-**2022.08.07** - [RESULTS](2022_08_07_iHoc-Wakko-Destro_Trios) This was the second iHoc/Destro/Wakko Trios customs night. It was 3 build and 3 no build Trio FILL. Livestreamed by [iHoc](https://www.facebook.com/ihocnationfb), [Wakko](https://www.twitch.tv/darthwakko_thf), and [Destro](https://www.facebook.com/DestroGamingFB). 6 matches, 70 unique players, biggest lobby 54. 28 gamers played every match tonight. Highest level player was XuntildeathX at 318! Lowest level player was Críp Wãlkíñ at 8. Most common skin was Aura, common axe was Star Wand.
+**2022.08.07** - [RESULTS](https://www.kaso.gg/2022_08_07_iHoc-Wakko-Destro_Trios) This was the second iHoc/Destro/Wakko Trios customs night. It was 3 build and 3 no build Trio FILL. Livestreamed by [iHoc](https://www.facebook.com/ihocnationfb), [Wakko](https://www.twitch.tv/darthwakko_thf), and [Destro](https://www.facebook.com/DestroGamingFB). 6 matches, 70 unique players, biggest lobby 54. 28 gamers played every match tonight. Highest level player was XuntildeathX at 318! Lowest level player was Críp Wãlkíñ at 8. Most common skin was Aura, common axe was Star Wand.
 <br>
 
 # About
