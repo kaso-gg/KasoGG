@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Apr 01, 2023 18:16:12").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 02, 2023 14:18:27").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -38,24 +38,23 @@ Results from [PRIOR SESSIONS](#past-events) are linked at the bottom of the page
 
 
 ### ACTIVE POINTS ALGORITHM FOR TODAY'S EVENT:
-We're playing in Old School's zero build squad league today. This is Week 4 of a 6 week "league". He draws names and squads are assigned randomly. There will be VBuck giveaways. Scoring is Old School's format starting with 15pts for 1st, then 9pts for 2nd place down to 1 point for 10th place. Many folks will be streaming including [CPK_Jamieo](http://www.twitch.tv/cpk_jamieo), possibly myself, and of course the majority of the tournament flow will be handled on [Old School's YouTube](https://www.youtube.com/@oldschool2.0)
-
+I'm just lurking and logging some games. Welcome in. Glance at [PRIOR SESSIONS](#past-events) if you want to look at some other stuff.
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 5 matches with 49 unique people and the biggest lobby had 48 playing. There were 42 people who played every match. The highest XP level was 'fanzypantzy' at 147. The lowest XP was 'cece1234677655' at 24, welcome to our lobby you GOAT! About 63.7% of us used girl skins. Guess what, we eliminated fifteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. Four people have donkey laugh in their locker emotes, HEE HAW!
+We had 1 matches with 30 unique people and the biggest lobby had 30 playing. There were 30 people who played every match. The highest XP level was 'CLDBlaze1Million' at 153. The lowest XP was 'miIkmanplease' at 15, welcome to our lobby you GOAT! About 73.1% of us used girl skins. Guess what, we eliminated four NPCs, they will be back next game though. By the way, Two people need to turn off ANONYMOUS MODE. Four people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: Character_VitalPsych(4), ToyTrooper(3), Backlash(2)<br>
-* Most common pickaxes: Driver(4), Pickaxe_CrowbarSleek(4), Pickaxe_Inferno(3)<br>
-* Most common emotes: CrowningAchievement(21), BearHug(9), LunarParty(8)<br>
+* Most common skins: Character_VitalPsych(2), Joltara(2), Ruby(2)<br>
+* Most common pickaxes: Pickaxe_FallValleyBlink(3), Pickaxe_VitalPsych(2), DarkSplitter(1)<br>
+* Most common emotes: CrowningAchievement(9), EID_Inferno(6), EID_Ebony(5)<br>
 
 No routine scoring errors were detected. Please notify us if you feel anything was missed.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 1700.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|1,171|00|1,171|100.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
+|41|20|00|0.0%|-2000.0%|0.0%|1700.0%|0.0%|0.0%|0.0%|400.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -64,12 +63,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|GG|cmon .|69.0|1.2 <1,1,1,1,2>|28 (5.6) <4,8,6,6,4>|3|0|0|0|60%|121|![](){:height="35px"}|![](){:height="35px"}|
-|2|ggz|ᵀʷⁱᵗᶜʰ ZayBae1x|69.0|1.2 <1,1,1,1,2>|17 (4.3) <4,3,3,7,0>|1|0|0|0|100%|42|![](https://media.fortniteapi.io/images/3f9527a18c9da23166b91a1c63bc9faf/transparent.png){:height="35px"}|![](){:height="35px"}|
-|3|good job|TOMMY OF TROY|69.0|1.2 <1,1,1,1,2>|13 (2.6) <2,1,4,5,1>|2|0|0|0|100%|87|![](){:height="35px"}|![](){:height="35px"}|
-|4|goat|TYLER_MOREAU_YT|69.0|1.2 <1,1,1,1,2>|3 (1.0) <1,0,1,0,1>|1|0|0|0|100%|60|![](https://media.fortniteapi.io/images/d54d10e4c617f6b45625e95536d15422/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/5f1a2b1a111b4106cb4ea2f30b76a23d/transparent.png){:height="35px"}|
-|5|high five|DayMan2990|44.0|3.2 <7,4,2,2,1>|13 (2.6) <4,3,2,2,2>|2|0|0|0|80%|103|![](https://media.fortniteapi.io/images/5d6b82ff761b71350a84f2ed1fe9275f/transparent.png){:height="35px"}|![](){:height="35px"}|
-|6||gupi6|44.0|3.2 <7,4,2,2,1>|11 (2.2) <2,4,1,1,3>|1|0|0|0|80%|44|![](https://media.fortniteapi.io/images/a40ba1726d5029ab566aed545e7c6493/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/92485df87640acd080b54097bd5b23f0/transparent.png){:height="35px"}|
+|1|NPC Killah!|lil_bino|2.0|1.0 <1>|8 (8.0) <8>|1|1|0|1|100%|104|![](https://media.fortniteapi.io/images/9303938aacd6c7f187768b971c50770b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
+|2|Potato|14Kitty Toes N.M|2.0|5.0 <5>|1 (1.0) <1>|1|0|0|0|100%|1|![](https://media.fortniteapi.io/images/4933303a0bdf58239adb14a56a6c4d55/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b033b662ceba40bfdc44172079c24ffe/transparent.png){:height="35px"}|
+|3|u a bot|Carl_hellberg|1.0|1.0 <1>|7 (7.0) <7>|0|0|0|0|100%|106|![](https://media.fortniteapi.io/images/45e8d8be454a132b1731d56c9e9ec2bf/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/54659001b6c523cc90c07e288e8afced/transparent.png){:height="35px"}|
+|4||BuckeyeBunny|1.0|2.0 <2>|5 (5.0) <5>|1|0|0|0|0%|119|![](https://media.fortniteapi.io/images/9303938aacd6c7f187768b971c50770b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/cbcb9e145a9ae22fdd377bc5af228b8c/transparent.png){:height="35px"}|
+|5|ok bruh?|patrikstar36|1.0|5.0 <5>|2 (2.0) <2>|0|0|0|0|100%|59|![](https://media.fortniteapi.io/images/d6400d2b9f845912f10d954d324e373c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a309cc76ecf13024068e5cab9220eb1f/transparent.png){:height="35px"}|
+|6||GenZA Gamer|1.0|4.0 <4>||0|0|0|0|100%|81|![](){:height="35px"}|![](){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
