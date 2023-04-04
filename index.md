@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Apr 02, 2023 14:47:50").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 04, 2023 16:40:21").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -42,19 +42,19 @@ I'm just lurking and logging some games. Welcome in. Glance at [PRIOR SESSIONS](
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 2 matches with 44 unique people and the biggest lobby had 38 playing. There were 24 people who played every match. The highest XP level was 'CLDBlaze1Million' at 153. The lowest XP was 'miIkmanplease' at 15, welcome to our lobby you GOAT! About 74.0% of us used girl skins. Guess what, we eliminated eight NPCs, they will be back next game though. By the way, Two people need to turn off ANONYMOUS MODE. Six people have donkey laugh in their locker emotes, HEE HAW!
+We had 17 matches with 60 unique people and the biggest lobby had 48 playing. There were 19 people who played every match. The highest XP level was 'fanzypantzy' at 147. The lowest XP was 'DeathBYsociety' at 7, welcome to our lobby you GOAT! About 64.7% of us used girl skins. Guess what, we eliminated 36 NPCs, they will be back next game though. By the way, Two people need to turn off ANONYMOUS MODE. Six people have donkey laugh in their locker emotes, HEE HAW!
 
-* Most common skins: Character_VitalPsych(4), Sabina(3), Blaze(2)<br>
-* Most common pickaxes: Pickaxe_CrowbarSleek(3), Pickaxe_FallValleyBlink(3), Pickaxe_Titanium(3)<br>
-* Most common emotes: CrowningAchievement(12), EID_Inferno(10), GetGriddy(10)<br>
+* Most common skins: Adira(5), KiaraK.O.(5), TheReaper(5)<br>
+* Most common pickaxes: Pickaxe_CrowbarSleek(9), Pickaxe_Nebula(7), Driver(5)<br>
+* Most common emotes: CrowningAchievement(27), EID_Inferno(16), LunarParty(16)<br>
 
-No routine scoring errors were detected. Please notify us if you feel anything was missed.
+Bot identified 134 error occurances affecting 42 player(s) with a net error balance of 0.00. Only ~0.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: cmon ., NaCole_69, BigPilisos, Old School 2.0, HippieRach, JiggaG_4PF, ?????? ZayBae1x, DayMan2990, fanzypantzy, iUsedKamui, ASG_Rtad2002, Grizzel, gupi6, SaberCodeRedYT, TOMMY OF TROY, Chicken_Tender_9, DocsGamesYouTube, ??????, OldSniper69, RealQueen420, VincentDaGoatt, badCorpsman, BuckeyeBunny, buckeyeyoyo, ConJoGaming, donzerelli76, Mario From NY, Schmeee76, Ted302, Triarch Nox, TYLER_MOREAU_YT, V1king of Norway, WatCKa007, Brackets132, coachcoble, CPK_jamieo, CPK_kaso, DadNoBuild, PANDAGA. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
 
-Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 229.4% of the points were given out for thanking the bus driver, LOL.
+Here's a breakdown of points allocation across all players and matches. This data helps to understand for example that player elims accounted for 0.0% of all points earned this session and 0.0% of the points were given out for thanking the bus driver, LOL.
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|77|30|16|0.0%|-176.5%|0.0%|229.4%|0.0%|0.0%|0.0%|47.1%|
+|4,006|00|4,006|100.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -63,12 +63,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|Potato|lil_bino|3.0|9.5 <1,18>|11 (5.5) <8,3>|1|2|0|2|100%|104|![](https://media.fortniteapi.io/images/9303938aacd6c7f187768b971c50770b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png){:height="35px"}|
-|2|NPC Killah!|Carl_hellberg|3.0|2.5 <1,4>|8 (4.0) <7,1>|1|0|0|0|100%|53|![](https://media.fortniteapi.io/images/e551f3f02db8ee7ab0e0ff8dc847b941/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/transparent.png){:height="35px"}|
-|3|u a bot|14Kitty Toes N.M|3.0|9.5 <5,14>|1 (1.0) <1,0>|1|0|0|0|100%|1|![](https://media.fortniteapi.io/images/a22a0c603d543a60dd37432e09d1205e/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/b033b662ceba40bfdc44172079c24ffe/transparent.png){:height="35px"}|
-|4||Borneofevil|2.0|7.5 <13,2>|3 (3.0) <0,3>|0|0|0|0|100%|90|![](https://media.fortniteapi.io/images/a4fa870c1eb1022ddfab6e6b60bfbed0/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/991fc44-6a80944-025a92e-c0c37bd/transparent.png){:height="35px"}|
-|5|ok bruh?|patrikstar36|2.0|5.5 <5,6>|2 (2.0) <2,0>|0|0|0|0|100%|59|![](https://media.fortniteapi.io/images/d6400d2b9f845912f10d954d324e373c/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a309cc76ecf13024068e5cab9220eb1f/transparent.png){:height="35px"}|
-|6||EilteFinsYt|2.0|8.0 <12,4>|2 (2.0) <0,2>|0|0|0|0|100%|33|![](https://media.fortniteapi.io/images/e35587e60f9e73a1138a83d7379c0885/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/f4c710122d03ea58924727d1b07c5b08/transparent.png){:height="35px"}|
+|1|GG|ᵀʷⁱᵗᶜʰ ZayBae1x|180.0|3.1 <3,1,7,1,1,1,1,7,2,9,6,7,1,1,1,1,2>|63 (4.2) <3,6,3,2,7,4,6,3,6,3,3,0,4,3,3,7,0>|1|1|0|0|47%|29|![](https://media.fortniteapi.io/images/e9d61c4a4aae593fbac8d72182da83f2/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|2|ggz|cmon .|159.0|3.7 <1,7,1,4,2,9,6,6,7,1,9,4,1,1,1,1,2>|74 (4.4) <6,2,7,5,3,1,3,2,3,8,1,5,4,8,6,6,4>|1|1|0|0|47%|86|![](https://media.fortniteapi.io/images/3c436afcf6838714b4102b0a779247ab/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/a02b9082525370e9088801261a77c3e1/transparent.png){:height="35px"}|
+|3|good job|Old School 2.0|146.0|4.3 <1,7,7,1,1,1,1,5,3,5,1,2,8,13,4,7,6>|52 (3.7) <7,0,0,1,6,4,3,3,3,2,2,5,1,0,4,3,8>|5|1|0|1|53%|50|![](https://media.fortniteapi.io/images/97cecc17672237f13bfbc5cee17ae18f/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ec32e95-f5e82af-93e78e7-d72ff97/transparent.png){:height="35px"}|
+|4|goat|JiggaG_4PF|130.0|4.2 <7,2,5,5,3,6,2,1,1,8,3,1,8,3,4,7,6>|35 (2.9) <3,5,1,0,1,0,6,3,3,0,3,3,0,3,2,0,2>|0|0|0|0|76%|50|![](https://media.fortniteapi.io/images/b5c05e27736ff99ff547e6a9e847dc6b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png){:height="35px"}|
+|5||ConJoGaming|130.0|5.1 <1,7,7,1,1,1,1,6,7,1,9,4,3,8,10,11,9>|7 (1.2) <0,0,1,1,0,0,1,0,0,1,0,1,0,0,2,0,0>|2|1|0|0|24%|30|![](https://media.fortniteapi.io/images/d19f1f88b2f48fc58c061f22c0340184/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/2d991bc2a476645b5c49f8d50c443f92/transparent.png){:height="35px"}|
+|6||TOMMY OF TROY|121.0|5.5 <1,7,3,6,9,2,8,12,9,12,7,11,1,1,1,1,2>|25 (2.5) <1,0,1,4,2,4,0,0,0,0,0,0,2,1,4,5,1>|3|0|1|0|100%|58|![](https://media.fortniteapi.io/images/9cb0197858f70248e1cd90ba9055e36b/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/effb24cea6003553a8c0088c51c92e26/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
