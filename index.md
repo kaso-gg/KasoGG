@@ -1,7 +1,7 @@
 <meta http-equiv="refresh" content="30">
 
 <script>
-    var countUpdDate = new Date("Apr 15, 2023 11:11:40").getTime(); // Set the date we're counting down to
+    var countUpdDate = new Date("Apr 15, 2023 11:51:56").getTime(); // Set the date we're counting down to
     var x = setInterval(function () {
         var timeNow = new Date().getTime(); // Get today's date and time
         var distance = timeNow - countUpdDate; // Find the distance between now and the count down date
@@ -42,10 +42,10 @@ I'm just lurking and logging some games. Welcome in. Glance at [PRIOR SESSIONS](
 ## Session Overview and Top Results
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
-We had 4 matches with 50 unique people and the biggest lobby had 50 playing. There were 48 people who played every match. The highest XP level was 'cmon .' at 167. The lowest XP was 'deathbysociety' at 37, welcome to our lobby you GOAT! About 82.5% of us used girl skins. Guess what, we eliminated fifteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. Five people have donkey laugh in their locker emotes, HEE HAW!
+We had 5 matches with 50 unique people and the biggest lobby had 50 playing. There were 48 people who played every match. The highest XP level was 'cmon .' at 167. The lowest XP was 'deathbysociety' at 37, welcome to our lobby you GOAT! About 81.0% of us used girl skins. Guess what, we eliminated nineteen NPCs, they will be back next game though. Thank you everyone for NOT playing on Anonymous mode. Five people have donkey laugh in their locker emotes, HEE HAW!
 
 * Most common skins: ArcticAdeline(12), Highwire(10), Thunder(7)<br>
-* Most common pickaxes: TheVaultGuardian(7), TheAshglowBlade(5), StarWand(3)<br>
+* Most common pickaxes: TheVaultGuardian(7), TheAshglowBlade(5), Driver(3)<br>
 * Most common emotes: CrowningAchievement(19), GetGriddy(9), BearHug(7)<br>
 
 Bot identified 3 error occurances affecting 2 player(s) with a net error balance of 0.00. Only ~0.00 total tournament points are at question due to kill feed data discrepancies. Affected players are: Polar Patroller, coachcoble. Let me know if you feel like it's important to fix this, but I'll have to get your .replay file or watch your stream to confirm.
@@ -54,7 +54,7 @@ Here's a breakdown of points allocation across all players and matches. This dat
 
 | Gross  | Penlty | Final  | Placmt | Anon   | Survivl  | ThksBus | YouDed | Elims  | Siphon | NPC    |
 | :----: | :----: | :----: | :----: | :----: | :----:   | :----:  | :----: | :----: | :----: | :----: |
-|935|00|935|100.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
+|1,168|00|1,168|100.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|0.0%|
 
 This table shows placement result sorted by points. Bold **player name** means they use anonymous mode at least once. Placement and elim data shows the average value, then individual matches in brackets. All prize information and data is subject to a final review before payout. E1 is how many times you landed the first elim of the game, K1 is for first knock, and D1 is for when you were the first to be dead. TR is the bus driver thanking percentage.
 
@@ -63,12 +63,12 @@ This table shows placement result sorted by points. Bold **player name** means t
 
 | #      | Prize | Player | Pts    | Plcmnt | Elims | NPCs   | E1     | D1     | K1     | TR     | Lvl    | Skin   | Axe    |
 | :----: | :---  | :---   | :----: | :---   | :---  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|1|GG|Old School 2.0|60.0|1.0 <1,1,1,1>|30 (7.5) <6,8,5,11>|1|0|0|0|25%|95|![](https://media.fortniteapi.io/images/1d6c273052d69c3dd72cd2520a7475c7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8e37e41-4f55a66-bbefba5-c77d177/transparent.png){:height="35px"}|
-|2|ggz|NaCole_69|60.0|1.0 <1,1,1,1>|18 (4.5) <8,2,2,6>|0|1|0|1|25%|1|![](https://media.fortniteapi.io/images/2f7d5b7ac5c4da2299db136e60685774/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|
-|3|good job|ᵀʷⁱᵗᶜʰ ZayBae1x|60.0|1.0 <1,1,1,1>|18 (4.5) <2,8,3,5>|3|0|0|0|50%|84|![](https://media.fortniteapi.io/images/1d6c273052d69c3dd72cd2520a7475c7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|
-|4|goat|FourAll2See|45.0|1.0 <1,1,1>|1 (1.0) <0,1,0>|1|0|0|0|0%|135|![](https://media.fortniteapi.io/images/ae10d7211a0aedd4824da7ef221111a8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/68b6461baddd6e9c623f292c6ccc940b/transparent.png){:height="35px"}|
-|5|high five|DocsGamesYouTube|24.0|5.0 <9,4,3,4>|15 (5.0) <4,0,3,8>|0|0|0|0|0%|70|![](https://media.fortniteapi.io/images/783cb313214bae416a17c7135f1446b4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/636eaa8-89f8c9b-a3f96c1-4a7c468/transparent.png){:height="35px"}|
-|6||coachcoble|24.0|5.0 <9,4,3,4>|4 (2.0) <0,0,3,1>|0|0|0|0|75%|124|![](https://media.fortniteapi.io/images/783cb313214bae416a17c7135f1446b4/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/ca6cfb9-54bc587-e5c6dce-1b4fc3e/transparent.png){:height="35px"}|
+|1|GG|Old School 2.0|75.0|1.0 <1,1,1,1,1>|32 (6.4) <6,8,5,11,2>|2|0|0|0|20%|95|![](https://media.fortniteapi.io/images/1d6c273052d69c3dd72cd2520a7475c7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/8e37e41-4f55a66-bbefba5-c77d177/transparent.png){:height="35px"}|
+|2|ggz|ᵀʷⁱᵗᶜʰ ZayBae1x|75.0|1.0 <1,1,1,1,1>|21 (4.2) <2,8,3,5,3>|3|0|0|1|60%|67|![](https://media.fortniteapi.io/images/1d6c273052d69c3dd72cd2520a7475c7/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|
+|3|good job|NaCole_69|75.0|1.0 <1,1,1,1,1>|20 (4.0) <8,2,2,6,2>|0|1|0|1|20%|1|![](https://media.fortniteapi.io/images/2f7d5b7ac5c4da2299db136e60685774/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/128928a-3e4385b-50c4b4a-4240a82/transparent.png){:height="35px"}|
+|4|goat|FourAll2See|60.0|1.0 <1,1,1,1>|1 (1.0) <0,1,0,0>|1|0|0|0|0%|101|![](https://media.fortniteapi.io/images/ae10d7211a0aedd4824da7ef221111a8/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/68b6461baddd6e9c623f292c6ccc940b/transparent.png){:height="35px"}|
+|5|high five|ᴍᴏʟꜱᴏɴ|30.0|5.4 <5,5,2,13,2>|16 (3.2) <2,1,4,2,7>|0|0|0|0|80%|89|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/7129fe22482a29f1fdacec0628cc095a/transparent.png){:height="35px"}|
+|6||ASG_Rtad2002|30.0|5.4 <5,5,2,13,2>|11 (2.8) <1,5,1,0,4>|1|0|0|0|60%|55|![](https://media.fortniteapi.io/images/3342d8f2545e8a2fccfa64b389169d92/transparent.png){:height="35px"}|![](https://media.fortniteapi.io/images/cc25bc57d03f8fd5e9e40878ce9e7eb3/transparent.png){:height="35px"}|
 
 **Click here for [FULL TABLE](https://www.kaso.gg/fullresults) and full [KILL FEED](https://www.kaso.gg/killfeed)**<br>
 
